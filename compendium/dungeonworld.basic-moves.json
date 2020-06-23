@@ -7,107 +7,111 @@
     "entries": [{
             "id": "Aid or Interfere",
             "name": "Ayudar o Interferir",
-            "description": "<p>Cuando <strong>ayudas o entorpeces a alguien</strong>, tira +vínculo con él.</p>\n<p>* Con un 10+, reciben un +1 o –2 a su tirada, según elijas.</p>\n<p>* Entre 7 y 9, siguen recibiendo el modificador, pero también te expones a daño, un castigo o un coste.</p>"
+            "description": "<p>Cuando <strong>ayudas o entorpeces a alguien</strong>, tira +VÍNCULO con él.</p>\n<p>* Con un 10+, recibe un +1 o –2 a su tirada, según elijas.</p>\n<p>* Entre 7 y 9, sigue recibiendo el modificador, pero también te expones a recibir daño, un castigo o un coste.</p>"
         },
         {
             "id": "Bolster",
             "name": "Prepararse",
-            "description": "<p><strong>Wenn du deine Freizeit mit Nachforschungen, Meditation oder hartem Training zubringst</strong>, erhältst du Vorbereitung. </p>\n<p>Wenn du mindestens eine Woche investiert hast, nimm 1 Vorbereitung. </p>\n<p>Wenn du mindestens einen Monat investiert hast, nimm stattdessen 3 Vorbereitung. </p>\n<p>Wenn sich Übung und Planung auszahlen, gib 1 Vorbereitung aus, um +1 auf einen Wurf zu erhalten. Du kannst pro Wurf nur 1 Vorbereitung ausgeben.</p>"
+            "description": "<p>Cuando<strong>pasas tu tiempo de ocio estudiando, meditando o entrenando duramente,</strong> recibes puntos de preparación.</p>\n<p>Si te preparas durante una semana o más, recibes 1 punto.</p>\n<p>Si te preparas durante un mes o más, recibes 3 puntos.</p>\n<p>Cuando tu preparación sea útil, gasta 1 punto de preparación para recibir un +1 a cualquier tirada. Solo puedes gastar 1 punto de preparación por tirada.</p>"
         },
         {
-            "id": "Festejar",
-            "name": "Gelage feiern",
-            "description": "<p><strong>Wenn du siegreich zurückkehrst und ein großes Fest feierst</strong>, gib 100 Münzen aus und würfle+1 für je 100 Münzen, die du zusätzlich ausgibst. </p>\n<p>* Bei einer 10+ wähle drei aus der folgenden Liste. </p>\n<p>* Bei 7–9 wähle eines. </p>\n<p>* Bei einem Misserfolg wähle ebenfalls eines, aber die Dinge laufen wirklich aus dem Ruder (der SL wird dir sagen wie).</p>\n<ul>\n<li>Du freundest dich mit einem nützlichen NSC an. </li>\n<li>Du hörst Gerüchte über eine günstige Gelegenheit. </li>\n<li>Dir kommt eine nützliche Information zu Ohren. </li>\n<li>Du wirst nicht übers Ohr gehauen, bezirzt oder in etwas verwickelt.</li>\n</ul>"
+            "id": "Carouse",
+            "name": "Festejar",
+            "description": "<p>Cuando <strong>vuelvan triunfantes y hagan una gran fiesta,</strong>, gastan 100 monedas y tirad +1 por cada 100 monedas adicionales.</p>\n<p>* Con un 10+, elijan 3 de las siguientes opciones.</p>\n<p>* Entre 7 y 9, elijan 1 de las siguientes opciones. </p>\n<p>* Si fallas, elijan 1 de todos modos, pero la situación se les va de las manos (el DJ dirá en qué sentido).</p>\n<ul>\n<li>Entablan amistad con un PNJ útil.</li>\n<li>Escuchan rumores sobre una oportunidad.</li>\n<li>Obtienen alguna información valiosa.</li>\n<li>No se involucran en ningún asunto turbio, ni los hechizan ni engañan.</li>\n</ul>"
         },
         {
             "id": "Defend",
             "name": "Defender",
-            "description": "<p><strong>Wenn du eine Person, einen Gegenstand oder einen Ort vor Angriffen verteidigst</strong>, würfle+KO. </p>\n<p>* Bei einer 10+ nimm 3 Punkte. </p>\n<p>* Bei 7–9 nimm 1 Punkt. So lange du verteidigst und etwas dich oder das, was du schützt, angreift, darfst du jeweils 1 Punkt ausgeben und dafür jeweils aus folgenden Möglichkeiten wählen:</p>\n<ul>\n<li>Lenke den Angriff auf dich um.</li>\n<li>Halbiere den Effekt oder Schaden des Angriffs.</li>\n<li>Öffne die Deckung des Angreifers und gib einem Verbündeten einmalig +1 gegen ihn.</li>\n<li>Verursache beim Angreifer Schaden in Höhe deiner Stufe.</li>\n</ul>"
+            "description": "<p>Cuando <strong>defiendes a otra persona, objeto o localización que sufra un ataque</strong>, tira +CON. </p>\n<p>* Con un 10+, recibes 3 puntos. </p>\n<p>* Entre 7 y 9, recibes 1 punto.</p>\n<p> Cuando tú o aquello a lo que defiendes sea atacado puedes gastar esos puntos a razón de 1 por cada una de las opciones siguientes:</p>\n<ul>\n<li>Redirigir hacia ti un ataque contra aquello que defiendes.</li>\n<li>Reducir a la mitad el daño o el efecto del ataque.</li>\n<li>Abrir la defensa del atacante a un compañero, que recibe +1 a la siguiente tirada contra el atacante.</li>\n<li>Hacer un daño igual a tu nivel al atacante.</li>\n</ul>"
         },
         {
             "id": "Defy Danger",
             "name": "Desafiar el peligro",
-            "description": "<p><strong>Wenn du trotz einer unmittelbaren Gefahr handelst oder dir ein Unheil widerfährt</strong>, beschreibe wie du damit umgehst und würfle. Wenn du ...</p>\n<ul>\n<li>… hindurchbrichst, würfle+ST.</li>\n<li>... ausweichst oder schnell reagierst, würfle+GE.</li>\n<li>... es aushältst, würfle+KO.</li>\n<li>… geistesgegenwärtig handelst, würfle+IN.</li>\n<li>... innere Stärke beweist, würfle+WE.</li>\n<li>... charmant und höflich bleibst, würfle+CH.</li>\n</ul><p>* Bei einer 10+ gelingt dir was du vorhattest und die Gefahr ist gebannt. </p>\n<p>* Bei 7–9 stolperst du, zögerst oder zuckst zurück: Der SL wird dir ein schlimmeres Resultat verpassen, eine harte Forderung an dich richten oder dich vor eine schwierige Wahl stellen.</p>"
+            "description": "<p>Cuando <strong>actúes a pesar de una amenaza inminente o sufras una desgracia,</strong>, di cómo te enfrentas a ello y tira. Si lo haces...</p>\n<ul>\n<li>... mediante fuerza bruta, tira + FUE.</li>\n<li>... apartándote o actuando rápido, tira +DES.</li>\n<li>... aguantando, tira +CON.</li>\n<li>... pensando rápido, tira +INT.</li>\n<li>... mediante fortaleza mental, tira +SAB.</li>\n<li>... usando tu encanto y habilidad social, tira +CAR.</li>\n</ul><p>* Con un 10+ consigues lo que pretendías y la amenaza no surte efecto.</p>\n<p>* Entre 7 y 9, tropiezas, dudas o no aguantas: el DJ te ofrecerá un resultado peor, un trato difícil o una elección complicada.</p>"
         },
         {
             "id": "Discern Realities",
             "name": "Discernir la realidad",
-            "description": "<p><strong>Wenn du eine Situation oder Person eingehend betrachtest</strong>, würfle+WE. </p>\n<p>* Bei einer 10+ stelle dem SL drei der folgenden Fragen. </p>\n<p>* Bei 7–9 stelle nur eine dieser Fragen. Wenn du auf Grundlage einer der Antworten handelst, erhältst du einmalig +1.</p>\n<ul>\n<li>Was ist hier vor kurzem geschehen?</li>\n<li>Was wird jetzt geschehen?</li>\n<li>Wonach sollte ich Ausschau halten?</li>\n<li>Was hier ist nützlich oder wertvoll für mich?</li>\n<li>Wer hat hier wirklich die Kontrolle?</li>\n<li>Was hier ist nicht so, wie es scheint?</li>\n</ul>"
+            "description": "<p>Cuando <strong>estudias detenidamente una situación o persona,</strong>, tira +SAB. </p>\n<p>* Con un 10+, haz 3 preguntas de la lista siguiente al DJ.</p>\n<p>* Entre 7 y 9, pregunta 1.</p>\n<p>En cualquier caso, recibes +1 a la siguiente tirada cuando actúes de acuerdo con las respuestas.</p>\n<ul>\n<li>¿Qué ha pasado recientemente aquí?</li>\n<li>¿Qué está a punto de pasar?
+            </li>\n<li>¿Qué debería estar buscando?</li>\n<li>¿Qué hay aquí que sea útil o valioso para mí?</li>\n<li>¿Quién manda aquí realmente?</li>\n<li>¿Qué hay aquí que no es lo que parece?</li>\n</ul>"
         },
         {
             "id": "Encumbrance",
             "name": "Impedimenta",
-            "description": "<p><strong>Wenn du eine Aktion machst, während du Gewicht mit dir herumträgst</strong>, kann es sein, dass du belastet bist. Wenn du </p>\n<ul>\n<li>... höchstens deine Tragkraft trägst, erleidest du keinen Malus. </li>\n<li>... bis zu einschließlich deiner Tragkraft +2 trägst, erleidest du dauerhaft -1, bis du deine Last verringerst. </li>\n<li>... mehr als deine Tragkraft +2 trägst, musst du wählen: Wirf mindestens 1 Gewicht ab und würfle mit -1, oder versage automatisch.</li>\n</ul>"
+            "description": "<p>Cuando <strong>haces un movimiento cargando peso,</strong> puede que tengas algunas dificultades. Si el peso que llevas es:</p>\n<ul>\n<li>Igual o inferior a tu Carga, no sufres penalización. </li>\n<li>Mayor que tu Carga, hasta tu Carga+2, recibes –1 hasta que aligeres tu carga.</li>\n<li>Mayor que tu Carga+2, tienes que elegir entre fallar automáticamente o dejar caer al menos 1 peso y tirar a –1.</li>\n</ul>"
         },
         {
             "id": "End of Session",
             "name": "Fin de sesión",
-            "description": "<p><strong>Wenn eine Spielsitzung zu Ende ist</strong>, wähle eines deiner Bande aus, von der du glaubst, dass es aufgelöst wurde (ausgereizt, nicht mehr relevant oder ähnliches). Frage den Spieler des verbundenen Charakters, ob er zustimmt. Wenn das der Fall ist, schreib dir einen EP gut und schließe ein neues Band zu wem auch immer du möchtest. </p>\n<p>Wenn die Bande auf den neuesten Stand gebracht wurden, nimm dir deine Gesinnung vor. Wenn du die Aufgabe deiner Gesinnung mindestens einmal in dieser Spielsitzung erfüllt hast, schreibe dir einen EP gut. </p>\n<p>Dann beantwortet die ganze Gruppe gemeinsam die folgenden drei Fragen: </p>\n<ul>\n<li>Haben wir etwas Neues und Wichtiges über die Welt erfahren? </li>\n<li>Haben wir ein bedeutendes Monster oder Gegner überwunden? </li>\n<li>Haben wir einen denkwürdigen Schatz erbeutet? </li>\n</ul><p>Für jedes „Ja“ darf sich jeder einen EP gutschreiben.</p>"
+            "description": "<p>Cuando <strong>llegas al final de la sesión,</strong> escoge un vínculo que creas que haya sido resuelto (que esté completamente explorado, que ya no sea importante u otra cosa). Pregunta al jugador con el que tienes el vínculo si está de acuerdo. Si lo está, marca PX y anota un nuevo vínculo con quien quieras.</p>\n<p>Cuando se hayan actualizado todos los vínculos, echa un vistazo a tu alineamiento. Si lo cumpliste al menos una vez a lo largo de la sesión, marca PX.</p>\n<p>Luego responded juntos estas tres preguntas: </p>\n<ul>\n<li>¿Hemos aprendido algo nuevo e importante sobre el mundo?</li>\n<li>¿Hemos vencido a un monstruo o enemigo importante?</li>\n<li>¿Hemos obtenido un tesoro memorable?</li>\n</ul><p>Por cada respuesta afirmativa, todo el mundo marca PX.</p>"
         },
         {
             "id": "Hack & Slash",
-            "name": "Saja-Raja",
-            "description": "<p><strong>Wenn du einen Feind im Nahkampf angreifst</strong>, würfle+ST. </p>\n<p>* Bei einer 10+ fügst du dem Gegner Schaden zu und weichst dessen Attacke aus. Wenn du willst, kannst du +1W6 Schaden anrichten, dabei öffnest du dich aber für die Attacke des Gegners. </p>\n<p>* Bei 7–9 fügst du dem Gegner Schaden zu, aber dieser trifft dich ebenfalls.</p>"
+            "name": "Sajar y Rajar",
+            "description": "<p>Cuando <strong>ataques a un enemigo en combate cuerpo a cuerpo,</strong> tira +FUE.</p>\n<p>* Con un 10+, haces tu daño al enemigo y además evitas su ataque. A tu elección, puedes hacer +1d6 de daño y exponerte a un ataque del enemigo.</p>\n<p>* Entre 7 y 9, haces tu daño al enemigo y el enemigo hace un ataque
+            contra ti.</p>"
         },
         {
             "id": "Last Breath",
             "name": "Último aliento",
-            "description": "<p><strong>Wenn du im Sterben liegst</strong>, dann erhaschst du einen kurzen Blick auf das, was jenseits des Schwarzen Tors des Todes wartet (der SL beschreibt es dir). Dann würfle (würfle einfach, +nichts. Den Tod interessiert es nicht, wie zäh oder wie cool du bist). </p>\n<p>* Bei einer 10+ bist du dem Tod von der Schippe gesprungen: Du bist in üblem Zustand, aber noch am Leben. </p>\n<p>* Bei 7–9 macht der Tod dir ein Angebot. Nimm es an, und dein Zustand stabilisiert sich. Lehne ab, und du durchschreitest das Schwarze Tor, deinem Schicksal entgegen, was immer das sein mag. </p>\n<p>* Bei einem Misserfolg ist dein Schicksal besiegelt. Du bist des Todes und wirst bald hinübergehen. Der SL wird dir sagen, wenn es soweit ist.</p>"
+            "description": "<p>Cuando <strong>estás al borde de la muerte</strong> logras entrever lo que hay más allá de las Puertas Negras del Reino de la Muerte (el DJ te lo describirá). Luego tira +NADA (que a la Muerte no le importa lo genial que seas). </p>\n<p>* Con un 10+, has engañado a la Muerte. Estás en una situación comprometida, pero sigues vivo.</p>\n<p>* Entre 7 y 9, la Muerte te ofrecerá un trato. Acéptalo y te estabilizarás. Recházalo y cruzarás las Puertas Negras rumbo al destino que te aguarde.</p>\n<p>* Si fallas, tu destino está sellado. Eres propiedad de la Muerte y no tardarás en cruzar el umbral. El DJ te dirá cuándo.</p>"
         },
         {
             "id": "Level Up",
             "name": "Subir de nivel",
-            "description": "<p><strong>Wenn für einige Stunden oder Tage nichts Aufregendes passiert und du mindestens EP in Höhe deiner derzeitigen Stufe+7 besitzt</strong>, kannst du über das Erlebte nachdenken und deine Fähigkeiten verfeinern: </p>\n<ul>\n<li>Zieh deine Stufe+7 von deinen EP ab. </li>\n<li>Erhöhe deine Stufe um 1. </li>\n<li>Wähle aus den <i>Spielzügen für Fortgeschrittene</i> deiner Klasse einen neuen aus. </li>\n<li>Wenn du der Magier bist, darfst du außerdem deinem Zauberbuch einen neuen Zauber hinzufügen. </li>\n<li>Erhöhe eines deiner Attribute um 1 (dies könnte deinen Modifikator verändern). Deine Konstitution zu erhöhen, erhöht auch deine maximalen und aktuellen TP. Attribute können nicht über den Maximalwert von 18 steigen.</li>\n</ul>"
+            "description": "<p>Cuando <strong>tengas tiempo para descansar (horas o días) y PX iguales (o mayores) a tu nivel actual+7,</strong> puedes reflexionar sobre tus experiencias y perfeccionar tus habilidades.</p>\n<ul>\n<li>Resta 7+tu nivel actual de tu total de PX.</li>\n<li>Incrementa en 1 tu nivel.</li>\n<li>Elige un nuevo <i>movimiento avanzado</i> de tu clase.</li>\n<li>Si eres un mago también puedes añadir un nuevo conjuro a tu libro.</li>\n<li>Elige una de tus características e increméntala en 1 (esto puede cambiar el modificador). Cambiar la Constitución incrementará tus PG máximos y actuales. Las puntuaciones de las características no pueden ser mayores de 18.</li>\n</ul>"
         },
         {
             "id": "Make Camp",
             "name": "Acampar",
-            "description": "<p><strong>Wenn du dich zur Rast niederlässt</strong>, verbrauchst du eine Ration. </p>\n<p>Wenn ihr an einem gefährlichen Ort seid, dann entscheidet auch über die Wachreihenfolge. </p>\n<p>Wenn du genug EP hast, kannst du eine Stufe aufsteigen. </p>\n<p>Wenn du wenigstens ein paar Stunden ununterbrochenen Schlafs bekommst, heilst du danach Schaden in Höhe der Hälfte deiner maximalen TP.</p>"
+            "description": "<p>Cuando <strong>te acomodes para descansar,</strong> consume una ración</p>\n<p>Si estás en una zona peligrosa, decide el orden de guardia.</p>\n<p>Puedes subir de nivel si tienes bastantes PX.</p>\n<p>Cuando te despiertes tras, al menos, unas cuantas horas de sueño ininterrumpido, cúrate tanto daño como la mitad de tus PG máximos.</p>"
         },
         {
             "id": "Outstanding Warrants",
             "name": "Cuentas pendientes",
-            "description": "<p><strong>Wenn du an einen zivilisierten Ort zurückkehrst</strong>, an dem du schon mal Ärger gemacht hast, würfle+CH. </p>\n<p>* Bei einer 10+ haben sich deine Taten herumgesprochen und jeder erkennt dich. </p>\n<p>* Bei 7–9 ebenso, aber der SL wählt zusätzlich eine der folgenden Komplikationen: </p>\n<ul>\n<li>Die örtliche Wache hat einen Haftbefehl gegen dich. </li>\n<li>Jemand hat ein Kopfgeld auf dich ausgesetzt. </li>\n<li>Jemand, der dir wichtig ist, sitzt aufgrund deiner Taten in der Klemme.</li>\n</ul>"
+            "description": "<p>Cuando <strong>vuelves a un lugar civilizado en el que causaste problemas,</strong> tira +CAR. </p>\n<p>* Con un 10+, se ha corrido la voz de tus actos y todos te reconocen.</p>\n<p>* Entre 7 y 9, lo mismo que antes, pero el DJ elige una complicación: </p>\n<ul>\n<li>Una autoridad local tiene una orden de arresto contra ti.</li>\n<li>Alguien ha puesto precio a tu cabeza.</li>\n<li>Alguien importante para ti ha sufrido las consecuencias de tus actos.</li>\n</ul>"
         },
         {
             "id": "Parley",
             "name": "Parlamentar",
-            "description": "<p><strong>Wenn du ein Druckmittel gegen einen NSC hast und diesen damit manipulierst</strong>, würfle+CH. Ein Druckmittel ist etwas, was der NSC will oder braucht. </p>\n<p>* Bei 10+ tut er, worum du ihn bittest, wenn du ihm versprichst das zu tun, worum er dich bittet. </p>\n<p>* Bei 7–9 tut er es nur, wenn du ihm hier und jetzt eine Sicherheit dafür geben kannst, dass du dein Versprechen einhalten wirst.</p>"
+            "description": "<p>Cuando <strong>tengas ventaja sobre un personaje del DJ y lo manipules,</strong> tira +CAR. La ventaja puede ser algo que quiera o necesite.</p>\n<p>* Con un 10+, hace lo que les pides si antes le promete que le darás lo que quiere de ti.</p>\n<p>* Entre 7 y 9, hará lo que le pides, pero antes querrá pruebas de que cumplirás tu promesa.</p>"
         },
         {
             "id": "Recover",
             "name": "Recuperarse",
-            "description": "<p><strong>Wenn du nichts Anderes tust, als dich in sicherer und bequemer Umgebung auszuruhen</strong>, regenerieren sich alle deine TP nach einem Tag. </p>\n<p>Nach drei Tagen Ruhe entferne eine Beeinträchtigung deiner Wahl. Wenn du von einem Heiler (magisch oder weltlich) gepflegt wirst, darfst du bereits nach je zwei Tagen Ruhe eine Einschränkung entfernen.</p>"
+            "description": "<p>Cuando <strong>no haces nada salvo descansar en un lugar cómodo y seguro</strong> durante un día, recuperas todos tus PG.</p>\n<p>Tras tres días de descanso puedes bo- rrar una debilidad a tu elección.</p>\n<p>Si estás bajo los cuidados de un curandero (sea mágico o no), curas una debilidad por cada dos días de descanso.</p>"
         },
         {
             "id": "Recruit",
             "name": "Reclutar",
-            "description": "<p><strong>Wenn du verbreitest, Helfer rekrutieren zu wollen</strong>, würfle: </p>\n<ul>\n<li>+1 wenn du bekanntmachst, dass du großzügig zahlst. </li>\n<li>+1 wenn du bekanntmachst, was du vorhast. </li>\n<li>+1 wenn du bekanntmachst, dass die Helfer einen Anteil der Beute erhalten. </li>\n<li>+1 wenn du in dieser Gegend einen für die Sache günstigen Ruf besitzt. </li>\n</ul><p>* Bei einer 10+ hast du die Auswahl aus einer ganzen Menge geeigneter Bewerber. Du entscheidest, wen du einstellst und es ist unproblematisch, jemanden abzulehnen. </p>\n<p>* Bei 7–9 musst du jemanden nehmen, der nicht ganz dem entspricht, was du gesucht hast, oder alle ablehnen. </p>\n<p>* Bei einem Misserfolg erklärt ein einflussreicher, aber ungeeigneter Kandidat, dass er mitkommen möchte (ein törichter Jüngling, ein unberechenbarer Draufgänger oder ein heimlicher Feind). Entweder du nimmst ihn mit allen Konsequenzen oder lehnst ihn ab. Wenn du Bewerber ablehnst, erhältst du einmalig -1 auf <i>Anheuern</i>.</p>"
+            "description": "<p>Cuando <strong>haces saber que quieres contratar ayudantes,</strong> tira: </p>\n<ul>\n<li>+1 si haces saber que la paga será generosa.</li>\n<li>+1 si haces saber qué te propones hacer.</li>\n<li>+1 si haces saber que tendrán derecho a una parte de lo que sea que encuentres.</li>\n<li>+1 si tienes una buena reputación por estos lares.</li>\n</ul><p>* Con un 10+, puedes elegir entre una serie de solicitantes hábiles y no
+            hay penalización por rechazarlos.</p>\n<p>* Entre 7 y 9, tienes que conformarte con alguien que es casi lo que buscas o rechazarlo. </p>\n<p>* Sifallas,alguieninfluyente y poco adecuado para la tarea declara que quiere acompañarte (algún joven temerario, un bala perdida o un enemigo que aún no sabes que lo es, por ejemplo).</p>\n<p> Llévalo contigo y acepta las consecuencias, o recházalo. Si rechazas solicitantes, recibes –1 a la siguiente tirada de <i>Reclutar</i>.</p>"
         },
         {
             "id": "Spout Lore",
             "name": "Exhibir conocimientos",
-            "description": "<p><strong>Wenn du dein gesammeltes Wissen über eine Sache heranziehen möchtest</strong>, gesammeltes Wissen über eine Sache heranziehen möchtest, würfle+IN. </p>\n<p>* Bei einer 10+ wird der SL dir etwas zu diesem Thema erzählen, das in deiner Situation interessant und hilfreich ist. </p>\n<p>* Bei 7–9 sind die Informationen des SL nur interessant – es liegt an dir, sie hilfreich werden zu lassen. </p>\n<p>Der SL kann dich fragen: „Woher weißt du das?“ antworte sofort wahrheitsgemäß.</p>"
+            "description": "<p>Cuando <strong>consultas tus vastos conocimientos sobre un tema,</strong> tira +INT.</p>\n<p>* Con un 10+, el DJ te dirá algo interesante y útil sobre un tema concerniente a tu situación.</p>\n<p>* Entre 7 y 9, el DJ te dirá algo interesante. Depende de ti convertirlo en útil.</p>\n<p>El DJ puede preguntarte «¿Cómo lo sabes?». Dile
+            la verdad.</p>"
         },
         {
             "id": "Supply",
             "name": "Abastecerse",
-            "description": "<p><strong>Wenn du Gold ausgibst, um etwas zu kaufen</strong>, das in der Siedlung, in der du dich befindest, frei erhältlich ist, kannst du es zum Marktpreis erwerben. </p>\n<p>Ist es etwas Besonderes, Seltenes oder Ausgefallenes, würfle+CH. </p>\n<p>* Bei einer 10+ bekommst du, was du gesucht hast, zu einem angemessenen Preis. </p>\n<p>* Bei 7–9 musst du mehr zahlen oder dich mit etwas lediglich Vergleichbarem begnügen. Der SL wird dir sagen, was deine Optionen sind.</p>"
+            "description": "<p>Cuando <strong>vas a comprar algo con dinero,</strong> puedes comprarlo al precio de mercado si se trata de algo que esté fácilmente disponible en el asentamiento en el que te encuentres.</p>\n<p>Si se trata de algo especial, más allá de lo que suele estar disponible, o no mundano, tira +CAR</p>\n<p>* Con un 10+ encuentras lo que buscas a un precio justo. </p>\n<p>* Entre 7 y 9, tendrás que pagar más o conformarte con algo que no es exactamente lo que buscas, pero casi. El DJ te dirá cuáles son tus opciones.</p>"
         },
         {
             "id": "Take Watch",
             "name": "Hacer guardia",
-            "description": "<p><strong>Wenn du Wache hältst und etwas sich dem Lager nähert</strong>, würfle+WE. </p>\n<p>* Bei einer 10+ kannst du alle im Lager wecken und ihr könnt euch vorbereiten. Alle im Lager erhalten einmalig +1. </p>\n<p>* Bei 7–9 reagierst du einen Moment zu spät: Deine Gefährten im Lager sind wach, aber ihr habt keine Zeit, um euch vorzubereiten. Ihr habt eure Waffen und Rüstungen beisammen, aber das war es auch schon. </p>\n<p>* Ein Misserfolg bedeutet, dass das, was jenseits des Feuerscheins lauert, euch zuvorkommt.</p>"
+            "description": "<p>Cuando <strong>estás de guardia y algo se aproxima al campamento,</strong> tira +SAB </p>\n<p>* Con un 10+, eres capaz de despertar al campamento para preparar una respuesta, todo el mundo en el campamento recibe +1 a la siguiente tirada.</p>\n<p>* Entre 7 y 9, reaccionas un segundo más tarde, tus compañeros en el campamento están despiertos, pero no han tenido tiempo para prepararse. Llevan sus armas y armaduras, pero poco más.</p>\n<p>* Si fallas, estás en desventaja ante lo que sea que esté deambulando más allá de la luz de la fogata.</p>"
         },
         {
             "id": "Undertake A Perilous Journey",
             "name": "Realizar un viaje peligroso",
-            "description": "<p><strong>Wenn ihr durch feindseliges Gebiet reist</strong>, wählt aus der Gruppe einen Anführer, einen Quartiermeister und einen Späher. Jeder Charakter, der eine Aufgabe übernimmt, würfelt+WE. </p>\n<p>* Bei einer 10+: </p>\n<ul>\n<li>verringert der Anführer die Zeit, die ihr benötigt, um euer Ziel zu erreichen (der SL sagt, um wie viel). </li>\n<li>verringert der Quartiermeister die Anzahl der benötigten Rationen um 1. </li>\n<li>entdeckt der Späher jede Gefahr so früh, dass ihr ihr zuvorkommt. </li>\n</ul><p>* Bei 7–9 erfüllt jeder seine Aufgabe wie erwartet: Die Reise dauert etwa so lang wie erwartet, die übliche Menge an Rationen wird verzehrt und niemand überrascht euch, ihr aber auch niemandem.</p>"
+            "description": "<p>Cuando <strong>viajen por un territorio hostil,</strong> elijan a un miembro del grupo para que actúe como guía, otro como vigía y otro como intendente. Cada personaje con una responsabilidad tira +SAB.</p>\n<p>* Con un 10+: </p>\n<ul>\n<li>El guía reduce la cantidad de tiempo necesario para alcanzar el destino (el DJ dirá en cuánto).</li>\n<li>El vigía detectará cualquier problema lo bastante rápido como para permitirles tener ventaja sobre el mismo.</li>\n<li>El intendente reduce el número de raciones necesarias en 1. </li>\n</ul><p>* Entre 7 y 9, cada uno desempeña su tarea adecuadamente: se consume el número normal de raciones, el viaje dura lo esperado y nadie les pilla desprevenidos, aunque tampoco lo hacen ustedes.</p>"
         },
         {
             "id": "Volley",
             "name": "Disparar",
-            "description": "<p><strong>Wenn du zielst und im Fernkampf auf einen Gegner schießt</strong>, würfle+GE. </p>\n<p>* Bei einer 10+ hast du freies Schussfeld und fügst deinen Schaden zu. </p>\n<p>* Bei 7–9 wähle eines (und füge deinen Schaden zu): </p>\n<ul>\n<li>Du musst dich für den Schuss bewegen, was dich in Gefahr bringt (nach Wahl des SL). </li>\n<li>Kein sauberer Treffer: -1W6 Schaden. </li>\n<li>Du musst mehrmals schießen: reduziere deine Munition um 1.</li>\n</ul>"
+            "description": "<p>Cuando <strong>apuntas y disparas contra un enemigo a distancia,</strong>, tira +DES. </p>\n<p>* Con un 10+, consigues un buen disparo, tira daño.</p>\n<p>* Entre 7 y 9, elige una (elijas la que elijas, también haces daño):</p>\n<ul>\n<li>Tienes que moverte, y eso te pone en peligro. El DJ te lo describirá.</li>\n<li>Te tienes que conformar con lo que tienes: –1d6 daño.</li>\n<li>Tienes que disparar varias veces, reduce en 1 tu munición.</li>\n</ul>"
         }
     ]
 }
