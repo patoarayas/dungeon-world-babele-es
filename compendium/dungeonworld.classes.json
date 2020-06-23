@@ -1,0 +1,296 @@
+{
+  "label": "Klassen",
+  "mapping": {
+    "description": "data.description",
+    "races": "data.races",
+    "alignments": "data.alignments"
+  },
+  "entries": [
+    {
+      "id": "The Barbarian",
+      "name": "Barbar",
+      "description": "<p></p>\n<p>Plünderer. Zerstörer. Barbar. So nannten sie dich, und Schlimmeres. Doch du kommst von weit her und ihre erbärmlichen Regeln kümmern dich nicht. Vieldeutige Worte und die feine Gesellschaft sind nicht deine Welt. Eher schon die weite Steppe, ein schnelles Pferd, der Wind in den Haaren und der Geschmack von schwerem Wein auf deiner Zunge, der deine Sinne mit Leben und deine Augen mit Glanz füllt.</p>\n<p>Das Blut deiner Feinde ist der einzige rote Teppich, über den du jemals schreiten wirst. Während sie arbeiten, um zu leben, nimmst du dir, wonach du begehrst. Dein Herz verzehrt sich nach dem Geheimnis des Stahls. Du suchst unter all den Widersachern nach einem würdigen Feind, den du in den Staub schicken kannst oder der dich zu den Alten Göttern schickt. Jemand wie du gibt sich niemals mit weniger zufrieden.</p>\n<p>Du willst kämpfen, deine Feinde verfolgen, vernichten und dich an ihrem Geschrei erfreuen.</p>",
+      "races": {
+        "0": {
+          "label": "Fremder",
+          "description": "Egal ob du ein Elf, Zwerg, Halbling oder Mensch bist: Du und dein Volk, ihr seid nicht von hier. Am Anfang jeder Spielsitzung wird der SL dir eine Frage über deine Heimat stellen, warum du sie verlassen hast oder was du zurücklassen musstest. Wenn du sie beantwortest, schreibe dir einen EP gut."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Chaotisch",
+          "description": "Missachte eine Sitte der zivilisierten Welt."
+        },
+        "1": {
+          "label": "Neutral",
+          "description": "Lehre jemanden die Lebensweise deines Volkes."
+        }
+      }
+    },
+    {
+      "id": "The Bard",
+      "name": "Barde",
+      "description": "<p>In Gedichten heißt es, das Abenteurerleben sei frei und erfüllt von dem Klang von Gold und Schwertern. Die Geschichten, die in jeder Bauernschänke erzählt werden, müssen doch ein Körnchen Wahrheit beinhalten. Die Lieder, die vom König bis zum Gesinde alle inspirieren, die wilde Bestien beschwichtigen oder Männer anstacheln, sie müssen doch irgendwo herkommen.</p>\n<p>Vorhang auf für den Barden. Du, mit deinem flinken Verstand und noch flinkeren Zunge. Du Geschichtenerzähler und Reimeschmied. Jeder fahrende Spielmann kann etwas nachträllern, aber es braucht einen echten Barden, um den Worten Leben einzuhauchen. Also schnüre die Stiefel, edler Erzähler. Schärfe deinen versteckten Dolch und stell dich der Herausforderung. Einer muss die Kämpfe mit eigenen Augen sehen, Seite an Seite mit all den Raufbolden, Totschlägern und baldigen Helden.</p>\n<p>Wer wäre besser geeignet, deine eigene Legende zu schreiben? Niemand. Auf geht’s.</p>",
+      "races": {
+        "0": {
+          "label": "Elf",
+          "description": "Wenn du einen (deiner Ansicht nach) bedeutsamen Ort betrittst, darfst du den SL nach einer Tatsache aus dessen Geschichte fragen."
+        },
+        "1": {
+          "label": "Mensch",
+          "description": "Wenn du eine zivilisierte Siedlung zum ersten Mal betrittst, wird jemand den Brauch der Gastfreundschaft für Spielleute ehren und dich bei sich beherbergen."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Gut",
+          "description": "Gehe deiner Kunst nach, um anderen zu helfen."
+        },
+        "1": {
+          "label": "Neutral",
+          "description": "Vermeide einen Konflikt oder entschärfe eine kritische Situation."
+        },
+        "2": {
+          "label": "Chaotisch",
+          "description": "Sporne andere zu bedeutenden aber unüberlegten Taten an."
+        }
+      }
+    },
+    {
+      "id": "The Cleric",
+      "name": "Kleriker",
+      "description": "<p>Die Lande von <i>Dungeon World</i> sind ein von den Göttern verlassenes Durcheinander. Sie sind verseucht von wandelnden Toten, Bestien aller Art und den unnatürlichen Weiten zwischen den sicheren Tempeln der Zivilisation. Es ist eine gottlose Welt da draußen. Und deswegen braucht sie dich.</p>\n<p>Den Heiden die Herrlichkeit deines Gottes näherzubringen ist nicht nur dein Beruf – es ist deine Berufung. Es obliegt dir, sie mit Schwert, Streitkolben und Zauber zu bekehren, tief in das dumpfe Herz der Wildnis vorzustoßen und dort den Samen des Göttlichen zu pflanzen. Es heißt, man tue gut daran, Gott im Herzen zu tragen. Du weißt, dass das Unfug ist. Dein Gott lebt auf der Schneide einer Klinge.</p>\n<p>Zeige der Welt, wer ihr Herr ist.</p>",
+      "races": {
+        "0": {
+          "label": "Zwerg",
+          "description": "Du bist eins mit dem Stein. Wenn du Zwiesprache hältst, wird dir zusätzlich eine besondere Variante von Worte der Sprachlosen als Stoßgebet gewährt, die nur auf Stein angewendet werden kann."
+        },
+        "1": {
+          "label": "Mensch",
+          "description": "Dein Glaube ist vielfältig. Wähle einen Magierzauber. Du kannst ihn gewährt bekommen und wirken, als wäre er ein Klerikerzauber."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Gut",
+          "description": "Bringe dich selbst in Gefahr, um jemand anderen zu heilen."
+        },
+        "1": {
+          "label": "Rechtschaffen",
+          "description": "Bringe dich selbst in Gefahr, um den Geboten deiner Kirche oder deines Gottes zu folgen."
+        },
+        "2": {
+          "label": "Böse",
+          "description": "Schade jemand anderem, um die Überlegenheit deiner Kirche oder deines Gottes unter Beweis zu stellen."
+        }
+      }
+    },
+    {
+      "id": "The Druid",
+      "name": "Druide",
+      "description": "<p>Lass den Blick ums Feuer schweifen. Was hat dich zu diesen Leuten geführt, die nach Schweiß und dem Staub der Stadt stinken? Vielleicht war es Güte – bewachst du sie, wie eine Bärenmutter ihre Jungen bewacht? Sind sie jetzt dein Rudel? Seltsame Brüder und Schwestern hast du da. Was auch immer dich an sie bindet, ohne deine scharfen Sinne und Klauen wären sie sicher verloren.</p>\n<p>Du entstammst den heiligen Stätten, geboren aus ihrem Boden und mit den Spuren ihrer Geister auf deiner Haut. Vielleicht hattest du einst ein früheres Leben, vielleicht warst du ein Städter wie sie, doch das ist vorbei. Du hast diese starre Form hinter dir gelassen. Hör, wie deine Verbündeten zu ihren steinernen Götzen beten und ihre schimmernden Panzer polieren. Sie reden von dem Ruhm, der ihnen in dem verfaulenden Dorf zuteilwerden wird, das hinter euch liegt.</p>\n<p>Ihre Götter sind Kinder, ihr Stahl falsche Sicherheit. Du wandelst auf den alten Pfaden, trägst die Pelze der Erde selbst. Du wirst deinen Anteil des Schatzes nehmen, aber wirst du jemals einer der ihren werden? Nur die Zeit wird es zeigen.</p>",
+      "races": {
+        "0": {
+          "label": "Elf",
+          "description": "In deinen Adern fließt der Lebenssaft der alten Erlen. Zusätzlich zu deinen anderen Anpassungen gelten auch die Großen Wälder immer als dein Land."
+        },
+        "1": {
+          "label": "Mensch",
+          "description": "So wie dein Volk gelernt hat, Tiere für Feld und Hof an sich zu binden, so bist du auch mit ihnen verbunden. Zusätzlich zu deinen anderen Formen kannst du immer die Gestalt von Haus- oder Nutztieren annehmen."
+        },
+        "2": {
+          "label": "Halbling",
+          "description": "Du singst die heilenden Gesänge der Quelle und des Baches. Wenn du ein Lager aufschlägst, heilen du und deine Gefährten +1W6 TP."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Chaotisch",
+          "description": "Zerstöre ein Symbol der Zivilisation."
+        },
+        "1": {
+          "label": "Gut",
+          "description": "Hilf jemandem oder etwas dabei zu wachsen."
+        },
+        "2": {
+          "label": "Neutral",
+          "description": "Schaffe eine widernatürlich Bedrohung aus der Welt."
+        }
+      }
+    },
+    {
+      "id": "The Fighter",
+      "name": "Kämpfer",
+      "description": "<p>Es ist eine undankbare Arbeit – sein täglich Brot mit Rüstung und Schwertarm verdienen zu müssen, immer gradewegs hinein in die Gefahr. Es gab keinen Schall goldener Fanfaren für das eine Mal, als du in der Kneipe in Buchsberg ein Messer für sie in die Rippen gekriegt hast. Keine Engelsschar wird davon singen, wie du sie schreiend aus den Gruben des Wahnsinns gezerrt hast, oh nein.</p>\n<p>Vergiss sie.</p>\n<p>Du tust dies für viel Feind und viel Ehre, für den Schrei der Schlacht und ihr heißes, heißes Blut. Du bist eine eiserne Bestie. Deine Freunde mögen stählerne Schwerter tragen, doch du bist aus Stahl. Und während deine Reisegefährten am Lagerfeuer über ihre Wunden klagen mögen, trägst du deine Narben mit Stolz zur Schau.</p>\n<p>Du bist die Mauer – soll jede Gefahr sich an dir den Schädel einrennen. Am Ende wirst du der Letzte sein, der noch steht.</p>",
+      "races": {
+        "0": {
+          "label": "Zwerg",
+          "description": "Wenn du mit jemandem trinkst, darfst du KO statt CH nutzen, um mit ihm zu verhandeln."
+        },
+        "1": {
+          "label": "Elf",
+          "description": "Wähle eine Waffe. Behandle Waffen dieser Art so, als hätten sie die Eigenschaft präzise."
+        },
+        "2": {
+          "label": "Halbling",
+          "description": "Wenn du einer Gefahr trotzt und dabei deine geringe Größe zu deinem Vorteil nutzt, erhältst du +1 auf deinen Wurf."
+        },
+        "3": {
+          "label": "Mensch",
+          "description": "Einmal pro Kampf kannst du einen einzelnen Schadenswurf wiederholen (deinen oder den von jemand anderem)."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Gut",
+          "description": "Verteidige die Schwächeren."
+        },
+        "1": {
+          "label": "Neutral",
+          "description": "Besiege einen würdigen Gegner."
+        },
+        "2": {
+          "label": "Böse",
+          "description": "Töte einen Feind, der wehrlos ist oder sich ergeben hat."
+        }
+      }
+    },
+    {
+      "id": "The Immolator",
+      "name": "The Immolator",
+      "description": "<p>Some people pray to their gods for strength like fools; others, too smart for their own good, read books. Others, still, train with their sword-arms or their tongues. Not you, though. Somehow, somewhy, you found power through another way, one wrought in fire and pain. You made a sacrifice, then and there, freely given, for powers beyond the ken of mere mortals.</p>\n<p>And it feels so, so good.</p>\n<p>You’re the wildcard now. The uncaged flame, burning with passion and leaving ruin in your wake. Everyone else can feel it, too; your fire stokes theirs, filling your new adventuring comrades with furore and brightening the lives of every yokel and maiden lucky enough to cross your path. You’ve never felt so alive! And so what if there’s trouble following you every which way; all the more reason to live life to the fullest, right?</p>\n<p>Live fast, die young, and make sure you’re not the one who’s gotta pick up all the pieces.</p>",
+      "races": {
+        "0": {
+          "label": "Human",
+          "description": "When you Make Camp next to a large, open flame, regain all of your HP."
+        },
+        "1": {
+          "label": "Salamander",
+          "description": "Non-magical heat and fire cannot harm you."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Evil",
+          "description": "Sacrifice an unwilling victim to the flames."
+        },
+        "1": {
+          "label": "Chaotic",
+          "description": "Spread a dangerous new idea."
+        },
+        "2": {
+          "label": "Neutral",
+          "description": "Exchange a sacrifice, freely given, for a service rendered."
+        }
+      }
+    },
+    {
+      "id": "The Paladin",
+      "name": "Paladin",
+      "description": "<p>Die Hölle wartet. Eine Ewigkeit der Peinigung in Feuer, Eis oder was immer die Sünderhorden von Dungeon World erwartet. Alles, was zwischen diesen grausigen Gruben der Qual und der Erlösung steht, bist du. Heiliger, gerüstete Kriegsmaschine, Templer des Guten und des Lichts und all das. Der Kleriker mag des Nachts seine Gebete zu den Göttern in ihrem Himmel sprechen. Der Kämpfer mag seine scharfe Klinge im Namen des „Guten“ führen, aber nur du hast Gewissheit. Nur du.</p>\n<p>Du bist Auge, Hand und süßer Todesstoß der Götter. Dein ist die Gabe von Rechtschaffenheit und Tugend – und auch von Gerechtigkeit und Weitblick. Eine Reinheit des Herzens, die deinen Gefährten fehlt.</p>\n<p>Also führe diese Narren, Paladin. Stell dich in den Dienst deiner heiligen Sache und bring dieser verkommenen Welt die Erlösung.</p>\n<p>Vae victis.</p>",
+      "races": {
+        "0": {
+          "label": "Mensch",
+          "description": "Wenn du auch nur für einen Moment um Rat betest und fragst: „Was hier ist böse?“, wird der SL dir wahrheitsgemäß darauf antworten."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Rechtschaffen",
+          "description": "Verweigere einem Kriminellen oder Ungläubigen Gnade."
+        },
+        "1": {
+          "label": "Gut",
+          "description": "Begib dich in Gefahr, um einem Schwächeren zu helfen."
+        }
+      }
+    },
+    {
+      "id": "The Ranger",
+      "name": "Waldläufer",
+      "description": "<p>Diese Städter reisen mit dir. Haben sie je den Ruf des Wolfs gehört? Gefühlt, wie die Winde in den düsteren Einöden des Ostens heulen? Haben sie ihre Beute mit Bogen und Messer gejagt, wie du? Nein, verdammt. Deswegen brauchen sie dich.</p>\n<p>Führer. Jäger. Kreatur der Wildnis. Das und noch mehr bist du. Dein Leben in der Wildnis mag bis jetzt einsam gewesen sein, aber etwas Größeres – nenn es Schicksal, wenn du willst – hat dich mit diesen Leuten zusammengeführt. Tapfer mögen sie sein. Mächtig und stark auch. Aber nur du kennst die Geheimnisse der Orte abseits der Wege.</p>\n<p>Ohne dich wären sie verloren. Bahne dir einen Weg durch Blut und Dunkelheit, Streicher.</p>",
+      "races": {
+        "0": {
+          "label": "Elf",
+          "description": "Wenn du in der Wildnis eine gefährliche Reise unternimmst, hast du Erfolg als hättest du eine 10+ gewürfelt, gleich welche Aufgabe du übernimmst."
+        },
+        "1": {
+          "label": "Mensch",
+          "description": "Wenn du in einem Dungeon oder einer Stadt dein Lager aufschlägst, verbrauchst du keine Ration."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Chaotisch",
+          "description": "Befreie jemanden von seinen realen oder symbolischen Ketten."
+        },
+        "1": {
+          "label": "Gut",
+          "description": "Begib dich in Gefahr, um eine widernatürliche Bedrohung zu bekämpfen."
+        },
+        "2": {
+          "label": "Neutral",
+          "description": "Hilf einem Tier oder einem Geist der Wildnis."
+        }
+      }
+    },
+    {
+      "id": "The Thief",
+      "name": "Dieb",
+      "description": "<p>Du hast sie gehört, wie sie am Lagerfeuer sitzen. Wie sie über diese oder jene Schlacht prahlen, oder dass ihre Götter lächelnd auf eure fröhliche Schar herabsehen. Du zählst deine Münzen und lächelst in dich hinein – das ist das beste aller Hochgefühle. Nur du kennst das Geheimnis von <i>Dungeon World</i>: den alten, schnöden Mammon.</p>\n<p>Klar, sie riskieren dir gegenüber eine dicke Lippe wegen all der Male, in denen du dich alleine davongemacht hast. Aber ohne dich wäre jeder einzelne von ihnen bereits von einem fliegenden Fallbeil zerlegt oder von einer uralten Nadelfalle tödlich vergiftet worden. Also sollen sie sich beschweren. Am Ende der ganzen Schatzsucherei wirst du ihren Heldengräbern zuprosten. Von deinem Schloss aus, deinem Schloss voller Gold. Du Schurke.</p>",
+      "races": {
+        "0": {
+          "label": "Halbling",
+          "description": "Wenn du mit einer Fernkampfwaffe angreifst, verursachst du +2 Schaden."
+        },
+        "1": {
+          "label": "Mensch",
+          "description": "YDu bist ein Profi. Wenn du über kriminelle Aktivitäten Wissen kundtust oder Gewissheit erlangst, erhältst du +1 auf deinen Wurf."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Chaotisch",
+          "description": "Stürze dich planlos in Gefahr."
+        },
+        "1": {
+          "label": "Neutral",
+          "description": "Bleibe unentdeckt oder dringe unbemerkt ein."
+        },
+        "2": {
+          "label": "Böse",
+          "description": "Wälze Gefahr oder Schuld auf jemand anderen ab."
+        }
+      }
+    },
+    {
+      "id": "The Wizard",
+      "name": "Magier",
+      "description": "<p><i>Dungeon World</i> hat Regeln. Nicht die Gesetze der Menschen oder die Herrschaft irgendeines kleinen Tyrannen. Größere, bessere Regeln. Du lässt etwas los – es fällt. Du kannst etwas nicht aus nichts erschaffen. Die Toten bleiben tot.</p>\n<p>Ach, was wir uns nicht alles einreden um uns in den langen, dunklen Nächten besser zu fühlen.</p>\n<p>Du hast so viele Stunden damit verbracht über deinen Folianten zu brüten. Hast Experimente durchgeführt, die dich fast um den Verstand gebracht haben und Beschwörungen durchgeführt, die deine Seele selbst bedroht haben. Wofür? Für Macht. Was gibt es sonst? Nicht nur die Macht von König oder Reich, sondern die Macht, das Blut in den Adern eines Mannes verdampfen zu lassen. Den Donner vom Himmel zu rufen und die sich wälzende Erde aufzuwühlen. Die Regeln abzuschütteln, die der Welt so wichtig sind. Sollen sie dir scheele Blicke zuwerfen. Sollen sie dich „Hexer“ oder „Teufelsanbeter“ nennen. Wer unter ihnen kann Feuerbälle aus den Augen schießen?</p>\n<p>Tja. Dachte ich mir.</p>",
+      "races": {
+        "0": {
+          "label": "Elf",
+          "description": "Magie ist so natürlich für dich, wie Luft zum Atmen. Magie entdecken zählt für dich als Zaubertrick."
+        },
+        "1": {
+          "label": "Mensch",
+          "description": "Wähle einen Klerikerzauber. Du kannst diesen Zauber wirken, als wäre er ein Magierzauber."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Gut",
+          "description": "Benutze Magie, um jemand anderem unmittelbar zu helfen."
+        },
+        "1": {
+          "label": "Neutral",
+          "description": "Entdecke ein magisches Mysterium."
+        },
+        "2": {
+          "label": "Böse",
+          "description": "Benutze Magie, um Angst und Schrecken zu verbreiten."
+        }
+      }
+    }
+  ]
+}

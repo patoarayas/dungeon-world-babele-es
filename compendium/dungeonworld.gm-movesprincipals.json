@@ -1,0 +1,22 @@
+{
+    "label": "SL Spielzüge/Prinzipien",
+    "mapping": {
+        "description": "content"
+    },
+    "entries": [{
+            "id": "Dungeon Moves",
+            "name": "Dungeon-Spielzüge",
+            "description": "<ul>\n<li>Verändere die Umgebung</li>\n<li>Deute ein drohendes Unheil an</li>\n<li>Führe eine neue Fraktion oder Kreatur ein</li>\n<li>Nutze die Bedrohung einer bestehenden Fraktion oder Kreatur</li>\n<li>Lass sie umkehren</li>\n<li>Zeige Reichtümer mit Kosten</li>\n<li>Fordere einen der Charaktere heraus</li>\n</ul>"
+        },
+        {
+            "id": "GM Moves",
+            "name": "SL Spielzüge",
+            "description": "<ul>\n<li>Nutze den Spielzug eines Monsters, einer Gefahr oder eines Orts</li>\n<li>Enthülle eine unangenehme Wahrheit</li>\n<li>Zeige Anzeichen einer heraufziehenden Bedrohung</li>\n<li>Verursache Schaden</li>\n<li>Verbrauche ihre Ressourcen</li>\n<li>Wende ihren Spielzug gegen sie</li>\n<li>Trenne sie</li>\n<li>Biete eine Gelegenheit für einen Klassenspielzug</li>\n<li>Zeige einen Nachteil ihrer Klasse, Ausrüstung oder ihres Volkes</li>\n<li>Biete eine Gelegenheit – zu einem Preis oder ohne</li>\n<li>Bringe jemanden in Schwierigkeiten</li>\n<li>Nenne Voraussetzungen oder Konsequenzen und frage</li>\n</ul>"
+        },
+        {
+            "id": "Principals",
+            "name": "Prinzipien",
+            "description": "<ul>\n<li>Zeichne Karten, lasse Lücken</li>\n<li>Sprich die Charaktere an, nicht die Spieler</li>\n<li>Nimm das Fantastische an</li>\n<li>Lasse deinen Spielzug folgen</li>\n<li>Nenne deinen Spielzug nie beim Namen</li>\n<li>Verleihe jedem Monster Leben</li>\n<li>Gib jeder Person einen Namen</li>\n<li>Stelle Fragen und nutze die Antworten</li>\n<li>Sei ein Fan der Charaktere</li>\n<li>Denke gefährlich</li>\n<li>Beginne und ende mit Fiktion</li>\n<li>Denke auch abseits der Szene</li>\n</ul>"
+        }
+    ]
+}

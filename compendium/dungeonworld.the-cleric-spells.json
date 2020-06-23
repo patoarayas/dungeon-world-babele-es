@@ -1,0 +1,172 @@
+{
+    "label": "Klerikerzauber",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "Animate Dead",
+            "name": "Tote beleben",
+            "description": "<p><em>3. Grad, Dauerhaft</em></p>\n<p>Du beschwörst einen hungrigen Geist, in einen kürzlich verstorbenen Körper zu fahren und dir zu dienen. Dies erschafft einen Zombie, der deine Befehle im Rahmen seiner begrenzten Fähigkeiten bestmöglich befolgt. Behandle den Zombie wie einen Charakter mit 1 TP, der nur Zugriff auf die Grundspielzüge hat. Alle seine Attribute haben einen +1 Modifikator. Der Zombie besitzt außerdem 1W4 der folgenden Eigenschaften deiner Wahl:</p>\n<ul>\n<li>Er ist talentiert. Erhöhe einen seiner Attributmodifikatoren auf +2.</li>\n<li>Er ist widerstandsfähig. Für jede deiner Stufen erhält er +2 TP.</li>\n<li>Er hat ein funktionierendes Gehirn und kann kompliziertere Aufgaben erfüllen.</li>\n<li>Er sieht auf den ersten Blick nicht wie ein Toter aus, zumindest nicht für die ersten ein oder zwei Tage.</li>\n</ul>\n<p>Der Zombie bleibt bestehen, bis er keine Trefferpunkte mehr hat oder du den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Bless",
+            "name": "Segnen",
+            "description": "<p><em>1. Grad, Dauerhaft</em></p>\n<p>Deine Gottheit lächelt auf einen Kampfteilnehmer deiner Wahl herab. Er erhält dauerhaft +1, solange der Kampf anhält und er standhaft bleibt. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Cause Fear",
+            "name": "Furcht auslösen",
+            "description": "<p><em>1. Grad, Dauerhaft</em></p>\n<p>Wähle ein Ziel in Sichtweite und einen Gegenstand in deiner Nähe. Solange du den Zauber aufrechterhältst, hat das Ziel Angst vor diesem Gegenstand. Das Ziel kann seine Reaktion wählen: fliehen, durchdrehen, betteln oder kämpfen. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>. Wesen mit geringerer Intelligenz als Tiere (magische Konstrukte, Untote, Automata und ähnliche) können nicht Ziel dieses Zaubers sein.</p>"
+        },
+        {
+            "id": "Consume Unlife",
+            "name": "Unleben verzehren",
+            "description": "<p><em>9. Grad</em></p>\n<p>Du vernichtest einen geistlosen Untoten durch deine Berührung. Die Kraft, die ihn am Leben erhielt, heilt dich oder den nächsten Verbündeten, den du berührst. Die Höhe des geheilten Schadens entspricht der Anzahl der aktuellen Trefferpunkte, die der Untote vor seiner Zerstörung hatte.</p>"
+        },
+        {
+            "id": "Contagion",
+            "name": "Ansteckung",
+            "description": "<p><em>5. Grad, Dauerhaft</em></p>\n<p>Wähle eine Kreatur in deinem Sichtfeld. Bis du den Zauber beendest, leidet sie an einer Krankheit deiner Wahl. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Control Weather",
+            "name": "Wetterkontrolle",
+            "description": "<p><em>7. Grad</em></p>\n<p>Bete um Regen, Sonne, Wind oder Schnee. Deine Gottheit wird binnen eines Tages reagieren. Das Wetter wird sich deinen Wünschen gemäß verändern und sich ein paar Tage halten.</p>"
+        },
+        {
+            "id": "Cure Critical Wounds",
+            "name": "Kritische Wunden heilen",
+            "description": "<p><em>5. Grad</em></p>\n<p>Heile durch deine Berührung einen Verbündeten von 3W8 Schaden.</p>"
+        },
+        {
+            "id": "Cure Light Wounds",
+            "name": "Leichte Wunden heilen",
+            "description": "<p><em>1. Grad</em></p>\n<p>Durch deine Berührung verschorfen Wunden und Knochen hören auf zu schmerzen. Heile durch deine Berührung einen Verbündeten von 1W8 Schaden.</p>"
+        },
+        {
+            "id": "Cure Moderate Wounds",
+            "name": "Mittelschwere Wunden heilen",
+            "description": "<p><em>3. Grad</em></p>\n<p>Deine Magie stillt Blutungen und richtet Knochen. Heile durch deine Berührung einen Verbündeten von 2W8 Schaden.</p>"
+        },
+        {
+            "id": "Darkness",
+            "name": "Dunkelheit",
+            "description": "<p><em>3. Grad, Dauerhaft</em></p>\n<p>Wähle einen Bereich in deinem Sichtfeld: Er füllt sich mit übernatürlicher Dunkelheit und tiefen Schatten. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Detect Alignment",
+            "name": "Gesinnung erkennen",
+            "description": "<p><em>1. Grad</em></p>\n<p>Wenn du diesen Zauber wirkst, wähle eine Gesinnung: Gut, Böse, Rechtschaffen oder Chaotisch. Einer deiner Sinne ist kurzzeitig in der Lage, diese Gesinnung wahrzunehmen. Der SL wird dir mitteilen, was hier von dieser Gesinnung ist.</p>"
+        },
+        {
+            "id": "Divination",
+            "name": "Weissagung",
+            "description": "<p><em>5. Grad</em></p>\n<p>Benenne eine Person, einen Ort oder Gegenstand, über den du etwas herausfinden willst. Deine Gottheit gewährt dir so deutliche Visionen von dem Ziel, als wärst du unmittelbar dort.</p>"
+        },
+        {
+            "id": "Divine Presence",
+            "name": "Göttliche Präsenz",
+            "description": "<p><em>9. Grad, Dauerhaft</em></p>\n<p>Jede Kreatur muss um deine ausdrückliche Erlaubnis bitten, ehe sie dir gegenübertritt. Eine Kreatur ohne eine solche Erlaubnis erleidet zusätzliche 1W10 Schadenspunkte, wenn sie in deiner Gegenwart Schaden erleidet. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Guidance",
+            "name": "Führung",
+            "description": "<p><em>Stoßgebet</em></p>\n<p>Das Symbol deiner Gottheit erscheint und deutet in eine Richtung oder zeigt eine Handlung, die deine Gottheit von dir erwartet. Dann verschwindet das Zeichen. Die Nachricht ist nur eine Geste, eine wirkliche Kommunikation ist durch diesen Zauber kaum möglich.</p>"
+        },
+        {
+            "id": "Harm",
+            "name": "Leid",
+            "description": "<p><em>7. Grad</em></p>\n<p>Verursache bei einem Feind mit deiner Berührung durch heiligen Zorn 2W8 Schaden und erleide selbst 1W6 Schaden. Dieser Schaden ignoriert Rüstung.</p>"
+        },
+        {
+            "id": "Heal",
+            "name": "Heilung",
+            "description": "<p><em>7. Grad</em></p>\n<p>Heile durch deine Berührung einen Verbündeten von Schaden bis zur Höhe deiner maximalen TP.</p>"
+        },
+        {
+            "id": "Hold Person",
+            "name": "Person festhalten",
+            "description": "<p><em>3. Grad</em></p>\n<p>Wähle eine Person in deinem Sichtfeld. Solange du in ihrer Gegenwart bist und keinen anderen Zauber sprichst, kann sie nichts tun, außer zu sprechen. Der Zauber endet augenblicklich, sobald das Ziel Schaden nimmt.</p>"
+        },
+        {
+            "id": "Light",
+            "name": "Light",
+            "description": "<p><em>Stoßgebet</em></p>\n<p>Durch deine Berührung strahlt ein Gegenstand in göttlichem Licht. Er verursacht weder Hitze noch Geräusch und benötigt keinen Brennstoff, verhält sich aber ansonsten wie eine gewöhnliche Fackel. Du kannst die Farbe des Lichts frei wählen. Der Effekt hält an, solange du dich in der Nähe befindest.</p>"
+        },
+        {
+            "id": "Magic Weapon",
+            "name": "Magische Waffe",
+            "description": "<p><em>1. Grad, Dauerhaft</em></p>\n<p>Die während des Wirkens dieses Zaubers geführte Waffe verursacht +1W4 Schaden, bis du den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Mark of Death",
+            "name": "Zeichen des Todes",
+            "description": "<p><em>7. Grad</em></p>\n<p>Wähle eine Kreatur, deren wahren Namen du kennst. Dieser Zauber erschafft dauerhafte Runen auf einer Oberfläche deiner Wahl, die dein Ziel töten, sobald es sie liest.</p>"
+        },
+        {
+            "id": "Plague",
+            "name": "Plage",
+            "description": "<p><em>9. Grad, Dauerhaft</em></p>\n<p>Nenne eine Stadt, ein Dorf, ein Feldlager oder einen anderen bewohnten Ort. So lange dieser Zauber anhält, wird der Ort von einer Plage heimgesucht, die der Domäne deiner Gottheit angemessen ist (Heuschrecken, Tod der Erstgeborenen, etc.). Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Repair",
+            "name": "Wiederherstellung",
+            "description": "<p><em>9. Grad</em></p>\n<p>Wähle ein Ereignis in der Vergangenheit deines Ziels. Alle Auswirkungen dieses Ereignisses – einschließlich Schaden, Vergiftungen, Erkrankungen und magischer Effekte – werden ungeschehen gemacht. Trefferpunkte und Erkrankungen werden geheilt, Gifte neutralisiert und magische Effekte beendet.</p>"
+        },
+        {
+            "id": "Resurrection",
+            "name": "Auferstehung",
+            "description": "<p><em>3. Grad</em></p>\n<p>Sage dem SL, dass du eine Leiche wiedererwecken möchtest, deren Seele noch nicht ganz von dieser Welt gefahren ist. Auferstehung ist immer möglich, aber der SL wird eine, mehrere oder gar alle der folgenden Bedingungen auferlegen:</p>\n<ul>\n<li>Es wird Tage/Wochen/Monate dauern.</li>\n<li>Du benötigst die Hilfe von ____________.</li>\n<li>Es kostet sehr viel Geld.</li>\n<li>Du musst ____________ opfern, damit es gelingt.</li>\n</ul>\n<p>Gegebenenfalls kann der SL erlauben, den Toten sofort zu erwecken – unter der Voraussetzung, dass seine Bedingungen erfüllt werden, um die Wiederbelebung dauerhaft zu machen. Er kann aber auch verlangen, dass alle Bedingungen erfüllt sein müssen, bevor du die Wiedererweckung in Angriff nehmen kannst.</p>"
+        },
+        {
+            "id": "Revelation",
+            "name": "Enthüllung",
+            "description": "<p><em>5. Grad</em></p>\n<p>Deine Gottheit beantwortet deine Gebete mit einem Augenblick der Offenbarung. Der SL wird die momentane Situation für dich erhellen. Wenn du auf Grundlage der Antworten handelst, erhältst du einmalig +1.</p>"
+        },
+        {
+            "id": "Sanctify",
+            "name": "Weihen",
+            "description": "<p><em>Stoßgebet</em></p>\n<p>Wenn du diesen Zauber sprichst, empfangen von dir in Händen gehaltene Lebensmittel oder Flüssigkeiten die Weihe deiner Gottheit. Sie gelten nun als heilig oder unheilig. Zusätzlich wird jede nichtmagische Verunreinigung entfernt.</p>"
+        },
+        {
+            "id": "Sanctuary",
+            "name": "Heiligtum",
+            "description": "<p><em>1. Grad</em></p>\n<p>Während du diesen Zauber wirkst, schreitest du die Grenzen eines Bereichs ab, den du deiner Gottheit weihst. Solange du dich in diesem Bereich aufhältst, wirst du alarmiert, sobald jemand innerhalb des Heiligtums eine bösartige Handlung vollzieht (inklusive dem Betreten mit böser Absicht). Jeder, der im Heiligtum Heilung erhält, heilt zusätzlich +1W4 TP.</p>"
+        },
+        {
+            "id": "Sever",
+            "name": "Abtrennung",
+            "description": "<p><em>7. Grad, Dauerhaft</em></p>\n<p>Wähle eine Gliedmaße des Ziels – einen Arm, Tentakel oder Flügel. Die gewählte Gliedmaße wird auf magische Weise von ihrem Körper getrennt, was zwar keinen Schaden, aber erhebliche Schmerzen verursacht. Das Fehlen entsprechender Gliedmaßen kann zum Beispiel eine geflügelte Kreatur am Fliegen hindern oder einen Bullen davon abhalten, dich mit seinen Hörnern aufzuspießen. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Speak With Dead",
+            "name": "Mit Toten sprechen",
+            "description": "<p><em>1. Grad</em></p>\n<p>Eine Leiche spricht kurz mit dir. Sie wird dir drei Fragen nach bestem Wissen beantworten, das sie im Leben hatte und nach dem Tod gewonnen hat.</p>"
+        },
+        {
+            "id": "Storm Of Vengeance",
+            "name": "Sturm der Vergeltung",
+            "description": "<p><em>9. Grad</em></p>\n<p>Deine Gottheit führt widernatürliche Wetterphänomene deiner Wahl herbei. Blut- oder Säureregen, Wolken aus Seelen, Wind, der Gebäude hinwegfegt, oder was auch immer du dir vorstellen kannst – bitte darum und du wirst es bekommen.</p>"
+        },
+        {
+            "id": "Trap Soul",
+            "name": "Seelenfalle",
+            "description": "<p><em>5. Grad</em></p>\n<p>Du bannst die Seele einer sterbenden Kreatur in einen Edelstein. Die gefangene Kreatur ist sich der Einkerkerung bewusst. Sie kann durch Zauber, <em>Verhandeln</em> und andere Effekte beeinflusst werden. Alle Spielzüge gegen die eingekerkerte Kreatur erhalten +1. Du kannst die Seele jederzeit freilassen, aber danach kann sie nicht erneut eingefangen werden.</p>"
+        },
+        {
+            "id": "True Seeing",
+            "name": "Wahrer Blick",
+            "description": "<p><em>5. Grad, Dauerhaft</em></p>\n<p>Du wirst der wahren Natur aller Dinge gewahr, die du erblickst. Du durchschaust Illusionen und siehst Verborgenes. Der SL beschreibt dir deine Umgebung ohne jede Illusion oder Falschheit, ob magisch oder nicht. Während dieser Zauber anhält, erleidest du -1 auf Zauber wirken.</p>"
+        },
+        {
+            "id": "Word of Recall",
+            "name": "Rückruf",
+            "description": "<p><em>7. Grad</em></p>\n<p>Wähle ein Wort. Wenn du dieses Wort nach dem Wirken dieses Zaubers zum ersten Mal aussprichst, werden du und alle Gefährten, die dich beim Zaubern berührt haben, an den exakten Ort zurücktransportiert, an dem du den Zauber gesprochen hast. Nur ein einziger Ort ist auf diese Weise aktiv; wenn du diesen Zauber erneut wirkst, während ein anderer <em>Rückruf</em> aktiv ist, ersetzt der neue Ort den alten.</p>"
+        },
+        {
+            "id": "Words of the Unspeaking",
+            "name": "Worte der Sprachlosen",
+            "description": "<p><em>5. Grad</em></p>\n<p>Mit einer Berührung sprichst du mit den Geistern, die den Dingen innewohnen. Der berührte Gegenstand beantwortet drei deiner Fragen, so gut er kann.</p>"
+        }
+    ]
+}

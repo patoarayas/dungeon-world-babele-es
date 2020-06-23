@@ -1,0 +1,127 @@
+{
+    "label": "Spielzüge Druide",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "Balance",
+            "name": "Gleichgewicht",
+            "description": "<p><strong>Wenn du Schaden verursachst</strong>, nimm einen Punkt Gleichgewicht. <strong>Wenn du jemanden berührst und die Lebensgeister kanalisierst</strong>, kannst du Gleichgewicht verbrauchen. Für jeden verbrauchten Punkt heilst du 1W4 TP.</p>"
+        },
+        {
+            "id": "Barkskin",
+            "name": "Rindenhaut",
+            "description": "<p>Solange deine Füße den Boden berühren, erhältst du +1 Rüstung.</p>"
+        },
+        {
+            "id": "Blood and Thunder",
+            "name": "Mit Blut und Donner",
+            "description": "<p><em>Ersetzt: Rot von Zahn und Klaue</em></p>\n<p><strong>Wenn du in einer gefährlichen Tiergestalt bist</strong>, erhöhe deinen Schaden auf 1W10. [[/roll 1d10]]</p>"
+        },
+        {
+            "id": "Born of the Soil",
+            "name": "Aus der Erde geboren",
+            "description": "<p>Du hast deine Magie an einem Ort erlernt, dessen Geister alt und mächtig sind. Sie haben dich als einen der ihren gekennzeichnet. Wohin du auch gehst, die Geister leben in dir fort und gestatten dir, ihre Gestalt anzunehmen. Wähle dein Land aus der folgenden Liste. Du bist an dieses Land angepasst: Du kannst die Gestalt jedes dort heimischen Tieres annehmen.</p>\n<ul>\n<li>Die Großen Wälder</li>\n<li>Die Flüsternde Steppe</li>\n<li>Die Weite Wüste</li>\n<li>Die Stinkenden Sümpfe</li>\n<li>Das Flussdelta</li>\n<li>Die Tiefen der Erde</li>\n<li>Die Saphirblauen Inseln</li>\n<li>Die Offene See</li>\n<li>Die Gewaltigen Berge</li>\n<li>Der Gefrorene Norden</li>\n<li>Das Trostlose Ödland</li>\n</ul>\n<p>Wähle ein Mal (ein körperliches Anzeichen dafür, dass du aus der Erde geboren wurdest), das das Wesen deines Landes widerspiegelt. Das kann ein tierisches Merkmal wie ein Geweih oder Leopardenflecken sein, oder etwas Allgemeineres: Haare wie Laub oder Augen, die wie Kristalle funkeln. Dein Mal bleibt bestehen, gleich welche Gestalt du auch annimmst.</p>"
+        },
+        {
+            "id": "By Nature Sustained",
+            "name": "Von der Natur genährt",
+            "description": "<p>Du musst weder essen noch trinken. <strong>Wenn ein Spielzug sagt, dass du Rationen abstreichen sollst</strong>, ignoriere dies einfach.</p>"
+        },
+        {
+            "id": "Chimera",
+            "name": "Chimäre",
+            "description": "<p><strong>Wenn du <em>gestaltwandelst</em></strong>, kannst du eine aus bis zu drei verschiedenen Gestalten zusammengesetzte Form annehmen (z. B. ein Bär mit Adlerflügeln und Widderkopf). Jedes Merkmal verleiht dir einen eigenen Spielzug, den du ausführen kannst. Die Chimärenform folgt ansonsten den Regeln des <em>Gestaltwandelns</em>.</p>"
+        },
+        {
+            "id": "Communion of Whispers",
+            "name": "Gemeinschaft des Flüsterns",
+            "description": "<p><strong>Wenn du Zeit an einem Ort verbringst, seine heimischen Geister kennenlernst und anrufst</strong>, würfle+WE. Dir wird eine Vision gewährt, die für dich, deine Verbündeten und die Geister um dich herum bedeutsam ist. </p>\n<p>* Bei einer 10+ ist die Vision klar, deutlich und hilfreich. </p>\n<p>* Bei einer 7–9 ist sie undeutlich und ihre Bedeutung unklar. </p>\n<p>* Bei einer 6- ist die Vision verstörend, beängstigend oder traumatisierend. Der SL wird sie beschreiben. Erhalte einmalig -1</p>."
+        },
+        {
+            "id": "Doppleganger's Dance",
+            "name": "Tanz des Doppelgängers",
+            "description": "<p>Du bist in der Lage, das <em>Wesen</em> bestimmter Personen zu <em>erforschen</em>, um ihre exakte Gestalt anzunehmen – auch die von Menschen, Elfen und anderen. Du kannst dabei auch dein Mal unterdrücken, allerdings erhältst du dann dauerhaft -1, bis du zu deiner wahren Gestalt zurückkehrst.</p>"
+        },
+        {
+            "id": "Elemental Mastery",
+            "name": "Elementarmeisterschaft",
+            "description": "<p>Wenn du die Urgeister von Feuer, Wasser, Erde oder Luft anrufst, dir zu dienen, würfle+WE. </p>\n<p>* Bei einer 10+ wähle zwei. </p>\n<p>* Bei 7–9 wähle eines. </p>\n<p>* Bei einer 6- hat dein Ersuchen katastrophale Folgen. </p>\n<ul>\n<li>Der von dir gewünschte Effekt tritt ein. </li>\n<li>Du vermeidest es, den Preis der Natur zu zahlen. </li>\n<li>Du behältst die Kontrolle.</li>\n</ul>"
+        },
+        {
+            "id": "Embracing No Form",
+            "name": "Jenseits der Form",
+            "description": "<p><strong>Wenn du deine Gestalt wandelst</strong>, würfle 1W4 und nimm das Ergebnis an Punkten hinzu.</p>"
+        },
+        {
+            "id": "Eyes of the Tiger",
+            "name": "Die Augen des Tigers",
+            "description": "<p>Wenn du ein Tier markierst (mit Schlamm, Dreck oder Blut), kannst du unabhängig von der Entfernung zwischen euch durch seine Augen sehen, als wären es deine eigenen. Du kannst nur ein Tier gleichzeitig auf diese Weise markieren.</p>"
+        },
+        {
+            "id": "Formcrafter",
+            "name": "Wandelkunst",
+            "description": "<p>Wenn du deine Gestalt wandelst, wähle ein Attribut. Während du in dieser Gestalt bist, erhältst du dauerhaft +1 auf Würfe mit diesem Attribut. Der SL wird ebenfalls ein Attribut aussuchen, mit dem du dauerhaft -1 erhältst, solange du in dieser Gestalt bist.</p>"
+        },
+        {
+            "id": "Formshaper",
+            "name": "Wandelmeister",
+            "description": "<p><em>Voraussetzung: Wandelkunst</em></p>\n<p><strong>Wenn du deine Gestalt in eine Tierform wandelst</strong>, kannst du wählen, ob deine neue Form +1 Rüstung erhalten oder +1W4 Schaden verursachen soll [[/roll 1d4]]</p>"
+        },
+        {
+            "id": "Hunter's Brother",
+            "name": "Brüder der Jagd",
+            "description": "<p>Wähle einen Spielzug von der Klassenliste des Waldläufers.</p>"
+        },
+        {
+            "id": "Red of Tooth and Claw",
+            "name": "Rot von Zahn und Klaue",
+            "description": "<p><strong>Wenn du in einer gefährlichen Tiergestalt bist</strong>, erhöhe deinen Schaden auf 1W8. [[/roll 1d10]]</p>"
+        },
+        {
+            "id": "Shapeshifter",
+            "name": "Gestaltwandler",
+            "description": "<p>Wenn du die Geister anrufst, um eine andere Gestalt anzunehmen, würfle+WE. </p>\n<p>* Bei einer 10+ nimm 3 Punkte. </p>\n<p>* Bei 7–9 nimm 2 Punkte. </p>\n<p>* Bei einer 6- nimm 1 Punkt – zusätzlich zu dem, was der SL sagt. </p>\n<p>Du kannst die körperliche Gestalt jeden Tieres annehmen, das in deinem Land zu Hause ist oder dessen Wesen du erforscht hast. Du und alles was du am Körper trägst verschmelzen zur Gestalt der gewählten Kreatur. Du erhältst alle Fähigkeiten und Schwächen, die deiner neuen Gestalt zu Eigen sind: Klauen, Flügel, Kiemen. Du verwendest weiterhin deine üblichen Attribute, einige Spielzüge sind aber schwerer auszulösen – eine Hauskatze wird schwerlich einen Oger bekämpfen können. </p>\n<p>Der SL wird dir außerdem einen oder mehrere neue Spielzüge deiner neuen Gestalt mitteilen. Verbrauche 1 Punkt, um einen solchen Zug durchzuführen. Sobald dir keine Punkte mehr verbleiben, nimmst du wieder deine normale Gestalt an. Du kannst jederzeit deine restlichen Punkte ausgeben um dich zurückzuverwandeln.</p>"
+        },
+        {
+            "id": "Shed",
+            "name": "Mauser",
+            "description": "<p><strong>Wenn du in einer anderen Gestalt Schaden erleidest</strong>, kannst du zu deiner natürlichen Form zurückkehren um den Schaden zu vermeiden.</p>"
+        },
+        {
+            "id": "Spirit Tongue",
+            "name": "Geistersprache",
+            "description": "<p>Das Grunzen, Bellen, Zwitschern und Rufen der Kreaturen der Wildnis ist wie eine Sprache für dich. Du kannst jedes Tier verstehen, das in deinem Land heimisch ist oder das von einer Art ist, deren Wesen du erforscht hast.</p>"
+        },
+        {
+            "id": "Stalker's Sister",
+            "name": "Schwestern der Pirsch",
+            "description": "<p>Wähle einen Spielzug von der Klassenliste des Waldläufers.</p>"
+        },
+        {
+            "id": "Studied Essence",
+            "name": "Wesen erforschen",
+            "description": "<p><strong>Wenn du Zeit damit verbringst, dich in den Geist eines Tieres zu versetzen</strong>, füge seine Art zur Liste derer hinzu, deren Gestalt du annehmen kannst.</p>"
+        },
+        {
+            "id": "The Druid Sleep",
+            "name": "Druidenschlaf",
+            "description": "<p><strong>Wenn du diesen Zug wählst</strong>, kannst du dich an ein neues Land anpassen, sobald du das nächste Mal an einem entsprechenden Ort in Sicherheit verweilst. Diese Wirkung tritt nur einmal ein und der SL wird dir mitteilen, wie lange die Anpassung mit dem neuen Land dauert und welchen Preis du dafür zahlen musst. Von nun an giltst du als aus der Erde beider Länder geboren.</p>"
+        },
+        {
+            "id": "Thing-talker",
+            "name": "Dingflüsterer",
+            "description": "<p>Du siehst die Geister in Sand, See und Stein. Du kannst <em>Geistersprache</em>, <em>Gestaltwandler</em> und <em>Wesen erforschen</em> nicht nur auf Tiere, sondern auch auf unbelebte, natürliche Dinge anwenden: Pflanzen und Steine sowie Kreaturen, die aus diesen gemacht sind. Gestalten eines Dingflüsterers können exakte Kopien oder bewegliche, grob humanoid geformte Wesen sein.</p>"
+        },
+        {
+            "id": "Weather Weaver",
+            "name": "Wetterweber",
+            "description": "<p><strong>Wenn du dich bei Sonnenaufgang unter freiem Himmel befindest</strong>, wird der SL dich fragen, wie das Wetter an diesem Tag werden wird. Was auch immer du beschreibst wird eintreten.</p>"
+        },
+        {
+            "id": "World-talker",
+            "name": "Weltflüsterer",
+            "description": "<p><em>Voraussetzung: Dingflüsterer</em></p>\n<p>Du siehst die Muster im Gefüge der Welt. Du kannst <em>Geistersprache</em>, <em>Gestaltwandler</em> und <em>Wesen erforschen</em> auch auf die reinen Elemente anwenden – Feuer, Wasser, Erde und Luft.</p>"
+        }
+    ]
+}

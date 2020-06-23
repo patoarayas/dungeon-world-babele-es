@@ -1,0 +1,132 @@
+{
+    "label": "Spielzüge Magier",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "Arcane Armor",
+            "name": "Magierrüstung",
+            "description": "<p><em>Ersetzt: Magierschild</em></p>\n<p>Solange du mindestens einen Zauber des 1. Grades oder höher vorbereitet hast, erhältst du +4 Rüstung.</p>"
+        },
+        {
+            "id": "Arcane Ward",
+            "name": "Magierschild",
+            "description": "<p>Solange du mindestens einen Zauber des 1. Grades oder höher vorbereitet hast, erhältst du +2 Rüstung.</p>"
+        },
+        {
+            "id": "Cast a Spell",
+            "name": "Zauber wirken",
+            "description": "<p><strong>Wenn du einen vorbereiteten Zauberspruch sprichst</strong>, würfle+IN. </p>\n<p>* Bei einer 10+ wurde der Zauber erfolgreich gewirkt und du vergisst ihn nicht, so dass du ihn erneut wirken kannst. </p>\n<p>* Bei 7–9 wurde der Zauber erfolgreich gewirkt, aber wähle eines:</p>\n<ul>\n<li>Du ziehst unerwünschte Aufmerksamkeit auf dich oder bringst dich in die Klemme. Der SL wird dir sagen wie.</li>\n<li>Das Wirken des Zaubers stört das Gefüge der Wirklichkeit: Erhalte dauerhaft -1 auf <em>Zauber wirken</em>, bis du das nächste Mal <em>Zauber vorbereitest</em>.</li>\n<li>Nachdem du ihn gewirkt hast, vergisst du den Zauber. Du kannst ihn nicht wirken, bis du ihn dir beim nächsten <em>Zauber vorbereiten</em> erneut einprägst.</li>\n</ul>\n<p>Beachte, dass das Aufrechterhalten mancher Zauber mit dauerhaften Effekten zu einem Abzug auf <em>Zauber wirken</em> führen kann.</p>"
+        },
+        {
+            "id": "Counterspell",
+            "name": "Gegenzauber",
+            "description": "<p><strong>Wenn du versuchst, einen Magierzauber zu kontern, der dich betreffen würde</strong>, setze einen deiner vorbereiteten Zauber aufs Spiel und würfle+IN. </p>\n<p>* Bei einer 10+ wird der Zauber gekontert und er hat keine Wirkung auf dich. </p>\n<p>* Bei 7–9 wird der Zauber ebenfalls gekontert, aber du vergisst den Zauber, den du aufs Spiel gesetzt hast. Dein Gegenzauber schützt nur dich selbst – wenn der Zauber andere Ziele hatte, werden diese trotzdem betroffen.</p>"
+        },
+        {
+            "id": "Empowered Magic",
+            "name": "Verstärken",
+            "description": "<p><strong>Wenn du Zauber wirkst und eine 10+ würfelst</strong>, kannst du freiwillig einen Nachteil von der 7–9-Liste auswählen. Wenn du das tust, darfst du dir zusätzlich einen der folgenden Effekte aussuchen:</p>\n<ul>\n<li>Der Zauber wirkt doppelt so stark.</li>\n<li>Der Zauber betrifft doppelt so viele Ziele.</li>\n</ul>"
+        },
+        {
+            "id": "Enchanter",
+            "name": "Zauberer",
+            "description": "<p><strong>Wenn du in Sicherheit bist und Zeit hast, dich mit einem magischen Gegenstand zu beschäftigen</strong>, kannst du den SL fragen, was der Gegenstand tut. Der SL wird dir wahrheitsgemäß antworten.</p>"
+        },
+        {
+            "id": "Enchanter's Soul",
+            "name": "Seele des Zauberers",
+            "description": "<p><em>Voraussetzung: Zauberer</em></p>\n<p><strong>Wenn du in Sicherheit bist und Zeit hast, dich mit einem magischen Gegenstand zu beschäftigen</strong>, kannst du den Gegenstand verstärken, so dass er bei der nächsten Benutzung eine größere Wirkung entfaltet. Der SL wird dir beschreiben wie.</p>"
+        },
+        {
+            "id": "Ethereal Tether",
+            "name": "Ätherisches Band",
+            "description": "<p><strong>Wenn du mit einer bereitwilligen oder hilflosen Person Zeit verbringst</strong>, kannst du ein ätherisches Band zwischen euch knüpfen. Du nimmst wahr, was sie wahrnimmt und kannst über sie oder ihre Umgebung <em>Gewissheit erlangen</em>, ganz gleich wo du dich befindest. Wenn die mit dir verbundene Person die Verbindung freiwillig eingegangen ist, kannst du dich mit ihr unterhalten, als wärt ihr im selben Raum.</p>"
+        },
+        {
+            "id": "Expanded Spellbook",
+            "name": "Erweitertes Zauberbuch",
+            "description": "<p>Füge deinem Zauberbuch einen Zauber einer beliebigen Klasse hinzu.</p>"
+        },
+        {
+            "id": "Fount of Knowledge",
+            "name": "Quell des Wissens",
+            "description": "<p><strong>Wenn du <em>Wissen kundtust</em> über etwas, von dem sonst niemand eine Ahnung hat</strong>, erhältst du +1 auf deinen Wurf.</p>"
+        },
+        {
+            "id": "Greater Empowered Magic",
+            "name": "Höheres Verstärken",
+            "description": "<p><em>Ersetzt: Verstärken</em></p>\n<p><strong>Wenn du <em>Zauber wirkst</em> und eine 10+ würfelst</strong>, kannst du freiwillig einen Nachteil von der 7–9-Liste auswählen. Wenn du das tust, darfst du dir zusätzlich einen der folgenden Effekte aussuchen:</p>\n<ul>\n<li>Der Zauber wirkt doppelt so stark.</li>\n<li>Der Zauber betrifft doppelt so viele Ziele</li>\n</ul><p>Bei einer 12+ darfst du einen der Effekte wählen, ohne von der 7–9-Liste wählen zu müssen.</p>"
+        },
+        {
+            "id": "Highly Logical",
+            "name": "Unfehlbare Logik",
+            "description": "<p><em>Ersetzt: Logik</em></p>\n<p><strong>Wenn du deine Umgebung mit Hilfe streng logischer Schlussfolgerungen analysierst</strong>, kannst du zum <em>Gewissheit erlangen</em> +IN statt +WE würfeln. Bei einer 12+ darfst du dem SL drei beliebige Fragen stellen, ohne auf die Liste beschränkt zu sein.</p>"
+        },
+        {
+            "id": "Know-It-All",
+            "name": "Besserwisser",
+            "description": "<p><strong>Wenn ein Spielercharakter deinen Rat sucht und du ihm sagst, wie das Problem deiner Ansicht nach am besten zu lösen ist</strong>, erhält er einmalig +1, wenn er deinen Rat beherzigt. Wenn er das tut, darfst du dir außerdem einen EP gutschreiben.</p>"
+        },
+        {
+            "id": "Logical",
+            "name": "Logik",
+            "description": "<p><strong>Wenn du deine Umgebung mit Hilfe streng logischer Schlussfolgerungen analysierst</strong>, kannst du zum <em>Gewissheit erlangen</em> +IN statt +WE würfeln.</p>"
+        },
+        {
+            "id": "Master",
+            "name": "Meister",
+            "description": "<p><em>Voraussetzung: Wunderkind</em></p>\n<p>Wähle einen weiteren Zauber. Auch diesen bereitest du vor, als wäre er eine Stufe niedriger.</p>"
+        },
+        {
+            "id": "Mystical Puppet Strings",
+            "name": "Mystische Marionette",
+            "description": "<p><strong>Wenn du die Handlungen einer Person durch Magie kontrollierst</strong>, wird sie keinerlei Erinnerungen an das haben, was sie für dich tun musste, und wird dir nicht böse sein.</p>"
+        },
+        {
+            "id": "Prepare Spells",
+            "name": "Zauber vorbereiten",
+            "description": "<p><strong>Wenn du ungestört etwas Zeit (etwa eine Stunde) über deinem Zauberbuch verbringst</strong> ...:</p>\n<ul>\n<li>... verlierst du alle Zauber, die du bisher vorbereitet hattest.</li>\n<li>... bereitest du neue Zauber deiner Wahl aus deinem Zauberbuch vor, deren aufaddierte Grade deine eigene Stufe+1 nicht übersteigen dürfen.</li>\n<li>... bereitest du alle deine Zaubertricks vor, was niemals dieser Zauberbegrenzung unterliegt.</li>\n</ul>"
+        },
+        {
+            "id": "Prodigy",
+            "name": "Wunderkind",
+            "description": "<p>Wähle einen Zauber. Du kannst den Zauber vorbereiten, als wäre er einen Grad niedriger.</p>"
+        },
+        {
+            "id": "Protective Counter",
+            "name": "Schützender Gegenzauber",
+            "description": "<p><em>Voraussetzung: Gegenzauber</em></p>\n<p><strong>Wenn ein Verbündeter in Sichtweite von einem Magierzauber betroffen wird</strong>, kannst du den Zauber kontern, als wärst du selbst das Ziel. Wenn der Zauber mehrere Ziele hat, musst du für jeden Verbündeten einzeln kontern.</p>"
+        },
+        {
+            "id": "Quick Study",
+            "name": "Schnelle Auffassungsgabe",
+            "description": "<p><strong>Wenn du Zeuge eines Magierzaubers bist</strong>, frage den SL nach dem Namen des Zaubers und seinen Effekten. Wenn du auf Grundlage einer der Antworten handelst, erhältst du einmalig +1.</p>"
+        },
+        {
+            "id": "Ritual",
+            "name": "Ritual",
+            "description": "<p><strong>Wenn du aus einem Ort der Macht Kraft schöpfst, um einen magischen Effekt zu erzeugen</strong>, beschreibe dem SL, was du erreichen willst. Rituale und ihre Effekte sind immer möglich, aber der SL wird dir zwischen einer und vier der folgenden Bedingungen auferlegen:</p>\n<ul>\n<li>Es wird Tage/Wochen/Monate dauern.</li>\n<li>Zuvor musst du ____________.</li>\n<li>Du benötigst die Hilfe von ____________.</li>\n<li>Es kostet sehr viel Geld.</li>\n<li>Du kannst nur eine geringere Version des Effektes hervorzurufen, die unzuverlässig und begrenzt ist.</li>\n<li>Du und deine Verbündete geraten in Gefahr durch ____________.</li>\n<li>Du musst ____________ entzaubern, damit es gelingt.</li>\n</ul>"
+        },
+        {
+            "id": "Self-Powered",
+            "name": "Eigenmächtig",
+            "description": "<p><strong>Wenn du genügend Zeit, arkane Materialien und einen sicheren Ort zur Verfügung hast</strong>, kannst du deinen eigenen Ort der Macht erschaffen. Beschreibe dem SL, was für eine Macht es ist und wie du sie an diesen Ort bindest. Der SL wird dir Arten von Kreaturen nennen, die sich für dein Vorhaben interessieren.</p>"
+        },
+        {
+            "id": "Spell Augmentation",
+            "name": "Zauber kanalisieren",
+            "description": "<p><strong>Wenn du einem Wesen Schaden zufügst</strong>, kannst du die Energie eines Zaubers in dein Opfer hineinlenken. Beende einen deiner dauerhaften Zauber und füge dessen Grad deinem Schaden hinzu.</p>"
+        },
+        {
+            "id": "Spell Defense",
+            "name": "Zauberverteidigung",
+            "description": "<p>Du kannst einen Zauber mit dauerhaftem Effekt sofort beenden und seine freiwerdende Energie dazu nutzen, einen gegen dich gerichteten Angriff abzuwehren. Der Zauber endet und du ziehst seinen Grad vom Schaden ab, den du erleidest.</p>"
+        },
+        {
+            "id": "Spellbook",
+            "name": "Zauberbuch",
+            "description": "<p>Du hast einige Zauber gemeistert und in dein Zauberbuch geschrieben. Du beginnst das Spiel mit drei Zaubern des 1. Grades sowie deinen Zaubertricks. Immer wenn du eine Stufe aufsteigst, fügst du deinem Zauberbuch einen neuen Zauber hinzu, dessen Grad deine neue Stufe aber nicht übersteigen darf. Dein Zauberbuch hat 1 Gewicht.</p>"
+        }
+    ]
+}

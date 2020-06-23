@@ -1,0 +1,282 @@
+{
+    "label": "Besonderheiten / Tags",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "+1 armor",
+            "name": "+1 Rüstung",
+            "description": "<p>Sie schützt dich und lässt sich zusammen mit anderer Rüstung nutzen. Addiere den Wert zu deiner Gesamtrüstung.</p>"
+        },
+        {
+            "id": "+1 damage",
+            "name": "+1 Schaden",
+            "description": "<p>Sie ist für deine Feinde besonders schädlich. Wenn du Schaden verursachst, addiere diesen Wert hinzu.</p>"
+        },
+        {
+            "id": "+1 forward",
+            "name": "+1 einmalig",
+            "description": "<p>Du erhälst auf deinen nächsten Wurf für einen Spielzug (nicht auf Schaden) einen Bonus von +1. Der erhaltene Bonus kann auch anders lauten. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte einmalig +1 auf ...“ – in diesem Fall bekommst du den Bonus nur auf diesen, und nicht auf andere Spielzüge.</p>"
+        },
+        {
+            "id": "+1 ongoing",
+            "name": "+1 dauerhaft",
+            "description": "<p>Du erhälst auf alle folgenden Würfe für Spielzüge (nicht auf Schaden) einen Bonus von +1. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte dauerhaft +1 auf ...“. Ein dauerhafter Bonus nennt stets auch, unter welchen Umständen er beendet wird.</p>"
+        },
+        {
+            "id": "-1 forward",
+            "name": "-1 einmalig",
+            "description": "<p>Du erhälst auf deinen nächsten Wurf für einen Spielzug (nicht auf Schaden) einen Malus von -1. Der erhaltene Malus kann auch anders lauten. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte einmalig -1 auf ...“ – in diesem Fall bekommst du den Malus nur auf diesen, und nicht auf andere Spielzüge.</p>"
+        },
+        {
+            "id": "-1 ongoing",
+            "name": "-1 dauerhaft",
+            "description": "<p>Du erhälst auf alle folgenden Würfe für Spielzüge (nicht auf Schaden) einen Malus von -1. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte dauerhaft -1 auf ...“. Ein dauerhafter Malus nennt stets auch, unter welchen Umständen er beendet wird.</p>"
+        },
+        {
+            "id": "1 ammo",
+            "name": "1 Munition",
+            "description": "<p>Es zählt als Munition für entsprechende Fernkampfwaffen. Der Wert bezieht sich nicht auf eine exakte Anzahl einzelner Pfeile oder Schleudersteine, sondern bezeichnet abstrakt, was dir zur Verfügung steht.</p>"
+        },
+        {
+            "id": "1 armor",
+            "name": "Rüstung 1",
+            "description": "<p>Sie absorbiert Schaden und schützt dich vor Verletzungen. Wenn du Schaden erleidest, ziehe deinen Rüstungswert von dem Betrag ab. Falls du mehrere Gegenstände mit Rüstung hast, zählt ausschließlich der höchste Wert.</p>"
+        },
+        {
+            "id": "1 piercing",
+            "name": "Durchdringung 1",
+            "description": "<p>Sie durchschlägt Rüstung. Wenn du Schaden mit Durchdringung verursachst, ziehst du für diesen Angriff den angegebenen Wert von der gegnerischen Rüstung ab.</p>"
+        },
+        {
+            "id": "2 armor",
+            "name": "Rüstung 2",
+            "description": "<p>Sie absorbiert Schaden und schützt dich vor Verletzungen. Wenn du Schaden erleidest, ziehe deinen Rüstungswert von dem Betrag ab. Falls du mehrere Gegenstände mit Rüstung hast, zählt ausschließlich der höchste Wert.</p>"
+        },
+        {
+            "id": "3 ammo",
+            "name": "3 Munition",
+            "description": "<p>Es zählt als Munition für entsprechende Fernkampfwaffen. Der Wert bezieht sich nicht auf eine exakte Anzahl einzelner Pfeile oder Schleudersteine, sondern bezeichnet abstrakt, was dir zur Verfügung steht.</p>"
+        },
+        {
+            "id": "3 armor",
+            "name": "Rüstung 3",
+            "description": "<p>Sie absorbiert Schaden und schützt dich vor Verletzungen. Wenn du Schaden erleidest, ziehe deinen Rüstungswert von dem Betrag ab. Falls du mehrere Gegenstände mit Rüstung hast, zählt ausschließlich der höchste Wert.</p>"
+        },
+        {
+            "id": "3 piercing",
+            "name": "Durchdringung 3",
+            "description": "<p>Sie durchschlägt Rüstung. Wenn du Schaden mit Durchdringung verursachst, ziehst du für diesen Angriff den angegebenen Wert von der gegnerischen Rüstung ab.</p>"
+        },
+        {
+            "id": "4 ammo",
+            "name": "4 Munition",
+            "description": "<p>Es zählt als Munition für entsprechende Fernkampfwaffen. Der Wert bezieht sich nicht auf eine exakte Anzahl einzelner Pfeile oder Schleudersteine, sondern bezeichnet abstrakt, was dir zur Verfügung steht.</p>"
+        },
+        {
+            "id": "Amorphous",
+            "name": "Amorph",
+            "description": "<p>Seine innere und äußere Beschaffenheit ist bizarr und unnatürlich.</p>"
+        },
+        {
+            "id": "Applied",
+            "name": "Einnahme",
+            "description": "<p>Es ist nur dann nützlich, wenn es einer Person vorsichtig eingeflößt oder in ihr Essen oder Getränk gemischt wird.</p>"
+        },
+        {
+            "id": "Awkward",
+            "name": "Unhandlich",
+            "description": "<p>Es ist sperrig und schwierig zu verwenden.</p>"
+        },
+        {
+            "id": "Cautious",
+            "name": "Vorsichtig",
+            "description": "<p>Es zieht Überleben dem Konflikt vor.</p>"
+        },
+        {
+            "id": "Close",
+            "name": "Kurz",
+            "description": "<p>Die Waffe kann benutzt werden, um jemanden anzugreifen, der etwa einen halben Meter weiter als deine Armlänge von dir entfernt ist.</p>"
+        },
+        {
+            "id": "Clumsy",
+            "name": "Schwerfällig",
+            "description": "<p>Jede Bewegung darin fällt schwer. Du erhältst dauerhaft -1 während du sie nutzt. Mehrere dieser Abzüge addieren sich auf.</p>"
+        },
+        {
+            "id": "Construct",
+            "name": "Konstrukt",
+            "description": "<p>Es wurde nicht geboren, sondern erschaffen.</p>"
+        },
+        {
+            "id": "Dangerous",
+            "name": "Gefährlich",
+            "description": "<p>Es ist leicht, damit in Schwierigkeiten zu geraten. Wenn du damit ohne entsprechende Vorsichtsmaßnahmen umgehst, kann der Spielleiter dir für diese Torheit Konsequenzen auferlegen.</p>"
+        },
+        {
+            "id": "Devious",
+            "name": "Verschlagen",
+            "description": "<p>Es ist vor allem jenseits des bloßen Kampfes gefährlich.</p>"
+        },
+        {
+            "id": "Far",
+            "name": "Fern",
+            "description": "<p>Du kannst mit dieser Waffe jemanden auf eine Distanz angreifen, die deiner Rufweite entspricht.</p>"
+        },
+        {
+            "id": "Forceful",
+            "name": "Wuchtig",
+            "description": "<p>Sie kann jemanden einen Schritt zurückwerfen und vielleicht sogar von den Füßen holen.</p>"
+        },
+        {
+            "id": "Group",
+            "name": "Gruppe",
+            "description": "<p>Es tritt in geringer Zahl auf, etwa 2–5.</p>"
+        },
+        {
+            "id": "Hand",
+            "name": "Hand",
+            "description": "<p>Die Waffe kann benutzt werden, um jemanden anzugreifen, der sich innerhalb deiner Armlänge befindet.</p>"
+        },
+        {
+            "id": "Hoarder",
+            "name": "Sammler",
+            "description": "<p>Es hat ziemlich sicher Schätze angehäuft.</p>"
+        },
+        {
+            "id": "Horde",
+            "name": "Horde",
+            "description": "<p>Wo eines ist, sind noch mehr – viel mehr.</p>"
+        },
+        {
+            "id": "Huge",
+            "name": "Riesig",
+            "description": "<p>Es ist so groß wie ein kleines Haus oder noch größer.</p>"
+        },
+        {
+            "id": "Ignores Armor",
+            "name": "Ignoriert Rüstung",
+            "description": "<p>Ziehe die Rüstung nicht vom erlittenen Schaden ab.</p>"
+        },
+        {
+            "id": "Intelligent",
+            "name": "Intelligent",
+            "description": "<p>Es ist schlau genug, dass einzelne Wesen verschiedene Fertigkeiten erlernen können. Der Spielleiter kann das Monster anpassen, indem er ihm Eigenschaften gibt, die ein besonderes Training darstellen (etwa Magier oder Krieger).</p>"
+        },
+        {
+            "id": "Large",
+            "name": "Groß",
+            "description": "<p>Es ist viel größer als ein Mensch, ungefähr so wie ein Wagen.</p>"
+        },
+        {
+            "id": "Magical",
+            "name": "Magisch",
+            "description": "<p>Es ist von Natur aus durch und durch magisch.</p>"
+        },
+        {
+            "id": "Messy",
+            "name": "Brutal",
+            "description": "<p>Sie zerfetzt Leute und Dinge oder richtet anderweitig Schaden auf besonders zerstörerische Weise an.</p>"
+        },
+        {
+            "id": "Near",
+            "name": "Nah",
+            "description": "<p>Du kannst mit dieser Waffe jemanden auf eine Distanz angreifen, auf die du das Weiße in seinen Augen ausmachen kannst.</p>"
+        },
+        {
+            "id": "Organized",
+            "name": "Organisiert",
+            "description": "<p>Es verfügt über Gruppenstrukturen, die ihm beim Überleben helfen. Eines zu besiegen kann den Zorn der anderen nach sich ziehen. Es könnte Alarm schlagen.</p>"
+        },
+        {
+            "id": "Planar",
+            "name": "Externar",
+            "description": "<p>Es ist von jenseits dieser Welt.</p>"
+        },
+        {
+            "id": "Precise",
+            "name": "Präzise",
+            "description": "<p>Sie ist für geschickte Angriffe gedacht. Zum Hauen & Stechen mit dieser Waffe wird GE genutzt, nicht ST.</p>"
+        },
+        {
+            "id": "Ration",
+            "name": "Ration",
+            "description": "<p>Es ist essbar – mehr oder weniger.</p>"
+        },
+        {
+            "id": "Reach",
+            "name": "Lang",
+            "description": "<p>Die Waffe kann benutzt werden, um jemanden anzugreifen, der zwei oder drei Meter von dir entfernt ist.</p>"
+        },
+        {
+            "id": "Reload",
+            "name": "Nachladen",
+            "description": "<p>Es dauert länger als einen Moment, um sie nach einem Angriff wieder einsatzbereit zu machen.</p>"
+        },
+        {
+            "id": "Requires",
+            "name": "Voraussetzung: ",
+            "description": "<p>Seine Nutzung ist eingeschränkt. Wenn du die Bedingungen nicht erfüllst, funktioniert es schlecht bis überhaupt nicht.</p>"
+        },
+        {
+            "id": "Requires Dwarf",
+            "name": "Voraussetzung: Zwerg",
+            "description": "<p>Seine Nutzung ist eingeschränkt. Wenn du die Bedingungen nicht erfüllst, funktioniert es schlecht bis überhaupt nicht.</p>"
+        },
+        {
+            "id": "Slow",
+            "name": "Langsam",
+            "description": "<p>Die Nutzung erfordert einige Minuten oder länger.</p>"
+        },
+        {
+            "id": "Small",
+            "name": "Klein",
+            "description": "<p>Es ist ungefähr so groß wie ein Halbling.</p>"
+        },
+        {
+            "id": "Solitary",
+            "name": "Einzelgänger",
+            "description": "<p>Es lebt und kämpft allein.</p>"
+        },
+        {
+            "id": "Stealthy",
+            "name": "Heimlich",
+            "description": "<p>Es kann sich verbergen und greift bevorzugt überraschend an.</p>"
+        },
+        {
+            "id": "Stun",
+            "name": "Betäubung",
+            "description": "<p>Es richtet bei einem Angriff Betäubungsschaden statt normalen Schaden an.</p>"
+        },
+        {
+            "id": "Terrifying",
+            "name": "Furchterregend",
+            "description": "<p>Seine Gegenwart und seine Erscheinung erzeugen Furcht.</p>"
+        },
+        {
+            "id": "Thrown",
+            "name": "Geworfen",
+            "description": "<p>Wirf diese Waffe auf jemanden, um ihm wehzutun. Wenn du mit dieser Waffe eine Salve abgibst, kannst du bei einer 7–9 nicht wählen, Munition abzustreichen. Sobald du sie geworfen hast, ist sie weg, bis du sie wiedererlangt hast.</p>"
+        },
+        {
+            "id": "Tiny",
+            "name": "Winzig",
+            "description": "<p>Es ist viel kleiner als ein Halbling.</p>"
+        },
+        {
+            "id": "Touch",
+            "name": "Berührung",
+            "description": "<p>Man muss zum Einsatz die Haut des Ziels berühren.</p>"
+        },
+        {
+            "id": "Two-handed",
+            "name": "Zweihändig",
+            "description": "<p>Zum effektiven Einsatz werden zwei Hände benötigt.</p>"
+        },
+        {
+            "id": "Worn",
+            "name": "Angelegt",
+            "description": "<p>Um es zu nutzen, musst du es anhaben.</p>"
+        }
+    ]
+}

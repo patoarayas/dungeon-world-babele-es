@@ -1,0 +1,79 @@
+{
+    "label": "Ausrüstung (Ausrüstung)",
+    "mapping": {
+        "description": "data.description",
+        "tags": "data.tags",
+        "tagsString": "data.tagsString"
+    },
+    "entries": [{
+            "id": "Adventuring Gear",
+            "name": "Abenteurerausrüstung",
+            "description": "<p>Abenteuerausrüstung ist eine Sammlung nützlicher, gewöhnlicher Gegenstände wie beispielsweise Kreide, Stäbe, lange Nägel, Seile, usw. Wenn du deine Abenteurerausrüstung nach etwas Nützlichem durchsuchst, findest du diesen Gegenstand und streichst eine Anwendung ab.</p>"
+        },
+        {
+            "id": "Anti-Toxin",
+            "name": "Gegengift",
+            "description": "<p>Wenn du Gegengift trinkst, heilst du eine deiner Vergiftungen.</p>"
+        },
+        {
+            "id": "Bag of Books",
+            "name": "Tasche voller Bücher",
+            "description": "<p>Wenn sich in deiner Tasche voller Bücher genau das richtige Buch zu dem Thema befindet, über welches du gerade Wissen kundtust, dann konsultiere das Buch, streiche eine Anwendung ab und erhalte +1 auf den Wurf.</p>"
+        },
+        {
+            "id": "Bandages",
+            "name": "Verbandszeug",
+            "description": "<p>Wenn du ein paar Minuten hast, um die Wunden von jemandem zu verbinden, heile ihn von 4 Schaden und streiche eine Anwendung ab.</p>",
+            "tags": "[{\"value\":\"Langsam\"}]",
+            "tagsString": "Langsam"
+        },
+        {
+            "id": "Dungeon Rations",
+            "name": "Rationen",
+            "description": "<p>Nicht schmackhaft, aber auch nicht schlecht.</p>",
+            "tags": "[{\"value\":\"Ration\"}]",
+            "tagsString": "Ration"
+        },
+        {
+            "id": "Dwarven Hardtack",
+            "name": "Zergenzwieback",
+            "description": "<p>Zwerge würden sagen, es schmeckt wie zuhause. Alle anderen würden sagen, es schmeckt nur dann wie zuhause, wenn dein Zuhause eine brennende Schweinefarm ist.</p>",
+            "tags": "[{\"value\":\"Voraussetzung: Zwerg\"}]",
+            "tagsString": "Voraussetzung: Zwerg"
+        },
+        {
+            "id": "Elven Bread",
+            "name": "Elfenbrot",
+            "description": "<p>Nur die größten Freunde des Elfenvolks erhalten diese seltene Delikatesse.</p>",
+            "tags": "[{\"value\":\"Ration\"}]",
+            "tagsString": "Ration"
+        },
+        {
+            "id": "Halfling Pipeleaf",
+            "name": "Halblingspfeifenkraut",
+            "description": "<p>Wenn du Halblingspfeifenkraut mit jemandem teilst, streiche zwei Anwendungen ab und erhalte einmalig +1 beim Verhandeln mit ihm.</p>"
+        },
+        {
+            "id": "Healing Potion",
+            "name": "Heiltrank",
+            "description": "<p>Wenn du den ganzen Heiltrank trinkst, heile 10 Schaden oder entferne eine Beeinträchtigung (deine Wahl).</p>"
+        },
+        {
+            "id": "Keg of Dwarven Stout",
+            "name": "Fässchen Zwergenbier",
+            "description": "<p>Wenn du ein Fässchen Zwergenbier anstichst und jedem einen Schluck gewährst, erhältst du +1 auf deinen Wurf zum Gelage feiern. Trinkst du alleine ein ganzes Fässchen, dann bist du sehr, sehr betrunken.</p>"
+        },
+        {
+            "id": "Personal Feast",
+            "name": "Persönliches Fest",
+            "description": "<p>In einem Wort: opulent.</p>"
+        },
+        {
+            "id": "Poultices and Herbs",
+            "name": "Kräuter und Umschläge",
+            "description": "<p>Wenn du einen Verwundeten gewissenhaft mit Kräutern und Umschlägen behandelst, heile ihn von 7 Schaden und streiche eine Anwendung ab.</p>",
+            "tags": "[{\"value\":\"Langsam\"}]",
+            "tagsString": "Langsam"
+        }
+    ]
+}

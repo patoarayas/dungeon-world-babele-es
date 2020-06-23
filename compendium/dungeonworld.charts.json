@@ -1,0 +1,42 @@
+{
+    "label": "Einnahmen/Ausgaben",
+    "mapping": {
+        "description": "content"
+    },
+    "entries": [{
+            "id": "Bribes",
+            "name": "Bestechungen",
+            "description": "<ul>\n<li>Mitgift eines Bauern: 20-Charisma Münzen</li>\n<li>„Schutz“ für ein kleines Geschäft: 100-Charisma Münzen</li>\n<li>Schmieren eines Beamten: 50-Charisma Münzen</li>\n<li>Verlockende Bestechung: 80-Charisma Münzen</li>\n<li>Ein Angebot, das du nicht ablehnen kannst: 500-Charisma Münzen</li>\n</ul>"
+        },
+        {
+            "id": "Gifts and Finery",
+            "name": "Schmuck und Geschenke",
+            "description": "<ul>\n<li>Geschenk eines Bauern: 1 Münze</li>\n<li>Geschenk eines Bürgers: 55 Münzen</li>\n<li>Geschenk eines Adeligen: 200 Münzen</li>\n<li>Ring oder Gemme: 75 Münzen</li>\n<li>Schmuck: 105 Münzen</li>\n<li>Ein erlesener Wandteppich: 350+ Münzen</li>\n<li>Eine Krone, die eines Königs würdig ist: 5,000 Münzen</li>\n</ul>"
+        },
+        {
+            "id": "Hoards",
+            "name": "Horte",
+            "description": "<ul>\n<li>Geheimversteck eines Goblins: 2 Münzen</li>\n<li>Plunder eines Echsenmenschen: 5 Münzen</li>\n<li>Ein „unbezahlbares“ Schwert: 80 Münzen</li>\n<li>Tribut eines orkischen Kriegshäuptlings: 250 Münzen</li>\n<li>Münzen und Edelsteine eines Drachenhorts: 130,000 Münzen</li>\n</ul>"
+        },
+        {
+            "id": "Land and Buildings",
+            "name": "Land und Gebäude",
+            "description": "<ul>\n<li>Hütte: 20 Münzen</li>\n<li>Häuschen: 500 Münzen</li>\n<li>Haus: 2,500 Münzen</li>\n<li>Anwesen: 50,000 Münzen</li>\n<li>Burg: 75,000 Münzen</li>\n<li>Schloss: 250,000 Münzen</li>\n<li>Palast: 1,000,000 Münzen</li>\n<li>Monatliche Kosten: 1% der Kosten</li>\n</ul>"
+        },
+        {
+            "id": "Meals",
+            "name": "Mahlzeiten",
+            "description": "<ul>\n<li>Ein herzhaftes Mahl für eine Person: 1 Münze</li>\n<li>Ein karges Mahl für eine Familie: 1 Münze</li>\n<li>Ein Festessen: 15 Münzen pro Person</li>\n</ul>"
+        },
+        {
+            "id": "Services",
+            "name": "Dienstleistungen",
+            "description": "<ul>\n<li>Eine Woche Aufenthalt in einem bäuerlichen Gasthaus: 14-Charisma Münzen</li>\n<li>Eine Woche Aufenthalt in einem gehobenen Gasthaus: 30-Charisma Münzen</li>\n<li>Eine Woche Aufenthalt im elegantesten Gasthaus der Stadt: 43-Charisma Münzen</li>\n<li>Eine Woche ungelernter, einfacher Arbeit: 10 Münzen</li>\n<li>Monatssold als angeworbener Soldat: 30 Münzen</li>\n<li>Eine Einzelanfertigung von einem Schmied: Gegenstandskosten + 50 Münzen</li>\n<li>Eine Nacht in „angenehmer Gesellschaft“: 20-Charisma Münzen</li>\n<li>Ein Abend des Singens, Tanzens und Feierns: 18-Charisma Münzen</li>\n<li>Ein Tag Eskorte auf einer von Banditen heimgesuchten Straße: 20 Münzen</li>\n<li>Ein Tag Eskorte auf einer von Monstern heimgesuchten Straße: 54 Münzen</li>\n<li>Ein gewöhnlicher Mord: 5 Münzen</li>\n<li>Ein professioneller Auftragsmord: 120 Münzen</li>\n<li>Heilung durch einen Arzt: 5 Münzen</li>\n<li>Ein Monat Gebete für die Verblichenen: 1 Münze</li>\n<li>Reparatur eines gewöhnlichen Gegenstandes: 25% der Kosten des Gegenstandes</li>\n</ul>"
+        },
+        {
+            "id": "Transport",
+            "name": "Transport",
+            "description": "<ul>\n<li>Esel und Karren: 50 Münzen, Tragkraft 20</li>\n<li>Pferd: 75 Münzen, Tragkraft 10</li>\n<li>Streitross: 400 Münzen, Tragkraft 12</li>\n<li>Wagen: 150 Münzen, Tragkraft 40</li>\n<li>Barke: 50 Münzen, Tragkraft 15</li>\n<li>Flussboot: 150 Münzen, Tragkraft 20</li>\n<li>Handelsschiff: 5,000 Münzen, Tragkraft 200</li>\n<li>Kriegsschiff: 20,000 Münzen, Tragkraft 100</li>\n<li>Überfahrt auf einer sicheren Route: 1 Münze</li>\n<li>Überfahrt auf einer schwierigen Route: 10 Münzen</li>\n<li>Überfahrt auf einer gefährlichen Route: 100 Münzen</li>\n</ul>"
+        }
+    ]
+}

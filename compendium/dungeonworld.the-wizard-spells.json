@@ -1,0 +1,157 @@
+{
+    "label": "Magierzauber",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": " Unseen Servant",
+            "name": "Unsichtbarer Diener",
+            "description": "<p><em>Zaubertrick, Dauerhaft</em></p>\n<p>Du beschwörst ein simples, unsichtbares Konstrukt, das nichts tun kann außer deine Sachen für dich zu tragen. Es hat 3 Tragkraft und trägt alles, was du ihm gibst. Das Konstrukt kann selbst keine Gegenstände aufnehmen und nur diejenigen tragen, die du ihm gibst. Die vom Unsichtbaren Diener getragenen Gegenstände scheinen ein paar Schritte hinter dir durch die Luft zu schweben. Wenn das Konstrukt Schaden nimmt oder deine Gegenwart verlässt, löst es sich augenblicklich auf und lässt alle Gegenstände fallen. Ansonsten bleibt der Zauber bestehen, bis du ihn selbst aufhebst.</p>"
+        },
+        {
+            "id": "Alarm",
+            "name": "Alarm",
+            "description": "<p><em>1. Grad</em></p>\n<p>Schreite einen Kreis ab, während du diesen Zauber wirkst. Bis du das nächste Mal <em>Zauber vorbereitest</em>, wird deine Magie dich warnen, sobald eine Kreatur den Kreis betritt. Solltest du schlafen, wird dich der Zauber wecken.</p>"
+        },
+        {
+            "id": "Alert",
+            "name": "Warnruf",
+            "description": "<p><em>9. Grad, Erkenntnis</em></p>\n<p>Beschreibe ein Ereignis. Der SL wird dir mitteilen, wenn das Ereignis eintritt, egal wo du dich befindest oder wie weit entfernt es stattfindet. Wenn du willst, kannst du den Ort des Geschehens beobachten, als wärst du anwesend. Du kannst nur einen <em>Warnruf</em> zur gleichen Zeit aktiv haben.</p>"
+        },
+        {
+            "id": "Antipathy",
+            "name": "Antipathie",
+            "description": "<p><em>9. Grad, Verzauberung, Dauerhaft</em></p>\n<p>Wähle ein Ziel und beschreibe eine Kreaturenart oder eine Gesinnung. Kreaturen der von dir beschriebenen Art oder Gesinnung können nicht in Sichtweite des Ziels gelangen. Eine Kreatur, die aus irgendeinem Grund doch in Sichtweite des Ziels gelangt, flieht sofort. Der Zauber wirkt, bis du die Gegenwart des Ziels verlässt oder den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Cage",
+            "name": "Energiekäfig",
+            "description": "<p><em>5. Grad, Hervorrufung, Dauerhaft</em></p>\n<p>Das Ziel wird in einen Käfig aus magischer Kraft eingesperrt. Nichts kann aus diesem Käfig heraus, nichts kann hinein. Der Käfig bleibt bestehen, bis du einen anderen Zauber wirkst oder den Zauber selbst aufhebst. Während der Zauber besteht, kannst du deinen Blick nicht von dem Käfig abwenden und die eingesperrte Kreatur kann deine Gedanken hören.</p>"
+        },
+        {
+            "id": "Charm Person",
+            "name": "Person bezaubern",
+            "description": "<p><em>1. Grad, Verzauberung, Dauerhaft</em></p>\n<p>Die Person (kein Tier oder Monster), die du beim Wirken dieses Zaubers berührst, betrachtet dich als ihren Freund, bis sie Schaden nimmt oder anderweitig vom Gegenteil überzeugt wird.</p>"
+        },
+        {
+            "id": "Cloudkill",
+            "name": "Todeswolke",
+            "description": "<p><em>7. Grad, Beschwörung, Dauerhaft</em></p>\n<p>Ein Nebel wabert aus dem Jenseits in das Reich der Lebenden und erfüllt die nähere Umgebung. Wenn eine Kreatur im Nebel Schaden erleidet, erleidet sie zusätzlich 1W6 Schaden, der Rüstung ignoriert. Dieser Zauber wirkt, solange du in Sichtweite des Nebels bleibst, oder bis du den Zauber aufhebst. [[/roll 1d6]]</p>"
+        },
+        {
+            "id": "Contact Other Plane",
+            "name": "Andere Ebenen kontaktieren",
+            "description": "<p><em>5. Grad, Erkenntnis</em></p>\n<p>Du schickst eine Bitte in andere Sphären. Nenne Aufenthaltsort, Art, Name oder Titel der Kreatur, die du kontaktieren willst. Du öffnest einen wechselseitigen Kommunikationskanal zwischen euch beiden. Das Gespräch kann von dir oder deinem Kontakt jederzeit abgebrochen werden.</p>"
+        },
+        {
+            "id": "Contact Spirits",
+            "name": "Mit Geistern sprechen",
+            "description": "<p><em>1. Grad, Beschwörung</em></p>\n<p>Nenne den Geist, den du anrufen willst (oder überlasse es dem SL). Du holst das Wesen durch die Ebenen zu dir, gerade nah genug, um mit ihm zu sprechen. Der Geist ist verpflichtet, dir eine Frage bestmöglich zu beantworten.</p>"
+        },
+        {
+            "id": "Contingency",
+            "name": "Notfall",
+            "description": "<p><em>7. Grad, Hervorrufung</em></p>\n<p>Wähle einen Zauber des 5. Grades oder niedriger. Beschreibe einen Auslöser, mit höchstens so vielen Worten, wie du Stufen hast. Der gewählte Zauber wird so lange zurückgehalten, bis du dich entweder entscheidest, ihn zu entfesseln, oder bis der Auslöser eintritt. Du musst für den zurückgehaltenen Zauber nicht würfeln, der Effekt tritt einfach ein. Du darfst nicht mehr als einen <em>Notfall</em>-Zauber gleichzeitig aktiv haben; wenn du einen zweiten wirkst, ersetzt dieser den ersten.</p>"
+        },
+        {
+            "id": "Detect Magic",
+            "name": "Magie entdecken",
+            "description": "<p><em>1. Grad, Erkenntnis</em></p>\n<p>Einer deiner Sinne ist für kurze Zeit in der Lage, Magie wahrzunehmen. Der SL wird dir mitteilen, was in deiner Umgebung magisch ist.</p>"
+        },
+        {
+            "id": "Dispel Magic",
+            "name": "Magie bannen",
+            "description": "<p><em>3. Grad</em></p>\n<p>Wähle einen Zauber oder magischen Effekt in deiner Gegenwart: Dieser Zauber löst ihn auf. Geringere Zauber werden beendet, mächtigere Magie wird nur abgeschwächt und verliert an Wirkung, solange du dich in der Nähe befindest.</p>"
+        },
+        {
+            "id": "Dominate",
+            "name": "Beherrschen",
+            "description": "<p><em>7. Grad, Verzauberung, Dauerhaft</em></p>\n<p>Deine Berührung drängt deinen Verstand in den Körper eines anderen. Nimm 1W4 Punkte. Gib einen Punkt aus, um dein Ziel eine der folgenden Handlungen ausführen zu lassen:</p>\n<ul>\n<li>ein paar Worte deiner Wahl sprechen</li>\n<li>dir etwas geben, das es in der Hand hält</li>\n<li>ein Ziel deiner Wahl gezielt angreifen</li>\n<li>eine Frage deiner Wahl wahrheitsgemäß beantworten</li>\n</ul>\n<p>Wenn dein Ziel Schaden nimmt, verlierst du einen Punkt. Wenn die Punkte aufgebraucht sind, endet der Zauber. Während dieser Zauber anhält, kannst du keine weiteren <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Fireball",
+            "name": "Feuerball",
+            "description": "<p><em>3. Grad, Hervorrufung</em></p>\n<p>Du beschwörst eine mächtige Flammenkugel, die dein Ziel und alle in seiner Nähe erfasst und dabei 2W6 Schaden verursacht, der Rüstung ignoriert. [[/roll 2d6]]</p>"
+        },
+        {
+            "id": "Invisibility",
+            "name": "Unsichtbarkeit",
+            "description": "<p><em>1. Grad, Illusion, Dauerhaft</em></p>\n<p>Berühre einen Verbündeten – er wird unsichtbar. Niemand kann ihn sehen, bis der Unsichtbare angreift oder du den Zauber aufhebst. Während dieser Zauber anhält, kannst du keine weiteren <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Light",
+            "name": "Licht",
+            "description": "<p><em>Zaubertrick</em></p>\n<p>Durch deine Berührung strahlt ein Gegenstand in arkanem Licht. Er verursacht weder Hitze noch Geräusch und benötigt keinen Brennstoff, verhält sich aber ansonsten wie eine gewöhnliche Fackel. Du kannst die Farbe des Lichts frei wählen. Der Effekt hält an, solange du dich in der Nähe befindest.</p>"
+        },
+        {
+            "id": "Magic Missile",
+            "name": "Magisches Geschoss",
+            "description": "<p><em>1. Grad, Hervorrufung</em></p>\n<p>Geschosse aus reiner Magie schießen aus deinen Fingern. Füge einem Ziel 2W4 Schaden zu. [[/roll 2d4]]</p>"
+        },
+        {
+            "id": "Mimic",
+            "name": "Mimikry",
+            "description": "<p><em>3. Grad, Dauerhaft</em></p>\n<p>Du nimmst die Form von jemandem an, den du beim Wirken dieses Zaubers berührt hast. Dein Äußeres ist absolut identisch, aber dein Verhalten kann dich verraten. Der Zauber besteht, bis du Schaden nimmst oder freiwillig zu deiner eigenen Gestalt zurückkehrst. Während der Zauber anhält, hast du keinen Zugriff auf deine Spielzüge des Magiers.</p>"
+        },
+        {
+            "id": "Mirror Image",
+            "name": "Spiegelbild",
+            "description": "<p><em>3. Grad, Illusion</em></p>\n<p>Du erschaffst ein illusorisches Spiegelbild deiner selbst. Wenn du angegriffen wirst, würfle 1W6. Bei einer 4, 5 oder 6 trifft der Angriff dein Spiegelbild, zerstört es und beendet den Zauber [[/roll 1d6]]</p>"
+        },
+        {
+            "id": "Perfect Summons",
+            "name": "Vollkommene Herbeizauberung",
+            "description": "<p><em>9. Grad, Beschwörung</em></p>\n<p>Du teleportierst eine Kreatur zu dir. Nenne ihren Namen oder beschreibe kurz ihre Art. Wenn du sie beim Namen genannt hast, erscheint die Kreatur vor dir. Wenn du ihre Art beschrieben hast, erscheint eine Kreatur der beschriebenen Art.</p>"
+        },
+        {
+            "id": "Polymorph",
+            "name": "Verwandeln",
+            "description": "<p><em>5. Grad, Verzauberung</em></p>\n<p>Deine Berührung verändert die Gestalt einer Kreatur vollkommen. Sie bleibt in dieser Gestalt, bis du einen weiteren Zauber wirkst. Beschreibe die Form, die dein Ziel annimmt, mit allen Attributsänderungen, besonderen Anpassungen oder herausragenden Schwächen. Der SL wird dir dann mindestens eine Einschränkung aus der folgenden Liste auferlegen:</p>\n<ul>\n<li>Die neue Gestalt wird instabil und vorübergehend sein.</li>\n<li>Der Verstand der Kreatur wird ebenfalls verändert.</li>\n<li>Die neue Gestalt hat eine unbeabsichtigte Stärke oder Schwäche.</li>\n</ul>"
+        },
+        {
+            "id": "Prestidigitation",
+            "name": "Zaubertrick",
+            "description": "<p><em>Zaubertrick</em></p>\n<p>Du vollbringst kleinere Tricks echter Magie. Wenn du einen Gegenstand während des Zauberwirken berührst, kannst du ein paar kosmetische Änderungen daran vornehmen: ihn reinigen, beschmutzen, abkühlen, erwärmen, würzen oder seine Farbe ändern. Wenn du während des Zauberwirkens keinen Gegenstand berührst, kannst du einfache Illusionen erschaffen, die nicht größer sind als du selbst. Dabei entstehen plumpe und offensichtliche Illusionen – sie werden zwar niemand täuschen, aber können durchaus unterhaltsam sein.</p>"
+        },
+        {
+            "id": "Shadow Walk",
+            "name": "Schattenreise",
+            "description": "<p><em>7. Grad, Illusion</em></p>\n<p>Der Schatten, den du als Ziel auswählst, wird für dich und deine Verbündeten zu einem Tor. Nenne einen Ort, mit höchstens so vielen Worten, wie du Stufen hast. Durch das Portal zu schreiten, bringt dich und deine Verbündeten, die beim Zauberwirken dabei waren, an den beschriebenen Ort. Das Portal kann von jedem nur einmal durchquert werden.</p>"
+        },
+        {
+            "id": "Shelter",
+            "name": "Unterschlupf",
+            "description": "<p><em>9. Grad, Hervorrufung, Dauerhaft</em></p>\n<p>Du erschaffst ein Gebäude aus reiner magischer Energie. Es kann so groß sein wie ein Schloss oder so klein wie eine Hütte, aber ist immer für nichtmagischem Schaden absolut undurchdringlich. Das Gebäude bleibt bestehen, bis du es verlässt oder den Zauber aufhebst.</p>"
+        },
+        {
+            "id": "Sleep",
+            "name": "Schlaf",
+            "description": "<p><em>3. Grad, Verzauberung</em></p>\n<p>1W4 vom SL ausgewählte Gegner in deiner Sichtweite schlafen ein. Nur Wesen, die schlafen können, sind von diesem Zauber betroffen. Laute Geräusche, Schütteln oder Schmerz wecken sie wie üblich.</p>"
+        },
+        {
+            "id": "Soul Gem",
+            "name": "Seelenfalle",
+            "description": "<p><em>9. Grad</em></p>\n<p>Du bannst die Seele einer sterbenden Kreatur in einen Edelstein. Die gefangene Kreatur ist sich der Einkerkerung bewusst. Sie kann durch Zauber, <em>Verhandeln</em> und andere Effekte beeinflusst werden. Alle Spielzüge gegen die eingekerkerte Kreatur erhalten +1. Du kannst die Seele jederzeit freilassen, aber danach kann sie nicht erneut eingefangen werden.</p>"
+        },
+        {
+            "id": "Summon Monster",
+            "name": "Monster herbeizaubern",
+            "description": "<p><em>5. Grad, Beschwörung, Dauerhaft</em></p>\n<p>Ein Monster erscheint und hilft dir, so gut es kann. Behandle das Monster wie einen Charakter mit 1 Trefferpunkt, der nur Zugriff auf die Grundspielzüge hat. Alle seine Attribute haben einen +1 Modifikator und es nutzt deine Schadenswürfel. Außerdem darfst du 1W6 Vorteile aus der folgenden Liste wählen:</p>\n<ul>\n<li>Erhöhe einen seiner Attributsmodifikatoren auf +2.</li>\n<li>Das Band, das ihn auf dieser Ebene hält, ist stark: Für jede deiner Stufen erhält er +2 TP.</li>\n<li>Es ist nicht rücksichtslos.</li>\n<li>Es verursacht 1W8 Schaden.</li>\n<li>Es hat eine nützliche Anpassung.</li>\n</ul>\n<p>Ausgehend von den ausgewählten Vorteilen wird der SL dir mitteilen, welche Art von Monster du bekommst. Die Kreatur bleibt auf dieser Ebene, bis sie stirbt oder du sie wieder fortschickst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Telepathy",
+            "name": "Telepathie",
+            "description": "<p><em>1. Grad, Erkenntnis, Dauerhaft</em></p>\n<p>Du baust eine telepathische Verbindung mit einer Person auf, die du berührst. Dies erlaubt dir, mit dieser Person gedanklich zu kommunizieren. Du kannst nur eine telepathische Verbindung zur gleichen Zeit haben.</p>"
+        },
+        {
+            "id": "True Seeing",
+            "name": "Wahrer Blick",
+            "description": "<p><em>7. Grad, Erkenntnis, Dauerhaft</em></p>\n<p>Du siehst die Dinge, wie sie wirklich sind. Dieser Effekt bleibt bestehen, bis du lügst oder den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+        },
+        {
+            "id": "Visions Through Time",
+            "name": "Visionen aus der Zeit",
+            "description": "<p><em>3. Grad, Erkenntnis</em></p>\n<p>Wirke diesen Zauber, wenn du auf eine spiegelnde Oberfläche blickst, um in die Tiefe der Zeit einzutauchen. Der SL wird dir ein düsteres Omen offenbaren – Vorzeichen einer Katastrophe, die eintritt, wenn du nichts unternimmst. Er wird dir auch etwas Nützliches darüber verraten, wie du in den katastrophalen Lauf der Dinge eingreifen kannst. Glückliche Omen hingegen sind selten.</p>"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "label": "Movimientos",
+    "mapping": {
+        "description": "data.description"
+    },
+
+    "entries": [{
+            "id": "Aid or Interfere",
+            "name": "Ayudar o Interferir",
+            "description": "<p>Cuando <strong>ayudas o entorpeces a alguien</strong>, tira +vínculo con él.</p>\n<p>* Con un 10+, reciben un +1 o –2 a su tirada, según elijas.</p>\n<p>* Entre 7 y 9, siguen recibiendo el modificador, pero también te expones a daño, un castigo o un coste.</p>"
+        },
+        {
+            "id": "Bolster",
+            "name": "Prepararse",
+            "description": "<p><strong>Wenn du deine Freizeit mit Nachforschungen, Meditation oder hartem Training zubringst</strong>, erhältst du Vorbereitung. </p>\n<p>Wenn du mindestens eine Woche investiert hast, nimm 1 Vorbereitung. </p>\n<p>Wenn du mindestens einen Monat investiert hast, nimm stattdessen 3 Vorbereitung. </p>\n<p>Wenn sich Übung und Planung auszahlen, gib 1 Vorbereitung aus, um +1 auf einen Wurf zu erhalten. Du kannst pro Wurf nur 1 Vorbereitung ausgeben.</p>"
+        },
+        {
+            "id": "Festejar",
+            "name": "Gelage feiern",
+            "description": "<p><strong>Wenn du siegreich zurückkehrst und ein großes Fest feierst</strong>, gib 100 Münzen aus und würfle+1 für je 100 Münzen, die du zusätzlich ausgibst. </p>\n<p>* Bei einer 10+ wähle drei aus der folgenden Liste. </p>\n<p>* Bei 7–9 wähle eines. </p>\n<p>* Bei einem Misserfolg wähle ebenfalls eines, aber die Dinge laufen wirklich aus dem Ruder (der SL wird dir sagen wie).</p>\n<ul>\n<li>Du freundest dich mit einem nützlichen NSC an. </li>\n<li>Du hörst Gerüchte über eine günstige Gelegenheit. </li>\n<li>Dir kommt eine nützliche Information zu Ohren. </li>\n<li>Du wirst nicht übers Ohr gehauen, bezirzt oder in etwas verwickelt.</li>\n</ul>"
+        },
+        {
+            "id": "Defend",
+            "name": "Defender",
+            "description": "<p><strong>Wenn du eine Person, einen Gegenstand oder einen Ort vor Angriffen verteidigst</strong>, würfle+KO. </p>\n<p>* Bei einer 10+ nimm 3 Punkte. </p>\n<p>* Bei 7–9 nimm 1 Punkt. So lange du verteidigst und etwas dich oder das, was du schützt, angreift, darfst du jeweils 1 Punkt ausgeben und dafür jeweils aus folgenden Möglichkeiten wählen:</p>\n<ul>\n<li>Lenke den Angriff auf dich um.</li>\n<li>Halbiere den Effekt oder Schaden des Angriffs.</li>\n<li>Öffne die Deckung des Angreifers und gib einem Verbündeten einmalig +1 gegen ihn.</li>\n<li>Verursache beim Angreifer Schaden in Höhe deiner Stufe.</li>\n</ul>"
+        },
+        {
+            "id": "Defy Danger",
+            "name": "Desafiar el peligro",
+            "description": "<p><strong>Wenn du trotz einer unmittelbaren Gefahr handelst oder dir ein Unheil widerfährt</strong>, beschreibe wie du damit umgehst und würfle. Wenn du ...</p>\n<ul>\n<li>… hindurchbrichst, würfle+ST.</li>\n<li>... ausweichst oder schnell reagierst, würfle+GE.</li>\n<li>... es aushältst, würfle+KO.</li>\n<li>… geistesgegenwärtig handelst, würfle+IN.</li>\n<li>... innere Stärke beweist, würfle+WE.</li>\n<li>... charmant und höflich bleibst, würfle+CH.</li>\n</ul><p>* Bei einer 10+ gelingt dir was du vorhattest und die Gefahr ist gebannt. </p>\n<p>* Bei 7–9 stolperst du, zögerst oder zuckst zurück: Der SL wird dir ein schlimmeres Resultat verpassen, eine harte Forderung an dich richten oder dich vor eine schwierige Wahl stellen.</p>"
+        },
+        {
+            "id": "Discern Realities",
+            "name": "Discernir la realidad",
+            "description": "<p><strong>Wenn du eine Situation oder Person eingehend betrachtest</strong>, würfle+WE. </p>\n<p>* Bei einer 10+ stelle dem SL drei der folgenden Fragen. </p>\n<p>* Bei 7–9 stelle nur eine dieser Fragen. Wenn du auf Grundlage einer der Antworten handelst, erhältst du einmalig +1.</p>\n<ul>\n<li>Was ist hier vor kurzem geschehen?</li>\n<li>Was wird jetzt geschehen?</li>\n<li>Wonach sollte ich Ausschau halten?</li>\n<li>Was hier ist nützlich oder wertvoll für mich?</li>\n<li>Wer hat hier wirklich die Kontrolle?</li>\n<li>Was hier ist nicht so, wie es scheint?</li>\n</ul>"
+        },
+        {
+            "id": "Encumbrance",
+            "name": "Impedimenta",
+            "description": "<p><strong>Wenn du eine Aktion machst, während du Gewicht mit dir herumträgst</strong>, kann es sein, dass du belastet bist. Wenn du </p>\n<ul>\n<li>... höchstens deine Tragkraft trägst, erleidest du keinen Malus. </li>\n<li>... bis zu einschließlich deiner Tragkraft +2 trägst, erleidest du dauerhaft -1, bis du deine Last verringerst. </li>\n<li>... mehr als deine Tragkraft +2 trägst, musst du wählen: Wirf mindestens 1 Gewicht ab und würfle mit -1, oder versage automatisch.</li>\n</ul>"
+        },
+        {
+            "id": "End of Session",
+            "name": "Fin de sesión",
+            "description": "<p><strong>Wenn eine Spielsitzung zu Ende ist</strong>, wähle eines deiner Bande aus, von der du glaubst, dass es aufgelöst wurde (ausgereizt, nicht mehr relevant oder ähnliches). Frage den Spieler des verbundenen Charakters, ob er zustimmt. Wenn das der Fall ist, schreib dir einen EP gut und schließe ein neues Band zu wem auch immer du möchtest. </p>\n<p>Wenn die Bande auf den neuesten Stand gebracht wurden, nimm dir deine Gesinnung vor. Wenn du die Aufgabe deiner Gesinnung mindestens einmal in dieser Spielsitzung erfüllt hast, schreibe dir einen EP gut. </p>\n<p>Dann beantwortet die ganze Gruppe gemeinsam die folgenden drei Fragen: </p>\n<ul>\n<li>Haben wir etwas Neues und Wichtiges über die Welt erfahren? </li>\n<li>Haben wir ein bedeutendes Monster oder Gegner überwunden? </li>\n<li>Haben wir einen denkwürdigen Schatz erbeutet? </li>\n</ul><p>Für jedes „Ja“ darf sich jeder einen EP gutschreiben.</p>"
+        },
+        {
+            "id": "Hack & Slash",
+            "name": "Saja-Raja",
+            "description": "<p><strong>Wenn du einen Feind im Nahkampf angreifst</strong>, würfle+ST. </p>\n<p>* Bei einer 10+ fügst du dem Gegner Schaden zu und weichst dessen Attacke aus. Wenn du willst, kannst du +1W6 Schaden anrichten, dabei öffnest du dich aber für die Attacke des Gegners. </p>\n<p>* Bei 7–9 fügst du dem Gegner Schaden zu, aber dieser trifft dich ebenfalls.</p>"
+        },
+        {
+            "id": "Last Breath",
+            "name": "Último aliento",
+            "description": "<p><strong>Wenn du im Sterben liegst</strong>, dann erhaschst du einen kurzen Blick auf das, was jenseits des Schwarzen Tors des Todes wartet (der SL beschreibt es dir). Dann würfle (würfle einfach, +nichts. Den Tod interessiert es nicht, wie zäh oder wie cool du bist). </p>\n<p>* Bei einer 10+ bist du dem Tod von der Schippe gesprungen: Du bist in üblem Zustand, aber noch am Leben. </p>\n<p>* Bei 7–9 macht der Tod dir ein Angebot. Nimm es an, und dein Zustand stabilisiert sich. Lehne ab, und du durchschreitest das Schwarze Tor, deinem Schicksal entgegen, was immer das sein mag. </p>\n<p>* Bei einem Misserfolg ist dein Schicksal besiegelt. Du bist des Todes und wirst bald hinübergehen. Der SL wird dir sagen, wenn es soweit ist.</p>"
+        },
+        {
+            "id": "Level Up",
+            "name": "Subir de nivel",
+            "description": "<p><strong>Wenn für einige Stunden oder Tage nichts Aufregendes passiert und du mindestens EP in Höhe deiner derzeitigen Stufe+7 besitzt</strong>, kannst du über das Erlebte nachdenken und deine Fähigkeiten verfeinern: </p>\n<ul>\n<li>Zieh deine Stufe+7 von deinen EP ab. </li>\n<li>Erhöhe deine Stufe um 1. </li>\n<li>Wähle aus den <i>Spielzügen für Fortgeschrittene</i> deiner Klasse einen neuen aus. </li>\n<li>Wenn du der Magier bist, darfst du außerdem deinem Zauberbuch einen neuen Zauber hinzufügen. </li>\n<li>Erhöhe eines deiner Attribute um 1 (dies könnte deinen Modifikator verändern). Deine Konstitution zu erhöhen, erhöht auch deine maximalen und aktuellen TP. Attribute können nicht über den Maximalwert von 18 steigen.</li>\n</ul>"
+        },
+        {
+            "id": "Make Camp",
+            "name": "Acampar",
+            "description": "<p><strong>Wenn du dich zur Rast niederlässt</strong>, verbrauchst du eine Ration. </p>\n<p>Wenn ihr an einem gefährlichen Ort seid, dann entscheidet auch über die Wachreihenfolge. </p>\n<p>Wenn du genug EP hast, kannst du eine Stufe aufsteigen. </p>\n<p>Wenn du wenigstens ein paar Stunden ununterbrochenen Schlafs bekommst, heilst du danach Schaden in Höhe der Hälfte deiner maximalen TP.</p>"
+        },
+        {
+            "id": "Outstanding Warrants",
+            "name": "Cuentas pendientes",
+            "description": "<p><strong>Wenn du an einen zivilisierten Ort zurückkehrst</strong>, an dem du schon mal Ärger gemacht hast, würfle+CH. </p>\n<p>* Bei einer 10+ haben sich deine Taten herumgesprochen und jeder erkennt dich. </p>\n<p>* Bei 7–9 ebenso, aber der SL wählt zusätzlich eine der folgenden Komplikationen: </p>\n<ul>\n<li>Die örtliche Wache hat einen Haftbefehl gegen dich. </li>\n<li>Jemand hat ein Kopfgeld auf dich ausgesetzt. </li>\n<li>Jemand, der dir wichtig ist, sitzt aufgrund deiner Taten in der Klemme.</li>\n</ul>"
+        },
+        {
+            "id": "Parley",
+            "name": "Parlamentar",
+            "description": "<p><strong>Wenn du ein Druckmittel gegen einen NSC hast und diesen damit manipulierst</strong>, würfle+CH. Ein Druckmittel ist etwas, was der NSC will oder braucht. </p>\n<p>* Bei 10+ tut er, worum du ihn bittest, wenn du ihm versprichst das zu tun, worum er dich bittet. </p>\n<p>* Bei 7–9 tut er es nur, wenn du ihm hier und jetzt eine Sicherheit dafür geben kannst, dass du dein Versprechen einhalten wirst.</p>"
+        },
+        {
+            "id": "Recover",
+            "name": "Recuperarse",
+            "description": "<p><strong>Wenn du nichts Anderes tust, als dich in sicherer und bequemer Umgebung auszuruhen</strong>, regenerieren sich alle deine TP nach einem Tag. </p>\n<p>Nach drei Tagen Ruhe entferne eine Beeinträchtigung deiner Wahl. Wenn du von einem Heiler (magisch oder weltlich) gepflegt wirst, darfst du bereits nach je zwei Tagen Ruhe eine Einschränkung entfernen.</p>"
+        },
+        {
+            "id": "Recruit",
+            "name": "Reclutar",
+            "description": "<p><strong>Wenn du verbreitest, Helfer rekrutieren zu wollen</strong>, würfle: </p>\n<ul>\n<li>+1 wenn du bekanntmachst, dass du großzügig zahlst. </li>\n<li>+1 wenn du bekanntmachst, was du vorhast. </li>\n<li>+1 wenn du bekanntmachst, dass die Helfer einen Anteil der Beute erhalten. </li>\n<li>+1 wenn du in dieser Gegend einen für die Sache günstigen Ruf besitzt. </li>\n</ul><p>* Bei einer 10+ hast du die Auswahl aus einer ganzen Menge geeigneter Bewerber. Du entscheidest, wen du einstellst und es ist unproblematisch, jemanden abzulehnen. </p>\n<p>* Bei 7–9 musst du jemanden nehmen, der nicht ganz dem entspricht, was du gesucht hast, oder alle ablehnen. </p>\n<p>* Bei einem Misserfolg erklärt ein einflussreicher, aber ungeeigneter Kandidat, dass er mitkommen möchte (ein törichter Jüngling, ein unberechenbarer Draufgänger oder ein heimlicher Feind). Entweder du nimmst ihn mit allen Konsequenzen oder lehnst ihn ab. Wenn du Bewerber ablehnst, erhältst du einmalig -1 auf <i>Anheuern</i>.</p>"
+        },
+        {
+            "id": "Spout Lore",
+            "name": "Exhibir conocimientos",
+            "description": "<p><strong>Wenn du dein gesammeltes Wissen über eine Sache heranziehen möchtest</strong>, gesammeltes Wissen über eine Sache heranziehen möchtest, würfle+IN. </p>\n<p>* Bei einer 10+ wird der SL dir etwas zu diesem Thema erzählen, das in deiner Situation interessant und hilfreich ist. </p>\n<p>* Bei 7–9 sind die Informationen des SL nur interessant – es liegt an dir, sie hilfreich werden zu lassen. </p>\n<p>Der SL kann dich fragen: „Woher weißt du das?“ antworte sofort wahrheitsgemäß.</p>"
+        },
+        {
+            "id": "Supply",
+            "name": "Abastecerse",
+            "description": "<p><strong>Wenn du Gold ausgibst, um etwas zu kaufen</strong>, das in der Siedlung, in der du dich befindest, frei erhältlich ist, kannst du es zum Marktpreis erwerben. </p>\n<p>Ist es etwas Besonderes, Seltenes oder Ausgefallenes, würfle+CH. </p>\n<p>* Bei einer 10+ bekommst du, was du gesucht hast, zu einem angemessenen Preis. </p>\n<p>* Bei 7–9 musst du mehr zahlen oder dich mit etwas lediglich Vergleichbarem begnügen. Der SL wird dir sagen, was deine Optionen sind.</p>"
+        },
+        {
+            "id": "Take Watch",
+            "name": "Hacer guardia",
+            "description": "<p><strong>Wenn du Wache hältst und etwas sich dem Lager nähert</strong>, würfle+WE. </p>\n<p>* Bei einer 10+ kannst du alle im Lager wecken und ihr könnt euch vorbereiten. Alle im Lager erhalten einmalig +1. </p>\n<p>* Bei 7–9 reagierst du einen Moment zu spät: Deine Gefährten im Lager sind wach, aber ihr habt keine Zeit, um euch vorzubereiten. Ihr habt eure Waffen und Rüstungen beisammen, aber das war es auch schon. </p>\n<p>* Ein Misserfolg bedeutet, dass das, was jenseits des Feuerscheins lauert, euch zuvorkommt.</p>"
+        },
+        {
+            "id": "Undertake A Perilous Journey",
+            "name": "Realizar un viaje peligroso",
+            "description": "<p><strong>Wenn ihr durch feindseliges Gebiet reist</strong>, wählt aus der Gruppe einen Anführer, einen Quartiermeister und einen Späher. Jeder Charakter, der eine Aufgabe übernimmt, würfelt+WE. </p>\n<p>* Bei einer 10+: </p>\n<ul>\n<li>verringert der Anführer die Zeit, die ihr benötigt, um euer Ziel zu erreichen (der SL sagt, um wie viel). </li>\n<li>verringert der Quartiermeister die Anzahl der benötigten Rationen um 1. </li>\n<li>entdeckt der Späher jede Gefahr so früh, dass ihr ihr zuvorkommt. </li>\n</ul><p>* Bei 7–9 erfüllt jeder seine Aufgabe wie erwartet: Die Reise dauert etwa so lang wie erwartet, die übliche Menge an Rationen wird verzehrt und niemand überrascht euch, ihr aber auch niemandem.</p>"
+        },
+        {
+            "id": "Volley",
+            "name": "Disparar",
+            "description": "<p><strong>Wenn du zielst und im Fernkampf auf einen Gegner schießt</strong>, würfle+GE. </p>\n<p>* Bei einer 10+ hast du freies Schussfeld und fügst deinen Schaden zu. </p>\n<p>* Bei 7–9 wähle eines (und füge deinen Schaden zu): </p>\n<ul>\n<li>Du musst dich für den Schuss bewegen, was dich in Gefahr bringt (nach Wahl des SL). </li>\n<li>Kein sauberer Treffer: -1W6 Schaden. </li>\n<li>Du musst mehrmals schießen: reduziere deine Munition um 1.</li>\n</ul>"
+        }
+    ]
+}

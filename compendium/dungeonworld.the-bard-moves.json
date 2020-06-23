@@ -1,0 +1,127 @@
+{
+    "label": "Spielzüge Barde",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "A Little Help From My Friends",
+            "name": "Ein Freund, ein guter Freund",
+            "description": "<p><strong>Wenn du jemandem erfolgreich <i>hilfst</i></strong>, erhältst auch du einmalig +1.</p>"
+        },
+        {
+            "id": "A Port In The Storm",
+            "name": "Wo man singt, ...",
+            "description": "<p><strong>Wenn du in eine zivilisierte Siedlung zurückkehrst</strong>, sag dem SL, wann du zuletzt hier warst. Er wird dir erzählen, wie sich der Ort seitdem verändert hat.</p>"
+        },
+        {
+            "id": "An Ear For Magic",
+            "name": "Ein Ohr für Magie",
+            "description": "<p><strong>Wenn du einen Feind einen Zauber sprechen hörst</strong>, wird der SL dir den Namen und Effekt des Zaubers sagen. Wenn du auf Grundlage dieser Information handelst, erhältst du einmalig +1.</p>"
+        },
+        {
+            "id": "Arcane Art",
+            "name": "Zauberkunst",
+            "description": "<p><strong>Wenn du eine Vorführung mit einem einfachen Zauber verbindest</strong>, wähle einen Verbündeten und einen Effekt: </p>\n<ul>\n<li>heile 1W8 Schaden [[/roll 1d8]]</li>\n<li>einmalig +1W4 auf Schaden</li>\n<li>sein Geist schüttelt eine Verzauberung ab </li>\n<li>wenn ihm jemand das nächste Mal erfolgreich hilft, erhält er +2 statt +1 </li>\n</ul>\n<p>Dann würfle+CH: </p>\n<p>* Bei einer 10+ erhält dein Verbündeter den gewählten Effekt. </p>\n<p>* Bei 7–9 tritt der gewünschte Effekt zwar ein, aber du ziehst ungewollte Aufmerksamkeit auf dich oder ein Echo des Zaubers wirkt auch auf andere Wesen. Der SL entscheidet.</p>"
+        },
+        {
+            "id": "Bamboozle",
+            "name": "Schwindler",
+            "description": "<p><strong>Wenn du mit jemanden <i>verhandelst</i></strong>, bekommst du bei einer 7+ zusätzlich einmalig +1 gegen ihn.</p>"
+        },
+        {
+            "id": "Bardic Lore",
+            "name": "Bardenwissen",
+            "description": "<p>Wähle dein Fachgebiet: </p>\n<ul>\n<li>Zauber und Magie </li>\n<li>Die Toten und Untoten </li>\n<li>Die großen Historien der bekannten Welt </li>\n<li>Ein Bestiarium ungeheuerlicher Kreaturen </li>\n<li>Die externaren Sphären </li>\n<li>Legenden vergangener Helden </li>\n<li>Götter und ihre Diener </li>\n</ul>\n<p><strong>Wenn du das erste Mal auf ein Wesen, einen Ort oder Gegenstand mit (deiner Ansicht nach) Bedeutsamkeit für dein Fachgebiet stößt</strong>, kannst du dem SL eine Frage darüber stellen – er wird sie wahrheitsgemäß beantworten. Der SL kann dich dann fragen, aus welcher Sage, welchem Lied oder welcher Legende dein Wissen stammt.</p>"
+        },
+        {
+            "id": "Charming & Open",
+            "name": "Offenherzig",
+            "description": "<p><strong>Wenn du freiheraus mit jemandem redest</strong>, kannst du dem jeweiligen Spieler eine Frage von der folgenden Liste stellen. Er muss sie wahrheitsgemäß beantworten und darf dir danach selbst eine Frage von dieser Liste stellen (die du ebenfalls wahrheitsgemäß beantworten musst). </p>\n<ul>\n<li>Wem dienst du? </li>\n<li>Was möchtest du, das ich tue? </li>\n<li>Wie kann ich dich dazu bringen, ____________? </li>\n<li>Was geht gerade wirklich in dir vor? </li>\n<li>Was begehrst du am meisten?</li>\n</ul>"
+        },
+        {
+            "id": "Con",
+            "name": "Hochstapler",
+            "description": "<p><i>Ersetzt: Schwindler</i></p>\n<p><strong>Wenn du mit jemanden verhandelst</strong>, bekommst du bei einer 7+ zusätzlich einmalig +1 gegen ihn. Du darfst dem jeweiligen Spieler außerdem eine Frage stellen, die er wahrheitsgemäß beantworten muss.</p>"
+        },
+        {
+            "id": "Devious",
+            "name": "Schalk im Nacken",
+            "description": "<p><strong>Wenn du <i>Offenherzig</i> einsetzt</strong>, darfst du außerdem fragen: „Für was bist Du mir gegenüber anfällig?“ Dein Gegenüber darf dir diese Frage nicht stellen.</p>"
+        },
+        {
+            "id": "Duelist’s Block",
+            "name": "Duellantenblock",
+            "description": "<p><i>Ersetzt: Duellantenparade</i></p>\n<p>Beim <i>Hauen & Stechen</i> erhältst du einmalig +2 Rüstung.</p>"
+        },
+        {
+            "id": "Duelist’s Parry",
+            "name": "Duellantenparade",
+            "description": "<p>Beim <i>Hauen & Stechen</i> erhältst du einmalig +1 Rüstung.</p>"
+        },
+        {
+            "id": "Eldritch Chord",
+            "name": "Mystischer Gleichklang",
+            "description": "<p><i>Ersetzt: Mystischer Klang</i></p>\n<p>Deine <i>Zauberkunst</i> ist sehr stark. Du kannst zwei Effekte statt einem wählen. Außerdem kannst du einen der Effekte verdoppeln.</p>"
+        },
+        {
+            "id": "Eldritch Tones",
+            "name": "Mystischer Klang",
+            "description": "<p>Deine <i>Zauberkunst</i> ist stark. Du kannst zwei Effekte statt einem wählen.</p>"
+        },
+        {
+            "id": "Healing Chorus",
+            "name": "Heilender Choral",
+            "description": "<p><i>Ersetzt: Heilendes Lied</i></p>\n<p><strong>Wenn du mit <i>Zauberkunst</i> heilst</strong>, heilst du +2W8 Schaden: [[/roll 3d8]]</p>"
+        },
+        {
+            "id": "Healing Song",
+            "name": "Heilendes Lied",
+            "description": "<p><strong>Wenn du mit <i>Zauberkunst</i> heilst</strong>, heilst du +1W8 Schaden: [[/roll 2d8]]</p>"
+        },
+        {
+            "id": "It Goes To Eleven",
+            "name": "Volle Dröhnung",
+            "description": "<p><strong>Wenn du einen abgedrehten Auftritt hinlegst</strong> (ein amtliches Lautensolo, einen schmetternder Fanfarenstoß etc.), wähle ein Ziel in Hörweite und würfle+CH. </p>\n<p>* Bei einer 10+ greift das Ziel seinen nächsten Verbündeten in Reichweite an. </p>\n<p>* Bei 7–9 greift das Ziel seinen nächsten Verbündeten an, aber du ziehst auch seine Aufmerksamkeit und seinen Zorn auf dich.</p>"
+        },
+        {
+            "id": "Metal Hurlant",
+            "name": "Kreischendes Metall",
+            "description": "<p><strong>Wenn du mit Stimme oder Instrument ohrenbetäubenden Lärm machst</strong>, wähle ein Ziel und würfle +KO. </p>\n<p>* Bei einer 10+ erleidet das Ziel 1W10 Schaden und ist für ein paar Minuten taub. </p>\n<p>* Bei 7–9 fügst du ebenfalls Schaden zu, aber die Sache gerät außer Kontrolle: Der SL wählt ein zusätzliches Ziel in der Nähe.</p>"
+        },
+        {
+            "id": "Multiclass Dabbler",
+            "name": "Multitalent",
+            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+        },
+        {
+            "id": "Multiclass Initiate",
+            "name": "Tausendsassa",
+            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+        },
+        {
+            "id": "Multiclass Master",
+            "name": "Meister aller Klassen",
+            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+        },
+        {
+            "id": "Reputation",
+            "name": "Vorauseilender Ruf",
+            "description": "<p><strong>Wenn du jemanden zum ersten Mal triffst, der Lieder über dich gehört hat</strong>, würfle+CH. </p>\n<p>* Bei einer 10+ nenne dem SL zwei Sachen, die er über dich gehört hat. </p>\n<p>* Bei 7–9 nenne dem SL eine Sache, der SL nennt dir die andere.</p>"
+        },
+        {
+            "id": "Unforgettable Face",
+            "name": "Charakterkopf",
+            "description": "<p><strong>Wenn du jemanden von früher wiedertriffst</strong> (deine Entscheidung), bekommst du einmalig +1 gegen ihn.</p>"
+        },
+        {
+            "id": "Vicious Blast",
+            "name": "Lärmbelästigung",
+            "description": "<p><i>Ersetzt: Ruhestörung</i></p>\n<p><strong>Wenn du mit <i>Zauberkunst</i> Bonusschaden gewährst</strong>, verursacht dein Ziel zusätzliche +2W4 Schaden.</p>"
+        },
+        {
+            "id": "Vicious Cacophony",
+            "name": "Ruhestörung",
+            "description": "<p><strong>Wenn du mit <i>Zauberkunst</i> Bonusschaden gewährst</strong>, verursacht dein Ziel zusätzliche +1W4 Schaden.</p>"
+        }
+    ]
+}

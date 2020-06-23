@@ -1,0 +1,58 @@
+{
+    "label": "Ausrüstung (Rüstung)",
+    "mapping": {
+        "description": "data.description",
+        "tags": "data.tags",
+        "tagsString": "data.tagsString"
+    },
+    "entries": [{
+            "id": "Chainmail",
+            "name": "Kettenpanzer",
+            "description": "<p>Rüstung, die aus zahlreichen – feuergeschweißten bzw. vernieteten – ineinander verflochtenen kleinen Metallringen besteht.</p>",
+            "tags": "[{\"value\":\"Rüstung 1\"},{\"value\":\"Angelegt\"}]",
+            "tagsString": "Rüstung 1, Angelegt"
+        },
+        {
+            "id": "Hide Armor",
+            "name": "Fellrüstung",
+            "description": "<p>Fellrüstung, selbst hergestellt, getragen, beschreibe sie: </p>",
+            "tags": "[{\"value\":\"Rüstung 1\"},{\"value\":\"Angelegt\"}]",
+            "tagsString": "Rüstung 1, Angelegt"
+        },
+        {
+            "id": "Leather Armor",
+            "name": "Lederrüstung",
+            "description": "<p>Rauhe Lederrüstung, gehärtet und dem Körper angepasst.</p>",
+            "tags": "[{\"value\":\"Rüstung 1\"},{\"value\":\"Angelegt\"}]",
+            "tagsString": "Rüstung 1, Angelegt"
+        },
+        {
+            "id": "Ostentatious Clothes",
+            "name": "Prunkvolle Kleider",
+            "description": "<p>Hiermit setzt du definitiv ein Statement.</p>",
+            "tags": "[{\"value\":\"Angelegt\"}]",
+            "tagsString": "Angelegt"
+        },
+        {
+            "id": "Plate",
+            "name": "Plattenpanzer",
+            "description": "<p>Aus körpergerecht geformten Metallplatten bestehende Rüstung.</p>",
+            "tags": "[{\"value\":\"Rüstung 3\"},{\"value\":\"Angelegt\"},{\"value\":\"schwerfällig\"}]",
+            "tagsString": "Rüstung 3, Angelegt, schwerfällig"
+        },
+        {
+            "id": "Scale Mail",
+            "name": "Schuppenpanzer",
+            "description": "<p>Rüstung, die aus zahlreichen Metallplättchen (Blechen) besteht, welche auf Leder angebracht sind.</p>",
+            "tags": "[{\"value\":\"Rüstung 2\"},{\"value\":\"Angelegt\"},{\"value\":\"schwerfällig\"}]",
+            "tagsString": "Rüstung 2, Angelegt, schwerfällig"
+        },
+        {
+            "id": "Shield",
+            "name": "Schild",
+            "description": "<p>Der i.d.R. aus Holz bestehende Schild ist ein Teil der persönlichen Rüstung, den du aktiv mit einem Arm zum Block gegen feindliche Angriffe führst und der optional an Handgelenk oder Vorderarm geschnallt werden kann.</p>",
+            "tags": "[{\"value\":\"+1 Rüstung\"}]",
+            "tagsString": "+1 Rüstung"
+        }
+    ]
+}

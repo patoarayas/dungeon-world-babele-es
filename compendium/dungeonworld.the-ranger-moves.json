@@ -1,0 +1,127 @@
+{
+    "label": "Spielzüge Waldläufer",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "A Safe Place",
+            "name": "Ein sicherer Ort",
+            "description": "<p><strong>Wenn du die Wache einteilst</strong>, erhält jeder +1 auf seinen Wurf zum <em>Wache halten</em>.</p>"
+        },
+        {
+            "id": "A Safer Place",
+            "name": "Der sicherste Ort",
+            "description": "<p><em>Ersetzt: Ein sicherer Ort</em></p>\n<p><strong>Wenn du die Wache einteilst</strong>, erhält jeder +1 auf seinen Wurf zum <em>Wache halten</em>. Nach einer Nacht in einem Lager, in der du die Wachen eingeteilt hast, erhält jeder einmalig +1.</p>"
+        },
+        {
+            "id": "Animal Companion",
+            "name": "Tiergefährte",
+            "description": "<p>Du hast eine übernatürliche Verbindung zu einem dir treu ergebenen Tier. Du kannst nicht direkt mit ihm sprechen, aber es tut immer, was du wünscht. Gib deinem Tiergefährten einen Namen und wähle eine Art:</p>\n<h2>Name hier</h2>\n<h3>Choose a species:</h3>\n<p>Wolf, Puma, Bär, Adler, Hund, Falke, Katze, Eule, Taube, Ratte, Maultier, ____________</p>\n<h3>Wähle seine Grundwerte:</h3>\n<ul>\n<li>Wildheit +2, Klugheit +1, Rüstung 1, Instinkt +1</li>\n<li>Wildheit +2, Klugheit +2, Rüstung 0, Instinkt +1</li>\n<li>Wildheit +1, Klugheit +2, Rüstung 1, Instinkt +1</li>\n<li>Wildheit +3, Klugheit +1, Rüstung 1, Instinkt +2</li>\n</ul>\n<h3>Wähle so viele Stärken, wie seine Wildheit beträgt:</h3>\n<p>schnell, stämmig, riesig, ruhig, anpassungsfähig, schnelle Reflexe, unermüdlich, getarnt, wild, bedrohlich, scharfe Sinne, verstohlen, ____________</p>\n<h3>Dein Tiergefährte ist darauf abgerichtet, gegen Humanoide zu kämpfen. Wähle so viele weitere Abrichtungen, wie seine Klugheit beträgt:</h3>\n<p>Jagen, Aufspüren, Spähen, Bewachen, Monster Bekämpfen, Tricks Vorführen, Arbeiten, Reisen, ____________</p>\n<h3>Wähle so viele Schwächen, wie sein Instinkt beträgt:</h3>\n<p>ängstlich, wild, träge, domestiziert, furchteinflößend, vergesslich, stur, lahm, ____________</p>"
+        },
+        {
+            "id": "Blot Out The Sun",
+            "name": "Die Sonne verdunkeln",
+            "description": "<p><strong>Wenn du eine <em>Salve</em> abgibst</strong>, kannst du vor dem Würfeln zusätzliche Munition ausgeben. Für jeden Punkt Munition kannst du ein zusätzliches Ziel wählen. Würfle einmal und verursache Schaden bei allen Zielen.</p>"
+        },
+        {
+            "id": "Called Shot",
+            "name": "Gezielter Schuss",
+            "description": "<p><strong>Wenn du einen wehrlosen oder überraschten Feind im Fernkampf angreifst</strong>, darfst du wählen, ob du deinen Schaden verursachst oder auf ein bestimmtes Körperteil zielst. Wählst du letzteres, würfle+GE.</p>\n<ul>\n<li><strong>Kopf </strong>*10+: Wie 7–9, zuzüglich deines Schadens. *7-9: Dein Ziel ist betäubt und tut einige Augenblicke nichts.</li>\n<li><strong>Arme </strong>*10+: Wie 7–9, zuzüglich deines Schadens *7-9: Dein Ziel lässt fallen, was es in der Hand gehalten hat.</li>\n<li><strong>Legs </strong>*10+: Wie 7–9, zuzüglich deines Schadens *7-9: Dein Ziel hinkt und kann sich nur langsam bewegen.</li>\n</ul>"
+        },
+        {
+            "id": "Camouflage",
+            "name": "Tarnung",
+            "description": "<p><strong>Wenn du in natürlicher Umgebung unbeweglich verharrst</strong>, können Feinde dich nicht entdecken, bis du dich bewegst.</p>"
+        },
+        {
+            "id": "Command",
+            "name": "Befehligen",
+            "description": "<p><strong>Wenn du mit einem Tiergefährten zusammen an etwas arbeitest, auf das er abgerichtet ist</strong>, ...</p>\n<ul>\n<li>... und ihr beide dasselbe Ziel angreift, füge seine Wildheit deinem Schaden hinzu.</li>\n<li>... und du ein Ziel verfolgst, füge seine Klugheit deinem Wurf hinzu.</li>\n<li>... und du Schaden nimmst, füge seine Rüstung der deinen hinzu.</li>\n<li>... und du <em>Gewissheit erlangst</em>, füge seine Klugheit deinem Wurf hinzu</li>\n<li>... und du <em>verhandelst</em>, füge seine Klugheit deinem Wurf hinzu.</li>\n<li> und jemand dich <em>hindern</em> will, füge seinen Instinkt dem Wurf deines Gegners hinzu</li>\n</ul>"
+        },
+        {
+            "id": "Familiar Prey",
+            "name": "Vertraute Beute",
+            "description": "<p><strong>Wenn du über ein Monster Wissen kundtust</strong>, würfelst du +WE statt +IN.</p>"
+        },
+        {
+            "id": "Follow Me",
+            "name": "Mir nach!",
+            "description": "<p><strong>Wenn du eine <em>gefährliche Reise</em> unternimmst</strong>, kannst du zwei Aufgaben übernehmen. Du würfelst für jede Rolle getrennt.</p>"
+        },
+        {
+            "id": "God Amidst The Wastes",
+            "name": "Gott des Ödlands",
+            "description": "<p>Verschreibe dich einer Gottheit (benenne eine neue oder wähle eine bekannte). Du erhältst die Klerikerspielzüge <em>Zwiegespräch</em> und <em>Zauber wirken</em>. Nachdem du diesen Spielzug auswählst, wirst du beim Zaubern wie ein Kleriker der Stufe 1 behandelt. Immer wenn du eine Stufe aufsteigst, erhöhe deine effektive Klerikerstufe um 1.</p>"
+        },
+        {
+            "id": "Half-elven",
+            "name": "Halbelf",
+            "description": "<p>In deiner Ahnenlinie schlummert ein fremdes Erbe, das nun zu Tage tritt. Du bekommst den Volksspielzug, den du zu Beginn nicht gewählt hast (den elfischen, wenn du ein Mensch bist und andersherum).</strong></p>"
+        },
+        {
+            "id": "Hunt & Track",
+            "name": "Spuren lesen",
+            "description": "<p><strong>Wenn du einer Spur von Hinweisen folgst, die von vorbeiziehenden Kreaturen hinterlassen wurden</strong>, würfle+WE. </p>\n<p>* Bei einer 7+ kannst du der Fährte so lange folgen, bis sich das Gelände, das Wetter oder die Art der Fortbewegung merklich geändert hat. </p>\n<p>* Bei einer 10+ wähle außerdem eines:</p>\n<ul>\n<li>Du erfährst etwas Nützliches über deine Beute – der SL wird dir sagen was</li>\n<li>Bestimme, was die Spur hat enden lassen</li>\n</ul>"
+        },
+        {
+            "id": "Hunter’s Prey",
+            "name": "Beute des Jägers",
+            "description": "<p><em>Ersetzt: Vertraute Beute</em></p>\n<p><strong>Wenn du über ein Monster <em>Wissen kundtust</em></strong>, würfelst du +WE statt +IN. Bei einer 12+ darfst du dem SL zusätzlich zu den normalen Effekten eine beliebige Frage über das Thema stellen.</p>"
+        },
+        {
+            "id": "Man’s Best Friend",
+            "name": "Der beste Freund des Menschen",
+            "description": "<p><strong>Wenn du deinen Tiergefährten einen für dich bestimmten Schlag abfangen lässt</strong>, wird der Schaden negiert und die Wildheit deines Tiergefährten sinkt auf 0. Wenn seine Wildheit bereits 0 ist, kannst du diesen Zug nicht auslösen. Nach ein paar Stunden der Rast kehrt die Wildheit deines Tiergefährten auf ihren Normalwert zurück.</p>"
+        },
+        {
+            "id": "Observant",
+            "name": "Aufmerksamkeit",
+            "description": "<p><strong>Wenn du Spuren liest</strong>, darfst du dem SL zusätzlich eine Frage über die verfolgte Kreatur aus der Liste von <em>Gewissheit erlangen</em> stellen.</p>"
+        },
+        {
+            "id": "Smaug’s Belly",
+            "name": "Smaugs Unterleib",
+            "description": "<p><strong>Wenn du die Schwachstelle deines Gegners kennst</strong>, erhalten deine Pfeile <em>Durchdringung 2</em>.</p>"
+        },
+        {
+            "id": "Special Trick",
+            "name": "Kunststück",
+            "description": "<p>Wähle einen Spielzug einer anderen Klasse aus. Solange du mit deinem <em>Tiergefährten</em> zusammenarbeitest, steht dir dieser Spielzug zur Verfügung.</p>"
+        },
+        {
+            "id": "Strider",
+            "name": "Streicher",
+            "description": "<p><em>Ersetzt: Mir nach!</em></p>\n<p><strong>Wenn du eine <em>gefährliche Reise unternimmst</em></strong>, kannst du zwei Aufgaben übernehmen. Du würfelst zweimal und nimmst das bessere Ergebnis für beide Aufgaben</p>"
+        },
+        {
+            "id": "Unnatural Ally",
+            "name": "Unheimlicher Gefährte",
+            "description": "<p>Dein Tiergefährte ist kein Tier, sondern ein Monster. Beschreibe es. Gib ihm +2 Wildheit und +1 Instinkt, sowie eine neue Abrichtung.</p>"
+        },
+        {
+            "id": "Viper’s Fangs",
+            "name": "Vipernwirbel",
+            "description": "<p><em>Ersetzt: Vipernhieb</em></p>\n<p><strong>Wenn du einen Gegner mit zwei Waffen gleichzeitig angreifst</strong>, verursache +1W8 Schaden, was deine Zweitwaffe darstellt. [[/roll 1d8]]</p>"
+        },
+        {
+            "id": "Viper’s Strike",
+            "name": "Vipernhieb",
+            "description": "<p><strong>Wenn du einen Gegner mit zwei Waffen gleichzeitig angreifst</strong>, verursache +1W4 Schaden, was deine Zweitwaffe darstellt. [[/roll 1d4]]</p>"
+        },
+        {
+            "id": "Well-trained",
+            "name": "Gut abgerichtet",
+            "description": "<p>Wähle eine weitere Abrichtung für deinen Tiergefährten.</p>"
+        },
+        {
+            "id": "Wild Empathy",
+            "name": "Tiergespür",
+            "description": "<p>Du kannst mit Tieren sprechen und sie verstehen.</p>"
+        },
+        {
+            "id": "Wild Speech",
+            "name": "Wildnisgespür",
+            "description": "<p><em>Ersetzt: Tiergespür</em></p>\n<p>Du kannst mit jeder nichtmagischen Kreatur sprechen, sofern sie nicht von einer anderen Ebene stammt.</p>"
+        }
+    ]
+}

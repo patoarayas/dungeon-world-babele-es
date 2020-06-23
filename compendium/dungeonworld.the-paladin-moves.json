@@ -1,0 +1,127 @@
+{
+    "label": "Spielzüge Paladin",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [{
+            "id": "Armored",
+            "name": "Gerüstet",
+            "description": "<p>Du ignorierst bei von dir getragenen Rüstungen die Eigenschaft <em>schwerfällig</em>.</p>"
+        },
+        {
+            "id": "Bloody Aegis",
+            "name": "Blutige Ägide",
+            "description": "<p><strong>Wenn du Schaden nimmst</strong>, kannst du die Zähne zusammenbeißen und den Schlag hinnehmen. Wenn du dies tust, bekommst du keinen Schaden, sondern erleidest eine Beeinträchtigung deiner Wahl. Wenn du bereits alle sechs Beeinträchtigungen hast, kannst du diesen Zug nicht auslösen.</p>"
+        },
+        {
+            "id": "Charge!",
+            "name": "Vorwärts!",
+            "description": "<p><strong>Wenn du einen Sturmangriff anführst</strong>, erhalten die, die dir folgen, einmalig +1.</p>"
+        },
+        {
+            "id": "Divine Authority",
+            "name": "Stimme der Macht",
+            "description": "<p><em>Ersetzt: Stimme der Autorität</em></p>\n<p><strong>Wenn du Gefolgsleute befehligst</strong>, erhältst du +1 auf deinen Wurf. Bei einer 12+ wächst der Gefolgsmann über sämtliche Ängste und Zweifel hinaus und führt deinen Befehl mit besonderer Effektivität oder Effizienz aus.</p>"
+        },
+        {
+            "id": "Divine Favor",
+            "name": "Göttliche Gunst",
+            "description": "<p>Verschreibe dich einer Gottheit (benenne eine neue oder wähle eine bekannte). Du erhältst die Klerikerspielzüge <em>Zwiegespräch</em> und <em>Zauber wirken</em>. Nachdem du diesen Spielzug auswählst, wirst du beim Zaubern wie ein Kleriker der Stufe 1 behandelt. Immer wenn du eine Stufe aufsteigst, erhöhe deine effektive Klerikerstufe um 1.</p>"
+        },
+        {
+            "id": "Divine Protection",
+            "name": "Göttlicher Schutz",
+            "description": "<p><em>Ersetzt: Heiliger Schutz</em></p>\n<p><strong>Wenn du dich auf einer <em>Queste</em> befindest</strong>, erhältst du +2 Rüstung.</p>"
+        },
+        {
+            "id": "Ever Onward",
+            "name": "Immer vorwärts!",
+            "description": "<p><em>Ersetzt: Vorwärts!</em></p>\n<p><strong>Wenn du einen Sturmangriff anführst</strong>, erhalten diejenigen, die dir folgen, einmalig +1 und einmalig +2 Rüstung.</p>"
+        },
+        {
+            "id": "Evidence Of Faith",
+            "name": "Glaubensbeweis",
+            "description": "<p><em>Voraussetzung: Göttliche Gunst</em></p>\n<p><strong>Wenn du das Wirken göttlicher Magie siehst</strong>, kannst du den SL fragen, welche Gottheit den Zauber mitsamt seiner Effekte gewährt hat. Wenn du auf Grundlage der Antwort handelst, erhältst du einmalig +1.</p>"
+        },
+        {
+            "id": "Exterminatus",
+            "name": "Exterminatus",
+            "description": "<p><strong>Wenn du laut und deutlich gelobst, einen Feind zu besiegen</strong>, verursachst du +2W4 Schaden gegen diesen Feind und -4 Schaden gegen jeden anderen. Dieser Effekt hält so lange an, bis der Gegner besiegt ist. Wenn es dir nicht gelingt, deinen Gegner zu besiegen oder du aufgibst, kannst du dein Versagen eingestehen, aber der Effekt hält an, bis du auf irgendeine Weise Abbitte geleistet hast. [[/roll 2d4]]</p>"
+        },
+        {
+            "id": "Holy Protection",
+            "name": "Heiliger Schutz",
+            "description": "<p><strong>Wenn du dich auf einer <em>Queste</em> befindest</strong>, erhältst du +1 Rüstung.</p>"
+        },
+        {
+            "id": "Holy Smite",
+            "name": "Heiliges Niederstrecken",
+            "description": "<p><em>Ersetzt: Niederstrecken</em></p>\n<p><strong>Während du auf einer <em>Queste</em> bist</strong>, verursachst du +1W8 Schaden. [[/roll 1d8]]</p>"
+        },
+        {
+            "id": "Hospitaller",
+            "name": "Ordensritter",
+            "description": "<p><strong>Wenn du einen Verbündeten heilst</strong>, heile +1W8 Schaden. [[/roll 1d8]]</p>"
+        },
+        {
+            "id": "I Am The Law",
+            "name": "Ich bin das Gesetz",
+            "description": "<p><strong>Wenn du einem NSC aufgrund deiner gottgegebenen Autorität einen Befehl gibst</strong>, würfle+CH. </p>\n<p>* Bei einer 7+ darf der NSC eines auswählen: Tun, was du sagst. Vorsichtig zurückweichen, dann fliehen. Dich angreifen. </p>\n<p>* Bei einer 10+ bekommst du außerdem einmalig +1 gegen ihn. </p>\n<p>* Bei 6- tut er, was er will, und du erleidest einmalig -1 gegen ihn.</p>"
+        },
+        {
+            "id": "Impervious Defender",
+            "name": "Unerschütterlicher Verteidiger",
+            "description": "<p><em>Ersetzt: Wackerer Verteidiger</em></p>\n<p><strong>Wenn du <em>verteidigst</em></strong>, nimm immer +1 Punkte, selbst bei einer 6-. <strong>Wenn du beim <em>Verteidigen</em> eine 12 würfelst</strong>, nimm keine Punkte. Stattdessen blockierst du den dir am nächsten stehenden Angreifer so sehr, dass dir daraus ein deutlicher Vorteil entsteht. Der SL wird ihn dir beschreiben.</p>"
+        },
+        {
+            "id": "Indomitable",
+            "name": "Unüberwindlich",
+            "description": "<p><strong>Wenn du an einer Beeinträchtigung leidest </strong>(auch durch <em>Blutige Ägide</em>), erhältst du einmalig +1 gegen ihren Verursacher.</p>"
+        },
+        {
+            "id": "Lay On Hands",
+            "name": "Handauflegen",
+            "description": "<p><strong>Wenn deine Hand die bloße Haut eines Anderen berührt und du für sein Wohlbefinden betest</strong>, würfle+CH. </p>\n<p>* Bei einer 10+ heilst du bei dieser Person 1W8 Schaden oder eine Krankheit. </p>\n<p>* Bei 7–9 heilst du die Person ebenso, aber ihr Schaden oder ihre Krankheit wird auf dich übertragen.</p>"
+        },
+        {
+            "id": "Perfect Hospitaller",
+            "name": "Tempelritter",
+            "description": "<p><em>Ersetzt: Ordensritter</em></p>\n<p><strong>Wenn du einen Verbündeten heilst</strong>, heile +2W8 Schaden [[/roll 2d8]]</p>"
+        },
+        {
+            "id": "Perfect Knight",
+            "name": "Vollkommener Ritter",
+            "description": "<p><strong>Wenn du dich auf eine Queste begibst</strong>, wähle drei Gaben anstatt zwei.</p>"
+        },
+        {
+            "id": "Quest",
+            "name": "Queste",
+            "description": "<p><strong>Wenn du dich durch Gebet und rituelle Reinigung einer Aufgabe verschreibst</strong>, erkläre, was du vorhast:</p>\n<ul>\n<li>Erschlage ____________, ein großes Übel, das das Land heimsucht.</li>\n<li>Verteidige ____________ gegen die drängende Ungerechtigkeit.</li>\n<li>Entdecke die Wahrheit über ____________.</li>\n</ul>\n<p>Dann wähle bis zu zwei Gaben, die dir deine Gottheit verleiht:</p>\n<ul>\n<li>Dann wähle bis zu zwei Gaben, die dir deine Gottheit verleiht:</li>\n<li>Unverwundbarkeit gegen ____________ (z. B. Klingenwaffen, Feuer, Bezauberung, etc.)</li>\n<li>ein Zeichen göttlicher Autorität</li>\n<li>Sinne, die Lügen durchschauen.</li>\n<li>eine Stimme, die jede Sprache spricht</li>\n<li>Freiheit von Hunger, Durst, und Müdigkeit</li>\n</ul>\n<p>Der SL wird dir dann sagen, welchen Schwur oder welche Schwüre du leisten musst, um deine Gaben zu behalten:</p>\n<ul>\n<li>Ehre (verboten: feige Taktiken und Tricks)</li>\n<li>Mäßigung (verboten: Maßlosigkeit beim Essen, Trinken und in der Fleischeslust)</li>\n<li>Frömmigkeit (erfordert: strikte Einhaltung der täglichen Riten)</li>\n<li>Tapferkeit (verboten: eine böse Kreatur am Leben lassen)</li>\n<li>Wahrhaftigkeit (verboten: lügen)</li>\n<li>Gastfreundschaft (erfordert: Hilfe für jene in Not, wer auch immer sie sein mögen)</li>\n</ul>"
+        },
+        {
+            "id": "Setup Strike",
+            "name": "Zangenangriff",
+            "description": "<p><strong>Wenn du <em>haust & stichst</em></strong>, wähle einen Verbündeten. Sein nächster Angriff gegen dein Ziel verursacht +1W4 Schaden [[/roll 1d4]]</p>"
+        },
+        {
+            "id": "Smite",
+            "name": "Niederstrecken",
+            "description": "<p><strong>Während du auf einer <em>Queste</em> bist</strong>, verursachst du +1W4 Schaden [[/roll 1d4]]</p>"
+        },
+        {
+            "id": "Staunch Defender",
+            "name": "Wackerer Verteidiger",
+            "description": "<p><strong>Wenn du verteidigst</strong>, nimm immer +1 Punkte, selbst bei einer 6-.</p>"
+        },
+        {
+            "id": "Tandem Strike",
+            "name": "Einkesseln",
+            "description": "<p><em>Ersetzt: Zangenangriff</em></p>\n<p><strong>Wenn du <em>haust & stichst</em></strong>, wähle einen Verbündeten. Sein nächster Angriff gegen dein Ziel verursacht +1W4 Schaden und er erhält einmalig +1 dagegen [[/roll 1d4]]</p>"
+        },
+        {
+            "id": "Voice Of Authority",
+            "name": "Stimme der Autorität",
+            "description": "<p><strong>Wenn du Gefolgsleute befehligst</strong>, erhältst du +1 auf deinen Wurf.</p>"
+        }
+    ]
+}

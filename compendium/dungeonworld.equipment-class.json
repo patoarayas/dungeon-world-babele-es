@@ -1,0 +1,74 @@
+{
+    "label": "Ausrüstung (Klassen)",
+    "mapping": {
+        "description": "data.description",
+        "weight": "data.weight"
+    },
+    "entries": [{
+            "id": "Fiddle",
+            "name": "Fiedel",
+            "description": "<p>Ein Lauteninstrument, das mit dem Bogen gestrichen wird.</p>"
+        },
+        {
+            "id": "Horn",
+            "name": "Horn",
+            "description": "<p>Ein langes Rohr aus Metall.</p>"
+        },
+        {
+            "id": "Lute",
+            "name": "Laute",
+            "description": "<p>Ein Zupfinstrument mit einem stark gewöbten Korpus.</p>"
+        },
+        {
+            "id": "Mandolin",
+            "name": "Mandoline",
+            "description": "<p>Ein Zupfinstrument mit einem mandelförmigen Korpus.</p>"
+        },
+        {
+            "id": "Mark of Faith",
+            "name": "Zeichen deines Glaubens",
+            "description": "<p>Ein Zeichen deines Glaubens, beschreibe es:</p>"
+        },
+        {
+            "id": "Pipes",
+            "name": "Flöte",
+            "description": "<p>Eine Flöte mit 3 Löchern.</p>"
+        },
+        {
+            "id": "Poison",
+            "name": "Gift",
+            "description": "Stoff, der Lebewesen durch Eindringen in den Organismus Schaden zufügen kann."
+        },
+        {
+            "id": "Signature Weapon",
+            "name": "Einzigartige Waffe",
+            "description": "<p>Dies ist deine Waffe. Es gibt viele wie sie, aber diese ist die Deine. Sie ist dein bester Freund. Sie ist dein Leben. Du meisterst sie, wie du auch dein Leben meistern musst. Ohne dich ist deine Waffe nutzlos. Ohne deine Waffe bist du nutzlos. Du musst deine Waffe wahrhaftig führen.</p>\n<h3>Wähle einen Grundtyp (alle haben 2 Gewicht):</h3>\n<ul>\n<li>Schwert</li>\n<li>Axt</li>\n<li>Hammer</li>\n<li>Speer</li>\n<li>Flegel</li>\n<li>Fäuste</li>\n</ul>\n<h3>Wähle die Reichweite, die am besten zu deiner Waffe passt:</h3>\n<ul>\n<li>Hand</li>\n<li>Kurz</li>\n<li>Lang</li>\n</ul>\n<h3>Wähle zwei Verbesserungen:</h3>\n<ul>\n<li>Haken und Stacheln (+1 Schaden, +1 Gewicht)</li>\n<li>Scharf (Durchdringung +2)</li>\n<li>Ausbalanciert (präzise)</li>\n<li>Gezackte Klinge (+1 Schaden)</li>\n<li>Leuchtet in Gegenwart einer Kreaturenart deiner Wahl</li>\n<li>Riesig (brutal, wuchtig)</li>\n<li>Vielseitig (wähle eine zusätzliche Reichweite)</li>\n<li>Gut gearbeitet (-1 Gewicht)</li>\n</ul>\n<h3>Wähle ihr Aussehen:</h3>\n<ul>\n<li>Altertümlich</li>\n<li>Makellos</li>\n<li>Verziert</li>\n<li>Blutverkrustet</li>\n<li>Unheimlich</li>\n</ul>",
+            "weight": "2"
+        },
+        {
+            "id": "Songbook",
+            "name": "Gesangsbuch",
+            "description": "<p>Ein Buch, das über viele Jahre gesammelte Lieder enthält.</p>"
+        },
+        {
+            "id": "Spellbook",
+            "name": "Zauberbuch",
+            "description": "<p>Du hast einige Zauber gemeistert und in dein Zauberbuch geschrieben. Du beginnst das Spiel mit drei Zaubern des 1. Grades sowie deinen Zaubertricks. Immer wenn du eine Stufe aufsteigst, fügst du deinem Zauberbuch einen neuen Zauber hinzu, dessen Grad deine neue Stufe aber nicht übersteigen darf. Dein Zauberbuch hat 1 Gewicht.</p>"
+        },
+        {
+            "id": "Symbol",
+            "name": "Zeichen",
+            "description": "<p>Ein Zeichen der früheren Entbehrungen, beschreibe es:</p>"
+        },
+        {
+            "id": "Symbol of the Devine",
+            "name": "Heiliges Symbol",
+            "description": "<p>Ein heiliges Symbol, beschreibe es:</p>"
+        },
+        {
+            "id": "Token",
+            "name": "Andenken",
+            "description": "<p>Ein Andenken an deine Reisen oder deine Heimat – beschreibe es: </p>"
+        }
+    ]
+}

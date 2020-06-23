@@ -1,0 +1,184 @@
+{
+    "label": "Ausrüstung (Waffen)",
+    "mapping": {
+        "description": "data.description",
+        "tags": "data.tags",
+        "tagsString": "data.tagsString"
+    },
+    "entries": [{
+            "id": "Axe",
+            "name": "Axt",
+            "description": "<p>Zugleich Werkzeug und Waffe, geeignet zum Spalten.</p>",
+            "tags": "[{\"value\":\"Kurz\"}]",
+            "tagsString": "Kurz"
+        },
+        {
+            "id": "Battle Axe",
+            "name": "Streitaxt",
+            "description": "<p>Eine Zweihandaxt, für den Kampf geschaffen.</p>",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"}]",
+            "tagsString": "Kurz, +1 Schaden"
+        },
+        {
+            "id": "Bundle of Arrows",
+            "name": "Bündel Pfeile",
+            "description": "<p>Ein Bündel Pfeile.</p>",
+            "tags": "[{\"value\":\"3 Munition\"}]",
+            "tagsString": "3 Munition"
+        },
+        {
+            "id": "Club",
+            "name": "Keule",
+            "description": "<p>Eine Schlagwaffe aus Holz.</p>",
+            "tags": "[{\"value\":\"Kurz\"}]",
+            "tagsString": "Kurz"
+        },
+        {
+            "id": "Crossbow",
+            "name": "Armbrust",
+            "description": "<p>Die Armbrust ist im Prinzip ein horizontal auf einer Mittelsäule montierter Bogen, der es dem Schützen durch eine Rückhaltevorrichtung für die Sehne ermöglicht, die Waffe ohne Anstrengung gespannt zu halten und dadurch lange und genau zu zielen.</p>",
+            "tags": "[{\"value\":\"Nah\"},{\"value\":\"+1 Schaden\"},{\"value\":\"Nachladen\"}]",
+            "tagsString": "Nah, +1 Schaden, Nachladen"
+        },
+        {
+            "id": "Dagger",
+            "name": "Dolch",
+            "description": "<p>Eine kurze Klinge aus Eisen.</p>",
+            "tags": "[{\"value\":\"Hand\"}]",
+            "tagsString": "Hand"
+        },
+        {
+            "id": "Dueling Rapier",
+            "name": "Duell-Rapier",
+            "description": "<p>Eine zweischneidige gerade Klinge mit sehr spitzen Ort, präzise und gut ausbalancierte Hieb- und Stichwaffe.</p>",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"Durchdringung 1\"},{\"value\":\"Präzise\"}]",
+            "tagsString": "Kurz, Durchdringung 1, Präzise"
+        },
+        {
+            "id": "Elven Arrows",
+            "name": "Elfenpfeile",
+            "description": "<p>Fein gerarbeitete Elfenpfeile.</p>",
+            "tags": "[{\"value\":\"4 Munition\"}]",
+            "tagsString": "4 Munition"
+        },
+        {
+            "id": "Fine Bow",
+            "name": "Guter Bogen",
+            "description": "<p>Ein Bogen von hoher Qualität.</p>",
+            "tags": "[{\"value\":\"Nah\"},{\"value\":\"Fern\"}]",
+            "tagsString": "Nah, Fern"
+        },
+        {
+            "id": "Flail",
+            "name": "Flegel",
+            "description": "<p>Eine Schlagwaffe mit einem Schlagkopf, der mit einer Kette am Schaft befestigt ist.</p>",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"}]",
+            "tagsString": "Kurz, +1 Schaden"
+        },
+        {
+            "id": "Halberd",
+            "name": "Hellbarde",
+            "description": "<p>Eine zweihändige sehr lange Hieb- und Stichwaffe mit Mannstoppwirkung.</p>",
+            "tags": "[{\"value\":\"Lang\"},{\"value\":\"+1 Schaden\"},{\"value\":\"Zweihändig\"}]",
+            "tagsString": "Lang, +1 Schaden, Zweihändig"
+        },
+        {
+            "id": "Hunter's Bow",
+            "name": "Jagdbogen",
+            "description": "<p>Ein Bogen, optimiert auf Schnelligkeit und Präzision.</p>",
+            "tags": "[{\"value\":\"Nah\"},{\"value\":\"Fern\"}]",
+            "tagsString": "Nah, Fern"
+        },
+        {
+            "id": "Knife",
+            "name": "Messer",
+            "description": "<p>Ein Messer, Werkzeug und kleine Waffe in einem.</p>",
+            "tags": "[{\"value\":\"Hand\"}]",
+            "tagsString": "Hand"
+        },
+        {
+            "id": "Long Sword",
+            "name": "Langschwert",
+            "description": "<p>Ein Schwert mit einer langen Klinge.</p>",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"}]",
+            "tagsString": "Kurz, +1 Schaden"
+        },
+        {
+            "id": "Mace",
+            "name": "Streitkolben",
+            "description": "<p>Eine Waffe mit schwerem Kopf auf festem Schaft, gut um ordentliche Hiebe auszuteilen.</p>",
+            "tags": "[{\"value\":\"Kurz\"}]",
+            "tagsString": "Kurz"
+        },
+        {
+            "id": "Ragged Bow",
+            "name": "Abgenutzter Bogen",
+            "description": "<p>Ein stark abgenutzter Bogen.</p>",
+            "tags": "[{\"value\":\"Nah\"}]",
+            "tagsString": "Nah"
+        },
+        {
+            "id": "Rapier",
+            "name": "Rapier",
+            "description": "<p>Eine zweischneidige gerade Klinge mit sehr spitzen Ort, präzise Hieb- und Stichwaffe.</p>",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"Präzise\"}]",
+            "tagsString": "Kurz, Präzise"
+        },
+        {
+            "id": "Shillelagh",
+            "name": "Knüppel",
+            "description": "<p>Ein dicker Knüppel aus Eichenholz.</p>",
+            "tags": "[{\"value\":\"Kurz\"}]",
+            "tagsString": "Kurz"
+        },
+        {
+            "id": "Shiv",
+            "name": "Shiv",
+            "description": "<p>Eine hausgemachte messerähnliche Waffe.</p>",
+            "tags": "[{\"value\":\"Hand\"}]",
+            "tagsString": "Hand"
+        },
+        {
+            "id": "Short Sword",
+            "name": "Kurzschwert",
+            "description": "<p>Ein kurzes Schwert zur einhändigen Nutzung.</p>",
+            "tags": "[{\"value\":\"Kurz\"}]",
+            "tagsString": "Kurz"
+        },
+        {
+            "id": "Spear",
+            "name": "Speer",
+            "description": "<p>Ein Waffe mit einem langen Schaft und einer Metallspitze.</p>",
+            "tags": "[{\"value\":\"Lang\"},{\"value\":\"Geworfen\"},{\"value\":\"Nah\"}]",
+            "tagsString": "Lang, Geworfen, Nah"
+        },
+        {
+            "id": "Staff",
+            "name": "Stab",
+            "description": "<p>Ein Holzstab, geschnitzt zum Wandern und zuschlagen.</p>",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"Zweihändig\"}]",
+            "tagsString": "Kurz, Zweihändig"
+        },
+        {
+            "id": "Throwing Dagger",
+            "name": "Wurfdolch",
+            "description": "<p>Ein leichter Dolch, präzise für den Wurf ausbalanciert.</p>",
+            "tags": "[{\"value\":\"Geworfen\"},{\"value\":\"Nah\"}]",
+            "tagsString": "Geworfen, Nah"
+        },
+        {
+            "id": "Two-handed sword",
+            "name": "Zweihandschwert",
+            "description": "Ein Zweihandschwert mit einer langen Klinge.",
+            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"},{\"value\":\"Zweihändig\"}]",
+            "tagsString": "Kurz, +1 Schaden, Zweihändig"
+        },
+        {
+            "id": "War hammer",
+            "name": "Streithammer",
+            "description": "<p>Ein Hammer mit großem Metallkopf, gut um Schädel einzuschlagen.</p>",
+            "tags": "[{\"value\":\"Kurz\"}]",
+            "tagsString": "Kurz"
+        }
+    ]
+}
