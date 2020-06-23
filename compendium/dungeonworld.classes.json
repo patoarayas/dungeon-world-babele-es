@@ -1,5 +1,5 @@
 {
-  "label": "Klassen",
+  "label": "Clases",
   "mapping": {
     "description": "data.description",
     "races": "data.races",
@@ -8,287 +8,287 @@
   "entries": [
     {
       "id": "The Barbarian",
-      "name": "Barbar",
-      "description": "<p></p>\n<p>Plünderer. Zerstörer. Barbar. So nannten sie dich, und Schlimmeres. Doch du kommst von weit her und ihre erbärmlichen Regeln kümmern dich nicht. Vieldeutige Worte und die feine Gesellschaft sind nicht deine Welt. Eher schon die weite Steppe, ein schnelles Pferd, der Wind in den Haaren und der Geschmack von schwerem Wein auf deiner Zunge, der deine Sinne mit Leben und deine Augen mit Glanz füllt.</p>\n<p>Das Blut deiner Feinde ist der einzige rote Teppich, über den du jemals schreiten wirst. Während sie arbeiten, um zu leben, nimmst du dir, wonach du begehrst. Dein Herz verzehrt sich nach dem Geheimnis des Stahls. Du suchst unter all den Widersachern nach einem würdigen Feind, den du in den Staub schicken kannst oder der dich zu den Alten Göttern schickt. Jemand wie du gibt sich niemals mit weniger zufrieden.</p>\n<p>Du willst kämpfen, deine Feinde verfolgen, vernichten und dich an ihrem Geschrei erfreuen.</p>",
+      "name": "Bárbaro",
+      "description": "<p></p>\n<p>Llegaste desde parajes desconocidos. Espada en mano, un saqueador, un asesino. Para que molestarse con magia si el acero es suficiente para cortar a través de carne y hueso. Los juramentos del Paladín te parecen un cuento de hadas, tú eres tu propio maestro. </p>\n<p>Desde los confínes de Dungeon World has venido ¿En busca de que? ¿Gloria? ¿Tesoros? ¿Sangre? Al final nada importa por lo que luchas o por lo que mueres. Lo único que importa es que solo tú te enfrentaste a muchos. Dejalos que te llamen barbaro e incivilizado, tu conoces la verdad. Su mundo de leyes y nobles se desmorona. Tú sabes lo que es bueno en esta vida.</p>",
       "races": {
         "0": {
-          "label": "Fremder",
-          "description": "Egal ob du ein Elf, Zwerg, Halbling oder Mensch bist: Du und dein Volk, ihr seid nicht von hier. Am Anfang jeder Spielsitzung wird der SL dir eine Frage über deine Heimat stellen, warum du sie verlassen hast oder was du zurücklassen musstest. Wenn du sie beantwortest, schreibe dir einen EP gut."
+          "label": "Extranjero",
+          "description": "Puedes ser elfo, enano, mediano o humano, pero tu gente y tú no son de por aquí. Al principio de cada sesión, el DJ te preguntará algo sobre tu hogar natal, por qué te marchaste o qué dejaste atrás. Si le respondes, anota PX."
         }
       },
       "alignments": {
         "0": {
-          "label": "Chaotisch",
-          "description": "Missachte eine Sitte der zivilisierten Welt."
+          "label": "Caótico",
+          "description": "Romper una convención del mundo civilizado."
         },
         "1": {
           "label": "Neutral",
-          "description": "Lehre jemanden die Lebensweise deines Volkes."
+          "description": "Enséñale a alguien las costumbres de tu gente."
         }
       }
     },
     {
       "id": "The Bard",
-      "name": "Barde",
-      "description": "<p>In Gedichten heißt es, das Abenteurerleben sei frei und erfüllt von dem Klang von Gold und Schwertern. Die Geschichten, die in jeder Bauernschänke erzählt werden, müssen doch ein Körnchen Wahrheit beinhalten. Die Lieder, die vom König bis zum Gesinde alle inspirieren, die wilde Bestien beschwichtigen oder Männer anstacheln, sie müssen doch irgendwo herkommen.</p>\n<p>Vorhang auf für den Barden. Du, mit deinem flinken Verstand und noch flinkeren Zunge. Du Geschichtenerzähler und Reimeschmied. Jeder fahrende Spielmann kann etwas nachträllern, aber es braucht einen echten Barden, um den Worten Leben einzuhauchen. Also schnüre die Stiefel, edler Erzähler. Schärfe deinen versteckten Dolch und stell dich der Herausforderung. Einer muss die Kämpfe mit eigenen Augen sehen, Seite an Seite mit all den Raufbolden, Totschlägern und baldigen Helden.</p>\n<p>Wer wäre besser geeignet, deine eigene Legende zu schreiben? Niemand. Auf geht’s.</p>",
+      "name": "Bardo",
+      "description": "<p>Los poemas cuentan que la vida de un aventurero es un sendero sin trabas sembrado de gloria en la batalla y recompensas acuñadas en moneda. Debe haber algo de verdad en las historias que se cuentan en cada posada llena de granjeros, ¿verdad? Las canciones usadas para inspirar por igual a la realeza y al pueblo llano, ya sea para calmar a la bestia o para llevar a los hombres al frenesí, deben tener un origen.</p>\n<p>Y ahí está el bardo. Tú, con tu lisonjera lengua y rápido ingenio. Tú, narrador de historias, trovador de canciones. Cualquier juglar puede contar algo, pero hace falta un verdadero bardo para que la historia cobre vida. Ajústate las botas, noble orador. Afila esa daga oculta y acepta el reto. Alguien tendrá que estar allí luchando hombro con hombro con esos matones, rufianes y héroes en potencia.</p>\n<p>¿Quién mejor que tú para escribir la historia de tus propias hazañas? Nadie. Ponte en marcha.</p>",
       "races": {
         "0": {
-          "label": "Elf",
-          "description": "Wenn du einen (deiner Ansicht nach) bedeutsamen Ort betrittst, darfst du den SL nach einer Tatsache aus dessen Geschichte fragen."
+          "label": "Elfo",
+          "description": "Cuando llegas a un lugar importante (tú decides) puedes preguntar al DJ acerca de un hecho de la historia de dicho emplazamiento."
         },
         "1": {
-          "label": "Mensch",
-          "description": "Wenn du eine zivilisierte Siedlung zum ersten Mal betrittst, wird jemand den Brauch der Gastfreundschaft für Spielleute ehren und dich bei sich beherbergen."
+          "label": "Humano",
+          "description": "Cuando llegas por primera vez a un asentamiento civilizado, alguien que respeta la costumbre de la hospitalidad hacia los juglares te acogerá como invitado."
         }
       },
       "alignments": {
         "0": {
-          "label": "Gut",
-          "description": "Gehe deiner Kunst nach, um anderen zu helfen."
+          "label": "Bueno",
+          "description": "Ayudar a alguien con tu arte."
         },
         "1": {
           "label": "Neutral",
-          "description": "Vermeide einen Konflikt oder entschärfe eine kritische Situation."
+          "description": "Evitar un conflicto o calmar una situación tensa."
         },
         "2": {
-          "label": "Chaotisch",
-          "description": "Sporne andere zu bedeutenden aber unüberlegten Taten an."
+          "label": "Caótico",
+          "description": "Incitar a otros a llevar a cabo acciones decisivas e importantes no planeadas."
         }
       }
     },
     {
       "id": "The Cleric",
-      "name": "Kleriker",
-      "description": "<p>Die Lande von <i>Dungeon World</i> sind ein von den Göttern verlassenes Durcheinander. Sie sind verseucht von wandelnden Toten, Bestien aller Art und den unnatürlichen Weiten zwischen den sicheren Tempeln der Zivilisation. Es ist eine gottlose Welt da draußen. Und deswegen braucht sie dich.</p>\n<p>Den Heiden die Herrlichkeit deines Gottes näherzubringen ist nicht nur dein Beruf – es ist deine Berufung. Es obliegt dir, sie mit Schwert, Streitkolben und Zauber zu bekehren, tief in das dumpfe Herz der Wildnis vorzustoßen und dort den Samen des Göttlichen zu pflanzen. Es heißt, man tue gut daran, Gott im Herzen zu tragen. Du weißt, dass das Unfug ist. Dein Gott lebt auf der Schneide einer Klinge.</p>\n<p>Zeige der Welt, wer ihr Herr ist.</p>",
+      "name": "Clérigo",
+      "description": "<p>Las tierras de Dungeon World son un desastre dejado de la mano de los dioses. Los lugares civilizados seguros y bendecidos con la presencia de templos están separados entre sí por páramos plagados de muertos vivientes, bestias de todo tipo y vastos espacios antinaturales. Es como un mundo sin dioses. Por eso te necesita.</p>\n<p>Traer la gloria de tu dios a los paganos no es solo tu naturaleza, es tu vocación. A ti te corresponde hacer proselitismo con espada, maza y conjuros, surcar las profundidades ignotas de las tierras salvajes y plantar en ellas la semilla de la divinidad. Algunos dicen que es mejor guardar a los dioses cerca del corazón. Pero sabes que eso son tonterías. Dios vive en el filo de una espada.</p>\n<p>Muéstrale al mundo quién es su señor.</p>",
       "races": {
         "0": {
-          "label": "Zwerg",
-          "description": "Du bist eins mit dem Stein. Wenn du Zwiesprache hältst, wird dir zusätzlich eine besondere Variante von Worte der Sprachlosen als Stoßgebet gewährt, die nur auf Stein angewendet werden kann."
+          "label": "Enano",
+          "description": "Eres uno con la roca. Cuando entras en Comunión también se te concede una plegaria especial, una versión del conjuro Palabras de los Silentes que solo tiene efecto sobre la piedra."
         },
         "1": {
-          "label": "Mensch",
-          "description": "Dein Glaube ist vielfältig. Wähle einen Magierzauber. Du kannst ihn gewährt bekommen und wirken, als wäre er ein Klerikerzauber."
+          "label": "Humano",
+          "description": "Tu fe es heterogénea. Elige un conjuro de mago. Puedes lanzarlo y ser concedido como si fuera un conjuro de clérigo."
         }
       },
       "alignments": {
         "0": {
-          "label": "Gut",
-          "description": "Bringe dich selbst in Gefahr, um jemand anderen zu heilen."
+          "label": "Bueno",
+          "description": "Ponerte en peligro por sanar a otro."
         },
         "1": {
-          "label": "Rechtschaffen",
-          "description": "Bringe dich selbst in Gefahr, um den Geboten deiner Kirche oder deines Gottes zu folgen."
+          "label": "Legal",
+          "description": "Ponerte en peligro siguiendo los preceptos de tu iglesia o deidad."
         },
         "2": {
-          "label": "Böse",
-          "description": "Schade jemand anderem, um die Überlegenheit deiner Kirche oder deines Gottes unter Beweis zu stellen."
+          "label": "Malvado",
+          "description": "Dañar a otros para demostrar la superioridad de tu iglesia o deidad."
         }
       }
     },
     {
       "id": "The Druid",
-      "name": "Druide",
-      "description": "<p>Lass den Blick ums Feuer schweifen. Was hat dich zu diesen Leuten geführt, die nach Schweiß und dem Staub der Stadt stinken? Vielleicht war es Güte – bewachst du sie, wie eine Bärenmutter ihre Jungen bewacht? Sind sie jetzt dein Rudel? Seltsame Brüder und Schwestern hast du da. Was auch immer dich an sie bindet, ohne deine scharfen Sinne und Klauen wären sie sicher verloren.</p>\n<p>Du entstammst den heiligen Stätten, geboren aus ihrem Boden und mit den Spuren ihrer Geister auf deiner Haut. Vielleicht hattest du einst ein früheres Leben, vielleicht warst du ein Städter wie sie, doch das ist vorbei. Du hast diese starre Form hinter dir gelassen. Hör, wie deine Verbündeten zu ihren steinernen Götzen beten und ihre schimmernden Panzer polieren. Sie reden von dem Ruhm, der ihnen in dem verfaulenden Dorf zuteilwerden wird, das hinter euch liegt.</p>\n<p>Ihre Götter sind Kinder, ihr Stahl falsche Sicherheit. Du wandelst auf den alten Pfaden, trägst die Pelze der Erde selbst. Du wirst deinen Anteil des Schatzes nehmen, aber wirst du jemals einer der ihren werden? Nur die Zeit wird es zeigen.</p>",
+      "name": "Druida",
+      "description": "<p>Echa un vistazo alrededor de la hoguera. ¿Qué te ha llevado a estar con esta gente que apesta al polvo y al sudor de la ciudad? Quizás sea un acto de bondad. ¿Los proteges como la madre osa vigila a sus cachorros? ¿Esta es ahora tu manada? Extraños hermanos y hermanas son estos. Sea como sea, no cabe duda de que caerían sin tus agudos sentidos y tus aún más afiladas garras.</p>\n<p>Perteneces a los lugares sagrados. Naciste del barro y llevas en tu piel las marcas de sus espíritus. Puede que antes tuvieras una vida, quizás fueras un habitante de las ciudades como ellos, pero eso se acabó. Has renunciado a ese sedentarismo. Escucha cómo tus compañeros rezan a sus dioses tallados en la piedra y pulen sus conchas de plata. Hablan de la gloria que encontrarán cuando regresen a esa ciudad supurante que dejaste atrás.</p>\n<p>Sus dioses son niños. Su acero, una protección inútil. Tú practicas las antiguas tradiciones, llevas las pieles de la propia tierra. Tendrás tu parte del tesoro, pero ¿acabarás caminando como uno de ellos? Solo el tiempo lo dirá.</p>",
       "races": {
         "0": {
-          "label": "Elf",
-          "description": "In deinen Adern fließt der Lebenssaft der alten Erlen. Zusätzlich zu deinen anderen Anpassungen gelten auch die Großen Wälder immer als dein Land."
+          "label": "Elfo",
+          "description": "La savia de los antiguos árboles corre por tus venas. Además del lugar con el que elijas estar sintonizado (ver el movimiento Nacido del barro), se considera que los Grandes Bosques siempre han sido tu tierra natal."
         },
         "1": {
-          "label": "Mensch",
-          "description": "So wie dein Volk gelernt hat, Tiere für Feld und Hof an sich zu binden, so bist du auch mit ihnen verbunden. Zusätzlich zu deinen anderen Formen kannst du immer die Gestalt von Haus- oder Nutztieren annehmen."
+          "label": "Humano",
+          "description": "Estás ligado a los animales igual que tu gente aprendió a domarlos para trabajar el campo y tenerlos en granjas. Siempre puedes adoptar la forma de cualquier animal domesticado, además de aquellos animales que habitan en las tierras con las que estás en sintonía (ver el movimiento Nacido del barro)."
         },
         "2": {
-          "label": "Halbling",
-          "description": "Du singst die heilenden Gesänge der Quelle und des Baches. Wenn du ein Lager aufschlägst, heilen du und deine Gefährten +1W6 TP."
+          "label": "Mediano",
+          "description": "Cantas canciones sanadoras sobre la primavera y los arroyos. Cuando acampas, tus compañeros y tú se curan 1d6 PG más."
         }
       },
       "alignments": {
         "0": {
-          "label": "Chaotisch",
-          "description": "Zerstöre ein Symbol der Zivilisation."
+          "label": "Caótico",
+          "description": "Destruir un símbolo de la civilización."
         },
         "1": {
-          "label": "Gut",
-          "description": "Hilf jemandem oder etwas dabei zu wachsen."
+          "label": "Bueno",
+          "description": "Ayudar a crecer a algo o alguien."
         },
         "2": {
           "label": "Neutral",
-          "description": "Schaffe eine widernatürlich Bedrohung aus der Welt."
+          "description": "Eliminar una amenaza no natural."
         }
       }
     },
     {
       "id": "The Fighter",
-      "name": "Kämpfer",
-      "description": "<p>Es ist eine undankbare Arbeit – sein täglich Brot mit Rüstung und Schwertarm verdienen zu müssen, immer gradewegs hinein in die Gefahr. Es gab keinen Schall goldener Fanfaren für das eine Mal, als du in der Kneipe in Buchsberg ein Messer für sie in die Rippen gekriegt hast. Keine Engelsschar wird davon singen, wie du sie schreiend aus den Gruben des Wahnsinns gezerrt hast, oh nein.</p>\n<p>Vergiss sie.</p>\n<p>Du tust dies für viel Feind und viel Ehre, für den Schrei der Schlacht und ihr heißes, heißes Blut. Du bist eine eiserne Bestie. Deine Freunde mögen stählerne Schwerter tragen, doch du bist aus Stahl. Und während deine Reisegefährten am Lagerfeuer über ihre Wunden klagen mögen, trägst du deine Narben mit Stolz zur Schau.</p>\n<p>Du bist die Mauer – soll jede Gefahr sich an dir den Schädel einrennen. Am Ende wirst du der Letzte sein, der noch steht.</p>",
+      "name": "Guerrero",
+      "description": "<p>Es un trabajo desagradecido. Ganarte la vida con tu armadura y la destreza de tu brazo, zambulléndote sin dudarlo en el peligro. No harán sonar cuernos de oro por aquella vez que recibiste una puñalada en las costillas por ellos en el bar de Bucksburgo. No, no habrá un coro de ángeles que canten aquella vez que los sacaste a rastras, aún gritando, del borde de los Pozos de la Locura.</p>\n<p>Olvídalos.</p>\n<p>Haces esto por el valor y la gloria, por el grito de batalla y su cálida sangre. Eres una bestia de hierro. Tus amigos pueden llevar hojas de acero forjado, pero tú eres acero. Mientras tus compañeros de viaje gimotean por sus heridas en torno a la hoguera del campamento en la espesura, tú luces con orgullo tus cicatrices.</p>\n<p>Tú eres el muro. Deja que cada peligro se reduzca a polvo al chocar contra ti. Al final serás el último que quede en pie.</p>",
       "races": {
         "0": {
-          "label": "Zwerg",
-          "description": "Wenn du mit jemandem trinkst, darfst du KO statt CH nutzen, um mit ihm zu verhandeln."
+          "label": "Enano",
+          "description": "Cuando compartes una bebida con alguien, puedes Parlamentar usando CON en lugar de CAR."
         },
         "1": {
-          "label": "Elf",
-          "description": "Wähle eine Waffe. Behandle Waffen dieser Art so, als hätten sie die Eigenschaft präzise."
+          "label": "Elfo",
+          "description": "Elige un arma. Puedes tratar las armas de ese tipo como si tuvieran la etiqueta precisa."
         },
         "2": {
-          "label": "Halbling",
-          "description": "Wenn du einer Gefahr trotzt und dabei deine geringe Größe zu deinem Vorteil nutzt, erhältst du +1 auf deinen Wurf."
+          "label": "Mediano",
+          "description": "Cuando Desafías el peligro utilizando tu pequeño tamaño a tu favor, recibes +1."
         },
         "3": {
-          "label": "Mensch",
-          "description": "Einmal pro Kampf kannst du einen einzelnen Schadenswurf wiederholen (deinen oder den von jemand anderem)."
+          "label": "Humano",
+          "description": "Puedes repetir una tirada de daño (tuya o de otro) una vez por batalla."
         }
       },
       "alignments": {
         "0": {
-          "label": "Gut",
-          "description": "Verteidige die Schwächeren."
+          "label": "Bueno",
+          "description": "Defender a los que son más débiles que tú."
         },
         "1": {
           "label": "Neutral",
-          "description": "Besiege einen würdigen Gegner."
+          "description": "Derrotar a un enemigo digno."
         },
         "2": {
-          "label": "Böse",
-          "description": "Töte einen Feind, der wehrlos ist oder sich ergeben hat."
+          "label": "Malvado",
+          "description": "Matar a un enemigo indefenso o rendido."
         }
       }
     },
     {
       "id": "The Immolator",
-      "name": "The Immolator",
-      "description": "<p>Some people pray to their gods for strength like fools; others, too smart for their own good, read books. Others, still, train with their sword-arms or their tongues. Not you, though. Somehow, somewhy, you found power through another way, one wrought in fire and pain. You made a sacrifice, then and there, freely given, for powers beyond the ken of mere mortals.</p>\n<p>And it feels so, so good.</p>\n<p>You’re the wildcard now. The uncaged flame, burning with passion and leaving ruin in your wake. Everyone else can feel it, too; your fire stokes theirs, filling your new adventuring comrades with furore and brightening the lives of every yokel and maiden lucky enough to cross your path. You’ve never felt so alive! And so what if there’s trouble following you every which way; all the more reason to live life to the fullest, right?</p>\n<p>Live fast, die young, and make sure you’re not the one who’s gotta pick up all the pieces.</p>",
+      "name": "Inmolador",
+      "description": "<p>Algunos rezan a sus dioses como ilusos, otros que se creen más listos, se refugian en sus libros. Incluso otros confían en sus armas o sus lenguas. Pero no tú. De algúna manera, por algún motivo, has encontrado poder por otros medios, uno que involucra el fuego y el sufrimiento. Has hecho un sacrifico de manera voluntaria para obtener poderes que van mas allá de cualquier mortal.</p>\n<p>Y se siente tan bien.</p>\n<p>Eres lo impredecible. La llama incontrolable, ardiendo con pasión y dejando un rastro de destrucción a tu paso. El resto también puede sentir como tu fuego aviva el suyo, llenando a tus compañeros de aventura con furor e iluminando las vidas de cualquiera que se cruce en tu camino. ¡Nunca te habias sentido tan vivo! Que importa que los problemas te sigan allá adonde vallas; aún mas razones para vivir la vida a tope, ¿no?</p>\n<p>Vive rapido, muere joven, y asegurate de no ser tu quien tenga que pagar los platos rotos.</p>",
       "races": {
         "0": {
-          "label": "Human",
-          "description": "When you Make Camp next to a large, open flame, regain all of your HP."
+          "label": "Humano",
+          "description": "Cuando Acampes junto a una hoguera grande, recuperas todos tus PG."
         },
         "1": {
-          "label": "Salamander",
-          "description": "Non-magical heat and fire cannot harm you."
+          "label": "Salamandra",
+          "description": "El calor y el fuego (no mágicos) no pueden dañarte."
         }
       },
       "alignments": {
         "0": {
-          "label": "Evil",
-          "description": "Sacrifice an unwilling victim to the flames."
+          "label": "Malvado",
+          "description": "Sacrificar a una víctima involuntaria a las llamas."
         },
         "1": {
-          "label": "Chaotic",
-          "description": "Spread a dangerous new idea."
+          "label": "Caótico",
+          "description": "Propagar una nueva idea peligrosa."
         },
         "2": {
           "label": "Neutral",
-          "description": "Exchange a sacrifice, freely given, for a service rendered."
+          "description": "Realizar un sacrificio, voluntario, a cambio de un servicio concreto."
         }
       }
     },
     {
       "id": "The Paladin",
-      "name": "Paladin",
-      "description": "<p>Die Hölle wartet. Eine Ewigkeit der Peinigung in Feuer, Eis oder was immer die Sünderhorden von Dungeon World erwartet. Alles, was zwischen diesen grausigen Gruben der Qual und der Erlösung steht, bist du. Heiliger, gerüstete Kriegsmaschine, Templer des Guten und des Lichts und all das. Der Kleriker mag des Nachts seine Gebete zu den Göttern in ihrem Himmel sprechen. Der Kämpfer mag seine scharfe Klinge im Namen des „Guten“ führen, aber nur du hast Gewissheit. Nur du.</p>\n<p>Du bist Auge, Hand und süßer Todesstoß der Götter. Dein ist die Gabe von Rechtschaffenheit und Tugend – und auch von Gerechtigkeit und Weitblick. Eine Reinheit des Herzens, die deinen Gefährten fehlt.</p>\n<p>Also führe diese Narren, Paladin. Stell dich in den Dienst deiner heiligen Sache und bring dieser verkommenen Welt die Erlösung.</p>\n<p>Vae victis.</p>",
+      "name": "Paladín",
+      "description": "<p>El infierno aguarda. Una eternidad de tormentos de fuego, hielo o lo que mejor se ajuste a los pecados de las masas de condenados de Dungeon World. Tú eres lo único que se interpone entre los fosos de esa nefasta tortura y la salvación. Un hombre sagrado, una máquina de guerra con armadura, un templario del Bien y la Luz, ¿verdad? El clérigo puede rezar sus oraciones nocturnas a los dioses que habitan en los cielos. El guerrero puede enarbolar su afilada espada en el nombre del «bien», pero tú sabes de lo que hablas.</p>\n<p>Solo tú.</p>\n<p>Eres los ojos, las manos y el dulce golpe mortal de los dioses. Tuyos son los dones de la rectitud y la virtud, así como la justicia y la Visión. Un propó- sito recto del que carecen tus compañeros.</p>\n<p>Así que guía a esos idiotas, paladín. Acepta tu noble causa y lleva la salvación a este mundo baldío.</p>\n<p>Vae victis. ¿Acaso no es cierto?</p>",
       "races": {
         "0": {
-          "label": "Mensch",
-          "description": "Wenn du auch nur für einen Moment um Rat betest und fragst: „Was hier ist böse?“, wird der SL dir wahrheitsgemäß darauf antworten."
+          "label": "Humano",
+          "description": "Cuando rezas en busca de orientación, aunque sea por un instante, y preguntas «¿Qué hay de maldad aquí?», el DJ te responderá sinceramente."
         }
       },
       "alignments": {
         "0": {
-          "label": "Rechtschaffen",
-          "description": "Verweigere einem Kriminellen oder Ungläubigen Gnade."
+          "label": "Legal",
+          "description": "Negar la piedad a un criminal o no creyente."
         },
         "1": {
-          "label": "Gut",
-          "description": "Begib dich in Gefahr, um einem Schwächeren zu helfen."
+          "label": "Bueno",
+          "description": "Ponerte en peligro para proteger a alguien más débil que tú."
         }
       }
     },
     {
       "id": "The Ranger",
-      "name": "Waldläufer",
-      "description": "<p>Diese Städter reisen mit dir. Haben sie je den Ruf des Wolfs gehört? Gefühlt, wie die Winde in den düsteren Einöden des Ostens heulen? Haben sie ihre Beute mit Bogen und Messer gejagt, wie du? Nein, verdammt. Deswegen brauchen sie dich.</p>\n<p>Führer. Jäger. Kreatur der Wildnis. Das und noch mehr bist du. Dein Leben in der Wildnis mag bis jetzt einsam gewesen sein, aber etwas Größeres – nenn es Schicksal, wenn du willst – hat dich mit diesen Leuten zusammengeführt. Tapfer mögen sie sein. Mächtig und stark auch. Aber nur du kennst die Geheimnisse der Orte abseits der Wege.</p>\n<p>Ohne dich wären sie verloren. Bahne dir einen Weg durch Blut und Dunkelheit, Streicher.</p>",
+      "name": "Explorador",
+      "description": "<p>¿Han oído la llamada del lobo esa gente de ciudad con la que viajas? ¿Aullar los vientos en los desolados desiertos del Este? ¿Han cazado a sus presas con arco y cuchillo como tú? No, demonios. Por eso te necesitan.</p>\n<p>Guía. Cazador. Criatura de la naturaleza. Eres todo eso y más. Puede que tus días en las tierras salvajes hayan sido solitarios hasta ahora, pero la llamada de algo mayor, llámalo destino si quieres, ha unido tu suerte a la de esa gente. Puede que sean valientes, fuertes y poderosos, pero solo tú conoces los secretos de las tierras salvajes.</p>\n<p>Estarían perdidos sin ti. Abre una senda a través de la oscuridad y la sangre, montaraz.</p>",
       "races": {
         "0": {
-          "label": "Elf",
-          "description": "Wenn du in der Wildnis eine gefährliche Reise unternimmst, hast du Erfolg als hättest du eine 10+ gewürfelt, gleich welche Aufgabe du übernimmst."
+          "label": "Elfo",
+          "description": "Cuando hagas el movimiento de Realizar un viaje peligroso a través de las tierras salvajes, tienes éxito en la tarea que se te encomiende como si hubieras sacado un 10+."
         },
         "1": {
-          "label": "Mensch",
-          "description": "Wenn du in einem Dungeon oder einer Stadt dein Lager aufschlägst, verbrauchst du keine Ration."
+          "label": "Humano",
+          "description": "Cuando hagas el movimiento de Acampar en una mazmorra o ciudad no necesitas consumir una ración."
         }
       },
       "alignments": {
         "0": {
-          "label": "Chaotisch",
-          "description": "Befreie jemanden von seinen realen oder symbolischen Ketten."
+          "label": "Caótico",
+          "description": "Liberar a alguien de sus ataduras, reales o figuradas."
         },
         "1": {
-          "label": "Gut",
-          "description": "Begib dich in Gefahr, um eine widernatürliche Bedrohung zu bekämpfen."
+          "label": "Bueno",
+          "description": "Ponerte en peligro para combatir una amenaza no natural."
         },
         "2": {
           "label": "Neutral",
-          "description": "Hilf einem Tier oder einem Geist der Wildnis."
+          "description": "Ayudar a un animal o espíritu de la naturaleza."
         }
       }
     },
     {
       "id": "The Thief",
-      "name": "Dieb",
-      "description": "<p>Du hast sie gehört, wie sie am Lagerfeuer sitzen. Wie sie über diese oder jene Schlacht prahlen, oder dass ihre Götter lächelnd auf eure fröhliche Schar herabsehen. Du zählst deine Münzen und lächelst in dich hinein – das ist das beste aller Hochgefühle. Nur du kennst das Geheimnis von <i>Dungeon World</i>: den alten, schnöden Mammon.</p>\n<p>Klar, sie riskieren dir gegenüber eine dicke Lippe wegen all der Male, in denen du dich alleine davongemacht hast. Aber ohne dich wäre jeder einzelne von ihnen bereits von einem fliegenden Fallbeil zerlegt oder von einer uralten Nadelfalle tödlich vergiftet worden. Also sollen sie sich beschweren. Am Ende der ganzen Schatzsucherei wirst du ihren Heldengräbern zuprosten. Von deinem Schloss aus, deinem Schloss voller Gold. Du Schurke.</p>",
+      "name": "Ladrón",
+      "description": "<p>Ya los has oído hablar en torno al fuego. Vanagloriándose de esa y aquella batalla, o sobre cómo sus dioses sonríen a vuestro alegre grupo. Mientras, tú cuentas tus monedas y sonríes para tus adentros. Esa es la mayor emoción de todas. Solo tú sabes el secreto de Dungeon World: dinero, y cuanto más, mejor.</p>\n<p>Claro, protestan cada vez que te escabulles por tu cuenta, pero todos ellos habrían muerto cercenados por una guillotina colgante o envenenados por alguna antigua trampa de aguja. Deja que se quejen. Cuando te canses de saquear mazmorras, alzarás tu jarra por los héroes caídos.</p>\n<p>Y lo harás desde tu castillo lleno de oro. Granuja.</p>",
       "races": {
         "0": {
-          "label": "Halbling",
-          "description": "Wenn du mit einer Fernkampfwaffe angreifst, verursachst du +2 Schaden."
+          "label": "Mediano",
+          "description": "Cuando atacas con un arma a distancia, haces daño +2."
         },
         "1": {
-          "label": "Mensch",
-          "description": "YDu bist ein Profi. Wenn du über kriminelle Aktivitäten Wissen kundtust oder Gewissheit erlangst, erhältst du +1 auf deinen Wurf."
+          "label": "Humano",
+          "description": "Eres un profesional. Recibes +1 cuando exhibes conocimientos o disciernes la realidad acerca de actividades criminales."
         }
       },
       "alignments": {
         "0": {
-          "label": "Chaotisch",
-          "description": "Stürze dich planlos in Gefahr."
+          "label": "Caótico",
+          "description": "Lanzarte al peligro sin tener un plan."
         },
         "1": {
           "label": "Neutral",
-          "description": "Bleibe unentdeckt oder dringe unbemerkt ein."
+          "description": "Evitar ser detectado o colarte en algún lugar."
         },
         "2": {
-          "label": "Böse",
-          "description": "Wälze Gefahr oder Schuld auf jemand anderen ab."
+          "label": "Malvado",
+          "description": " Hacer que sea otro el que se enfrente al peligro o cargue con tus culpas."
         }
       }
     },
     {
       "id": "The Wizard",
-      "name": "Magier",
-      "description": "<p><i>Dungeon World</i> hat Regeln. Nicht die Gesetze der Menschen oder die Herrschaft irgendeines kleinen Tyrannen. Größere, bessere Regeln. Du lässt etwas los – es fällt. Du kannst etwas nicht aus nichts erschaffen. Die Toten bleiben tot.</p>\n<p>Ach, was wir uns nicht alles einreden um uns in den langen, dunklen Nächten besser zu fühlen.</p>\n<p>Du hast so viele Stunden damit verbracht über deinen Folianten zu brüten. Hast Experimente durchgeführt, die dich fast um den Verstand gebracht haben und Beschwörungen durchgeführt, die deine Seele selbst bedroht haben. Wofür? Für Macht. Was gibt es sonst? Nicht nur die Macht von König oder Reich, sondern die Macht, das Blut in den Adern eines Mannes verdampfen zu lassen. Den Donner vom Himmel zu rufen und die sich wälzende Erde aufzuwühlen. Die Regeln abzuschütteln, die der Welt so wichtig sind. Sollen sie dir scheele Blicke zuwerfen. Sollen sie dich „Hexer“ oder „Teufelsanbeter“ nennen. Wer unter ihnen kann Feuerbälle aus den Augen schießen?</p>\n<p>Tja. Dachte ich mir.</p>",
+      "name": "Mago",
+      "description": "<p>Dungeon World tiene leyes. No las leyes de los hombres o las de algún tirano insignificante. Leyes mayores y mejores. Si sueltas algo, caerá. No se puede hacer que algo aparezca de la nada. Lo muerto, muerto está. ¿Verdad?</p>\n<p>Ah! Qué cosas nos decimos a nosotros mismos para sentirnos mejor durante las largas y oscuras noches.</p>\n<p>Has pasado mucho tiempo estudiando tus libros. Haciendo experimentos que casi te vuelven loco y realizando invocaciones que pusieron en peligro tu propia alma. ¿A cambio de qué? A cambio de poder. ¿Acaso existe algo más? No solo el poder del Rey del Reino, sino el poder de hacer hervir la sangre de un hombre en sus venas. El de hacer que caiga un rayo del cielo y la tierra tiemble. El de ignorar las reglas a las que tanta importancia da el resto del mundo.</p>\n<p>Deja que te miren de reojo. Que te llamen «brujo» o «adorador de demonios». ¿Acaso alguno de ellos puede lanzar bolas de fuego con sus ojos?</p>\n<p>No. No creo.</p>",
       "races": {
         "0": {
-          "label": "Elf",
-          "description": "Magie ist so natürlich für dich, wie Luft zum Atmen. Magie entdecken zählt für dich als Zaubertrick."
+          "label": "Elfo",
+          "description": "La magia es para ti tan natural como respirar. Trata Detectar magia como un truco."
         },
         "1": {
-          "label": "Mensch",
-          "description": "Wähle einen Klerikerzauber. Du kannst diesen Zauber wirken, als wäre er ein Magierzauber."
+          "label": "Humano",
+          "description": "Elige un conjuro de clérigo. Puedes lanzarlo como si fuera un conjuro de mago."
         }
       },
       "alignments": {
         "0": {
-          "label": "Gut",
-          "description": "Benutze Magie, um jemand anderem unmittelbar zu helfen."
+          "label": "Bueno",
+          "description": "Utilizar la magia para ayudar directamente a otro."
         },
         "1": {
           "label": "Neutral",
-          "description": "Entdecke ein magisches Mysterium."
+          "description": "Descubrir algo acerca de un misterio mágico."
         },
         "2": {
-          "label": "Böse",
-          "description": "Benutze Magie, um Angst und Schrecken zu verbreiten."
+          "label": "Malvado",
+          "description": "Utilizar la magia para infundir el miedo y el terror."
         }
       }
     }
