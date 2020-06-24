@@ -1,0 +1,203 @@
+{
+	"label": "Objetos mágicos",
+	"mapping": {
+			"description": "data.description"
+		},
+	"entries": [
+		{
+			"id": "Argo-Thaan, Holy Avenger",
+			"name": "Argo-Thaan, Holy Avenger",
+			"description": ""
+			},
+		{
+			"id": "Arrows of Acheron",
+			"name": "Arrows of Acheron",
+			"description": ""
+			},
+		{
+			"id": "Axe of the Conqueror-King",
+			"name": "Axe of the Conqueror-King",
+			"description": ""
+			},
+		{
+			"id": "Bag of Holding",
+			"name": "Bag of Holding",
+			"description": ""
+			},
+		{
+			"id": "Barb of the Black Gate",
+			"name": "Barb of the Black Gate",
+			"description": ""
+			},
+		{
+			"id": "Captain Bligh’s Cornucopia",
+			"name": "Captain Bligh’s Cornucopia",
+			"description": ""
+			},
+		{
+			"id": "Cloak of Silent Stars",
+			"name": "Cloak of Silent Stars",
+			"description": ""
+			},
+		{
+			"id": "Coin of Remembering",
+			"name": "Coin of Remembering",
+			"description": ""
+			},
+		{
+			"id": "Common Scroll",
+			"name": "Common Scroll",
+			"description": ""
+			},
+		{
+			"id": "Devilsbane Oil",
+			"name": "Devilsbane Oil",
+			"description": ""
+			},
+		{
+			"id": "Earworm Wax",
+			"name": "Earworm Wax",
+			"description": ""
+			},
+		{
+			"id": "Farsight Stone",
+			"name": "Farsight Stone",
+			"description": ""
+			},
+		{
+			"id": "Flask of Breath",
+			"name": "Flask of Breath",
+			"description": ""
+			},
+		{
+			"id": "Folly Held Aloft, The Wax Wings, A Huge Mistake",
+			"name": "Folly Held Aloft, The Wax Wings, A Huge Mistake",
+			"description": ""
+			},
+		{
+			"id": "Immovable Rod",
+			"name": "Immovable Rod",
+			"description": ""
+			},
+		{
+			"id": "Infinite Book",
+			"name": "Infinite Book",
+			"description": ""
+			},
+		{
+			"id": "Inspectacles",
+			"name": "Inspectacles",
+			"description": ""
+			},
+		{
+			"id": "Lamented Memento",
+			"name": "Lamented Memento",
+			"description": ""
+			},
+		{
+			"id": "Lodestone Shield",
+			"name": "Lodestone Shield",
+			"description": ""
+			},
+		{
+			"id": "Map of the Last Patrol",
+			"name": "Map of the Last Patrol",
+			"description": ""
+			},
+		{
+			"id": "Ned’s Head",
+			"name": "Cabeza de Ned",
+			"description": "Una antigua calavera"
+			},
+		{
+			"id": "Nightsider’s Key",
+			"name": "Nightsider’s Key",
+			"description": ""
+			},
+		{
+			"id": "Sacred Herbs",
+			"name": "Sacred Herbs",
+			"description": ""
+			},
+		{
+			"id": "Tears of Annalise",
+			"name": "Tears of Annalise",
+			"description": ""
+			},
+		{
+			"id": "Teleportation Room",
+			"name": "Teleportation Room",
+			"description": ""
+			},
+		{
+			"id": "The Burning Wheel",
+			"name": "The Burning Wheel",
+			"description": ""
+			},
+		{
+			"id": "The Carcosan Spire",
+			"name": "The Carcosan Spire",
+			"description": ""
+			},
+		{
+			"id": "The Echo",
+			"name": "The Echo",
+			"description": ""
+			},
+		{
+			"id": "The Epoch Lens",
+			"name": "The Epoch Lens",
+			"description": ""
+			},
+		{
+			"id": "The Fiasco Codex",
+			"name": "The Fiasco Codex",
+			"description": ""
+			},
+		{
+			"id": "The Ku’meh Maneuver",
+			"name": "The Ku’meh Maneuver",
+			"description": ""
+			},
+		{
+			"id": "The Sartar Duck",
+			"name": "The Sartar Duck",
+			"description": ""
+			},
+		{
+			"id": "The Sterling Hand",
+			"name": "The Sterling Hand",
+			"description": ""
+			},
+		{
+			"id": "Timunn’s Armor",
+			"name": "Timunn’s Armor",
+			"description": ""
+			},
+		{
+			"id": "Titus’ Truthful Tallow",
+			"name": "Titus’ Truthful Tallow",
+			"description": ""
+			},
+		{
+			"id": "Tricksy Rope",
+			"name": "Tricksy Rope",
+			"description": ""
+			},
+		{
+			"id": "Vellius’s Gauntlets",
+			"name": "Vellius’s Gauntlets",
+			"description": ""
+			},
+		{
+			"id": "Violation Glaive",
+			"name": "Violation Glaive",
+			"description": ""
+			},
+		{
+			"id": "Vorpal Sword",
+			"name": "Vorpal Sword",
+			"description": ""
+			}
+	]
+}

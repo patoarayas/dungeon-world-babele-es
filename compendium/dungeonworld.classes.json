@@ -3,7 +3,8 @@
   "mapping": {
     "description": "data.description",
     "races": "data.races",
-    "alignments": "data.alignments"
+    "alignments": "data.alignments",
+    "equipment": "data.equipment"
   },
   "entries": [
     {
@@ -25,6 +26,11 @@
           "label": "Neutral",
           "description": "Enséñale a alguien las costumbres de tu gente."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tu arma"},
+        "2":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -54,6 +60,13 @@
           "label": "Caótico",
           "description": "Incitar a otros a llevar a cabo acciones decisivas e importantes no planeadas."
         }
+      },
+      "equipment":{
+        "0":{"label": "Empiezas con estos:"},
+        "1":{"label": "Escoge uno, todos pezan 0 para tí."},
+        "2":{"label": "Escoge tu atuendo"},
+        "3":{"label": "Escoge tu armamento"},
+        "4":{"label": "Escoge uno"}
       }
     },
     {
@@ -83,6 +96,12 @@
           "label": "Malvado",
           "description": "Dañar a otros para demostrar la superioridad de tu iglesia o deidad."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tus defensa"},
+        "2":{"label": "Escoge tu armamento"},
+        "3":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -116,6 +135,12 @@
           "label": "Neutral",
           "description": "Eliminar una amenaza no natural."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tus defensa"},
+        "2":{"label": "Escoge tu armamento"},
+        "3":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -153,6 +178,11 @@
           "label": "Malvado",
           "description": "Matar a un enemigo indefenso o rendido."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tus defensa"},
+        "2":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -182,6 +212,10 @@
           "label": "Neutral",
           "description": "Realizar un sacrificio, voluntario, a cambio de un servicio concreto."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -203,6 +237,11 @@
           "label": "Bueno",
           "description": "Ponerte en peligro para proteger a alguien más débil que tú."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tu arma"},
+        "2":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -232,6 +271,11 @@
           "label": "Neutral",
           "description": "Ayudar a un animal o espíritu de la naturaleza."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tu armamento"},
+        "2":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -261,6 +305,12 @@
           "label": "Malvado",
           "description": " Hacer que sea otro el que se enfrente al peligro o cargue con tus culpas."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge un arma"},
+        "2":{"label": "Escoge un arma a distancia"},
+        "3":{"label": "Escoge tu equipo"}
       }
     },
     {
@@ -290,6 +340,12 @@
           "label": "Malvado",
           "description": "Utilizar la magia para infundir el miedo y el terror."
         }
+      },
+      "equipment":{
+        "0":{"label": "Equipamiento básico"},
+        "1":{"label": "Escoge tus defensas"},
+        "2":{"label": "Escoge tu arma"},
+        "3":{"label": "Escoge tu equipo"}
       }
     }
   ]

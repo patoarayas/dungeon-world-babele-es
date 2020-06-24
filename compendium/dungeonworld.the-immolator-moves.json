@@ -1,137 +1,102 @@
 {
-    "label": "Movimientos del bárbaro",
+    "label": "Movimientos del Inmolador",
     "mapping": {
         "description": "data.description"
     },
     "entries": [{
-            "id": "A Good Day To Die",
-            "name": "Ein guter Tag zum Sterben",
+            "id": "Burning Brand",
+            "name": "Hierro ardiente",
             "description": "<p>Solange deine aktuellen TP unter deiner KO liegen oder 1 betragen, erhältst du dauerhaft +1.</p>"
         },
         {
-            "id": "Appetite For Destruction",
-            "name": "Gier nach Zerstörung",
+            "id": "Burning Bridges",
+            "name": "Quemar puentes",
             "description": "<p>Wähle einen Spielzug aus der Klassenliste des Barden, Diebes oder Kämpfers. Du darfst keinen Mehrklassen-Spielzug aus den Listen wählen.</p>"
         },
         {
-            "id": "Eye for Weakness",
-            "name": "Ein Auge für Schwäche",
+            "id": "Burning Ring Of Fire",
+            "name": "Anillo de fuego ardiente",
             "description": "<p>Wenn du Gewissheit erlangst, füge „Was hier ist schwach oder verwundbar?“ zur Liste der Fragen hinzu, die du stellen kannst.</p>"
         },
         {
-            "id": "For The Blood God",
-            "name": "Für den Blutgott",
+            "id": "Burns Half As Long",
+            "name": "Dura la mitad de tiempo",
             "description": "<p>Du wurdest in den alten Opferbräuchen unterwiesen. Wähle etwas, das deine Götter (oder die Geister deiner Ahnen, oder dein Totem) wertschätzen – Gold, Blut, Knochen oder ähnliches. Wenn du diese Gaben gemäß deinen Riten opferst, würfle+WE.</p>\n<ul>\n<li>Bei einer 10+ wird dir der SL einen Einblick in dein aktuelles Problem gewähren oder dir eine Gefälligkeit erweisen, die dir zugute kommt.</li>\n<li>Bei 7–9 ist das Opfer nicht bedeutsam genug: Die Götter nehmen von deinem Fleisch, aber gewähren dir trotzdem eine Einsicht oder eine Gefälligkeit.</li>\n<li>Bei einer 6- bekommst du den Zorn der launischen Geister zu spüren.</li>\n</ul>"
         },
         {
-            "id": "Full Plate and Packing Steel",
-            "name": "Gerüstet",
-            "description": "<p>Du ignorierst bei von dir getragenen Rüstungen die Eigenschaft schwerfällig.</p>"
-        },
-        {
-            "id": "Healthy Distrust",
-            "name": "Gesundes Misstrauen",
+            "id": "Burns Twice As Bright",
+            "name": "Brilla al doble de intensidad",
             "description": "<p>Wann immer du einer Gefahr trotzen musst, die von der unreinen Magie von Sterblichen hervorgerufen wurde, behandle ein Ergebnis von 6- als 7–9.</p>"
         },
         {
-            "id": "Herculean Appetites",
-            "name": "Titanische Begierden",
+            "id": "Fanning The Flames",
+            "name": "Avivar las llamas",
             "description": "<p>Andere mögen sich mit dem Geschmack von Wein oder ein oder zwei Dienern zufriedengeben, doch du willst mehr. Wähle zwei Begierden. Wenn du deiner Begierde nachjagst, führst du deine Würfe für Spielzüge mit 1W6+1W8 statt der üblichen 2W6 aus. Wenn die Augenzahl des W6 höher als die des W8 ist, wird der SL eine zusätzliche Schwierigkeit oder Gefahr ins Spiel bringen, die aus deiner Maßlosigkeit entsteht.</p>\n<ul>\n<li>Reine Zerstörung</li>\n<li>Macht über andere</li>\n<li>Fleischliche Gelüste</li>\n<li>Eroberung</li>\n<li>Reichtum und Besitz</li>\n<li>Ruhm und Ehre</li>\n</ul>"
         },
         {
-            "id": "Indestructible Hunger",
-            "name": "Unstillbarer Hunger",
+            "id": "Fighting Fire with Fire",
+            "name": "Fuego contra fuego",
             "description": "<p>Wenn du Schaden nimmst, kannst du anstelle des Schadens dauerhaft -1 hinnehmen, bis du eine deiner Begierden gestillt hast. Wenn du diesen Malus bereits hast, kannst du ihn nicht noch einmal auswählen.</p>"
         },
         {
-            "id": "Khan Of Khans",
-            "name": "Khan aller Khane",
+            "id": "Firebrand",
+            "name": "Instigador",
             "description": "<p>Deine Gefolgsleute akzeptieren immer die Erfüllung einer deiner Begierden anstelle einer Bezahlung.</p>"
         },
         {
-            "id": "Kill 'Em All",
-            "name": "Töte sie alle",
+            "id": "From Hell’s Heart",
+            "name": "Desde el corazón del infierno",
             "description": "<p><i>Voraussetzung: Gier nach Zerstörung</i></p>\n<p>Wähle einen weiteren Zug aus der Klassenliste des Barden, Diebes oder Kämpfers. Du darfst keinen Mehrklassen-Spielzug aus den Listen wählen.</p>"
         },
         {
-            "id": "Mark Of Might",
-            "name": "Zeichen der Macht",
+            "id": "Give Me Fuel, Give Me Fire",
+            "name": "Dame fuego",
             "description": "<p>Wenn du nach Wahl dieses Zuges Zeit damit verbringst, dich auf deine vollbrachten Heldentaten zu besinnen, schmücke dich selbst mit einem Symbol deiner Macht (ein geflochtener Zopf mit hell klingenden Glocken, rituelle Narben oder Tätowierungen usw.). Jeder intelligente Sterbliche erkennt dich an diesem Zeichen instinktiv als jemanden, den man ernstnehmen muss, und behandelt dich dementsprechend.</p>"
         },
         {
-            "id": "More! Always More!",
-            "name": "Mehr! Immer mehr!",
+            "id": "Hand Crafted",
+            "name": "Hecho a mano",
             "description": "<p>Wenn du einer deiner Begierden bis aufs Äußerste befriedigst – indem du etwas von großer Wichtigkeit zerstörst, enormen Reichtum, Ruhm oder Macht erlangst oder Ähnliches –, darfst du diese Begierde hinter dir lassen. Streiche sie von deiner Liste und schreibe dir einen EP gut. Du kannst der Begierde weiterhin frönen, aber in dir brennt nicht mehr dasselbe Verlangen wie zuvor. Wähle stattdessen eine neue Begierde oder erfinde eine eigene.</p>"
         },
         {
-            "id": "Musclebound",
-            "name": "Muskelbepackt",
+            "id": "Lore Of Flame",
+            "name": "Saber de la llama",
             "description": "<p>Wenn du eine Waffe führst, erhält sie die Eigenschaften wuchtig und brutal.</p>"
         },
         {
-            "id": "My Love For You Is Like A Truck",
-            "name": "Kraftprotz",
+            "id": "Moth To The Flame",
+            "name": "Como polilla al fuego",
             "description": "Wenn du einen Kraftakt vollführst, benenne einen der Anwesenden, den du damit beeindruckt hast, und erhalte einmalig +1, um mit dieser Person zu verhandeln.</p>"
         },
         {
-            "id": "On The Move",
-            "name": "In Bewegung",
+            "id": "Ogdru Jahad",
+            "name": "Ogdru Jahad",
             "description": "<p>Wenn du einer Gefahr trotzt, die durch Bewegung entstanden ist – beispielsweise ein Sturz von einer schmalen Brücke oder der Versuch, an einem bewaffneten Wächter vorbeizusprinten –, erhalte +1 auf deinen Wurf.</p>"
         },
         {
-            "id": "Samson",
-            "name": "Samson",
+            "id": "Sick Burn",
+            "name": "Quemar la moral",
             "description": "<p>Du kannst eine Beeinträchtigung markieren, um dich unmittelbar aus körperlicher oder geistiger Gefangenschaft zu befreien.</p>"
         },
         {
-            "id": "Smash!",
-            "name": "Kaputtschlagen!",
+            "id": "The Enkindler",
+            "name": "La chispa adecuada",
             "description": "<p>Wenn du beim Hauen & Stechen eine 12+ würfelst, kannst du deinen Schaden zufügen und etwas Körperliches bei Deinem Ziel wählen – etwa eine Waffe, seine Position oder seine Gliedmaßen. Es verliert, was du auswählst.</p>"
         },
         {
-            "id": "Still Hungry",
-            "name": "Noch immer hungrig",
+            "id": "This Killing Fire",
+            "name": "Este fuego aniquilador",
             "description": "<p>Wähle eine weitere Begierde.</p>"
         },
         {
-            "id": "The One Who Knocks",
-            "name": "Derjenige, der klopft",
+            "id": "Watch The World Burn",
+            "name": "Mirar el mundo arder",
             "description": "<p>Wenn du beim Gefahr trotzen eine 12+ würfelst, wendest du die Gefahr gegen sich selbst. Der SL beschreibt wie.</p>"
         },
         {
-            "id": "The Upper Hand",
-            "name": "Die Oberhand",
+            "id": "Zuko Style",
+            "name": "Estilo Zuko",
             "description": "<p>Du erhältst dauerhaft +1 auf deinen Letzten Atemzug. Wenn du deinen Letzten Atemzug tust, kannst du dem Tod bei einer 7–9 deinerseits ein Angebot machen. Wenn er es annimmt, bringt er dich ins Leben zurück. Wenn nicht, stirbst du.</p>"
-        },
-        {
-            "id": "Unencumbered, Unharmed",
-            "name": "Unbelastet, unbesiegt",
-            "description": "<p>Solange dein Gewicht unter deiner Tragkraft ist und du weder Schild noch Rüstung trägst, erhältst du +1 Rüstung.</p>"
-        },
-        {
-            "id": "Usurper",
-            "name": "Thronräuber",
-            "description": "<p>Wenn du deine Überlegenheit über eine mächtige Person beweist, erhältst du einmalig +1 gegen seine Anhänger, Untergebenen und Mitläufer.</p>"
-        },
-        {
-            "id": "War Cry",
-            "name": "Kriegsschrei",
-            "description": "<p>Wenn du mit einer Demonstration deiner Kraft in den Kampf schreitest – ein Brüllen, ein Schlachtruf oder ein Kriegstanz –, würfle+CH.</p>\n<p>* Bei einer 10+ beide,</p>\n<p>* bei 7–9 eines von beiden:</p>\n<ul>\n<li>Deine Verbündeten kämpfen als Einheit und erhalten einmalig +1.</li>\n<li>Deine Feinde fürchten dich und handeln entsprechend (sie meiden dich, verstecken sich, oder kämpfen mit panischer Todesangst).</li>\n</ul>"
-        },
-        {
-            "id": "What Are You Waiting For?",
-            "name": "Worauf wartet ihr?",
-            "description": "<p>Wenn du deinen Feinden eine Herausforderung entgegenbrüllst, würfle+KO.</p>\n<ul>\n<li>Bei einer 10+ sehen sie dich als größte Bedrohung an und ignorieren deine Gefährten. Du erhältst dauerhaft +2 Schaden gegen sie.</li>\n<li>Bei einer 7–9 gehen nur wenige – die Schwächsten oder Tollkühnsten unter ihnen – deinem Spott auf dem Leim.</li>\n</ul>"
-        },
-        {
-            "id": "What Is Best In Life",
-            "name": "Das Schönste im Leben",
-            "description": "<p>Wenn du deine Feinde zerschmettert, sie vor dir hergetrieben oder das Klagen ihrer Hinterbliebenen vernommen hast, schreibe dir am Ende der Spielsitzung einen EP gut.</p>"
-        },
-        {
-            "id": "Wide-Wanderer",
-            "name": "Weitgereist",
-            "description": "<p>Du hast die weite Welt bereist. Wenn du an einem Ort ankommst, frage den SL nach bedeutsamen Traditionen, Ritualen oder Gebräuchen – er wird dir sagen, was du wissen musst.</p>"
         }
     ]
 }

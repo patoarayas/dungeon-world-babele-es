@@ -4,14 +4,19 @@
   "description": "Template module for translations with babele (module babele is essential, both must bei installed and activated) - Traducción de Dungeon World al español",
   "version": "0.1",
   "minimumCoreVersion" : "0.6.0",
-  "compatibleCoreVersion":"0.6.2",
+  "compatibleCoreVersion":"0.6.4",
   "author": "Babele: Simone / German template: KarstenW / Spanish module: patoarayas",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
   "packs": [],
 
-  "languages": [],
+  "languages": [{
+  	"lang": "es",
+    "name": "Español",
+    "path": "es.json"
+  }],
+
 
   "url": "https://gitlab.com/patoarayas/dungeon-world-babele-es",
   "manifest": "https://gitlab.com/patoarayas/dungeon-world-babele-es/-/raw/master/module.json",
