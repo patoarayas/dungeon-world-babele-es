@@ -1,5 +1,5 @@
 {
-    "label": "Ausrüstung (Rüstung)",
+    "label": "Equipamiento (Armaduras)",
     "mapping": {
         "description": "data.description",
         "tags": "data.tags",
@@ -7,52 +7,52 @@
     },
     "entries": [{
             "id": "Chainmail",
-            "name": "Kettenpanzer",
-            "description": "<p>Rüstung, die aus zahlreichen – feuergeschweißten bzw. vernieteten – ineinander verflochtenen kleinen Metallringen besteht.</p>",
-            "tags": "[{\"value\":\"Rüstung 1\"},{\"value\":\"Angelegt\"}]",
-            "tagsString": "Rüstung 1, Angelegt"
+            "name": "Cota de mallas",
+            "description": "<p>Armadura hecha de pequeñas anillas de metal entrelazadas para formar una malla</p>",
+            "tags": "[{\"value\":\"Armadura 1\"},{\"value\":\"Equipado\"}]",
+            "tagsString": "Armadura 1, Equipado"
         },
         {
             "id": "Hide Armor",
-            "name": "Fellrüstung",
-            "description": "<p>Fellrüstung, selbst hergestellt, getragen, beschreibe sie: </p>",
-            "tags": "[{\"value\":\"Rüstung 1\"},{\"value\":\"Angelegt\"}]",
-            "tagsString": "Rüstung 1, Angelegt"
+            "name": "Armadura de pieles",
+            "description": "<p>Armadura fabricada usando piel de animal</p>",
+            "tags": "[{\"value\":\"Armadura 1\"},{\"value\":\"Equipado\"}]",
+            "tagsString": "Armadura 1, Equipado"
         },
         {
             "id": "Leather Armor",
-            "name": "Lederrüstung",
-            "description": "<p>Rauhe Lederrüstung, gehärtet und dem Körper angepasst.</p>",
-            "tags": "[{\"value\":\"Rüstung 1\"},{\"value\":\"Angelegt\"}]",
-            "tagsString": "Rüstung 1, Angelegt"
+            "name": "Armadura de cuero",
+            "description": "<p>Armadura de cuero endurecido</p>",
+            "tags": "[{\"value\":\"Armadura 1\"},{\"value\":\"Equipado\"}]",
+            "tagsString": "Armadura 1, Equipado"
         },
         {
             "id": "Ostentatious Clothes",
-            "name": "Prunkvolle Kleider",
-            "description": "<p>Hiermit setzt du definitiv ein Statement.</p>",
-            "tags": "[{\"value\":\"Angelegt\"}]",
-            "tagsString": "Angelegt"
+            "name": "Ropajes ostentosos",
+            "description": "<p>Ropas que no dejan indiferente a nadie</p>",
+            "tags": "[{\"value\":\"Equipado\"}]",
+            "tagsString": "Equipado"
         },
         {
             "id": "Plate",
-            "name": "Plattenpanzer",
-            "description": "<p>Aus körpergerecht geformten Metallplatten bestehende Rüstung.</p>",
-            "tags": "[{\"value\":\"Rüstung 3\"},{\"value\":\"Angelegt\"},{\"value\":\"schwerfällig\"}]",
-            "tagsString": "Rüstung 3, Angelegt, schwerfällig"
+            "name": "Armadura de placas",
+            "description": "<p>Armadura hecha de placas de metal</p>",
+            "tags": "[{\"value\":\"Armadura 3\"},{\"value\":\"Equipado\"},{\"value\":\"Incómoda\"}]",
+            "tagsString": "Armadura 3, Equipado, Incómoda"
         },
         {
             "id": "Scale Mail",
-            "name": "Schuppenpanzer",
-            "description": "<p>Rüstung, die aus zahlreichen Metallplättchen (Blechen) besteht, welche auf Leder angebracht sind.</p>",
-            "tags": "[{\"value\":\"Rüstung 2\"},{\"value\":\"Angelegt\"},{\"value\":\"schwerfällig\"}]",
-            "tagsString": "Rüstung 2, Angelegt, schwerfällig"
+            "name": "Cota de escamas ",
+            "description": "<p>Armadura compuesta de pequeñas escamas de metal cosidad a una prenda de tela.</p>",
+            "tags": "[{\"value\":\"Armadura 2\"},{\"value\":\"Equipado\"},{\"value\":\"Incómoda\"}]",
+            "tagsString": "Armadura 2, Equipado, Incómoda"
         },
         {
             "id": "Shield",
-            "name": "Schild",
-            "description": "<p>Der i.d.R. aus Holz bestehende Schild ist ein Teil der persönlichen Rüstung, den du aktiv mit einem Arm zum Block gegen feindliche Angriffe führst und der optional an Handgelenk oder Vorderarm geschnallt werden kann.</p>",
-            "tags": "[{\"value\":\"+1 Rüstung\"}]",
-            "tagsString": "+1 Rüstung"
+            "name": "Escudo",
+            "description": "<p>Elemento de defensa personal que se sostiene en una mano. Puede, o no, llevarse amarrado al brazo</p>",
+            "tags": "[{\"value\":\"+1 Armadura\"}]",
+            "tagsString": "+1 Armadura"
         }
     ]
 }

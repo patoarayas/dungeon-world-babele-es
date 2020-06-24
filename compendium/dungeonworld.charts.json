@@ -1,42 +1,42 @@
 {
-    "label": "Einnahmen/Ausgaben",
+    "label": "Servicios y precios",
     "mapping": {
         "description": "content"
     },
     "entries": [{
             "id": "Bribes",
-            "name": "Bestechungen",
-            "description": "<ul>\n<li>Mitgift eines Bauern: 20-Charisma Münzen</li>\n<li>„Schutz“ für ein kleines Geschäft: 100-Charisma Münzen</li>\n<li>Schmieren eines Beamten: 50-Charisma Münzen</li>\n<li>Verlockende Bestechung: 80-Charisma Münzen</li>\n<li>Ein Angebot, das du nicht ablehnen kannst: 500-Charisma Münzen</li>\n</ul>"
+            "name": "Sobornos",
+            "description": "<ul>\n<li>La dote de un campesino: 20 – Carisma monedas</li>\n<li>«Protección» para un negocio pequeño: 100 – Carisma monedas</li>\n<li>Un soborno para el gobierno: 50 – Carisma monedas</li>\n<li>Un soborno convincente: 80 – Carisma monedas</li>\n<li>Una oferta que no puedes rechazar: 500 – Carisma monedas</li>\n</ul>"
         },
         {
             "id": "Gifts and Finery",
-            "name": "Schmuck und Geschenke",
-            "description": "<ul>\n<li>Geschenk eines Bauern: 1 Münze</li>\n<li>Geschenk eines Bürgers: 55 Münzen</li>\n<li>Geschenk eines Adeligen: 200 Münzen</li>\n<li>Ring oder Gemme: 75 Münzen</li>\n<li>Schmuck: 105 Münzen</li>\n<li>Ein erlesener Wandteppich: 350+ Münzen</li>\n<li>Eine Krone, die eines Königs würdig ist: 5,000 Münzen</li>\n</ul>"
+            "name": "Regalos y ropas elegantes",
+            "description": "<ul>\n<li>Un regalo para un campesino: 1 moneda1 moneda</li>\n<li>Un regalo elegante: 55 monedas</li>\n<li>Un regalo para un noble: 200 monedas</li>\n<li>Un anillo o camafeo: 75 monedas<li>Ropas elegantes: 105 monedas</li>\n <li>Un tapiz refinado: 350+ monedas</li>\n<li>La corona de un rey: 5000 monedas</li>\n</ul>"
         },
         {
             "id": "Hoards",
-            "name": "Horte",
-            "description": "<ul>\n<li>Geheimversteck eines Goblins: 2 Münzen</li>\n<li>Plunder eines Echsenmenschen: 5 Münzen</li>\n<li>Ein „unbezahlbares“ Schwert: 80 Münzen</li>\n<li>Tribut eines orkischen Kriegshäuptlings: 250 Münzen</li>\n<li>Münzen und Edelsteine eines Drachenhorts: 130,000 Münzen</li>\n</ul>"
+            "name": "Tesoros",
+            "description": "<ul>\n<li>El alijo de un goblin: 2 monedas</li>\n<li>Los abalorios de un hombre lagarto: 5 monedas</li>\n<li>Una espada de valor «incalculable»: 80 monedas</li>\n<li>El tributo de un jefe de guerra orco: 250 monedas</li>\n<li>La montaña de gemas y monedas de un dragón: 130.000 monedas</li>\n</ul>"
         },
         {
             "id": "Land and Buildings",
-            "name": "Land und Gebäude",
-            "description": "<ul>\n<li>Hütte: 20 Münzen</li>\n<li>Häuschen: 500 Münzen</li>\n<li>Haus: 2,500 Münzen</li>\n<li>Anwesen: 50,000 Münzen</li>\n<li>Burg: 75,000 Münzen</li>\n<li>Schloss: 250,000 Münzen</li>\n<li>Palast: 1,000,000 Münzen</li>\n<li>Monatliche Kosten: 1% der Kosten</li>\n</ul>"
+            "name": "Tierras y edificios",
+            "description": "<ul>\n<li>Una choza: 20 monedas</li>\n<li>Una cabaña: 500 monedas</li>\n<li>Una casa: 2.500 monedas</li>\n<li>Una mansión: 50.000 monedas</li>\n<li>Una fortaleza: 75.000 monedas</li>\n<li>Un castillo: 250.000 monedas</li>\n<li>Un gran castillo: 1.000.000 monedas</li>\n<li>Un mes de mantenimiento: 1% del coste</li>\n</ul>"
         },
         {
             "id": "Meals",
-            "name": "Mahlzeiten",
-            "description": "<ul>\n<li>Ein herzhaftes Mahl für eine Person: 1 Münze</li>\n<li>Ein karges Mahl für eine Familie: 1 Münze</li>\n<li>Ein Festessen: 15 Münzen pro Person</li>\n</ul>"
+            "name": "Comidas",
+            "description": "<ul>\n<li>Una comida copiosa para uno: 1 moneda</li>\n<li>Una comida pobre para una familia: 1 moneda</li>\n<li>Un festín: 15 monedas por persona</li>\n</ul>"
         },
         {
             "id": "Services",
-            "name": "Dienstleistungen",
-            "description": "<ul>\n<li>Eine Woche Aufenthalt in einem bäuerlichen Gasthaus: 14-Charisma Münzen</li>\n<li>Eine Woche Aufenthalt in einem gehobenen Gasthaus: 30-Charisma Münzen</li>\n<li>Eine Woche Aufenthalt im elegantesten Gasthaus der Stadt: 43-Charisma Münzen</li>\n<li>Eine Woche ungelernter, einfacher Arbeit: 10 Münzen</li>\n<li>Monatssold als angeworbener Soldat: 30 Münzen</li>\n<li>Eine Einzelanfertigung von einem Schmied: Gegenstandskosten + 50 Münzen</li>\n<li>Eine Nacht in „angenehmer Gesellschaft“: 20-Charisma Münzen</li>\n<li>Ein Abend des Singens, Tanzens und Feierns: 18-Charisma Münzen</li>\n<li>Ein Tag Eskorte auf einer von Banditen heimgesuchten Straße: 20 Münzen</li>\n<li>Ein Tag Eskorte auf einer von Monstern heimgesuchten Straße: 54 Münzen</li>\n<li>Ein gewöhnlicher Mord: 5 Münzen</li>\n<li>Ein professioneller Auftragsmord: 120 Münzen</li>\n<li>Heilung durch einen Arzt: 5 Münzen</li>\n<li>Ein Monat Gebete für die Verblichenen: 1 Münze</li>\n<li>Reparatur eines gewöhnlichen Gegenstandes: 25% der Kosten des Gegenstandes</li>\n</ul>"
+            "name": "Servicios",
+            "description": "<ul>\n<li>Una semana en una posada de campesinos: 14 - Carisma monedas</li>\n<li>Una semana en una posada civilizada: 30 – Carisma monedas</li>\n<li>Una semana en la posada más exclusiva de la ciudad: 43 – Carisma monedas</li>\n<li>Una semana de trabajo normal no especializado: 10 monedas</li>\n<li>Paga de un mes alistado en un ejército: 30 monedas</li>\n<li>Un objeto hecho a medida en una herrería: Objeto base + 50 monedas</li>\n<li>Una noche de «compañía»: 20 – Carisma monedas</li>\n<li>Una noche de música y baile: 18 – Carisma monedas</li>\n<li>Escolta durante un día por una carretera infestada de bandidos: 20 monedas</li>\n<li>Escolta durante un día por una carretera infestada de monstruos: 54 monedas</li>\n<li>Un asesinato corriente y moliente: 5 monedas</li>\n<li>Un asesinato: 120 monedas</li>\n<li>Sanación a manos de un sanador: 5 monedas</li>\n<li>Un mes de oraciones por los fallecidos: 1 moneda</li>\n<li>Reparar un objeto común: 25% del coste del objeto</li>\n</ul>"
         },
         {
             "id": "Transport",
-            "name": "Transport",
-            "description": "<ul>\n<li>Esel und Karren: 50 Münzen, Tragkraft 20</li>\n<li>Pferd: 75 Münzen, Tragkraft 10</li>\n<li>Streitross: 400 Münzen, Tragkraft 12</li>\n<li>Wagen: 150 Münzen, Tragkraft 40</li>\n<li>Barke: 50 Münzen, Tragkraft 15</li>\n<li>Flussboot: 150 Münzen, Tragkraft 20</li>\n<li>Handelsschiff: 5,000 Münzen, Tragkraft 200</li>\n<li>Kriegsschiff: 20,000 Münzen, Tragkraft 100</li>\n<li>Überfahrt auf einer sicheren Route: 1 Münze</li>\n<li>Überfahrt auf einer schwierigen Route: 10 Münzen</li>\n<li>Überfahrt auf einer gefährlichen Route: 100 Münzen</li>\n</ul>"
+            "name": "Transporte",
+            "description": "<ul>\n<li>Carreta y burro para llevar tus cargas: 50 monedas, carga 20</li>\n<li>Caballo: 75 monedas, carga 10</li>\n<li>Caballo de guerra: 400 monedas, carga 12</li>\n<li>Carromato: 150 monedas, carga 40</li>\n<li>Barcaza: 50 monedas, carga 15</li>\n<li>Bote: 150 monedas, carga 20</li>\n<li>Barco mercante: 5.000 monedas, carga 200</li>\n<li>Barco de guerra: 20.000 monedas, carga 100</li>\n<li>Pasaje por una ruta segura: 1 moneda</li>\n<li>Pasaje por una ruta difícil: 10 monedas</li>\n<li>Pasaje por una ruta peligrosa: 100 monedas</li>\n</ul>"
         }
     ]
 }

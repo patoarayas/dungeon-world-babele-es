@@ -1,5 +1,5 @@
 {
-    "label": "Ausrüstung (Waffen)",
+    "label": "Equipamiento (Armas)",
     "mapping": {
         "description": "data.description",
         "tags": "data.tags",
@@ -7,178 +7,178 @@
     },
     "entries": [{
             "id": "Axe",
-            "name": "Axt",
-            "description": "<p>Zugleich Werkzeug und Waffe, geeignet zum Spalten.</p>",
-            "tags": "[{\"value\":\"Kurz\"}]",
-            "tagsString": "Kurz"
+            "name": "Hacha",
+            "description": "<p>Herramienta usada para cortar leña o como arma</p>",
+            "tags": "[{\"value\":\"Cerca\"}]",
+            "tagsString": "Cerca"
         },
         {
             "id": "Battle Axe",
-            "name": "Streitaxt",
-            "description": "<p>Eine Zweihandaxt, für den Kampf geschaffen.</p>",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"}]",
-            "tagsString": "Kurz, +1 Schaden"
+            "name": "Hacha de batalla",
+            "description": "<p>Hacha a dos manos diseñada para el combate.</p>",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"+1 Daño\"}]",
+            "tagsString": "Cerca, +1 Daño"
         },
         {
             "id": "Bundle of Arrows",
-            "name": "Bündel Pfeile",
-            "description": "<p>Ein Bündel Pfeile.</p>",
-            "tags": "[{\"value\":\"3 Munition\"}]",
-            "tagsString": "3 Munition"
+            "name": "Fajo de flechas",
+            "description": "<p>Un montón de flechas comunes.</p>",
+            "tags": "[{\"value\":\"3 Munición\"}]",
+            "tagsString": "3 Munición"
         },
         {
             "id": "Club",
-            "name": "Keule",
-            "description": "<p>Eine Schlagwaffe aus Holz.</p>",
-            "tags": "[{\"value\":\"Kurz\"}]",
-            "tagsString": "Kurz"
+            "name": "Garrote",
+            "description": "<p>Un palo grueso que puede ser usado como arma.</p>",
+            "tags": "[{\"value\":\"Cerca\"}]",
+            "tagsString": "Cerca"
         },
         {
             "id": "Crossbow",
-            "name": "Armbrust",
-            "description": "<p>Die Armbrust ist im Prinzip ein horizontal auf einer Mittelsäule montierter Bogen, der es dem Schützen durch eine Rückhaltevorrichtung für die Sehne ermöglicht, die Waffe ohne Anstrengung gespannt zu halten und dadurch lange und genau zu zielen.</p>",
-            "tags": "[{\"value\":\"Nah\"},{\"value\":\"+1 Schaden\"},{\"value\":\"Nachladen\"}]",
-            "tagsString": "Nah, +1 Schaden, Nachladen"
+            "name": "Ballesta",
+            "description": "<pUn arco mecanizado</p>",
+            "tags": "[{\"value\":\"Medio alcance\"},{\"value\":\"+1 Daño\"},{\"value\":\"Recargar\"}]",
+            "tagsString": "Medio alcance, +1 Daño, Recargar"
         },
         {
             "id": "Dagger",
-            "name": "Dolch",
-            "description": "<p>Eine kurze Klinge aus Eisen.</p>",
-            "tags": "[{\"value\":\"Hand\"}]",
-            "tagsString": "Hand"
+            "name": "Daga",
+            "description": "<p>Pequeña arma hecha de acero.</p>",
+            "tags": "[{\"value\":\"Toque\"}]",
+            "tagsString": "Toque"
         },
         {
             "id": "Dueling Rapier",
-            "name": "Duell-Rapier",
-            "description": "<p>Eine zweischneidige gerade Klinge mit sehr spitzen Ort, präzise und gut ausbalancierte Hieb- und Stichwaffe.</p>",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"Durchdringung 1\"},{\"value\":\"Präzise\"}]",
-            "tagsString": "Kurz, Durchdringung 1, Präzise"
+            "name": "Estoque de duelista",
+            "description": "<p>Un arma ligera y bien balanceada.</p>",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"Penetrante 1\"},{\"value\":\"Precisa\"}]",
+            "tagsString": "Cerca, Penetrante 1, Precisa"
         },
         {
             "id": "Elven Arrows",
-            "name": "Elfenpfeile",
-            "description": "<p>Fein gerarbeitete Elfenpfeile.</p>",
-            "tags": "[{\"value\":\"4 Munition\"}]",
-            "tagsString": "4 Munition"
+            "name": "Flechas élficas",
+            "description": "<p>Un montón de flechas de fina factura élfica.</p>",
+            "tags": "[{\"value\":\"4 Munición\"}]",
+            "tagsString": "4 Munición"
         },
         {
             "id": "Fine Bow",
-            "name": "Guter Bogen",
-            "description": "<p>Ein Bogen von hoher Qualität.</p>",
-            "tags": "[{\"value\":\"Nah\"},{\"value\":\"Fern\"}]",
-            "tagsString": "Nah, Fern"
+            "name": "Arco de calidad",
+            "description": "<p>Un arco de muy buena construcción.</p>",
+            "tags": "[{\"value\":\"Medio alcance\"},{\"value\":\"Largo alcance\"}]",
+            "tagsString": "Medio alcance, Largo alcance"
         },
         {
             "id": "Flail",
-            "name": "Flegel",
-            "description": "<p>Eine Schlagwaffe mit einem Schlagkopf, der mit einer Kette am Schaft befestigt ist.</p>",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"}]",
-            "tagsString": "Kurz, +1 Schaden"
+            "name": "Mayal",
+            "description": "<p>Arma contundente formada por un objeto pesado atado por una cadena a un mango.</p>",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"+1 Daño\"}]",
+            "tagsString": "Cerca, +1 Daño"
         },
         {
             "id": "Halberd",
-            "name": "Hellbarde",
-            "description": "<p>Eine zweihändige sehr lange Hieb- und Stichwaffe mit Mannstoppwirkung.</p>",
-            "tags": "[{\"value\":\"Lang\"},{\"value\":\"+1 Schaden\"},{\"value\":\"Zweihändig\"}]",
-            "tagsString": "Lang, +1 Schaden, Zweihändig"
+            "name": "Alabarda",
+            "description": "<p>Un arma de asta a dos manos.</p>",
+            "tags": "[{\"value\":\"Corto alcance\"},{\"value\":\"+1 Daño\"},{\"value\":\"A dos manos\"}]",
+            "tagsString": "Corto alcance, +1 Daño, A dos manos"
         },
         {
             "id": "Hunter's Bow",
-            "name": "Jagdbogen",
-            "description": "<p>Ein Bogen, optimiert auf Schnelligkeit und Präzision.</p>",
-            "tags": "[{\"value\":\"Nah\"},{\"value\":\"Fern\"}]",
-            "tagsString": "Nah, Fern"
+            "name": "Arco de cazador",
+            "description": "<p>Un buen arco. Rapido y certero.</p>",
+            "tags": "[{\"value\":\"Medio alcance\"},{\"value\":\"Largo alcance\"}]",
+            "tagsString": "Medio alcance, Largo alcance"
         },
         {
             "id": "Knife",
-            "name": "Messer",
-            "description": "<p>Ein Messer, Werkzeug und kleine Waffe in einem.</p>",
-            "tags": "[{\"value\":\"Hand\"}]",
-            "tagsString": "Hand"
+            "name": "Cuchillo",
+            "description": "<p>Un herramienta con filo.</p>",
+            "tags": "[{\"value\":\"Toque\"}]",
+            "tagsString": "Toque"
         },
         {
             "id": "Long Sword",
-            "name": "Langschwert",
-            "description": "<p>Ein Schwert mit einer langen Klinge.</p>",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"}]",
-            "tagsString": "Kurz, +1 Schaden"
+            "name": "Espada larga",
+            "description": "<p>Espada larga que debe ser usada con las dos manos.</p>",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"+1 Daño\"}]",
+            "tagsString": "Cerca, +1 Daño"
         },
         {
             "id": "Mace",
-            "name": "Streitkolben",
-            "description": "<p>Eine Waffe mit schwerem Kopf auf festem Schaft, gut um ordentliche Hiebe auszuteilen.</p>",
-            "tags": "[{\"value\":\"Kurz\"}]",
-            "tagsString": "Kurz"
+            "name": "Maza",
+            "description": "<p>Una pesada cabeza al final de una vara, usada para golpear.</p>",
+            "tags": "[{\"value\":\"Cerca\"}]",
+            "tagsString": "Cerca"
         },
         {
             "id": "Ragged Bow",
-            "name": "Abgenutzter Bogen",
-            "description": "<p>Ein stark abgenutzter Bogen.</p>",
-            "tags": "[{\"value\":\"Nah\"}]",
-            "tagsString": "Nah"
+            "name": "Arco ajado",
+            "description": "<p>Un arco que vio dias mejores.</p>",
+            "tags": "[{\"value\":\"Medio alcance\"}]",
+            "tagsString": "Medio alcance"
         },
         {
             "id": "Rapier",
-            "name": "Rapier",
-            "description": "<p>Eine zweischneidige gerade Klinge mit sehr spitzen Ort, präzise Hieb- und Stichwaffe.</p>",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"Präzise\"}]",
-            "tagsString": "Kurz, Präzise"
+            "name": "Estoque",
+            "description": "<p>Un arma ligera y afilada.</p>",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"Precisa\"}]",
+            "tagsString": "Cerca, Precisa"
         },
         {
             "id": "Shillelagh",
-            "name": "Knüppel",
-            "description": "<p>Ein dicker Knüppel aus Eichenholz.</p>",
-            "tags": "[{\"value\":\"Kurz\"}]",
-            "tagsString": "Kurz"
+            "name": "Cachiporra",
+            "description": "<p>Un duro palo de roble.</p>",
+            "tags": "[{\"value\":\"Cerca\"}]",
+            "tagsString": "Cerca"
         },
         {
             "id": "Shiv",
-            "name": "Shiv",
-            "description": "<p>Eine hausgemachte messerähnliche Waffe.</p>",
-            "tags": "[{\"value\":\"Hand\"}]",
-            "tagsString": "Hand"
+            "name": "Pincho",
+            "description": "<p>Una pequeña cuchilla artesanal.</p>",
+            "tags": "[{\"value\":\"Toque\"}]",
+            "tagsString": "Toque"
         },
         {
             "id": "Short Sword",
-            "name": "Kurzschwert",
-            "description": "<p>Ein kurzes Schwert zur einhändigen Nutzung.</p>",
-            "tags": "[{\"value\":\"Kurz\"}]",
-            "tagsString": "Kurz"
+            "name": "Espada corta",
+            "description": "<p>Espada corta que puede ser utilizada con una mano.</p>",
+            "tags": "[{\"value\":\"Cerca\"}]",
+            "tagsString": "Cerca"
         },
         {
             "id": "Spear",
-            "name": "Speer",
-            "description": "<p>Ein Waffe mit einem langen Schaft und einer Metallspitze.</p>",
-            "tags": "[{\"value\":\"Lang\"},{\"value\":\"Geworfen\"},{\"value\":\"Nah\"}]",
-            "tagsString": "Lang, Geworfen, Nah"
+            "name": "Lanza",
+            "description": "<p>Arma larga con una afilada punta metalica.</p>",
+            "tags": "[{\"value\":\"Corto alcance\"},{\"value\":\"Arrojadiza\"},{\"value\":\"Medio alcance\"}]",
+            "tagsString": "Corto alcance, Arrojadiza, Medio alcance"
         },
         {
             "id": "Staff",
-            "name": "Stab",
-            "description": "<p>Ein Holzstab, geschnitzt zum Wandern und zuschlagen.</p>",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"Zweihändig\"}]",
-            "tagsString": "Kurz, Zweihändig"
+            "name": "Bastón",
+            "description": "<p>Un bastón de madera que puede ser usado para golpear.</p>",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"A dos manos\"}]",
+            "tagsString": "Cerca, A dos manos"
         },
         {
             "id": "Throwing Dagger",
-            "name": "Wurfdolch",
-            "description": "<p>Ein leichter Dolch, präzise für den Wurf ausbalanciert.</p>",
-            "tags": "[{\"value\":\"Geworfen\"},{\"value\":\"Nah\"}]",
-            "tagsString": "Geworfen, Nah"
+            "name": "Daga arrojadiza",
+            "description": "<p>Una daga ligera que puede ser lanzada con precisión</p>",
+            "tags": "[{\"value\":\"Arrojadiza\"},{\"value\":\"Medio alcance\"}]",
+            "tagsString": "Arrojadiza, Medio alcance"
         },
         {
             "id": "Two-handed sword",
-            "name": "Zweihandschwert",
-            "description": "Ein Zweihandschwert mit einer langen Klinge.",
-            "tags": "[{\"value\":\"Kurz\"},{\"value\":\"+1 Schaden\"},{\"value\":\"Zweihändig\"}]",
-            "tagsString": "Kurz, +1 Schaden, Zweihändig"
+            "name": "Mandoble",
+            "description": "Un gran espadón que debe ser usado con las dos manos.",
+            "tags": "[{\"value\":\"Cerca\"},{\"value\":\"+1 Daño\"},{\"value\":\"A dos manos\"}]",
+            "tagsString": "Cerca, +1 Daño, A dos manos"
         },
         {
             "id": "War hammer",
-            "name": "Streithammer",
-            "description": "<p>Ein Hammer mit großem Metallkopf, gut um Schädel einzuschlagen.</p>",
-            "tags": "[{\"value\":\"Kurz\"}]",
-            "tagsString": "Kurz"
+            "name": "Martillo de guerra",
+            "description": "<p>Un gran martillo de metal, bueno para partir craneos.</p>",
+            "tags": "[{\"value\":\"Cerca\"}]",
+            "tagsString": "Cerca"
         }
     ]
 }

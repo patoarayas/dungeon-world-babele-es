@@ -1,5 +1,5 @@
 {
-    "label": "Ausrüstung (Gifte)",
+    "label": "Venenos",
     "mapping": {
         "description": "data.description",
         "tags": "data.tags",
@@ -7,31 +7,31 @@
     },
     "entries": [{
             "id": "Bloodweed",
-            "name": "Blutkraut",
-            "description": "<p>Bis das Gift geheilt wird, würfelt das Opfer bei jedem Schadenswurf einen zusätzlichen W4 und zieht das Ergebnis von seinem normalen Schaden ab.</p>\n<p>Abzug vom Schadenswurf: [[/roll 1d4]]</p>",
-            "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Berührung\"}]",
-            "tagsString": "Gefährlich, Berührung"
+            "name": "Hierbasangre",
+            "description": "<p>Cada vez que hace daño, y hasta que no se cure, la víctima tira un d4 adicional cada vez que haga daño y resta el resultado obtenido al daño que realiza.</p>\n<p>Resta de la tirada de daño: [[/roll 1d4]]</p>",
+            "tags": "[{\"value\":\"Peligroso\"},{\"value\":\"Contacto\"}]",
+            "tagsString": "Peligroso, Contacto"
         },
         {
             "id": "Goldenroot",
-            "name": "Goldwurz",
-            "description": "<p>Das Opfer behandelt das nächste wahrgenommene Wesen wie einen vertrauten Freund, bis ihm das Gegenteil bewiesen wird.</p>",
-            "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Einnahme\"}]",
-            "tagsString": "Gefährlich, Einnahme"
+            "name": "Raizdorada",
+            "description": "<p>El objetivo trata a la siguiente criatura que vea como un aliado de confianza hasta que se demuestre lo contrario.</p>",
+            "tags": "[{\"value\":\"Peligroso\"},{\"value\":\"Aplicado\"}]",
+            "tagsString": "Peligroso, Aplicado"
         },
         {
             "id": "Oil of Tagit",
-            "name": "Taggitöl",
-            "description": "<p>Das Opfer fällt in einen leichten Schlaf.</p>",
-            "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Einnahme\"}]",
-            "tagsString": "Gefährlich, Einnahme"
+            "name": "Aceite de Tagit",
+            "description": "<p>El objetivo es víctima de un sueño ligero.</p>",
+            "tags": "[{\"value\":\"Peligroso\"},{\"value\":\"Aplicado\"}]",
+            "tagsString": "Peligroso, Aplicado"
         },
         {
             "id": "Serpent's Tears",
-            "name": "Schlangentränen",
-            "description": "<p>Jeder, der dem Opfer Schaden zufügt, würfelt zweimal und nimmt das höhere Ergebnis.</p>",
-            "tags": "[{\"value\":\"Gefährlich\"},{\"value\":\"Berührung\"}]",
-            "tagsString": "Gefährlich, Berührung"
+            "name": "Lágrimas de serpiente",
+            "description": "<p>Cualquiera que haga daño a la víctima tira dos veces y se queda con el mejor resultado.</p>",
+            "tags": "[{\"value\":\"Peligroso\"},{\"value\":\"Contacto\"}]",
+            "tagsString": "Peligroso, Contacto"
         }
     ]
 }

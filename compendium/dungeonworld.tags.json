@@ -1,282 +1,282 @@
 {
-    "label": "Besonderheiten / Tags",
+    "label": "Etiquetas",
     "mapping": {
         "description": "data.description"
     },
     "entries": [{
             "id": "+1 armor",
-            "name": "+1 Rüstung",
-            "description": "<p>Sie schützt dich und lässt sich zusammen mit anderer Rüstung nutzen. Addiere den Wert zu deiner Gesamtrüstung.</p>"
+            "name": "+1 Armadura",
+            "description": "<p>Suma 1 a tu total de armadura.</p>"
         },
         {
             "id": "+1 damage",
-            "name": "+1 Schaden",
-            "description": "<p>Sie ist für deine Feinde besonders schädlich. Wenn du Schaden verursachst, addiere diesen Wert hinzu.</p>"
+            "name": "+1 Daño",
+            "description": "<p>Suma 1 al daño></p>"
         },
         {
             "id": "+1 forward",
-            "name": "+1 einmalig",
-            "description": "<p>Du erhälst auf deinen nächsten Wurf für einen Spielzug (nicht auf Schaden) einen Bonus von +1. Der erhaltene Bonus kann auch anders lauten. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte einmalig +1 auf ...“ – in diesem Fall bekommst du den Bonus nur auf diesen, und nicht auf andere Spielzüge.</p>"
+            "name": "+1 a la siguiente tirada",
+            "description": "<p>Recibes un +1 a la próxima tirada que realices para hacer un movimiento (no para daño).También puede existir una condición, como «recibes +1 a la siguiente tirada de un movimiento», en cuyo caso la bonificación se aplica solo a la próxima vez que tires para dicho movimiento y no a cualquier otra tirada de dados.</p>"
         },
         {
             "id": "+1 ongoing",
-            "name": "+1 dauerhaft",
-            "description": "<p>Du erhälst auf alle folgenden Würfe für Spielzüge (nicht auf Schaden) einen Bonus von +1. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte dauerhaft +1 auf ...“. Ein dauerhafter Bonus nennt stets auch, unter welchen Umständen er beendet wird.</p>"
+            "name": "+1 en adelante",
+            "description": "<p>Recibes +1 a todas las tiradas para hacer un movimiento (no para daño).También puede existir una condición, como «recibes +1 en adelante cuando hagas un movimiento en específico». Una bonificación de este tipo también indica qué condiciones hacen que finalice.</p>"
         },
         {
             "id": "-1 forward",
-            "name": "-1 einmalig",
-            "description": "<p>Du erhälst auf deinen nächsten Wurf für einen Spielzug (nicht auf Schaden) einen Malus von -1. Der erhaltene Malus kann auch anders lauten. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte einmalig -1 auf ...“ – in diesem Fall bekommst du den Malus nur auf diesen, und nicht auf andere Spielzüge.</p>"
+            "name": "-1 a la siguiente tirada",
+            "description": "<p>Recibes -1 a todas las tiradas para hacer un movimiento (no para daño).También puede existir una condición, como «recibes +1 en adelante cuando hagas un movimiento en específico». Una bonificación de este tipo también indica qué condiciones hacen que finalice.</p>"
         },
         {
             "id": "-1 ongoing",
-            "name": "-1 dauerhaft",
-            "description": "<p>Du erhälst auf alle folgenden Würfe für Spielzüge (nicht auf Schaden) einen Malus von -1. Es kann auch eine Bedingung eingeschlossen sein, wie „erhalte dauerhaft -1 auf ...“. Ein dauerhafter Malus nennt stets auch, unter welchen Umständen er beendet wird.</p>"
+            "name": "-1 en adelante",
+            "description": "<p>Recibes -1 a todas las tiradas para hacer un movimiento (no para daño).También puede existir una condición, como «recibes +1 en adelante cuando hagas un movimiento en específico». Una bonificación de este tipo también indica qué condiciones hacen que finalice.</p>"
         },
         {
             "id": "1 ammo",
-            "name": "1 Munition",
-            "description": "<p>Es zählt als Munition für entsprechende Fernkampfwaffen. Der Wert bezieht sich nicht auf eine exakte Anzahl einzelner Pfeile oder Schleudersteine, sondern bezeichnet abstrakt, was dir zur Verfügung steht.</p>"
+            "name": "1 Munición",
+            "description": "<p>Puede ser utilizado como munición para ciertas armas. El número indicado no es una cantidad exacta, sino una abstracción.</p>"
         },
         {
             "id": "1 armor",
-            "name": "Rüstung 1",
-            "description": "<p>Sie absorbiert Schaden und schützt dich vor Verletzungen. Wenn du Schaden erleidest, ziehe deinen Rüstungswert von dem Betrag ab. Falls du mehrere Gegenstände mit Rüstung hast, zählt ausschließlich der höchste Wert.</p>"
+            "name": "Armadura 1",
+            "description": "<p>Cuando recibes daño, sustrae 1 del total. Si tienes más de un objeto que proporcione n armadura, solo cuenta el valor más alto.</p>"
         },
         {
             "id": "1 piercing",
-            "name": "Durchdringung 1",
-            "description": "<p>Sie durchschlägt Rüstung. Wenn du Schaden mit Durchdringung verursachst, ziehst du für diesen Angriff den angegebenen Wert von der gegnerischen Rüstung ab.</p>"
+            "name": "Penetrante 1",
+            "description": "<p>Cuando haces daño con este arma, sustrae 1 de la armadura del enemigo para calcular el total.</p>"
         },
         {
             "id": "2 armor",
-            "name": "Rüstung 2",
-            "description": "<p>Sie absorbiert Schaden und schützt dich vor Verletzungen. Wenn du Schaden erleidest, ziehe deinen Rüstungswert von dem Betrag ab. Falls du mehrere Gegenstände mit Rüstung hast, zählt ausschließlich der höchste Wert.</p>"
+            "name": "Armadura 2",
+            "description": "<p>Cuando recibes daño, sustrae 2 del total. Si tienes más de un objeto que proporcione n armadura, solo cuenta el valor más alto.</p>"
         },
         {
             "id": "3 ammo",
-            "name": "3 Munition",
-            "description": "<p>Es zählt als Munition für entsprechende Fernkampfwaffen. Der Wert bezieht sich nicht auf eine exakte Anzahl einzelner Pfeile oder Schleudersteine, sondern bezeichnet abstrakt, was dir zur Verfügung steht.</p>"
+            "name": "3 Munición",
+            "description": "<p>Puede ser utilizado como munición para ciertas armas. El número indicado no es una cantidad exacta, sino una abstracción.</p>"
         },
         {
             "id": "3 armor",
-            "name": "Rüstung 3",
-            "description": "<p>Sie absorbiert Schaden und schützt dich vor Verletzungen. Wenn du Schaden erleidest, ziehe deinen Rüstungswert von dem Betrag ab. Falls du mehrere Gegenstände mit Rüstung hast, zählt ausschließlich der höchste Wert.</p>"
+            "name": "Armadura 3",
+            "description": "<p>Cuando recibes daño, sustrae 3 del total. Si tienes más de un objeto que proporcione n armadura, solo cuenta el valor más alto.</p>"
         },
         {
             "id": "3 piercing",
-            "name": "Durchdringung 3",
-            "description": "<p>Sie durchschlägt Rüstung. Wenn du Schaden mit Durchdringung verursachst, ziehst du für diesen Angriff den angegebenen Wert von der gegnerischen Rüstung ab.</p>"
+            "name": "Penetrante 3",
+            "description": "<p>Cuando haces daño con este arma, sustrae 1 de la armadura del enemigo para calcular el total.</p>"
         },
         {
             "id": "4 ammo",
-            "name": "4 Munition",
-            "description": "<p>Es zählt als Munition für entsprechende Fernkampfwaffen. Der Wert bezieht sich nicht auf eine exakte Anzahl einzelner Pfeile oder Schleudersteine, sondern bezeichnet abstrakt, was dir zur Verfügung steht.</p>"
+            "name": "4 Munición",
+            "description": "<p>Puede ser utilizado como munición para ciertas armas. El número indicado no es una cantidad exacta, sino una abstracción.</p>"
         },
         {
             "id": "Amorphous",
-            "name": "Amorph",
-            "description": "<p>Seine innere und äußere Beschaffenheit ist bizarr und unnatürlich.</p>"
+            "name": "Amorfo",
+            "description": "<p>Su anatomía es extraña y antinatural.</p>"
         },
         {
             "id": "Applied",
-            "name": "Einnahme",
-            "description": "<p>Es ist nur dann nützlich, wenn es einer Person vorsichtig eingeflößt oder in ihr Essen oder Getränk gemischt wird.</p>"
+            "name": "Aplicado",
+            "description": "<p>Solo es útil cuando se aplica cuidadosamente a una persona o a algo que vayan a comer o beber.</p>"
         },
         {
             "id": "Awkward",
-            "name": "Unhandlich",
-            "description": "<p>Es ist sperrig und schwierig zu verwenden.</p>"
+            "name": "Incómoda (Arma)",
+            "description": "<p>Es poco manejable y difícil de usar.</p>"
         },
         {
             "id": "Cautious",
-            "name": "Vorsichtig",
-            "description": "<p>Es zieht Überleben dem Konflikt vor.</p>"
+            "name": "Cauto",
+            "description": "<p>Prefiere defenderse y evitará una lucha a menos que esté seguro de ganar.</p>"
         },
         {
             "id": "Close",
-            "name": "Kurz",
-            "description": "<p>Die Waffe kann benutzt werden, um jemanden anzugreifen, der etwa einen halben Meter weiter als deine Armlänge von dir entfernt ist.</p>"
+            "name": "Cerca",
+            "description": "<p>Es útil solo para atacar a alguien al alcance de tu brazo, más medio metro más o menos.</p>"
         },
         {
             "id": "Clumsy",
-            "name": "Schwerfällig",
-            "description": "<p>Jede Bewegung darin fällt schwer. Du erhältst dauerhaft -1 während du sie nutzt. Mehrere dieser Abzüge addieren sich auf.</p>"
+            "name": "Incomoda (Armadura)",
+            "description": "<p>Es difícil moverse con esto. –1 mientras la lleves puesta.</p>"
         },
         {
             "id": "Construct",
-            "name": "Konstrukt",
-            "description": "<p>Es wurde nicht geboren, sondern erschaffen.</p>"
+            "name": "Constructo",
+            "description": "<p>No ha nacido, fue creado.</p>"
         },
         {
             "id": "Dangerous",
-            "name": "Gefährlich",
-            "description": "<p>Es ist leicht, damit in Schwierigkeiten zu geraten. Wenn du damit ohne entsprechende Vorsichtsmaßnahmen umgehst, kann der Spielleiter dir für diese Torheit Konsequenzen auferlegen.</p>"
+            "name": "Peligroso",
+            "description": "<p>Si lo usas sin las precauciones adecuadas sufrirás las consecuencias.</p>"
         },
         {
             "id": "Devious",
-            "name": "Verschlagen",
-            "description": "<p>Es ist vor allem jenseits des bloßen Kampfes gefährlich.</p>"
+            "name": "Taimado",
+            "description": "<p> Su principal peligro no es su furor en combate.</p>"
         },
         {
             "id": "Far",
-            "name": "Fern",
-            "description": "<p>Du kannst mit dieser Waffe jemanden auf eine Distanz angreifen, die deiner Rufweite entspricht.</p>"
+            "name": "Largo alcance",
+            "description": "<p>Es útil para atacar a alguien que puede oírte si le gritas.</p>"
         },
         {
             "id": "Forceful",
-            "name": "Wuchtig",
-            "description": "<p>Sie kann jemanden einen Schritt zurückwerfen und vielleicht sogar von den Füßen holen.</p>"
+            "name": "Contundente",
+            "description": "<p>Cuando se usa como arma, puede obligar a alguien a retroceder, puede que incluso derribarlo.</p>"
         },
         {
             "id": "Group",
-            "name": "Gruppe",
-            "description": "<p>Es tritt in geringer Zahl auf, etwa 2–5.</p>"
+            "name": "Grupo",
+            "description": "<p>Aparecen normalmente en pequeños números, de 3 a 6 o así.</p>"
         },
         {
             "id": "Hand",
-            "name": "Hand",
-            "description": "<p>Die Waffe kann benutzt werden, um jemanden anzugreifen, der sich innerhalb deiner Armlänge befindet.</p>"
+            "name": "Toque",
+            "description": "<p>Es útil solo para atacar a alguien al alcance de tu brazo o más cerca.</p>"
         },
         {
             "id": "Hoarder",
-            "name": "Sammler",
-            "description": "<p>Es hat ziemlich sicher Schätze angehäuft.</p>"
+            "name": "Acaparador",
+            "description": "<p>Colecciona cosas valiosas. Esta etiqueta también proporciona una bonificación a las tiradas de tesoro aleatorio.</p>"
         },
         {
             "id": "Horde",
-            "name": "Horde",
-            "description": "<p>Wo eines ist, sind noch mehr – viel mehr.</p>"
+            "name": "Horda",
+            "description": "<p>Se le encuentra en grupos de más de 7 individuos, puede que muchos más.</p>"
         },
         {
             "id": "Huge",
-            "name": "Riesig",
-            "description": "<p>Es ist so groß wie ein kleines Haus oder noch größer.</p>"
+            "name": "Enorme",
+            "description": "<p>Es tan grande como una casa pequeña, o más.</p>"
         },
         {
             "id": "Ignores Armor",
-            "name": "Ignoriert Rüstung",
-            "description": "<p>Ziehe die Rüstung nicht vom erlittenen Schaden ab.</p>"
+            "name": "Ignora armadura",
+            "description": "<p>No restes la armadura del daño que hace.</p>"
         },
         {
             "id": "Intelligent",
-            "name": "Intelligent",
-            "description": "<p>Es ist schlau genug, dass einzelne Wesen verschiedene Fertigkeiten erlernen können. Der Spielleiter kann das Monster anpassen, indem er ihm Eigenschaften gibt, die ein besonderes Training darstellen (etwa Magier oder Krieger).</p>"
+            "name": "Inteligente",
+            "description": "<p>Es más o menos igual de listo que una persona.</p>"
         },
         {
             "id": "Large",
-            "name": "Groß",
-            "description": "<p>Es ist viel größer als ein Mensch, ungefähr so wie ein Wagen.</p>"
+            "name": "Grande",
+            "description": "<p>Es más grande que un humano, hasta el tamaño de un carro.</p>"
         },
         {
             "id": "Magical",
-            "name": "Magisch",
-            "description": "<p>Es ist von Natur aus durch und durch magisch.</p>"
+            "name": "Mágico",
+            "description": "<p>En ciertos aspectos está más allá de la física. No puedes explicarlo usando las leyes de la naturaleza.</p>"
         },
         {
             "id": "Messy",
-            "name": "Brutal",
-            "description": "<p>Sie zerfetzt Leute und Dinge oder richtet anderweitig Schaden auf besonders zerstörerische Weise an.</p>"
+            "name": "Escabroso",
+            "description": "<p>Hace daño de una manera particularmente destructiva, rasgando la carne o las cosas.</p>"
         },
         {
             "id": "Near",
-            "name": "Nah",
-            "description": "<p>Du kannst mit dieser Waffe jemanden auf eine Distanz angreifen, auf die du das Weiße in seinen Augen ausmachen kannst.</p>"
+            "name": "Medio alcance",
+            "description": "<p>Puedes útilizar esta arma para atacar a alguien a quien puedas ver el blanco de los ojos.</p>"
         },
         {
             "id": "Organized",
-            "name": "Organisiert",
-            "description": "<p>Es verfügt über Gruppenstrukturen, die ihm beim Überleben helfen. Eines zu besiegen kann den Zorn der anderen nach sich ziehen. Es könnte Alarm schlagen.</p>"
+            "name": "Organizado",
+            "description": "<p>Los grupos de este tipo de monstruos tendrán una organización formal. Si matas a uno, otros buscarán venganza.</p>"
         },
         {
             "id": "Planar",
-            "name": "Externar",
-            "description": "<p>Es ist von jenseits dieser Welt.</p>"
+            "name": "Planar",
+            "description": "<p>No es de este mundo.</p>"
         },
         {
             "id": "Precise",
-            "name": "Präzise",
-            "description": "<p>Sie ist für geschickte Angriffe gedacht. Zum Hauen & Stechen mit dieser Waffe wird GE genutzt, nicht ST.</p>"
+            "name": "Precisa",
+            "description": "<p>Utiliza DES en lugar de FUE al hacer Saja-Raja con este arma.</p>"
         },
         {
             "id": "Ration",
-            "name": "Ration",
-            "description": "<p>Es ist essbar – mehr oder weniger.</p>"
+            "name": "Ración",
+            "description": "<p>Es más o menos comestible. Cuando acampas tienes que consumir una ración.</p>"
         },
         {
             "id": "Reach",
-            "name": "Lang",
-            "description": "<p>Die Waffe kann benutzt werden, um jemanden anzugreifen, der zwei oder drei Meter von dir entfernt ist.</p>"
+            "name": "Corto alcance",
+            "description": "<p>Es útil solo para atacar a alguien que esté a cierta distancia, hasta tres metros.</p>"
         },
         {
             "id": "Reload",
-            "name": "Nachladen",
-            "description": "<p>Es dauert länger als einen Moment, um sie nach einem Angriff wieder einsatzbereit zu machen.</p>"
+            "name": "Recargar",
+            "description": "<p>Necesitas algo más que un momento para estar listo y atacar de nuevo.</p>"
         },
         {
             "id": "Requires",
-            "name": "Voraussetzung: ",
-            "description": "<p>Seine Nutzung ist eingeschränkt. Wenn du die Bedingungen nicht erfüllst, funktioniert es schlecht bis überhaupt nicht.</p>"
+            "name": "Requiere: ",
+            "description": "<p>Solo aquellos que cumplan los requisitos pueden usar este objeto.</p>"
         },
         {
             "id": "Requires Dwarf",
-            "name": "Voraussetzung: Zwerg",
-            "description": "<p>Seine Nutzung ist eingeschränkt. Wenn du die Bedingungen nicht erfüllst, funktioniert es schlecht bis überhaupt nicht.</p>"
+            "name": "Solo enanos",
+            "description": "<p> Solo los enanos pueden usar esto.</p>"
         },
         {
             "id": "Slow",
-            "name": "Langsam",
-            "description": "<p>Die Nutzung erfordert einige Minuten oder länger.</p>"
+            "name": "Lento",
+            "description": "<p>Su uso requiere de algo más que unos momentos.</p>"
         },
         {
             "id": "Small",
-            "name": "Klein",
-            "description": "<p>Es ist ungefähr so groß wie ein Halbling.</p>"
+            "name": "Pequeño",
+            "description": "<p>Es más o menos del tamaño de un mediano.</p>"
         },
         {
             "id": "Solitary",
-            "name": "Einzelgänger",
-            "description": "<p>Es lebt und kämpft allein.</p>"
+            "name": "Solitario",
+            "description": "<p>Vive y lucha sin la ayuda de otros. Esta etiqueta proporciona una bonificación a las tiradas de tesoro aleatorio./p>"
         },
         {
             "id": "Stealthy",
-            "name": "Heimlich",
-            "description": "<p>Es kann sich verbergen und greift bevorzugt überraschend an.</p>"
+            "name": "Sigiloso",
+            "description": "<p>Puede evitar ser detectado y prefiere atacar aprovechando el elemento sorpresa.</p>"
         },
         {
             "id": "Stun",
-            "name": "Betäubung",
-            "description": "<p>Es richtet bei einem Angriff Betäubungsschaden statt normalen Schaden an.</p>"
+            "name": "Aturdir",
+            "description": "<p>Cuando atacas con ella hace daño aturdidor en lugar de daño normal.</p>"
         },
         {
             "id": "Terrifying",
-            "name": "Furchterregend",
-            "description": "<p>Seine Gegenwart und seine Erscheinung erzeugen Furcht.</p>"
+            "name": "Terrorífico",
+            "description": "<p>La mayoría de las personas se derrumbaría o huiría solo por estar cerca de este monstruo.</p>"
         },
         {
             "id": "Thrown",
-            "name": "Geworfen",
-            "description": "<p>Wirf diese Waffe auf jemanden, um ihm wehzutun. Wenn du mit dieser Waffe eine Salve abgibst, kannst du bei einer 7–9 nicht wählen, Munition abzustreichen. Sobald du sie geworfen hast, ist sie weg, bis du sie wiedererlangt hast.</p>"
+            "name": "Arrojadiza",
+            "description": "<p>También es peligrosa si la lanzas.</p>"
         },
         {
             "id": "Tiny",
-            "name": "Winzig",
-            "description": "<p>Es ist viel kleiner als ein Halbling.</p>"
+            "name": "Diminuto",
+            "description": "<p>Es más pequeño que un mediano.</p>"
         },
         {
             "id": "Touch",
-            "name": "Berührung",
-            "description": "<p>Man muss zum Einsatz die Haut des Ziels berühren.</p>"
+            "name": "Contacto",
+            "description": "<p>Su uso requiere tocar la piel del objetivo.</p>"
         },
         {
             "id": "Two-handed",
-            "name": "Zweihändig",
-            "description": "<p>Zum effektiven Einsatz werden zwei Hände benötigt.</p>"
+            "name": "A dos manos",
+            "description": "<p>Requiere de las dos manos para ser usado de forma efectiva.</p>"
         },
         {
             "id": "Worn",
-            "name": "Angelegt",
-            "description": "<p>Um es zu nutzen, musst du es anhaben.</p>"
+            "name": "Equipado",
+            "description": "<p>Para usarlo tienes que llevarlo puesto.</p>"
         }
     ]
 }

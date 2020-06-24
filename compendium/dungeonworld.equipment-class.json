@@ -1,74 +1,74 @@
 {
-    "label": "Ausrüstung (Klassen)",
+    "label": "Equipamiento (Clases)",
     "mapping": {
         "description": "data.description",
         "weight": "data.weight"
     },
     "entries": [{
             "id": "Fiddle",
-            "name": "Fiedel",
-            "description": "<p>Ein Lauteninstrument, das mit dem Bogen gestrichen wird.</p>"
+            "name": "Violín",
+            "description": "<p>Estridente instrumento de cuerda</p>"
         },
         {
             "id": "Horn",
-            "name": "Horn",
-            "description": "<p>Ein langes Rohr aus Metall.</p>"
+            "name": "Cuerno",
+            "description": "<p>Bello cuerno de metal.</p>"
         },
         {
             "id": "Lute",
-            "name": "Laute",
-            "description": "<p>Ein Zupfinstrument mit einem stark gewöbten Korpus.</p>"
+            "name": "Laúd",
+            "description": "<p>Instrumento de cuerda. De cuerpo curvo tallado en madera.</p>"
         },
         {
             "id": "Mandolin",
-            "name": "Mandoline",
-            "description": "<p>Ein Zupfinstrument mit einem mandelförmigen Korpus.</p>"
+            "name": "Mandolina",
+            "description": "<p>Viejo instrumento de cuerda que ha sido restaurado.</p>"
         },
         {
             "id": "Mark of Faith",
-            "name": "Zeichen deines Glaubens",
-            "description": "<p>Ein Zeichen deines Glaubens, beschreibe es:</p>"
+            "name": "Símbolo de fe",
+            "description": "<p>Un símbolo de fe. Descríbelo:</p>"
         },
         {
             "id": "Pipes",
-            "name": "Flöte",
-            "description": "<p>Eine Flöte mit 3 Löchern.</p>"
+            "name": "Gaita",
+            "description": "<p>Una gaita con 3 tubos</p>"
         },
         {
             "id": "Poison",
-            "name": "Gift",
-            "description": "Stoff, der Lebewesen durch Eindringen in den Organismus Schaden zufügen kann."
+            "name": "Veneno",
+            "description": "Sustancia que puede dañar a los seres vivos al entrar al organismo"
         },
         {
             "id": "Signature Weapon",
-            "name": "Einzigartige Waffe",
-            "description": "<p>Dies ist deine Waffe. Es gibt viele wie sie, aber diese ist die Deine. Sie ist dein bester Freund. Sie ist dein Leben. Du meisterst sie, wie du auch dein Leben meistern musst. Ohne dich ist deine Waffe nutzlos. Ohne deine Waffe bist du nutzlos. Du musst deine Waffe wahrhaftig führen.</p>\n<h3>Wähle einen Grundtyp (alle haben 2 Gewicht):</h3>\n<ul>\n<li>Schwert</li>\n<li>Axt</li>\n<li>Hammer</li>\n<li>Speer</li>\n<li>Flegel</li>\n<li>Fäuste</li>\n</ul>\n<h3>Wähle die Reichweite, die am besten zu deiner Waffe passt:</h3>\n<ul>\n<li>Hand</li>\n<li>Kurz</li>\n<li>Lang</li>\n</ul>\n<h3>Wähle zwei Verbesserungen:</h3>\n<ul>\n<li>Haken und Stacheln (+1 Schaden, +1 Gewicht)</li>\n<li>Scharf (Durchdringung +2)</li>\n<li>Ausbalanciert (präzise)</li>\n<li>Gezackte Klinge (+1 Schaden)</li>\n<li>Leuchtet in Gegenwart einer Kreaturenart deiner Wahl</li>\n<li>Riesig (brutal, wuchtig)</li>\n<li>Vielseitig (wähle eine zusätzliche Reichweite)</li>\n<li>Gut gearbeitet (-1 Gewicht)</li>\n</ul>\n<h3>Wähle ihr Aussehen:</h3>\n<ul>\n<li>Altertümlich</li>\n<li>Makellos</li>\n<li>Verziert</li>\n<li>Blutverkrustet</li>\n<li>Unheimlich</li>\n</ul>",
+            "name": "Arma distintiva",
+            "description": "<p>Esta es tu arma. Hay muchas como ella, pero esta es la tuya. Tu arma es tu mejor amiga. Es tu vida. Eres tan dueño de ella como de tu vida. Sin ti, tu arma es inútil. Sin tu arma, también lo eres tú. Debes empuñarla fielmente.</p>\n<h3>Elige una descripción básica; todas tienen peso 2:</h3>\n<ul>\n<li>Espada</li>\n<li>Hacha</li>\n<li>Martillo</li>\n<li>Lanza</li>\n<li>Mayal</li>\n<li>Puños</li>\n</ul>\n<h3>Elige la distancia que mejor se ajuste a tu arma:</h3>\n<ul>\n<li>Toque</li>\n<li>Cerca</li>\n<li>Corto alcance</li>\n</ul>\n<h3>Elige dos mejoras</h3>\n<ul>\n<li>Garfios y púas. +1 daño, pero también +1 peso.</li>\n<li>Afilada. Añade penetrante 2.</li>\n<Perfectamente equilibrada. Añade precisa.</li>\n<li>Brilla en presencia de un tipo de criatura a tu elección.</li>\n<li>Filos aserrados. +1 daño.</li>\n<li>Enorme. Añade escabrosa y contundente.</li>\n<li>Versátil. Elige un alcance adicional.</li>\n<li>Bien forjada. –1 peso.</li>\n</ul>\n<h3>Elige un aspecto:</h3>\n<ul>\n<li>Antigua</li>\n<li>Inmaculada</li>\n<li>Decorada</li>\n<li>Siniestra</li>\n<li>Manchada de sangre</li>\n</ul>",
             "weight": "2"
         },
         {
             "id": "Songbook",
-            "name": "Gesangsbuch",
-            "description": "<p>Ein Buch, das über viele Jahre gesammelte Lieder enthält.</p>"
+            "name": "Cancionero",
+            "description": "<p>Libro con una recopilación de canciones de distintas épocas.</p>"
         },
         {
             "id": "Spellbook",
-            "name": "Zauberbuch",
-            "description": "<p>Du hast einige Zauber gemeistert und in dein Zauberbuch geschrieben. Du beginnst das Spiel mit drei Zaubern des 1. Grades sowie deinen Zaubertricks. Immer wenn du eine Stufe aufsteigst, fügst du deinem Zauberbuch einen neuen Zauber hinzu, dessen Grad deine neue Stufe aber nicht übersteigen darf. Dein Zauberbuch hat 1 Gewicht.</p>"
+            "name": "Libro de conjuros",
+            "description": "<p>Has dominado varios conjuros que has transcrito en tu libro de conjuros. Comienzas con tres conjuros de primer nivel en tu libro de conjuros, además de todos los trucos. Cada vez que subas de nivel, añade en tu libro un nuevo conjuro de un nivel igual o inferior al tuyo. Tu libro de conjuros tiene peso 1.</p>"
         },
         {
             "id": "Symbol",
-            "name": "Zeichen",
-            "description": "<p>Ein Zeichen der früheren Entbehrungen, beschreibe es:</p>"
+            "name": "Simbolo",
+            "description": "<p>Un símbolo de los sacrificios que has hecho, descríbelo:</p>"
         },
         {
             "id": "Symbol of the Devine",
-            "name": "Heiliges Symbol",
-            "description": "<p>Ein heiliges Symbol, beschreibe es:</p>"
+            "name": "Símbolo divino",
+            "description": "<p>Un símbolo sagrado, describelo:</p>"
         },
         {
             "id": "Token",
-            "name": "Andenken",
-            "description": "<p>Ein Andenken an deine Reisen oder deine Heimat – beschreibe es: </p>"
+            "name": "Recuerdo",
+            "description": "<p>Recuerdo de tu tierra o de algún lugar por el que hallas viajado</p>"
         }
     ]
 }

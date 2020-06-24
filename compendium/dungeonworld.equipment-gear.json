@@ -1,5 +1,5 @@
 {
-    "label": "Ausrüstung (Ausrüstung)",
+    "label": "Equipamiento (Equipo)",
     "mapping": {
         "description": "data.description",
         "tags": "data.tags",
@@ -7,73 +7,73 @@
     },
     "entries": [{
             "id": "Adventuring Gear",
-            "name": "Abenteurerausrüstung",
-            "description": "<p>Abenteuerausrüstung ist eine Sammlung nützlicher, gewöhnlicher Gegenstände wie beispielsweise Kreide, Stäbe, lange Nägel, Seile, usw. Wenn du deine Abenteurerausrüstung nach etwas Nützlichem durchsuchst, findest du diesen Gegenstand und streichst eine Anwendung ab.</p>"
+            "name": "Equipo de aventurero",
+            "description": "<p>El equipo de aventurero es un conjunto de objetos mundanos útiles como tizas, picas, escarpias, cuerdas, etcétera. Cuando rebuscas en tu equipo en busca de un objeto útil, encuentras lo que necesitas y gastas un uso.</p>"
         },
         {
             "id": "Anti-Toxin",
-            "name": "Gegengift",
-            "description": "<p>Wenn du Gegengift trinkst, heilst du eine deiner Vergiftungen.</p>"
+            "name": "Antídoto",
+            "description": "<p>Cuando bebes un antídoto te curas de un veneno que esté afectándote.</p>"
         },
         {
             "id": "Bag of Books",
-            "name": "Tasche voller Bücher",
-            "description": "<p>Wenn sich in deiner Tasche voller Bücher genau das richtige Buch zu dem Thema befindet, über welches du gerade Wissen kundtust, dann konsultiere das Buch, streiche eine Anwendung ab und erhalte +1 auf den Wurf.</p>"
+            "name": "Bolsa de libros",
+            "description": "<p>Cuando consultas un libro apropiado de tu bolsa sobre un tema del que estás intentando Exhibir conocimientos, gasta un uso y recibes +1 a tu tirada.</p>"
         },
         {
             "id": "Bandages",
-            "name": "Verbandszeug",
-            "description": "<p>Wenn du ein paar Minuten hast, um die Wunden von jemandem zu verbinden, heile ihn von 4 Schaden und streiche eine Anwendung ab.</p>",
-            "tags": "[{\"value\":\"Langsam\"}]",
-            "tagsString": "Langsam"
+            "name": "Vendas",
+            "description": "<p>Cuando tienes unos minutos para vendar las heridas de otro, le curas 4 puntos de daño y gastas un uso.</p>",
+            "tags": "[{\"value\":\"Lentas\"}]",
+            "tagsString": "Lentas"
         },
         {
             "id": "Dungeon Rations",
-            "name": "Rationen",
-            "description": "<p>Nicht schmackhaft, aber auch nicht schlecht.</p>",
-            "tags": "[{\"value\":\"Ration\"}]",
-            "tagsString": "Ration"
+            "name": "Raciones de viaje",
+            "description": "<p>No están muy buenas, pero tampoco están tan mal.</p>",
+            "tags": "[{\"value\":\"Ración\"}]",
+            "tagsString": "Ración"
         },
         {
             "id": "Dwarven Hardtack",
-            "name": "Zergenzwieback",
-            "description": "<p>Zwerge würden sagen, es schmeckt wie zuhause. Alle anderen würden sagen, es schmeckt nur dann wie zuhause, wenn dein Zuhause eine brennende Schweinefarm ist.</p>",
-            "tags": "[{\"value\":\"Voraussetzung: Zwerg\"}]",
-            "tagsString": "Voraussetzung: Zwerg"
+            "name": "Galletas Enanas",
+            "description": "<p>Los enanos dicen que tiene el sabor del hogar. Los demás dicen que tiene el sabor del hogar si fuera una granja de cerdos chamuscada.</p>",
+            "tags": "[{\"value\":\"Solo enanos\"}]",
+            "tagsString": "Solo enanos"
         },
         {
             "id": "Elven Bread",
-            "name": "Elfenbrot",
-            "description": "<p>Nur die größten Freunde des Elfenvolks erhalten diese seltene Delikatesse.</p>",
-            "tags": "[{\"value\":\"Ration\"}]",
-            "tagsString": "Ration"
+            "name": "Pan Élfico",
+            "description": "<p>Solo a los más grandes amigos de los elfos se les ofrece esta exquisitez.</p>",
+            "tags": "[{\"value\":\"Ración\"}]",
+            "tagsString": "Ración"
         },
         {
             "id": "Halfling Pipeleaf",
-            "name": "Halblingspfeifenkraut",
-            "description": "<p>Wenn du Halblingspfeifenkraut mit jemandem teilst, streiche zwei Anwendungen ab und erhalte einmalig +1 beim Verhandeln mit ihm.</p>"
+            "name": "Hierba para pipa de los medianos",
+            "description": "<p>Cuando compartas tu hierba para pipa con alguien, gasta 2 usos y recibe +1 a la siguiente tirada para Parlamentar con esa persona.</p>"
         },
         {
             "id": "Healing Potion",
-            "name": "Heiltrank",
-            "description": "<p>Wenn du den ganzen Heiltrank trinkst, heile 10 Schaden oder entferne eine Beeinträchtigung (deine Wahl).</p>"
+            "name": "Poción curativa",
+            "description": "<p>Cuando bebes una poción curativa completa, te curas 10 puntos de daño o eliminas una debilidad, a tu elección.</p>"
         },
         {
             "id": "Keg of Dwarven Stout",
-            "name": "Fässchen Zwergenbier",
-            "description": "<p>Wenn du ein Fässchen Zwergenbier anstichst und jedem einen Schluck gewährst, erhältst du +1 auf deinen Wurf zum Gelage feiern. Trinkst du alleine ein ganzes Fässchen, dann bist du sehr, sehr betrunken.</p>"
+            "name": "Barril de cerveza enana",
+            "description": "<p>Cuando abres un barril de cerveza enana y dejas que todos beban libremente, recibes +1 a tu tirada de Festejar. Si te bebes un barril entero por tu cuenta acabarás muy, muy borracho.</p>"
         },
         {
             "id": "Personal Feast",
-            "name": "Persönliches Fest",
-            "description": "<p>In einem Wort: opulent.</p>"
+            "name": "Festín personal",
+            "description": "<p>Ostentoso como mínimo</p>"
         },
         {
             "id": "Poultices and Herbs",
-            "name": "Kräuter und Umschläge",
-            "description": "<p>Wenn du einen Verwundeten gewissenhaft mit Kräutern und Umschlägen behandelst, heile ihn von 7 Schaden und streiche eine Anwendung ab.</p>",
-            "tags": "[{\"value\":\"Langsam\"}]",
-            "tagsString": "Langsam"
+            "name": "Cataplasmas y hierbas",
+            "description": "<p>Cuando tratas atentamente las heridas de alguien con cataplasmas y hierbas, le curas 7 puntos de daño y gastas un uso.</p>",
+            "tags": "[{\"value\":\"Lentas\"}]",
+            "tagsString": "Lentas"
         }
     ]
 }

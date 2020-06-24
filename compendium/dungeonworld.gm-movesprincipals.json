@@ -1,22 +1,22 @@
 {
-    "label": "SL Spielzüge/Prinzipien",
+    "label": "Movimientos y Principios del DJ",
     "mapping": {
         "description": "content"
     },
     "entries": [{
             "id": "Dungeon Moves",
-            "name": "Dungeon-Spielzüge",
-            "description": "<ul>\n<li>Verändere die Umgebung</li>\n<li>Deute ein drohendes Unheil an</li>\n<li>Führe eine neue Fraktion oder Kreatur ein</li>\n<li>Nutze die Bedrohung einer bestehenden Fraktion oder Kreatur</li>\n<li>Lass sie umkehren</li>\n<li>Zeige Reichtümer mit Kosten</li>\n<li>Fordere einen der Charaktere heraus</li>\n</ul>"
+            "name": "Movimientos de mazmorra",
+            "description": "<ul>\n<li>Cambia el entorno.</li>\n<li>Indica la existencia de una amenaza inminente.</li>\n<li>Introduce una nueva facción o tipo de criatura.</li>\n<li>Utiliza una amenaza de una facción o grupo de criaturas ya existente.</li>\n<li>Hazles retroceder.</li>\n<li>Ofrece riquezas con un coste.</li>\n<li>Plantea un desafío a uno de los personajes.</li>\n</ul>"
         },
         {
             "id": "GM Moves",
-            "name": "SL Spielzüge",
-            "description": "<ul>\n<li>Nutze den Spielzug eines Monsters, einer Gefahr oder eines Orts</li>\n<li>Enthülle eine unangenehme Wahrheit</li>\n<li>Zeige Anzeichen einer heraufziehenden Bedrohung</li>\n<li>Verursache Schaden</li>\n<li>Verbrauche ihre Ressourcen</li>\n<li>Wende ihren Spielzug gegen sie</li>\n<li>Trenne sie</li>\n<li>Biete eine Gelegenheit für einen Klassenspielzug</li>\n<li>Zeige einen Nachteil ihrer Klasse, Ausrüstung oder ihres Volkes</li>\n<li>Biete eine Gelegenheit – zu einem Preis oder ohne</li>\n<li>Bringe jemanden in Schwierigkeiten</li>\n<li>Nenne Voraussetzungen oder Konsequenzen und frage</li>\n</ul>"
+            "name": "Movimientos del DJ",
+            "description": "<ul>\n<li>Utiliza un movimiento de monstruo, peligro o localización.</li>\n<li>Revela una verdad incómoda.</li>\n<li>Muestra señales de una amenaza inminente.</li>\n<li>Haz daño.</li>\n<li>Agota sus recursos.</li>\n<li>Haz que su movimiento se vuelva en su contra.</li>\n<li>Sepáralos.</li>\n<li>Ofrece una oportunidad que se ajuste a las capacidades de una clase.</li>\n<li>Pon de manifiesto un inconveniente de su clase, raza o equipo.</li>\n<li>Ofrece una oportunidad, con o sin coste.</li>\n<li>Pon a alguien en un aprieto.</li>\n<li>Diles los requisitos o consecuencias y pregunta.</li>\n</ul>"
         },
         {
             "id": "Principals",
-            "name": "Prinzipien",
-            "description": "<ul>\n<li>Zeichne Karten, lasse Lücken</li>\n<li>Sprich die Charaktere an, nicht die Spieler</li>\n<li>Nimm das Fantastische an</li>\n<li>Lasse deinen Spielzug folgen</li>\n<li>Nenne deinen Spielzug nie beim Namen</li>\n<li>Verleihe jedem Monster Leben</li>\n<li>Gib jeder Person einen Namen</li>\n<li>Stelle Fragen und nutze die Antworten</li>\n<li>Sei ein Fan der Charaktere</li>\n<li>Denke gefährlich</li>\n<li>Beginne und ende mit Fiktion</li>\n<li>Denke auch abseits der Szene</li>\n</ul>"
+            "name": "Principios",
+            "description": "<ul>\n<li>Dibuja mapas, deja huecos.</li>\n<li>Dirígete a los personajes, no a los jugadores.</li>\n<li>Lánzate a los brazos de la fantasía.</li>\n<li>Haz que tus movimientos sean fluidos.</li>\n<li>Nunca digas el nombre de tu movimiento.</li>\n<li>Dale vida a cada monstruo.</li>\n<li>Dale un nombre a cada persona.</li>\n<li>Haz preguntas y usa las respuestas.</li>\n<li>Hazte admirador de los personajes.</li>\n<li>Piensa en peligros.</li>\n<li>Comienza y termina en la ficción.</li>\n<li>Piensa también en lo que sucede fuera de plano.</li>\n</ul>"
         }
     ]
 }
