@@ -5,133 +5,133 @@
     },
     "entries": [{
             "id": "A Good Day To Die",
-            "name": "Ein guter Tag zum Sterben",
-            "description": "<p>Solange deine aktuellen TP unter deiner KO liegen oder 1 betragen, erhältst du dauerhaft +1.</p>"
+            "name": "Buen día para morir",
+            "description": "<p>Siempre y cuando tengas un valor menor a tu CON en tus PG actuales (o 1, lo que sea mayor), recibes +1 en adelante.</p>"
         },
         {
             "id": "Appetite For Destruction",
-            "name": "Gier nach Zerstörung",
-            "description": "<p>Wähle einen Spielzug aus der Klassenliste des Barden, Diebes oder Kämpfers. Du darfst keinen Mehrklassen-Spielzug aus den Listen wählen.</p>"
+            "name": "Apetito por la destrucción",
+            "description": "<p>Elige un movimiento del Guerrero, del Bardo o del Ladrón. No puedes elegir movimientos multiclase de estas clases.</p>"
         },
         {
             "id": "Eye for Weakness",
-            "name": "Ein Auge für Schwäche",
-            "description": "<p>Wenn du Gewissheit erlangst, füge „Was hier ist schwach oder verwundbar?“ zur Liste der Fragen hinzu, die du stellen kannst.</p>"
+            "name": "Ojo por las debilidades",
+            "description": "<p>Cuando disciernas la realidad, añade: «¿Qué es débil o vulnerable aquí?» a la lista de preguntas que puedes hacer.</p>"
         },
         {
             "id": "For The Blood God",
-            "name": "Für den Blutgott",
-            "description": "<p>Du wurdest in den alten Opferbräuchen unterwiesen. Wähle etwas, das deine Götter (oder die Geister deiner Ahnen, oder dein Totem) wertschätzen – Gold, Blut, Knochen oder ähnliches. Wenn du diese Gaben gemäß deinen Riten opferst, würfle+WE.</p>\n<ul>\n<li>Bei einer 10+ wird dir der SL einen Einblick in dein aktuelles Problem gewähren oder dir eine Gefälligkeit erweisen, die dir zugute kommt.</li>\n<li>Bei 7–9 ist das Opfer nicht bedeutsam genug: Die Götter nehmen von deinem Fleisch, aber gewähren dir trotzdem eine Einsicht oder eine Gefälligkeit.</li>\n<li>Bei einer 6- bekommst du den Zorn der launischen Geister zu spüren.</li>\n</ul>"
+            "name": "Por el dios de la sangre",
+            "description": "<p>Eres un iniciado en las antiguas costumbres del sacrificio. Elige algo que tus dioses (o tus espíritus ancestros o tótems, etc.) valoren: oro, sangre, huesos o similares. Cuando sacrificas estas cosas según tus ritos y rituales, tira +SAB.</p>\n<ul>\n<li>Con 10+, el DJ te proporcionará conocimiento sobre tu problema actual o una bonificación para ayudarte.</li>\n<li>Con 7-9, el sacrificio no es suficiente y tus dioses también se llevan tu carne, pero te siguen concediendo algo de conocimiento o una bonificación.</li>\n<li>Si fallas, la cólera de los caprichosos espíritus cae sobre ti.</li>\n</ul>"
         },
         {
             "id": "Full Plate and Packing Steel",
-            "name": "Gerüstet",
-            "description": "<p>Du ignorierst bei von dir getragenen Rüstungen die Eigenschaft schwerfällig.</p>"
+            "name": "Blindado y armado",
+            "description": "<p>Ignora la etiqueta incómoda de la armadura que llevas.</p>"
         },
         {
             "id": "Healthy Distrust",
-            "name": "Gesundes Misstrauen",
-            "description": "<p>Wann immer du einer Gefahr trotzen musst, die von der unreinen Magie von Sterblichen hervorgerufen wurde, behandle ein Ergebnis von 6- als 7–9.</p>"
+            "name": "Sana desconfianza",
+            "description": "<p>En cualquier momento que la magia impura convocada por hombres mortales te haga desafiar el peligro, considera cualquier resultado de 6 o menos como si fuera 7-9.</p>"
         },
         {
             "id": "Herculean Appetites",
-            "name": "Titanische Begierden",
-            "description": "<p>Andere mögen sich mit dem Geschmack von Wein oder ein oder zwei Dienern zufriedengeben, doch du willst mehr. Wähle zwei Begierden. Wenn du deiner Begierde nachjagst, führst du deine Würfe für Spielzüge mit 1W6+1W8 statt der üblichen 2W6 aus. Wenn die Augenzahl des W6 höher als die des W8 ist, wird der SL eine zusätzliche Schwierigkeit oder Gefahr ins Spiel bringen, die aus deiner Maßlosigkeit entsteht.</p>\n<ul>\n<li>Reine Zerstörung</li>\n<li>Macht über andere</li>\n<li>Fleischliche Gelüste</li>\n<li>Eroberung</li>\n<li>Reichtum und Besitz</li>\n<li>Ruhm und Ehre</li>\n</ul>"
+            "name": "Apetito Herculeano",
+            "description": "<p>Puede que otros se contenten con el sabor del vino o con dominar sobre un sirviente o dos, pero tú quieres más. Elige dos apetitos. Cuando persigues uno de tus apetitos, si vas a tirar para hacer un movimiento, en lugar de tirar 2d6 tira 1d6+1d8. Si el d6 tiene el resultado más alto de los dos, el DJ también introducirá una complicación o un peligro que sucede debido a tu descuidada búsqueda.</p>\n<ul>\n<li>Pura destrucción.</li>\n<li>Poder sobre los otros.</li>\n<li>Placeres mortales.</li>\n<li>Conquista.</li>\n<li>Riquezas y posesiones.</li>\n<li>Fama y gloria.</li>\n</ul>"
         },
         {
             "id": "Indestructible Hunger",
-            "name": "Unstillbarer Hunger",
-            "description": "<p>Wenn du Schaden nimmst, kannst du anstelle des Schadens dauerhaft -1 hinnehmen, bis du eine deiner Begierden gestillt hast. Wenn du diesen Malus bereits hast, kannst du ihn nicht noch einmal auswählen.</p>"
+            "name": "Hambre indestructible",
+            "description": "<p>Cuando recibes daño puedes elegir recibir –1 en adelante hasta que sacies uno de tus apetitos en lugar de recibir daño. Si ya tienes esta penalización, no puedes elegir esta opción.</p>"
         },
         {
             "id": "Khan Of Khans",
-            "name": "Khan aller Khane",
-            "description": "<p>Deine Gefolgsleute akzeptieren immer die Erfüllung einer deiner Begierden anstelle einer Bezahlung.</p>"
+            "name": "Khan de Khanes",
+            "description": "<p>Tus mercenarios siempre aceptan la gratificante satisfacción de uno de tus apetitos como pago.</p>"
         },
         {
             "id": "Kill 'Em All",
-            "name": "Töte sie alle",
-            "description": "<p><i>Voraussetzung: Gier nach Zerstörung</i></p>\n<p>Wähle einen weiteren Zug aus der Klassenliste des Barden, Diebes oder Kämpfers. Du darfst keinen Mehrklassen-Spielzug aus den Listen wählen.</p>"
+            "name": "Mátalos a todos",
+            "description": "<p><i>Requiere: Apetito por la destrucción</i></p>\n<p>Elige otro movimiento del Guerrero, del Bardo o del Ladrón. No puedes elegir movimientos multiclase de estas clases.</p>"
         },
         {
             "id": "Mark Of Might",
-            "name": "Zeichen der Macht",
-            "description": "<p>Wenn du nach Wahl dieses Zuges Zeit damit verbringst, dich auf deine vollbrachten Heldentaten zu besinnen, schmücke dich selbst mit einem Symbol deiner Macht (ein geflochtener Zopf mit hell klingenden Glocken, rituelle Narben oder Tätowierungen usw.). Jeder intelligente Sterbliche erkennt dich an diesem Zeichen instinktiv als jemanden, den man ernstnehmen muss, und behandelt dich dementsprechend.</p>"
+            "name": "Marca de poder",
+            "description": "<p>Cuando elijas este movimiento y pases un tiempo ininterrumpido reflexionando sobre tus glorias pasadas, puedes marcarte a ti mismo con un símbolo de tu poder (una trenza larga atada con cascabeles, cicatrices o tatuajes rituales, etc.). Cualquier criatura mortal inteligente que vea este símbolo sabe instintivamente que eres una fuerza que hay que tener en cuenta y te trata adecuadamente.</p>"
         },
         {
             "id": "More! Always More!",
-            "name": "Mehr! Immer mehr!",
-            "description": "<p>Wenn du einer deiner Begierden bis aufs Äußerste befriedigst – indem du etwas von großer Wichtigkeit zerstörst, enormen Reichtum, Ruhm oder Macht erlangst oder Ähnliches –, darfst du diese Begierde hinter dir lassen. Streiche sie von deiner Liste und schreibe dir einen EP gut. Du kannst der Begierde weiterhin frönen, aber in dir brennt nicht mehr dasselbe Verlangen wie zuvor. Wähle stattdessen eine neue Begierde oder erfinde eine eigene.</p>"
+            "name": "¡Más! ¡Siempre más!",
+            "description": "<p>Cuando satisfaces un apetito hasta el extremo (destruir algo único y valioso, ganar muchísima fama, riquezas, poder, etc.) puedes elegir resolverlo. Táchalo y apunta PX. Aunque puedes volver a perseguir ese apetito de nuevo, no vuelves a sentir el deseo ardiente una vez que lo sacies. En su lugar, elige un nuevo apetito de la lista o escribe uno propio.</p>"
         },
         {
             "id": "Musclebound",
-            "name": "Muskelbepackt",
-            "description": "<p>Wenn du eine Waffe führst, erhält sie die Eigenschaften wuchtig und brutal.</p>"
+            "name": "Musculoso",
+            "description": "<p>Cuando empuñas un arma, esta recibe las etiquetas contundente y escabrosa.</p>"
         },
         {
             "id": "My Love For You Is Like A Truck",
-            "name": "Kraftprotz",
-            "description": "Wenn du einen Kraftakt vollführst, benenne einen der Anwesenden, den du damit beeindruckt hast, und erhalte einmalig +1, um mit dieser Person zu verhandeln.</p>"
+            "name": "Mi amor es como un camión",
+            "description": "<p>Cuando realizas una hazaña demostrando tu fortaleza, nombra a quiénes de los presentes has impresionado y recibe +1 a la siguiente tirada para Parlamentar con ellos.</p>"
         },
         {
             "id": "On The Move",
-            "name": "In Bewegung",
-            "description": "<p>Wenn du einer Gefahr trotzt, die durch Bewegung entstanden ist – beispielsweise ein Sturz von einer schmalen Brücke oder der Versuch, an einem bewaffneten Wächter vorbeizusprinten –, erhalte +1 auf deinen Wurf.</p>"
+            "name": "Siempre en movimiento",
+            "description": "<p>Cuando desafíes un peligro causado por el movimiento (quizás caerse de un puente estrecho o arremeter contra un guardia armado) recibes +1.</p>"
         },
         {
             "id": "Samson",
-            "name": "Samson",
-            "description": "<p>Du kannst eine Beeinträchtigung markieren, um dich unmittelbar aus körperlicher oder geistiger Gefangenschaft zu befreien.</p>"
+            "name": "Sansón",
+            "description": "<p>Puedes recibir una debilidad para liberarte inmediatamente de cualquier limitación física o mental.</p>"
         },
         {
             "id": "Smash!",
-            "name": "Kaputtschlagen!",
-            "description": "<p>Wenn du beim Hauen & Stechen eine 12+ würfelst, kannst du deinen Schaden zufügen und etwas Körperliches bei Deinem Ziel wählen – etwa eine Waffe, seine Position oder seine Gliedmaßen. Es verliert, was du auswählst.</p>"
+            "name": "¡Aplastar!",
+            "description": "<p>Cuando realizas el movimiento Saja-Raja y obtienes 12+, inflige tu daño y elige algo físico que tiene tu objetivo (un arma, su posición, una extremidad). Tu objetivo lo pierde.</p>"
         },
         {
             "id": "Still Hungry",
-            "name": "Noch immer hungrig",
-            "description": "<p>Wähle eine weitere Begierde.</p>"
+            "name": "Aún hambriento",
+            "description": "<p>Elige un apetito adicional.</p>"
         },
         {
             "id": "The One Who Knocks",
-            "name": "Derjenige, der klopft",
-            "description": "<p>Wenn du beim Gefahr trotzen eine 12+ würfelst, wendest du die Gefahr gegen sich selbst. Der SL beschreibt wie.</p>"
+            "name": "El que golpea a la puerta",
+            "description": "<p>Cuando desafías el peligro, con 12+ vuelves el peligro contra él mismo, el DJ describirá cómo.</p>"
         },
         {
             "id": "The Upper Hand",
-            "name": "Die Oberhand",
-            "description": "<p>Du erhältst dauerhaft +1 auf deinen Letzten Atemzug. Wenn du deinen Letzten Atemzug tust, kannst du dem Tod bei einer 7–9 deinerseits ein Angebot machen. Wenn er es annimmt, bringt er dich ins Leben zurück. Wenn nicht, stirbst du.</p>"
+            "name": "A la delantera",
+            "description": "<p>Recibes +1 en adelante a las tiradas de Último aliento. Cuando expiras tu último aliento, con 7-9 le haces una oferta a la Muerte a cambio de tu vida. Si la Muerte acepta, te devolverá a la vida. Si no, mueres.</p>"
         },
         {
             "id": "Unencumbered, Unharmed",
-            "name": "Unbelastet, unbesiegt",
-            "description": "<p>Solange dein Gewicht unter deiner Tragkraft ist und du weder Schild noch Rüstung trägst, erhältst du +1 Rüstung.</p>"
+            "name": "Sin carga, sin daño",
+            "description": "<p>Mientras estés por debajo de tu Carga y no lleves ni armadura ni escudo, recibes +1 armadura.</p>"
         },
         {
             "id": "Usurper",
-            "name": "Thronräuber",
-            "description": "<p>Wenn du deine Überlegenheit über eine mächtige Person beweist, erhältst du einmalig +1 gegen seine Anhänger, Untergebenen und Mitläufer.</p>"
+            "name": "Usurpador",
+            "description": "<p>Cuando demuestras que eres superior a una persona en poder, recibes +1 a la siguiente tirada con sus seguidores, subalternos y gorrones.</p>"
         },
         {
             "id": "War Cry",
-            "name": "Kriegsschrei",
-            "description": "<p>Wenn du mit einer Demonstration deiner Kraft in den Kampf schreitest – ein Brüllen, ein Schlachtruf oder ein Kriegstanz –, würfle+CH.</p>\n<p>* Bei einer 10+ beide,</p>\n<p>* bei 7–9 eines von beiden:</p>\n<ul>\n<li>Deine Verbündeten kämpfen als Einheit und erhalten einmalig +1.</li>\n<li>Deine Feinde fürchten dich und handeln entsprechend (sie meiden dich, verstecken sich, oder kämpfen mit panischer Todesangst).</li>\n</ul>"
+            "name": "Grito de batalla",
+            "description": "<p>Cuando entras en una batalla con una demostración de fuerza, tira +CAR</p>\n<ul>\n<li>Con 10+ elige las dos opciones.</li>\n<li>Con 7-9 elige una de las opciones.</li>\n</ul>\n<ul><li>Tus aliados se reagrupan y reciben +1 a la siguiente tirada.</li><li>Tus enemigos sienten miedo y actúan de acuerdo a ello (te evitan, se esconden, atacan con el miedo que les empuja a huir).</li></ul>"
         },
         {
             "id": "What Are You Waiting For?",
-            "name": "Worauf wartet ihr?",
-            "description": "<p>Wenn du deinen Feinden eine Herausforderung entgegenbrüllst, würfle+KO.</p>\n<ul>\n<li>Bei einer 10+ sehen sie dich als größte Bedrohung an und ignorieren deine Gefährten. Du erhältst dauerhaft +2 Schaden gegen sie.</li>\n<li>Bei einer 7–9 gehen nur wenige – die Schwächsten oder Tollkühnsten unter ihnen – deinem Spott auf dem Leim.</li>\n</ul>"
+            "name": "¿A que esperas?",
+            "description": "<p>Cuando gritas un desafío a tus enemigos, tira +CON.</p>\n<ul>\n<li>Con 10+ te tratan como a la amenaza más obvia a la que se tienen que enfrentar e ignoran a tus compañeros, recibes daño +2 en adelante contra ellos.</li>\n<li>Con 7-9 solo unos pocos (los más débiles o imprudentes de ellos) caen presa de tu provocación.</li>\n</ul>"
         },
         {
             "id": "What Is Best In Life",
-            "name": "Das Schönste im Leben",
-            "description": "<p>Wenn du deine Feinde zerschmettert, sie vor dir hergetrieben oder das Klagen ihrer Hinterbliebenen vernommen hast, schreibe dir am Ende der Spielsitzung einen EP gut.</p>"
+            "name": "Lo mejor en la vida",
+            "description": "<p>Si durante la sesión de juego has aplastado a tus enemigos, les has visto destrozados o has oído el lamento de su gente, al final de la misma recibes PX.</p>"
         },
         {
             "id": "Wide-Wanderer",
-            "name": "Weitgereist",
-            "description": "<p>Du hast die weite Welt bereist. Wenn du an einem Ort ankommst, frage den SL nach bedeutsamen Traditionen, Ritualen oder Gebräuchen – er wird dir sagen, was du wissen musst.</p>"
+            "name": "Trotamundos",
+            "description": "<p>Has viajado por todo el mundo. Cuando llegas a algún lugar, pregunta al DJ sobre cualquier tradición, ritual y demás que sea importante. Él te dirá lo que necesitas saber.</p>"
         }
     ]
 }
