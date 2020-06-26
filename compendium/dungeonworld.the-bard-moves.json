@@ -5,123 +5,123 @@
     },
     "entries": [{
             "id": "A Little Help From My Friends",
-            "name": "Ein Freund, ein guter Freund",
-            "description": "<p><strong>Wenn du jemandem erfolgreich <i>hilfst</i></strong>, erhältst auch du einmalig +1.</p>"
+            "name": "Con un poco de ayuda de mis amigos",
+            "description": "<p>Cuando ayudas con éxito a alguien, tú también recibes +1 a la siguiente tirada.</p>"
         },
         {
             "id": "A Port In The Storm",
-            "name": "Wo man singt, ...",
-            "description": "<p><strong>Wenn du in eine zivilisierte Siedlung zurückkehrst</strong>, sag dem SL, wann du zuletzt hier warst. Er wird dir erzählen, wie sich der Ort seitdem verändert hat.</p>"
+            "name": "Un puerto en la tormenta",
+            "description": "<p>Cuando vuelves a un asentamiento civilizado que has visitado con anterioridad, dile al DJ cuándo fue la última vez que estuviste aquí y él te dirá de qué forma ha cambiado desde entonces.</p>"
         },
         {
             "id": "An Ear For Magic",
-            "name": "Ein Ohr für Magie",
-            "description": "<p><strong>Wenn du einen Feind einen Zauber sprechen hörst</strong>, wird der SL dir den Namen und Effekt des Zaubers sagen. Wenn du auf Grundlage dieser Information handelst, erhältst du einmalig +1.</p>"
+            "name": "Oído para la magia",
+            "description": "<p>Cuando escuches a un enemigo lanzar un conjuro, el DJ te dirá el nombre del conjuro y sus efectos. Recibes +1 a la siguiente tirada cuando estés actuando conforme a las respuestas.</p>"
         },
         {
             "id": "Arcane Art",
-            "name": "Zauberkunst",
-            "description": "<p><strong>Wenn du eine Vorführung mit einem einfachen Zauber verbindest</strong>, wähle einen Verbündeten und einen Effekt: </p>\n<ul>\n<li>heile 1W8 Schaden [[/roll 1d8]]</li>\n<li>einmalig +1W4 auf Schaden</li>\n<li>sein Geist schüttelt eine Verzauberung ab </li>\n<li>wenn ihm jemand das nächste Mal erfolgreich hilft, erhält er +2 statt +1 </li>\n</ul>\n<p>Dann würfle+CH: </p>\n<p>* Bei einer 10+ erhält dein Verbündeter den gewählten Effekt. </p>\n<p>* Bei 7–9 tritt der gewünschte Effekt zwar ein, aber du ziehst ungewollte Aufmerksamkeit auf dich oder ein Echo des Zaubers wirkt auch auf andere Wesen. Der SL entscheidet.</p>"
+            "name": "Artes arcanas",
+            "description": "<p>Cuando imbuyes con magia una de tus actuaciones, elige un compañero y un efecto:</p>\n<ul>\n<li>Cura 1d8 de daño.</li>\n<li>+1d4 a la siguiente tirada de daño.</li>\n<li>Su mente es liberada de un encantamiento.</li>\n<li>La próxima vez que alguien ayude con éxito al objetivo, recibe +2 en lugar de +1.</li>\n</ul>\n<p>Luego tira +CAR</p>\n<p> Con un 10+, el compañero recibe el efecto seleccionado.</p>\n<p>Entre 7 y 9, tu conjuro funciona, pero atraes una atención no deseada o tu magia resuena en otros objetivos, afectándoles también a ellos. El DJ elige cuál.</p>"
         },
         {
             "id": "Bamboozle",
-            "name": "Schwindler",
-            "description": "<p><strong>Wenn du mit jemanden <i>verhandelst</i></strong>, bekommst du bei einer 7+ zusätzlich einmalig +1 gegen ihn.</p>"
+            "name": "Embaucar",
+            "description": "<p>Si sacas 7 o más cuando parlamentes con alguien también recibes +1 a la siguiente tirada con tu objetivo.</p>"
         },
         {
             "id": "Bardic Lore",
-            "name": "Bardenwissen",
-            "description": "<p>Wähle dein Fachgebiet: </p>\n<ul>\n<li>Zauber und Magie </li>\n<li>Die Toten und Untoten </li>\n<li>Die großen Historien der bekannten Welt </li>\n<li>Ein Bestiarium ungeheuerlicher Kreaturen </li>\n<li>Die externaren Sphären </li>\n<li>Legenden vergangener Helden </li>\n<li>Götter und ihre Diener </li>\n</ul>\n<p><strong>Wenn du das erste Mal auf ein Wesen, einen Ort oder Gegenstand mit (deiner Ansicht nach) Bedeutsamkeit für dein Fachgebiet stößt</strong>, kannst du dem SL eine Frage darüber stellen – er wird sie wahrheitsgemäß beantworten. Der SL kann dich dann fragen, aus welcher Sage, welchem Lied oder welcher Legende dein Wissen stammt.</p>"
+            "name": "Saber de Bardo",
+            "description": "<p>Elige una de las siguientes áreas de conocimiento:</p>\n<ul>\n<li>Conjuros y magia.</li>\n<li>La Muerte y los no muertos.</li>\n<li>Grandes historias del mundo conocido.</li>\n<li>Bestiario de criaturas inusuales.</li>\n<li>Las Esferas Planares.</li>\n<li>Leyendas de antiguos héroes.</li>\n<li>Dioses y sus servidores.</li>\n</ul>\n<p>Cuando encuentres por primera vez una criatura, lugar u objeto importante (tú decides) que entre dentro de tu conocimiento, puedes hacer al DJ una pregunta al respecto y te responderá con sinceridad. El DJ puede preguntarte luego de qué cuento, canción o leyenda has obtenido esa información.</p>"
         },
         {
             "id": "Charming & Open",
-            "name": "Offenherzig",
-            "description": "<p><strong>Wenn du freiheraus mit jemandem redest</strong>, kannst du dem jeweiligen Spieler eine Frage von der folgenden Liste stellen. Er muss sie wahrheitsgemäß beantworten und darf dir danach selbst eine Frage von dieser Liste stellen (die du ebenfalls wahrheitsgemäß beantworten musst). </p>\n<ul>\n<li>Wem dienst du? </li>\n<li>Was möchtest du, das ich tue? </li>\n<li>Wie kann ich dich dazu bringen, ____________? </li>\n<li>Was geht gerade wirklich in dir vor? </li>\n<li>Was begehrst du am meisten?</li>\n</ul>"
+            "name": "Abierto y encantador",
+            "description": "<p>Cuando hablas sinceramente con alguien, puedes hacer a su jugador una pregunta de la siguiente lista. Debe responderte honestamente y luego puede hacerte una pregunta de la lista que tú deberás responder de forma sincera.</p>\n<ul>\n<li>¿A quién sirves?</li>\n<li>¿Qué te gustaría que hiciera?</li>\n<li>¿Cómo puedo conseguir que hagas _______?</li>\n<li>¿Qué es lo que sientes realmente ahora?</li>\n<li>¿Qué es lo que más quieres?</li>\n</ul>"
         },
         {
             "id": "Con",
-            "name": "Hochstapler",
-            "description": "<p><i>Ersetzt: Schwindler</i></p>\n<p><strong>Wenn du mit jemanden verhandelst</strong>, bekommst du bei einer 7+ zusätzlich einmalig +1 gegen ihn. Du darfst dem jeweiligen Spieler außerdem eine Frage stellen, die er wahrheitsgemäß beantworten muss.</p>"
+            "name": "Estafador",
+            "description": "<p>Remplaza a Embaucar</p>\n<pWhen you parley with someone, on a 7+ you also take +1 forward with them and get to ask their player one question which they must answer truthfully.></p>"
         },
         {
             "id": "Devious",
-            "name": "Schalk im Nacken",
-            "description": "<p><strong>Wenn du <i>Offenherzig</i> einsetzt</strong>, darfst du außerdem fragen: „Für was bist Du mir gegenüber anfällig?“ Dein Gegenüber darf dir diese Frage nicht stellen.</p>"
+            "name": "Ladino",
+            "description": "<p>Cuando utilices Abierto y encantador también puedes preguntar «¿En qué sentido eres vulnerable para mí?» Tu objetivo no puede hacerte a ti esa pregunta.</p>"
         },
         {
             "id": "Duelist’s Block",
-            "name": "Duellantenblock",
-            "description": "<p><i>Ersetzt: Duellantenparade</i></p>\n<p>Beim <i>Hauen & Stechen</i> erhältst du einmalig +2 Rüstung.</p>"
+            "name": "Parada de duelista",
+            "description": "<p>Remplaza a Defensa de duelista</p>\n<p>Cuando realices el movimiento de Sajar y Rajar recibes +2 armadura en la siguiente tirada</p>"
         },
         {
             "id": "Duelist’s Parry",
-            "name": "Duellantenparade",
-            "description": "<p>Beim <i>Hauen & Stechen</i> erhältst du einmalig +1 Rüstung.</p>"
+            "name": "Defensa de duelista",
+            "description": "<p>Cuando realices el movimiento de Sajar y Rajar recibes +1 armadura en la siguiente tirada.</p>"
         },
         {
             "id": "Eldritch Chord",
-            "name": "Mystischer Gleichklang",
-            "description": "<p><i>Ersetzt: Mystischer Klang</i></p>\n<p>Deine <i>Zauberkunst</i> ist sehr stark. Du kannst zwei Effekte statt einem wählen. Außerdem kannst du einen der Effekte verdoppeln.</p>"
+            "name": "Acorde Arcano",
+            "description": "<p>Remplaza a Tonos Arcanos</p>\n<p>Cuando uses tus Artes arcanas, elige dos efectos. También puedes duplicar la intensidad de uno de ellos.</p>"
         },
         {
             "id": "Eldritch Tones",
-            "name": "Mystischer Klang",
-            "description": "<p>Deine <i>Zauberkunst</i> ist stark. Du kannst zwei Effekte statt einem wählen.</p>"
+            "name": "Tonos Arcanos",
+            "description": "<p>Tus Artes arcanas son poderosas y te per- miten elegir dos efectos en lugar de uno.</p>"
         },
         {
             "id": "Healing Chorus",
-            "name": "Heilender Choral",
-            "description": "<p><i>Ersetzt: Heilendes Lied</i></p>\n<p><strong>Wenn du mit <i>Zauberkunst</i> heilst</strong>, heilst du +2W8 Schaden: [[/roll 3d8]]</p>"
+            "name": "Coro sanador",
+            "description": "<p>Remplaza a canción sanadora</p>\n<p>Cuando sanes a alguien con tus Artes ar- canas, curas +2d8.</p>"
         },
         {
             "id": "Healing Song",
-            "name": "Heilendes Lied",
-            "description": "<p><strong>Wenn du mit <i>Zauberkunst</i> heilst</strong>, heilst du +1W8 Schaden: [[/roll 2d8]]</p>"
+            "name": "Canción sanadora",
+            "description": "<p>Cuando sanes a alguien con tus Artes arcanas, curas +1d8.</p>"
         },
         {
             "id": "It Goes To Eleven",
-            "name": "Volle Dröhnung",
-            "description": "<p><strong>Wenn du einen abgedrehten Auftritt hinlegst</strong> (ein amtliches Lautensolo, einen schmetternder Fanfarenstoß etc.), wähle ein Ziel in Hörweite und würfle+CH. </p>\n<p>* Bei einer 10+ greift das Ziel seinen nächsten Verbündeten in Reichweite an. </p>\n<p>* Bei 7–9 greift das Ziel seinen nächsten Verbündeten an, aber du ziehst auch seine Aufmerksamkeit und seinen Zorn auf dich.</p>"
+            "name": "Va hasta el once",
+            "description": "<p>Cuando lleves a cabo una actuación delirante (un solo de laúd perfecto o quizás un poderoso redoble de metales), elige un objetivo que pueda oírte y tira +CAR.</p>\n<p>Con un 10, el objetivo ataca a su compañero más cercano a su alcance.</p>\n<p>Entre 7 y 9 ataca a su compañero más cercano, pero también tú atraes su ira y atención.</p>"
         },
         {
-            "id": "Metal Hurlant",
+            "id": "Aullido metalero",
             "name": "Kreischendes Metall",
-            "description": "<p><strong>Wenn du mit Stimme oder Instrument ohrenbetäubenden Lärm machst</strong>, wähle ein Ziel und würfle +KO. </p>\n<p>* Bei einer 10+ erleidet das Ziel 1W10 Schaden und ist für ein paar Minuten taub. </p>\n<p>* Bei 7–9 fügst du ebenfalls Schaden zu, aber die Sache gerät außer Kontrolle: Der SL wählt ein zusätzliches Ziel in der Nähe.</p>"
+            "description": "<p>Cuando grites a pleno pulmón o toques una nota desgarradora, elige un objetivo y tira +CON</p>\n<p>Con un 10+, el objetivo recibe 1d10 de daño y queda ensordecido durante unos minutos.</p>\n<p>Entre 7 y 9 haces el mismo daño, pero sin control: el DJ elegirá un objetivo adicional en las inmediaciones.</p>"
         },
         {
             "id": "Multiclass Dabbler",
-            "name": "Multitalent",
-            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+            "name": "Multiclase aficionado",
+            "description": "<p>Recibes un movimiento de otra clase. Trata tu nivel como si fuera inferior en uno al actual para elegir el movimiento.</p>"
         },
         {
             "id": "Multiclass Initiate",
-            "name": "Tausendsassa",
-            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+            "name": "Multiclase aguerrido",
+            "description": "<p>Recibes un movimiento de otra clase. Trata tu nivel como si fuera inferior en uno al actual para elegir el movimiento.</p>"
         },
         {
             "id": "Multiclass Master",
-            "name": "Meister aller Klassen",
-            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+            "name": "Multiclase experto",
+            "description": "<p>Recibes un movimiento de otra clase. Trata tu nivel como si fuera inferior en uno al actual para elegir el movimiento.</p>"
         },
         {
             "id": "Reputation",
-            "name": "Vorauseilender Ruf",
-            "description": "<p><strong>Wenn du jemanden zum ersten Mal triffst, der Lieder über dich gehört hat</strong>, würfle+CH. </p>\n<p>* Bei einer 10+ nenne dem SL zwei Sachen, die er über dich gehört hat. </p>\n<p>* Bei 7–9 nenne dem SL eine Sache, der SL nennt dir die andere.</p>"
+            "name": "Reputación",
+            "description": "<p>Cuando te encuentras por primera vez con alguien que ha oído canciones sobre ti, tira +CAR.</p>\n<p>Con un 10+, cuéntale al DJ dos cosas que hayan oído de ti.</p>\n<p>Entre 7 y 9, dile al DJ una cosa que hayan oído de ti y el DJ decidirá cuál es la otra.</p>"
         },
         {
             "id": "Unforgettable Face",
-            "name": "Charakterkopf",
-            "description": "<p><strong>Wenn du jemanden von früher wiedertriffst</strong> (deine Entscheidung), bekommst du einmalig +1 gegen ihn.</p>"
+            "name": "Rostro inolvidable",
+            "description": "<p>Cuando te reencuentres con alguien que ya hayas conocido (tú decides) y que hayas pasado un tiempo sin ver, recibes +1 a la siguiente tirada contra él.</p>"
         },
         {
             "id": "Vicious Blast",
-            "name": "Lärmbelästigung",
-            "description": "<p><i>Ersetzt: Ruhestörung</i></p>\n<p><strong>Wenn du mit <i>Zauberkunst</i> Bonusschaden gewährst</strong>, verursacht dein Ziel zusätzliche +2W4 Schaden.</p>"
+            "name": "Explosión feroz",
+            "description": "<p>Reemplaza a Cacofonía Feroz</p>\n<p>Cuando concedes una bonificación al daño usando tus Artes arcanas, proporcionas +2d4 adicionales.</p>"
         },
         {
             "id": "Vicious Cacophony",
-            "name": "Ruhestörung",
-            "description": "<p><strong>Wenn du mit <i>Zauberkunst</i> Bonusschaden gewährst</strong>, verursacht dein Ziel zusätzliche +1W4 Schaden.</p>"
+            "name": "Cacofonía feroz",
+            "description": "<p>Cuando concedes una bonificación al daño usando tus Artes arcanas, proporcionas +1d4 adicional.</p>"
         }
     ]
 }

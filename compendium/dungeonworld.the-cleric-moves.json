@@ -5,133 +5,133 @@
     },
     "entries": [{
             "id": "Anointed",
-            "name": "Gesalbt",
-            "description": "<p><em>Voraussetzung: Auserwählt</em></p>\n<p>Wähle einen weiteren Zauber. Auch er wird dir gewährt, als wäre er eine Stufe niedriger.</p>"
+            "name": "Consagrado",
+            "description": "<p>Requiere: El Elegido</p>\n<p>Escoge un conjuro adicional distinto al que seleccionaste para Elegido. Se te concede ese conjuro como si fuera de un nivel inferior.</p>"
         },
         {
             "id": "Apotheosis",
-            "name": "Verherrlichung",
-            "description": "<p><strong>Wenn du das erste Mal nach Wahl dieses Spielzuges Zeit im Gebet verbringst</strong>, wähle ein körperliches Merkmal, das mit deiner Gottheit in Verbindung steht (reißende Klauen, schimmernde Flügel, ein allsehendes drittes Auge). Am Ende des Gebets wird dieses Merkmal ein dauerhafter Teil deines Körpers.</p>"
+            "name": "Apoteosis",
+            "description": "<p>La primera vez que pases tiempo en oración de una forma adecuada para tu deidad, después de elegir este movimiento, elige una característica asociada a él (garras afiladas, alas con plumas de zafiro, un tercer ojo que todo lo ve, etcétera). Cuando termines tus oraciones habrás ganado permanentemente esa característica física.</p>"
         },
         {
             "id": "Cast A Spell",
-            "name": "Zauber wirken",
-            "description": "<p><strong>Wenn du einen dir von Deiner Gottheit gewährten Zauber entfesselst</strong>, würfle+WE. </p>\n<p>* Bei einer 10+ wurde der Zauber erfolgreich gewirkt und deine Gottheit entzieht dir den Zauber nicht, so dass du ihn erneut wirken kannst. </p>\n<p>* Bei 7–9 wurde der Zauber erfolgreich gewirkt, aber wähle eines: </p>\n<ul>\n<li>Du ziehst unerwünschte Aufmerksamkeit auf dich oder bringst dich in die Klemme. Der SL sagt dir wie. </li>\n<li>Das Wirken des Zaubers entfernt dich von deiner Gottheit: Erhalte dauerhaft -1 auf Zauber wirken, bis du das nächste Mal Zwiesprache hältst. </li>\n<li>Nachdem du ihn gewirkt hast, entzieht deine Gottheit dir den Zauber. Du kannst ihn nicht wirken, bis du das nächste Mal Zwiesprache hältst und er dir gewährt wird. </li>\n</ul><p>Beachte, dass das Aufrechterhalten mancher Zauber mit dauerhaften Effekten zu einem Abzug auf Zauber wirken führen kann.</p>"
+            "name": "Lanzar conjuro",
+            "description": "<p>Cuando lanzas un conjuro concedido por tu deidad, tira +SAB.</p>\n<p>* Con un 10+, el conjuro es lanzado con éxito y tu deidad no revoca el conjuro, así que puedes lanzarlo de nuevo.</p>\n<p>* Entre 7 y 9, el conjuro tiene efecto, pero elige una cosa de la siguiente lista:</p>\n<ul>\n<li>Atraes atención no deseada o te pones en riesgo. El DJ te dirá cómo.</li>\n<li>El lanzamiento del conjuro te aleja de tu deidad. Recibes –1 a Lanzar Conjuros hasta que vuelvas a entrar en comunión.</li>\n<li>Después de lanzarlo, el conjuro es revocado por tu deidad. No puedes volver a lanzarlo hasta que no te vuelva a ser concedido.</li>\n</ul>"
         },
         {
             "id": "Chosen One",
-            "name": "Auserwählt",
-            "description": "<p>Wähle einen Zauber. Er wird dir gewährt, als wäre er eine Stufe niedriger.</p>"
+            "name": "El Elegido",
+            "description": "<p>Elige un conjuro. Se te concede ese conjuro como si fuera de un nivel inferior.</p>"
         },
         {
             "id": "Commune",
-            "name": "Zwiesprache",
-            "description": "<p><strong>Wenn du etwa eine Stunde ungestört im stillen Gebet zu deiner Gottheit verbringst</strong>, ... </p>\n<ul>\n<li>... verlierst du alle Zauber, die dir bisher gewährt wurden. </li>\n<li>... werden dir neue Zauber deiner Wahl gewährt, deren jeweilige Grade deine momentane Stufe nicht übersteigen dürfen, und deren aufaddierte Grade deine eigene Stufe+1 nicht übersteigen dürfen. </li>\n<li>... bereitest du alle deine Stoßgebete vor, was niemals dieser Zauberbegrenzung unterliegt."
+            "name": "Comunión",
+            "description": "<p>Cuando pasas un tiempo ininterrumpido (alrededor de una hora) en tranquila comunión con tu deidad:</p>\n<ul>\n<li>Pierdes todos los conjuros que se te habían concedido.</li>\n<li>Recibes nuevos conjuros a tu elección, cuyo nivel total no supere tu propio nivel +1, siempre que ninguno sea de nivel superior a tu propio nivel.</li>\n<li>Prepara todas tus plegarias, que no cuentan para el límite de conjuros.</li>\n</ul>."
         },
         {
             "id": "Deity",
-            "name": "Gottheit",
-            "description": "<p>Du dienst und huldigst einer Gottheit oder Macht, die dir Zauber gewährt. Gib ihr einen Namen (vielleicht Helferth, Sucellus, Zorica oder Krugon der Düstere) und wähle ihre Domäne:</p>\n<ul>\n<li>Heilung und Wiederherstellung</li>\n<li>Blutige Eroberung</li>\n<li>Kultur und Zivilisation</li>\n<li>Wissen und Verborgenes</li>\n<li>Die Unterdrückten und Vergessenen</li>\n<li>Was in der Tiefe ruht</li>\n</ul>\n<p>Wähle ein Gebot deiner Religion:</p>\n<ul>\n<li>Deine Religion predigt die Heiligkeit des Leidens. Dienst: Leiden.</li>\n<li>Deine Religion ist kultisch und verschlossen. Dienst: Geheimnisse erlangen.</li>\n<li>Deine Religion hat bedeutsame Opferriten. Dienst: Opfergaben.</li>\n<li>Deine Religion glaubt an Gottesurteile durch Kampf. Dienst: Persönlicher Triumph.</li>\n</ul>"
+            "name": "Deidad",
+            "description": "<p>Sirves y adoras a alguna deidad o poder que te concede conjuros. Dale un nombre a tu dios (Helferth, Sucellus, Zorica o Krugon el Tenebroso) y elige su dominio:</p>\n<ul>\n<li>Curación y restauración.</li>\n<li>Conquista sangrienta.</li>\n<li>Civilización.</li>\n<li>Conocimiento y cosas ocultas.</li>\n<li>Los oprimidos y olvidados.</li>\n<li>Lo que yace en las profundidades.</li>\n</ul>\n<p>Elige un precepto religioso:</p>\n<ul>\n<li>Tu religión predica la santidad del sufrimiento, añade <strong>Petición: Sufrimiento</strong>.</li>\n<li>Tu religión se compone de sectas aisladas, añade <strong>Petición: Obtener secretos</strong>.</li>\n<li>Tu religión tiene importantes ritos de sacrificio: añade <strong>Petición: Ofrenda</strong>.</li>\n<li>Tu religión cree en el juicio por combate, añade <strong>Petición: Victoria personal</strong>.</li>\n</ul>"
         },
         {
             "id": "Devoted Healer",
-            "name": "Hingebungsvoller Heiler",
-            "description": "<p><strong>Wenn du jemand anderen von Schaden heilst</strong>, addiere deine Stufe zu den geheilten Trefferpunkten hinzu.</p>"
+            "name": "Curador devoto",
+            "description": "<p>Cuando cures a otra persona, suma tu nivel a la cantidad de daño curada.</p>"
         },
         {
             "id": "Divine Armor",
-            "name": "Göttliche Rüstung",
-            "description": "<p><em>Ersetzt: Göttlicher Schutz</em></p>\n<p><strong>Wenn du keine Rüstung und keinen Schild trägst</strong>, hast du Rüstung 3.</p>"
+            "name": "Armadura Divina",
+            "description": "<p>Reemplaza a Protección divina</p>\n<p>Cuando no lleves armadura ni escudo tienes armadura 3.</p>"
         },
         {
             "id": "Divine Guidance",
-            "name": "Göttliche Führung",
-            "description": "<p><strong>Wenn du entsprechend des Gebotes deiner Religion deiner Gottheit einen Dienst erweist</strong>, wird dir eine nützliche Eingebung oder Gunst zuteil, die mit der Domäne deiner Gottheit zusammenhängt. Der SL beschreibt sie dir.</p>"
+            "name": "Orientación divina",
+            "description": "<p>Cuando haces una petición a tu deidad acorde con el precepto de tu religión, se te proporciona un conocimiento útil o un beneficio relacionado con el dominio de tu deidad. El DJ te dirá de qué se trata.</p>"
         },
         {
             "id": "Divine Intervention",
-            "name": "Göttliches Eingreifen",
-            "description": "<p><strong>Wenn du <em>Zwiesprache</em> hältst</strong>, nimm 1 Punkt und verliere alle Punkte, die du zuvor hattest. Verbrauche diesen Punkt, wenn du oder einer deiner Gefährten Schaden nimmt, um deine Gottheit um Hilfe zu bitten. Deine Gottheit greift mit einer angemessenen Geste ein (ein plötzlicher Windstoß, ein glücklicher Ausrutscher, ein gleißendes Licht) und verhindert den Schaden.</p>"
+            "name": "Intervención divina",
+            "description": "<p>Cuando entras en comunión, recibes 1 punto y pierdes cualquier punto que ya tuvieras. Puedes gastarlo para invocar a tu deidad cuando tú o un compañero reciba daño. Tu deidad intervendrá mediante una manifesta- ción apropiada (un súbito golpe de viento, una explosión de luz) y el daño no tendrá efecto.</p>"
         },
         {
             "id": "Divine Invincibility",
-            "name": "Göttliche Unantastbarkeit",
-            "description": "<p><em>Ersetzt Göttlicher Eingriff</em></p>\n<p><strong>Wenn du Zwiesprache hältst</strong>, nimm 2 Punkte und verliere alle Punkte, die du zuvor hattest. Verbrauche diese Punkte, wenn du oder einer deiner Gefährten Schaden nimmt, um deine Gottheit um Hilfe zu bitten. Deine Gottheit greift mit einer angemessenen Geste ein (ein plötzlicher Windstoß, ein glücklicher Ausrutscher, ein gleißendes Licht) und verhindert den Schaden.</p>"
+            "name": "Invencibilidad divina",
+            "description": "<p>Reemplaza a Intervención divina</p>\n<p>Cuando entras en comunión, recibes 2 puntos y pierdes cualquier punto que ya tuvieras. Puedes gastarlos para invocar en dos ocasiones a tu deidad cuando tú o un compañero reciba daño. Tu deidad intervendrá mediante una manifestación apropiada (un súbito golpe de viento, un resbalón afortunado, una explosión de luz) y el daño no tendrá efecto.</p>"
         },
         {
             "id": "Divine Protection",
-            "name": "Göttlicher Schutz",
-            "description": "<p><strong>Wenn du keine Rüstung und keinen Schild trägst</strong>, hast du Rüstung 2.</p>"
+            "name": "Protección divina",
+            "description": "<p>Cuando no lleves armadura ni escudo tienes armadura 2.</p>"
         },
         {
             "id": "Empower",
-            "name": "Verstärken",
-            "description": "<p><strong>Wenn du Zauber wirkst und eine 10+ würfelst</strong>, kannst du freiwillig einen Nachteil von der 7–9-Liste auswählen. Wenn du das tust, darfst du dir zusätzlich einen der folgenden Effekte aussuchen:</p>\n<ul>\n<li>Der Zauber wirkt doppelt so stark.</li>\n<li>Der Zauber betrifft doppelt so viele Ziele.</li>\n</ul>"
+            "name": "Empoderado",
+            "description": "<p>Cuando lanzas un conjuro, con un 10+ tienes la opción de elegir de la lista correspondiente al resultado de entre 7 y 9, y además elegir uno de los siguientes efectos:</p>\n<ul>\n<li>Los efectos del conjuro se doblan.</li>\n<li>El número de objetivos del conjuro se dobla.</li>\n</ul>"
         },
         {
             "id": "First Aid",
-            "name": "Erste Hilfe",
-            "description": "<p><em>Leichte Wunden</em> heilen gilt als Stoßgebet für dich und fällt daher nicht unter die Obergrenze deiner Zauber.</p>"
+            "name": "Primeros auxilios",
+            "description": "<p>Usa Curar Heridas Leves como si fuera una plegaria. No cuenta para el límite de conjuros concedidos.</p>"
         },
         {
             "id": "Greater Empower",
-            "name": "Höheres Verstärken",
-            "description": "<p><em>Ersetzt: Verstärken</em></p>\n<p>Wenn du Zauber wirkst und eine 10-11 würfelst, kannst du freiwillig einen Nachteil von der 7–9-Liste auswählen. Wenn du das tust, darfst du dir zusätzlich einen der folgenden Effekte aussuchen:</p>\n<ul>\n<li>Der Zauber wirkt doppelt so stark.</li>\n<li>Der Zauber betrifft doppelt so viele Ziele.</li>\n</ul><p>Bei einer 12+ darfst du einen der Effekte wählen, ohne von der 7–9-Liste wählen zu müssen.</p>"
+            "name": "Empoderado mejorado",
+            "description": "<Reemplaza a Empoderado></p>\n<p>Cuando lanzas un conjuro, con un 10-11 tienes la opción de elegir de la lista corres- pondiente al resultado de entre 7 y 9, y elegir uno de los siguientes efectos. Con un 12+, puedes elegir uno de los siguientes efectos sin elegir nada de la lista de entre 7 y 9.</p>\n<ul>\n<li>Los efectos del conjuro se doblan.</li>\n<li>El número de objetivos del conjuro se dobla.</li>\n</ul>"
         },
         {
             "id": "Greater First Aid",
-            "name": "Höhere Erste Hilfe",
-            "description": "<p><em>Voraussetzung: Erste Hilfe</em></p>\n<p><em>Mittelschwere Wunden heilen</em> gilt als Stoßgebet für dich und fällt daher nicht unter die Obergrenze deiner Zauber.</p>"
+            "name": "Primeros auxilios mejorado",
+            "description": "<p>Requiere: Primeros auxilios</p>\n<p>Usa Curar Heridas Moderadas como si fuera una plegaria. No cuenta para el límite de conjuros concedidos.</p>"
         },
         {
             "id": "Invigorate",
-            "name": "Kräftigung",
-            "description": "<p><strong>Wenn du jemanden heilst</strong>, erhält dieser einmalig +2 auf seinen Schaden.</p>"
+            "name": "Vigor",
+            "description": "<p>Cuando curas a alguien, también recibe +2 a la siguiente tirada de daño.</p>"
         },
         {
             "id": "Martyr",
-            "name": "Märtyrer",
-            "description": "<p><em>Ersetzt Büßer</em></p>\n<p><strong>Wenn du Schaden erleidest und den Schmerz annimmst</strong>, kannst du +1W4 Schaden nehmen (ignoriert Rüstung). Wenn du das tust, erhältst du einmalig +1 auf Zauber wirken und addierst deine Stufe auf die Heilung oder den Schaden des Zaubers. [[/roll 1d4]]</p>"
+            "name": "Mártir",
+            "description": "<p>Reemplaza a Penitente</p>\n<p>Cuando recibes daño y te entregas al dolor, puedes sufrir +1d4 de daño (ignora armadura). Si lo haces, recibes +1 a la siguiente tirada de Lanzar conjuros y sumas tu nivel al daño que el conjuro haga o cure.</p>"
         },
         {
             "id": "Multiclass Dabbler",
-            "name": "Multitalent",
-            "description": "<p>Du erhältst einen Zug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+            "name": "Multiclase aficionado",
+            "description": "<p>Recibes un movimiento de otra clase. Trata tu nivel como si fuera inferior en uno al actual para elegir el movimiento.</p>"
         },
         {
             "id": "Orison For Guidance",
-            "name": "Gebet um Rat",
-            "description": "<p><strong>Wenn du deiner Gottheit etwas Wertvolles opferst und sie um Führung bittest</strong>, wird sie Dich weisen. Wenn du Folge leistest, schreibe dir EP gut..</p>"
+            "name": "Oración de guía",
+            "description": "<p>Cuando sacrifiques algo valioso a tu dios y le rezas pidiendo orientación, te contará lo que quiere que hagas. Si lo haces, marca experiencia.</p>"
         },
         {
             "id": "Penitent",
-            "name": "Büßer",
-            "description": "<p><strong>Wenn du Schaden nimmst und den Schmerz klaglos akzeptierst</strong>, kannst du +1W4 Schaden nehmen (ignoriert Rüstung). Wenn du das tust, erhältst du einmalig +1 auf Zauber wirken. [[/roll 1d4]]</p>"
+            "name": "Penitente",
+            "description": "<p>Cuando recibes daño y te entregas al dolor, pue- des sufrir +1d4 de daño (ignora armadura). Si lo haces, recibes +1 a la siguiente tirada de Lanzar conjuros.</p>"
         },
         {
             "id": "Providence",
-            "name": "Vorsehung",
-            "description": "<p><em>Ersetzt: Gleichmut</em></p>\n<p><strong>Wenn du einen Zauber wirkst</strong>, kannst du die ersten beiden -1 Abzüge durch zwei dauerhafte Zauber ignorieren.</p>"
+            "name": "Providencia",
+            "description": "<p>Reemplaza a Serenidad</p>\n<p>Ignora dos penalizaciones de –1 debidas a conjuros activos.</p>"
         },
         {
             "id": "Reaper",
-            "name": "Schnitter",
-            "description": "<p><strong>Wenn du dir nach einem Gefecht Zeit nimmst, den Sieg deiner Gottheit zu widmen und dich um die Toten zu kümmern</strong>, erhalte einmalig +1.</p>"
+            "name": "Segador de almas",
+            "description": "<p>Cuando te tomas un tiempo tras un conflicto para dedicar la victoria a tu deidad y atiendes apropiadamente a los muertos, recibes +1 a la siguiente tirada.</p>"
         },
         {
             "id": "Serenity",
-            "name": "Gleichmut",
-            "description": "<p><strong>Wenn du einen Zauber wirkst</strong>, kannst du den ersten -1 Abzug durch dauerhafte Zauber ignorieren.</p>"
+            "name": "Serenidad",
+            "description": "<p>Cuando lanzas un conjuro ignora la primera penalización de –1 debida a conjuros activos.</p>"
         },
         {
             "id": "The Scales Of Life And Death",
-            "name": "Totengericht",
-            "description": "<p><strong>Wenn jemand in deiner Gegenwart seinen letzten Atemzug tut</strong>, erhält er +1 auf seinen Wurf.</p>"
+            "name": "La Balanza de la Vida y la Muerte",
+            "description": "<p>Cuando alguien toma su Último aliento en tu presencia, recibe +1 a la tirada.</p>"
         },
         {
             "id": "Turn Undead",
-            "name": "Untote vertreiben",
-            "description": "<p><strong>Wenn du dein heiliges Symbol hochhältst und deine Gottheit um Schutz anrufst</strong>, würfle+WE. </p>\n<p>* Bei einer 7+ kann kein Untoter in deine Nähe kommen, solange du betest und dein heiliges Symbol schwenkst. </p>\n<p>* Bei einer 10+ betäubst du zudem intelligente Untote kurzzeitig und schlägst geistlose Untote in die Flucht. Aggression hebt die Wirkung auf und bewirkt, dass sie wieder normal handeln können. Intelligente Untote sind allerdings verschlagen und können Mittel und Wege finden, dir auch aus der Ferne zu schaden.</p>"
+            "name": "Expulsar muertos vivientes ",
+            "description": "<p>Cuando sostienes en alto tu símbolo sagrado y apelas a tu deidad para que te proteja, tira +SAB.</p>\n<p>Con un 7+, ningún muerto viviente podrá ponerse a tu alcance mientras continúes rezando y blandiendo tu símbolo sagrado.</p>\n<p>Con un 10+, tam- bién puedes aturdir momentáneamente a los muertos vivientes inteligentes y hacer huir a aquellos sin mente.</p>\n<p>Una agresión terminará el efecto y podrán reaccionar de manera normal. Los muertos vivientes dotados de inteligencia pueden encontrar formas de hostigarte a distancia. Son así de listos.</p>"
         }
     ]
 }

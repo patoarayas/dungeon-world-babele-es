@@ -5,168 +5,168 @@
     },
     "entries": [{
             "id": "Animate Dead",
-            "name": "Tote beleben",
-            "description": "<p><em>3. Grad, Dauerhaft</em></p>\n<p>Du beschwörst einen hungrigen Geist, in einen kürzlich verstorbenen Körper zu fahren und dir zu dienen. Dies erschafft einen Zombie, der deine Befehle im Rahmen seiner begrenzten Fähigkeiten bestmöglich befolgt. Behandle den Zombie wie einen Charakter mit 1 TP, der nur Zugriff auf die Grundspielzüge hat. Alle seine Attribute haben einen +1 Modifikator. Der Zombie besitzt außerdem 1W4 der folgenden Eigenschaften deiner Wahl:</p>\n<ul>\n<li>Er ist talentiert. Erhöhe einen seiner Attributmodifikatoren auf +2.</li>\n<li>Er ist widerstandsfähig. Für jede deiner Stufen erhält er +2 TP.</li>\n<li>Er hat ein funktionierendes Gehirn und kann kompliziertere Aufgaben erfüllen.</li>\n<li>Er sieht auf den ersten Blick nicht wie ein Toter aus, zumindest nicht für die ersten ein oder zwei Tage.</li>\n</ul>\n<p>Der Zombie bleibt bestehen, bis er keine Trefferpunkte mehr hat oder du den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Animar a los muertos",
+            "description": "<p>Nivel 3 <em>Mantenido</em></p>\n<p>Invocas a un espíritu hambriento para que posea un cadáver reciente y lo ponga a tu servicio. Eso crea un zombi que sigue tus órdenes hasta donde le permiten sus limitadas capacidades.</p>\n<p>Trata al zombi como a un personaje, pero con acceso solo a los movimientos básicos. Tiene un modificador de +1 a todas las características y 1 PG. El zombi también recibe 1d4 rasgos de entre los siguientes, a tu elección:</p>\n<ul>\n<li>Tiene talento. Dale a una característica un modificador de +2.</li>\n<li>Es duro. Tiene +2 PG por cada nivel que tengas.</li>\n<li>Tiene un cerebro funcional y puede llevar a cabo tareas complejas.</li>\n<li>No parece estar muerto, al menos durante uno o dos días.</li>\n</ul>\n<p>El zombi durará hasta que sea destruido por el daño recibido o hasta que termine el conjuro. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Bless",
-            "name": "Segnen",
-            "description": "<p><em>1. Grad, Dauerhaft</em></p>\n<p>Deine Gottheit lächelt auf einen Kampfteilnehmer deiner Wahl herab. Er erhält dauerhaft +1, solange der Kampf anhält und er standhaft bleibt. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Bendición",
+            "description": "<p>Nivel 1 <em>Mantenido</em></p>\n<p>Tu dios sonríe a un combatiente a tu elección. Recibe +1 hasta que termine la batalla siempre que continúe luchando.</p>\n<p>Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Cause Fear",
-            "name": "Furcht auslösen",
-            "description": "<p><em>1. Grad, Dauerhaft</em></p>\n<p>Wähle ein Ziel in Sichtweite und einen Gegenstand in deiner Nähe. Solange du den Zauber aufrechterhältst, hat das Ziel Angst vor diesem Gegenstand. Das Ziel kann seine Reaktion wählen: fliehen, durchdrehen, betteln oder kämpfen. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>. Wesen mit geringerer Intelligenz als Tiere (magische Konstrukte, Untote, Automata und ähnliche) können nicht Ziel dieses Zaubers sein.</p>"
+            "name": "Provocar miedo",
+            "description": "<p>Nivel 1 <em>Mantenido</em></p>\n<p>Elige a un objetivo al que puedas ver y un objeto cercano. El objetivo tendrá miedo del objeto mientras mantengas el conjuro. La reacción depende del objetivo: huir, entrar en pánico, rogar, luchar... </p>\n<p>Cuando mantienes este conjuro recibes –1 a Lanzar conjuros. No puedes elegir como objetivo a entidades con inteligencia inferior a la animal (constructos mágicos, muertos vivientes, autómatas y cosas por el estilo).</p>"
         },
         {
             "id": "Consume Unlife",
-            "name": "Unleben verzehren",
-            "description": "<p><em>9. Grad</em></p>\n<p>Du vernichtest einen geistlosen Untoten durch deine Berührung. Die Kraft, die ihn am Leben erhielt, heilt dich oder den nächsten Verbündeten, den du berührst. Die Höhe des geheilten Schadens entspricht der Anzahl der aktuellen Trefferpunkte, die der Untote vor seiner Zerstörung hatte.</p>"
+            "name": "Consumir a los muertos",
+            "description": "<p>Nivel 9</p>\n<p>Destruyes a una criatura muerta viviente sin mente al tocarla y robas su energía para curarte a ti mismo o al próximo compañero al que toques. La cantidad de daño sanada es igual a los PG que le quedaran a la criatura antes de que la destruyeses de esta forma.</p>"
         },
         {
             "id": "Contagion",
-            "name": "Ansteckung",
-            "description": "<p><em>5. Grad, Dauerhaft</em></p>\n<p>Wähle eine Kreatur in deinem Sichtfeld. Bis du den Zauber beendest, leidet sie an einer Krankheit deiner Wahl. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Contagio",
+            "description": "<p>Nivel 5 <em>Mantenido</em></p>\n<p>Elige a una criatura que puedas ver. El objetivo sufrirá una enfermedad a tu elección hasta que termine el conjuro. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Control Weather",
-            "name": "Wetterkontrolle",
-            "description": "<p><em>7. Grad</em></p>\n<p>Bete um Regen, Sonne, Wind oder Schnee. Deine Gottheit wird binnen eines Tages reagieren. Das Wetter wird sich deinen Wünschen gemäß verändern und sich ein paar Tage halten.</p>"
+            "name": "Controlar el clima",
+            "description": "<p>Nivel 7</p>\n<p>Reza para que llueva, haga sol, viento o nieve. En un plazo de un día tu dios responderá a tus oraciones. El tiempo cambiará de acuerdo con tus deseos y durará unos cuantos días.</p>"
         },
         {
             "id": "Cure Critical Wounds",
-            "name": "Kritische Wunden heilen",
-            "description": "<p><em>5. Grad</em></p>\n<p>Heile durch deine Berührung einen Verbündeten von 3W8 Schaden.</p>"
+            "name": "Curar heridas críticas",
+            "description": "<p>Nivel 5</p>\n<p>Curas 3d8 PG a un compañero que estés tocando.</p>"
         },
         {
             "id": "Cure Light Wounds",
-            "name": "Leichte Wunden heilen",
-            "description": "<p><em>1. Grad</em></p>\n<p>Durch deine Berührung verschorfen Wunden und Knochen hören auf zu schmerzen. Heile durch deine Berührung einen Verbündeten von 1W8 Schaden.</p>"
+            "name": "Curar heridas leves",
+            "description": "<p>Nivel 3</p>\n<p>Tu tacto hace que las heridas cicatricen y los huesos dejen de doler. Curas 1d8 de daño a un compañero que estés tocando.</p>"
         },
         {
             "id": "Cure Moderate Wounds",
-            "name": "Mittelschwere Wunden heilen",
-            "description": "<p><em>3. Grad</em></p>\n<p>Deine Magie stillt Blutungen und richtet Knochen. Heile durch deine Berührung einen Verbündeten von 2W8 Schaden.</p>"
+            "name": "Curar heridas moderadas",
+            "description": "<p>Nivel 1</p>\n<p>Detienes hemorragias y recompones huesos usando tu magia. Curas 2d8 a un compañero que estés tocando.</p>"
         },
         {
             "id": "Darkness",
-            "name": "Dunkelheit",
-            "description": "<p><em>3. Grad, Dauerhaft</em></p>\n<p>Wähle einen Bereich in deinem Sichtfeld: Er füllt sich mit übernatürlicher Dunkelheit und tiefen Schatten. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Oscuridad",
+            "description": "<p>Nivel 3 <em>Mantenido</em></p>\n<p>Elige un área que puedas ver para llenarla de sombras y oscuridad sobrenatural. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Detect Alignment",
-            "name": "Gesinnung erkennen",
-            "description": "<p><em>1. Grad</em></p>\n<p>Wenn du diesen Zauber wirkst, wähle eine Gesinnung: Gut, Böse, Rechtschaffen oder Chaotisch. Einer deiner Sinne ist kurzzeitig in der Lage, diese Gesinnung wahrzunehmen. Der SL wird dir mitteilen, was hier von dieser Gesinnung ist.</p>"
+            "name": "Detectar alineamiento ",
+            "description": "<p>Nivel 1</p>\n<p>Elige un alineamiento cuando lances este conjuro: Bueno, Malvado, Legal o Caótico. Serás capaz de detectar brevemente con uno de tus sentidos ese alineamiento. El DJ te dirá quién o qué hay en el entorno que tenga dicho alineamiento.</p>"
         },
         {
             "id": "Divination",
-            "name": "Weissagung",
-            "description": "<p><em>5. Grad</em></p>\n<p>Benenne eine Person, einen Ort oder Gegenstand, über den du etwas herausfinden willst. Deine Gottheit gewährt dir so deutliche Visionen von dem Ziel, als wärst du unmittelbar dort.</p>"
+            "name": "Adivinación",
+            "description": "<p>Nivel 5</p>\n<p>Nombra a una persona, lugar o cosa sobre la que quieras saber más. Tu deidad te proporcionará visiones sobre aquello que has nombrado, tan claras como si estuvieras ahí.</p>"
         },
         {
             "id": "Divine Presence",
-            "name": "Göttliche Präsenz",
-            "description": "<p><em>9. Grad, Dauerhaft</em></p>\n<p>Jede Kreatur muss um deine ausdrückliche Erlaubnis bitten, ehe sie dir gegenübertritt. Eine Kreatur ohne eine solche Erlaubnis erleidet zusätzliche 1W10 Schadenspunkte, wenn sie in deiner Gegenwart Schaden erleidet. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Presencia divina",
+            "description": "<p>Nivel 9 <em>Mantenido</em></p>\n<p>Todas las criaturas deben pedir tu permiso expreso para abandonar tu presencia o presentarse ante ti. Cualquier criatura que actúe sin tu permiso recibe 1d10 de daño adicional si es dañada en tu presencia. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Guidance",
-            "name": "Führung",
-            "description": "<p><em>Stoßgebet</em></p>\n<p>Das Symbol deiner Gottheit erscheint und deutet in eine Richtung oder zeigt eine Handlung, die deine Gottheit von dir erwartet. Dann verschwindet das Zeichen. Die Nachricht ist nur eine Geste, eine wirkliche Kommunikation ist durch diesen Zauber kaum möglich.</p>"
+            "name": "Guía",
+            "description": "<p>Plegaria</p>\n<p>El símbolo de tu dios aparece ante ti, señalándote la dirección o el curso de acción que debes tomar, para luego desaparecer. El mensaje es únicamente un gesto y tu comunicación a través de este conjuro es muy limitada.</p>"
         },
         {
             "id": "Harm",
-            "name": "Leid",
-            "description": "<p><em>7. Grad</em></p>\n<p>Verursache bei einem Feind mit deiner Berührung durch heiligen Zorn 2W8 Schaden und erleide selbst 1W6 Schaden. Dieser Schaden ignoriert Rüstung.</p>"
+            "name": "Dañar",
+            "description": "<p>Nivel 7</p>\n<p>Puedes azotar con la ira divina a un enemigo que toques. Le haces 2d8 puntos de daño y tú recibes 1d6 puntos de daño. Este daño atraviesa armadura.</p>"
         },
         {
             "id": "Heal",
-            "name": "Heilung",
-            "description": "<p><em>7. Grad</em></p>\n<p>Heile durch deine Berührung einen Verbündeten von Schaden bis zur Höhe deiner maximalen TP.</p>"
+            "name": "Curar",
+            "description": "<p>Nivel 7</p>\n<p>Curas todo el daño recibido a un compañero que estés tocando, hasta sus PG máximos.</p>"
         },
         {
             "id": "Hold Person",
-            "name": "Person festhalten",
-            "description": "<p><em>3. Grad</em></p>\n<p>Wähle eine Person in deinem Sichtfeld. Solange du in ihrer Gegenwart bist und keinen anderen Zauber sprichst, kann sie nichts tun, außer zu sprechen. Der Zauber endet augenblicklich, sobald das Ziel Schaden nimmt.</p>"
+            "name": "Retener persona",
+            "description": "<p>Nivel 3</p>\n<p>Elige a una persona a la que puedas ver. No podrá actuar, salvo para hablar, hasta que no lances otro conjuro o abandones su presencia. El efecto termina de manera inmediata si el objetivo recibe algún tipo de daño.</p>"
         },
         {
             "id": "Light",
-            "name": "Light",
-            "description": "<p><em>Stoßgebet</em></p>\n<p>Durch deine Berührung strahlt ein Gegenstand in göttlichem Licht. Er verursacht weder Hitze noch Geräusch und benötigt keinen Brennstoff, verhält sich aber ansonsten wie eine gewöhnliche Fackel. Du kannst die Farbe des Lichts frei wählen. Der Effekt hält an, solange du dich in der Nähe befindest.</p>"
+            "name": "Luz",
+            "description": "<p>Plegaria</p>\n<p>Toca un objeto, el cual obtendrá un brillo divino similar al de una antorcha. No proporciona calor ni hace ruido y no requiere de ningún tipo de combustible, pero por lo demás funciona como una antorcha normal y corriente. Tienes control completo sobre el color de la llama. El conjuro permanece mientras el objeto esté en tu presencia.</p>"
         },
         {
             "id": "Magic Weapon",
-            "name": "Magische Waffe",
-            "description": "<p><em>1. Grad, Dauerhaft</em></p>\n<p>Die während des Wirkens dieses Zaubers geführte Waffe verursacht +1W4 Schaden, bis du den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Arma mágica",
+            "description": "<p>Nivel 1 <em>Mantenido</em></p>\n<p>El arma que empuñes cuando lanzas este conjuro hace +1d4 de daño hasta que lo disipes. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Mark of Death",
-            "name": "Zeichen des Todes",
-            "description": "<p><em>7. Grad</em></p>\n<p>Wähle eine Kreatur, deren wahren Namen du kennst. Dieser Zauber erschafft dauerhafte Runen auf einer Oberfläche deiner Wahl, die dein Ziel töten, sobald es sie liest.</p>"
+            "name": "Marca de la Muerte",
+            "description": "<p>Nivel 7</p>\n<p>Elige una criatura de la que conozcas su verdadero nombre. Este conjuro crea unas runas permanentes en una superficie elegida por ti que, si son leídas por la criatura, la matarán.</p>"
         },
         {
             "id": "Plague",
-            "name": "Plage",
-            "description": "<p><em>9. Grad, Dauerhaft</em></p>\n<p>Nenne eine Stadt, ein Dorf, ein Feldlager oder einen anderen bewohnten Ort. So lange dieser Zauber anhält, wird der Ort von einer Plage heimgesucht, die der Domäne deiner Gottheit angemessen ist (Heuschrecken, Tod der Erstgeborenen, etc.). Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Plaga",
+            "description": "<p>Nivel 9 <em>Mantenido</em></p>\n<p>Nombra una ciudad, pueblo, campamento u otro lugar en el que viva gente. Mientras este conjuro esté activo, ese lugar es asolado por una plaga adecuada al dominio de tu deidad (langostas, muertes de primogénitos, etcétera). Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Repair",
-            "name": "Wiederherstellung",
-            "description": "<p><em>9. Grad</em></p>\n<p>Wähle ein Ereignis in der Vergangenheit deines Ziels. Alle Auswirkungen dieses Ereignisses – einschließlich Schaden, Vergiftungen, Erkrankungen und magischer Effekte – werden ungeschehen gemacht. Trefferpunkte und Erkrankungen werden geheilt, Gifte neutralisiert und magische Effekte beendet.</p>"
+            "name": "Reparar",
+            "description": "<p>Nivel 9</p>\n<p>Elige un evento del pasado del objetivo. Todos los efectos de aquel evento, incluyendo el daño, veneno, enfermedad y efectos mágicos, terminan y son reparados. Los PG se curan y las enfermedades sanan, los venenos son neutralizados y los efectos mágicos cesan.</p>"
         },
         {
             "id": "Resurrection",
-            "name": "Auferstehung",
-            "description": "<p><em>3. Grad</em></p>\n<p>Sage dem SL, dass du eine Leiche wiedererwecken möchtest, deren Seele noch nicht ganz von dieser Welt gefahren ist. Auferstehung ist immer möglich, aber der SL wird eine, mehrere oder gar alle der folgenden Bedingungen auferlegen:</p>\n<ul>\n<li>Es wird Tage/Wochen/Monate dauern.</li>\n<li>Du benötigst die Hilfe von ____________.</li>\n<li>Es kostet sehr viel Geld.</li>\n<li>Du musst ____________ opfern, damit es gelingt.</li>\n</ul>\n<p>Gegebenenfalls kann der SL erlauben, den Toten sofort zu erwecken – unter der Voraussetzung, dass seine Bedingungen erfüllt werden, um die Wiederbelebung dauerhaft zu machen. Er kann aber auch verlangen, dass alle Bedingungen erfüllt sein müssen, bevor du die Wiedererweckung in Angriff nehmen kannst.</p>"
+            "name": "Resucitar",
+            "description": "<p>Nivel 3</p>\n<p>Dile al DJ que quieres resucitar a una persona cuya alma no haya abandonado este mundo por completo. La resurrección siempre es posible, pero el DJ puede pedir que cumplas una o más de las siguientes condiciones (posiblemente todas):</p>\n<ul>\n<li>Vas a tardar días/semanas/meses.</li>\n<li>Vas a necesitar la ayuda de __________.</li>\n<li>Vas a necesitar un montón de dinero.</li>\n<li>Vas a tener que sacrificar __________ para conseguirlo.</li>\n</ul>\n<p>Dependiendo de las circunstancias, el DJ puede permitirte resucitar a un cadáver inmediatamente, entendiéndose que las condiciones deberán cumplirse más adelante para que el efecto sea permanente, o pedir que se cumplan las condiciones antes de que el cadáver resucite.</p>"
         },
         {
             "id": "Revelation",
-            "name": "Enthüllung",
-            "description": "<p><em>5. Grad</em></p>\n<p>Deine Gottheit beantwortet deine Gebete mit einem Augenblick der Offenbarung. Der SL wird die momentane Situation für dich erhellen. Wenn du auf Grundlage der Antworten handelst, erhältst du einmalig +1.</p>"
+            "name": "Revelación",
+            "description": "<p>Nivel 5</p>\n<p>Tu deidad responde a tus oraciones a través de un instante de perfecta lucidez. El DJ arrojará luz sobre la situación actual. Si actúas de acuerdo con esa información, recibes +1 a la siguiente tirada.</p>"
         },
         {
             "id": "Sanctify",
-            "name": "Weihen",
-            "description": "<p><em>Stoßgebet</em></p>\n<p>Wenn du diesen Zauber sprichst, empfangen von dir in Händen gehaltene Lebensmittel oder Flüssigkeiten die Weihe deiner Gottheit. Sie gelten nun als heilig oder unheilig. Zusätzlich wird jede nichtmagische Verunreinigung entfernt.</p>"
+            "name": "Santificar",
+            "description": "<p>Plegaria</p>\n<p>El agua y la comida que sostengas en tus manos mientras lanzas este conjuro queda consagrada a tu deidad. Además de pasar a ser sagrada o impía, la sustancia afectada queda purificada de cualquier impureza de origen mundano.</p>"
         },
         {
             "id": "Sanctuary",
-            "name": "Heiligtum",
-            "description": "<p><em>1. Grad</em></p>\n<p>Während du diesen Zauber wirkst, schreitest du die Grenzen eines Bereichs ab, den du deiner Gottheit weihst. Solange du dich in diesem Bereich aufhältst, wirst du alarmiert, sobald jemand innerhalb des Heiligtums eine bösartige Handlung vollzieht (inklusive dem Betreten mit böser Absicht). Jeder, der im Heiligtum Heilung erhält, heilt zusätzlich +1W4 TP.</p>"
+            "name": "Santuario",
+            "description": "<p>Nivel 1</p>\n<p>Cuando lanzas este conjuro marcas con tu paso el perímetro de una zona, que queda consagrada a tu dios. Mientras estés en dicha zona serás alertado cuando alguien actúe con malicia dentro del santuario (incluyendo a los que entren con intenciones dañinas). Cualquiera que reciba curación dentro del santuario cura +1d4 PG.</p>"
         },
         {
             "id": "Sever",
-            "name": "Abtrennung",
-            "description": "<p><em>7. Grad, Dauerhaft</em></p>\n<p>Wähle eine Gliedmaße des Ziels – einen Arm, Tentakel oder Flügel. Die gewählte Gliedmaße wird auf magische Weise von ihrem Körper getrennt, was zwar keinen Schaden, aber erhebliche Schmerzen verursacht. Das Fehlen entsprechender Gliedmaßen kann zum Beispiel eine geflügelte Kreatur am Fliegen hindern oder einen Bullen davon abhalten, dich mit seinen Hörnern aufzuspießen. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Amputar",
+            "description": "<p>Nivel 7 <em>Mantenido</em></p>\n<p>Elige un apéndice del objetivo como un brazo, tentáculo o ala. El apéndice será mágicamente amputado de su cuerpo sin causar daño, aunque sí un considerable dolor. El apéndice faltante puede, por ejemplo, evitar que una criatura voladora vuele o que un toro te ensarte en su cornamenta. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Speak With Dead",
-            "name": "Mit Toten sprechen",
-            "description": "<p><em>1. Grad</em></p>\n<p>Eine Leiche spricht kurz mit dir. Sie wird dir drei Fragen nach bestem Wissen beantworten, das sie im Leben hatte und nach dem Tod gewonnen hat.</p>"
+            "name": "Hablar con los muertos",
+            "description": "<p>Nivel 1</p>\n<p>Un cadáver habla brevemente contigo. Responderá lo mejor que pueda a cualesquiera tres preguntas que le hagas con el conocimiento que tuviera en vida y el que ha obtenido después de la muerte.</p>"
         },
         {
             "id": "Storm Of Vengeance",
-            "name": "Sturm der Vergeltung",
-            "description": "<p><em>9. Grad</em></p>\n<p>Deine Gottheit führt widernatürliche Wetterphänomene deiner Wahl herbei. Blut- oder Säureregen, Wolken aus Seelen, Wind, der Gebäude hinwegfegt, oder was auch immer du dir vorstellen kannst – bitte darum und du wirst es bekommen.</p>"
+            "name": "Tormenta de venganza",
+            "description": "<p>Nivel 9</p>\n<p>Tu deidad hace que se produzca la tormenta no natural que tú prefieras. Una lluvia de sangre o ácido, nubes de almas, vientos que levantan edificios o cualquier temporal que puedas imaginar: pídelo y aparecerá.</p>"
         },
         {
             "id": "Trap Soul",
-            "name": "Seelenfalle",
-            "description": "<p><em>5. Grad</em></p>\n<p>Du bannst die Seele einer sterbenden Kreatur in einen Edelstein. Die gefangene Kreatur ist sich der Einkerkerung bewusst. Sie kann durch Zauber, <em>Verhandeln</em> und andere Effekte beeinflusst werden. Alle Spielzüge gegen die eingekerkerte Kreatur erhalten +1. Du kannst die Seele jederzeit freilassen, aber danach kann sie nicht erneut eingefangen werden.</p>"
+            "name": "Atrapar alma",
+            "description": "<p>Nivel 5</p>\n<p>Atrapas el alma de una criatura moribunda en una gema. La criatura atrapada es consciente de su aprisionamiento, pero todavía puede ser manipulada mediante conjuros, se puede parlamentar con ella y otros efectos. Todos los movimientos contra la criatura atrapada se hacen con +1. Puedes liberar el alma en cualquier momento, pero no puedes volver a capturarla una vez la liberes.</p>"
         },
         {
             "id": "True Seeing",
-            "name": "Wahrer Blick",
-            "description": "<p><em>5. Grad, Dauerhaft</em></p>\n<p>Du wirst der wahren Natur aller Dinge gewahr, die du erblickst. Du durchschaust Illusionen und siehst Verborgenes. Der SL beschreibt dir deine Umgebung ohne jede Illusion oder Falschheit, ob magisch oder nicht. Während dieser Zauber anhält, erleidest du -1 auf Zauber wirken.</p>"
+            "name": "Visión verdadera",
+            "description": "<p>Nivel 5 <em>Mantenido</em></p>\n<p>Tu visión se abre a la verdadera naturaleza de las cosas sobre las que posas tus ojos. Puedes atravesar las ilusiones y ver lo que se oculta tras ellas. El DJ describirá el área ante ti, ignorando cualquier ilusión o falsedad, sea o no mágica. Cuando mantienes este conjuro recibes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Word of Recall",
-            "name": "Rückruf",
-            "description": "<p><em>7. Grad</em></p>\n<p>Wähle ein Wort. Wenn du dieses Wort nach dem Wirken dieses Zaubers zum ersten Mal aussprichst, werden du und alle Gefährten, die dich beim Zaubern berührt haben, an den exakten Ort zurücktransportiert, an dem du den Zauber gesprochen hast. Nur ein einziger Ort ist auf diese Weise aktiv; wenn du diesen Zauber erneut wirkst, während ein anderer <em>Rückruf</em> aktiv ist, ersetzt der neue Ort den alten.</p>"
+            "name": "Palabra del recuerdo",
+            "description": "<p>Nivel 7</p>\n<p>Elige una palabra. La primera vez que la pronuncies tras lanzar el conjuro, tú y los compañeros que te estuvieran tocando mientras se lanzó el conjuro volveréis inmediatamente al mismo lugar donde lanzaste el conjuro. Solo puedes mantener una misma localización en la memoria. Si vuelves a lanzar Palabra del Recuerdo antes de pronunciar la palabra, la nueva palabra remplazará a la anterior.</p>"
         },
         {
             "id": "Words of the Unspeaking",
-            "name": "Worte der Sprachlosen",
-            "description": "<p><em>5. Grad</em></p>\n<p>Mit einer Berührung sprichst du mit den Geistern, die den Dingen innewohnen. Der berührte Gegenstand beantwortet drei deiner Fragen, so gut er kann.</p>"
+            "name": "Palabras de los Silentes",
+            "description": "<p>Nivel 5</p>\n<p>Cuando tocas un objeto puedes hablar con los espíritus que lo habitan. El objeto inerte al que toques te responderá lo mejor que pueda a tres preguntas que hagas.</p>"
         }
     ]
 }
