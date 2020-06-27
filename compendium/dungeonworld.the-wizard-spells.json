@@ -6,152 +6,152 @@
     "entries": [{
             "id": " Unseen Servant",
             "name": "Unsichtbarer Diener",
-            "description": "<p><em>Zaubertrick, Dauerhaft</em></p>\n<p>Du beschwörst ein simples, unsichtbares Konstrukt, das nichts tun kann außer deine Sachen für dich zu tragen. Es hat 3 Tragkraft und trägt alles, was du ihm gibst. Das Konstrukt kann selbst keine Gegenstände aufnehmen und nur diejenigen tragen, die du ihm gibst. Die vom Unsichtbaren Diener getragenen Gegenstände scheinen ein paar Schritte hinter dir durch die Luft zu schweben. Wenn das Konstrukt Schaden nimmt oder deine Gegenwart verlässt, löst es sich augenblicklich auf und lässt alle Gegenstände fallen. Ansonsten bleibt der Zauber bestehen, bis du ihn selbst aufhebst.</p>"
+            "description": "<p>Truco <em>Mantenido</em></p>\n<p>Convocas un constructo sencillo e invisible que no puede hacer nada salvo acarrear objetos. Tiene Carga 3 y puede llevar cualquier cosa que le entregues. No puede coger objetos por su cuenta, solo tomarlos de tu mano. Los objetos transportados por un sirviente invisible parecen flotar en el aire unos cuantos pasos tras de ti. Un sirviente invisible que recibe daño o abandona tu presencia es desconvocado inmediatamente, dejando caer todos los objetos que transportase. Por lo demás, el sirviente invisible te sirve hasta que decides finalizar este conjuro. </p>"
         },
         {
             "id": "Alarm",
             "name": "Alarm",
-            "description": "<p><em>1. Grad</em></p>\n<p>Schreite einen Kreis ab, während du diesen Zauber wirkst. Bis du das nächste Mal <em>Zauber vorbereitest</em>, wird deine Magie dich warnen, sobald eine Kreatur den Kreis betritt. Solltest du schlafen, wird dich der Zauber wecken.</p>"
+            "description": "<p>Nivel 1</p>\n<p>Camina trazando un círculo mientras lanzas este conjuro. Desde ahora, y hasta que vuelvas a preparar conjuros, tu magia te alertará si una criatura cruza el círculo que has trazado. Incluso aunque estés dormido, el conjuro te sacará de tu sueño.</p>"
         },
         {
             "id": "Alert",
-            "name": "Warnruf",
-            "description": "<p><em>9. Grad, Erkenntnis</em></p>\n<p>Beschreibe ein Ereignis. Der SL wird dir mitteilen, wenn das Ereignis eintritt, egal wo du dich befindest oder wie weit entfernt es stattfindet. Wenn du willst, kannst du den Ort des Geschehens beobachten, als wärst du anwesend. Du kannst nur einen <em>Warnruf</em> zur gleichen Zeit aktiv haben.</p>"
+            "name": "Alerta",
+            "description": "<p>Nivel 9 <em>Adivinación</em></p>\n<p>Describe un suceso y el DJ te dirá cuándo tendrá lugar sin importar dónde estés o lo lejos que te encuentres del lugar del suceso. Si lo deseas, puedes ver la localización en la que tendrá lugar el suceso como si estuvieras allí mismo. Solo puedes tener una Alerta activa al mismo tiempo.</p>"
         },
         {
             "id": "Antipathy",
-            "name": "Antipathie",
-            "description": "<p><em>9. Grad, Verzauberung, Dauerhaft</em></p>\n<p>Wähle ein Ziel und beschreibe eine Kreaturenart oder eine Gesinnung. Kreaturen der von dir beschriebenen Art oder Gesinnung können nicht in Sichtweite des Ziels gelangen. Eine Kreatur, die aus irgendeinem Grund doch in Sichtweite des Ziels gelangt, flieht sofort. Der Zauber wirkt, bis du die Gegenwart des Ziels verlässt oder den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Antipatía",
+            "description": "<p>Nivel 9 <em>Encantamiento, Mantenido</em></p>\n<p>Elige un objetivo y describe un tipo de criatura o un alineamiento. Las criaturas del tipo o alineamiento descrito no pueden entrar en la línea de visión del objetivo. En caso de hacerlo, tendrá que huir inmediatamente. Este efecto perdura hasta que abandones la presencia del objetivo o anules el conjuro. Mientras mantienes este conjuro recibes un –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Cage",
-            "name": "Energiekäfig",
-            "description": "<p><em>5. Grad, Hervorrufung, Dauerhaft</em></p>\n<p>Das Ziel wird in einen Käfig aus magischer Kraft eingesperrt. Nichts kann aus diesem Käfig heraus, nichts kann hinein. Der Käfig bleibt bestehen, bis du einen anderen Zauber wirkst oder den Zauber selbst aufhebst. Während der Zauber besteht, kannst du deinen Blick nicht von dem Käfig abwenden und die eingesperrte Kreatur kann deine Gedanken hören.</p>"
+            "name": "Celda",
+            "description": "<p>Nivel 5 <em>Evocación, Mantenido</em></p>\n<p>El objetivo es retenido en una celda mágica, de la que nada puede entrar ni salir. Este conjuro permanece activo hasta que lances otro conjuro o lo disipes. Mientras mantienes este conjuro no puedes perder de vista la celda, y además la criatura enjaulada puede escuchar tus pensamientos.</p>"
         },
         {
             "id": "Charm Person",
-            "name": "Person bezaubern",
-            "description": "<p><em>1. Grad, Verzauberung, Dauerhaft</em></p>\n<p>Die Person (kein Tier oder Monster), die du beim Wirken dieses Zaubers berührst, betrachtet dich als ihren Freund, bis sie Schaden nimmt oder anderweitig vom Gegenteil überzeugt wird.</p>"
+            "name": "Encantar persona",
+            "description": "<p>Nivel 1 <em>Encantamiento, Mantenido</em></p>\n<p>La persona (no animal ni monstruo) a la que toques mientras lanzas el conjuro te creerá un amigo hasta que le hagas daño o se demuestre lo contrario.</p>"
         },
         {
             "id": "Cloudkill",
-            "name": "Todeswolke",
-            "description": "<p><em>7. Grad, Beschwörung, Dauerhaft</em></p>\n<p>Ein Nebel wabert aus dem Jenseits in das Reich der Lebenden und erfüllt die nähere Umgebung. Wenn eine Kreatur im Nebel Schaden erleidet, erleidet sie zusätzlich 1W6 Schaden, der Rüstung ignoriert. Dieser Zauber wirkt, solange du in Sichtweite des Nebels bleibst, oder bis du den Zauber aufhebst. [[/roll 1d6]]</p>"
+            "name": "Niebla mortal",
+            "description": "<p>Nivel 7 <em>Invocación, Mantenido</em></p>\n<p>Una nube de niebla se arrastra hasta este mundo desde más allá de las Puertas Negras de la Muerte, cubriendo las inmediaciones. Cada vez que una criatura sufra daño en la zona cubierta por la niebla, recibe 1d6 de daño adicional que ignora armadura. El conjuro persiste mientras puedas ver el área afectada o hasta que lo canceles.</p>"
         },
         {
             "id": "Contact Other Plane",
-            "name": "Andere Ebenen kontaktieren",
-            "description": "<p><em>5. Grad, Erkenntnis</em></p>\n<p>Du schickst eine Bitte in andere Sphären. Nenne Aufenthaltsort, Art, Name oder Titel der Kreatur, die du kontaktieren willst. Du öffnest einen wechselseitigen Kommunikationskanal zwischen euch beiden. Das Gespräch kann von dir oder deinem Kontakt jederzeit abgebrochen werden.</p>"
+            "name": "Contactar con otro plano",
+            "description": "<p>Nivel 5 <em>Adivinación</em></p>\n<p>Envías una petición a otro plano. Especifica con quién o con qué quieres contactar, indicando su localización, el tipo de criatura, su nombre o título, y se abrirá una vía de comunicación en ambos sentidos con esa criatura. La comunicación puede ser cortada por ti o por la criatura en cualquier momento.</p>"
         },
         {
             "id": "Contact Spirits",
-            "name": "Mit Geistern sprechen",
-            "description": "<p><em>1. Grad, Beschwörung</em></p>\n<p>Nenne den Geist, den du anrufen willst (oder überlasse es dem SL). Du holst das Wesen durch die Ebenen zu dir, gerade nah genug, um mit ihm zu sprechen. Der Geist ist verpflichtet, dir eine Frage bestmöglich zu beantworten.</p>"
+            "name": "Contactar con espíritus",
+            "description": "<p>Nivel 1 <em>Invocación</em></p>\n<p>Nombra al espíritu con el que quieres contactar (o déjaselo al DJ). Atraerás a esa criatura de entre los planos, lo bastante como para hablar con ella. Está obligada a responder lo mejor que pueda a una pregunta que le hagas.</p>"
         },
         {
             "id": "Contingency",
-            "name": "Notfall",
-            "description": "<p><em>7. Grad, Hervorrufung</em></p>\n<p>Wähle einen Zauber des 5. Grades oder niedriger. Beschreibe einen Auslöser, mit höchstens so vielen Worten, wie du Stufen hast. Der gewählte Zauber wird so lange zurückgehalten, bis du dich entweder entscheidest, ihn zu entfesseln, oder bis der Auslöser eintritt. Du musst für den zurückgehaltenen Zauber nicht würfeln, der Effekt tritt einfach ein. Du darfst nicht mehr als einen <em>Notfall</em>-Zauber gleichzeitig aktiv haben; wenn du einen zweiten wirkst, ersetzt dieser den ersten.</p>"
+            "name": "Contingencia",
+            "description": "<p>Nivel 7 <em>Evocación</em></p>\n<p>Elige un conjuro de nivel 5 o inferior que conozcas y describe una condición desencadenante con un número de palabras igual a tu nivel. El conjuro elegido quedará retenido hasta que decidas liberarlo o la condición desencadenante tenga lugar, lo que ocurra primero. No tienes que hacer ninguna tirada para lanzar el conjuro retenido, simplemente tiene efecto. Solo puedes tener un conjuro retenido al mismo tiempo, así que si lanzas Contingencia mientras existe otro conjuro retenido, el nuevo conjuro remplaza al anterior.</p>"
         },
         {
             "id": "Detect Magic",
-            "name": "Magie entdecken",
-            "description": "<p><em>1. Grad, Erkenntnis</em></p>\n<p>Einer deiner Sinne ist für kurze Zeit in der Lage, Magie wahrzunehmen. Der SL wird dir mitteilen, was in deiner Umgebung magisch ist.</p>"
+            "name": "Detectar magia",
+            "description": "<p>Nivel 1 <em>Adivinación</em></p>\n<p>Uno de tus sentidos se sintoniza brevemente con la magia. El DJ te dirá qué es mágico en las inmediaciones.</p>"
         },
         {
             "id": "Dispel Magic",
-            "name": "Magie bannen",
-            "description": "<p><em>3. Grad</em></p>\n<p>Wähle einen Zauber oder magischen Effekt in deiner Gegenwart: Dieser Zauber löst ihn auf. Geringere Zauber werden beendet, mächtigere Magie wird nur abgeschwächt und verliert an Wirkung, solange du dich in der Nähe befindest.</p>"
+            "name": "Disipar magia",
+            "description": "<p>Nivel 3</p>\n<p>Elige un conjuro o efecto mágico en tu presencia y la magia que lo alimenta se dispersará. Los conjuros menores son cancelados y la magia poderosa se queda reducida o disminuida mientras estés cerca.</p>"
         },
         {
             "id": "Dominate",
-            "name": "Beherrschen",
-            "description": "<p><em>7. Grad, Verzauberung, Dauerhaft</em></p>\n<p>Deine Berührung drängt deinen Verstand in den Körper eines anderen. Nimm 1W4 Punkte. Gib einen Punkt aus, um dein Ziel eine der folgenden Handlungen ausführen zu lassen:</p>\n<ul>\n<li>ein paar Worte deiner Wahl sprechen</li>\n<li>dir etwas geben, das es in der Hand hält</li>\n<li>ein Ziel deiner Wahl gezielt angreifen</li>\n<li>eine Frage deiner Wahl wahrheitsgemäß beantworten</li>\n</ul>\n<p>Wenn dein Ziel Schaden nimmt, verlierst du einen Punkt. Wenn die Punkte aufgebraucht sind, endet der Zauber. Während dieser Zauber anhält, kannst du keine weiteren <em>Zauber wirken</em>.</p>"
+            "name": "Dominar",
+            "description": "<p>Nivel 7 <em>Encantamiento, Mantenido</em></p>\n<p>Puedes trasladar tu mente al interior de otra persona que toques. Tira 1d4: el número que saques son puntos que puedes gastar para hacer que el objetivo lleve a cabo una de estas acciones, a razón de 1 punto por acción:</p>\n<ul>\n<li>Decir unas cuantas palabras a tu elección.</li>\n<li>Entregarte algo que posee.</li>\n<li>Hacer un ataque coordinado contra un objetivo a tu elección.</li>\n<li>Responder con sinceridad a una pregunta.</li>\n</ul>\n<p>El conjuro termina cuando te quedas sin puntos. Si el objetivo recibe daño, pierdes 1 punto. No puedes lanzar otros conjuros mientras mantienes este.</p>"
         },
         {
             "id": "Fireball",
-            "name": "Feuerball",
-            "description": "<p><em>3. Grad, Hervorrufung</em></p>\n<p>Du beschwörst eine mächtige Flammenkugel, die dein Ziel und alle in seiner Nähe erfasst und dabei 2W6 Schaden verursacht, der Rüstung ignoriert. [[/roll 2d6]]</p>"
+            "name": "Bola de fuego",
+            "description": "<p>Nivel 3 <em>Evocación</em></p>\n<p>Conjuras una poderosa esfera de llamas que envuelve a tu objetivo y a todos los que estén cerca, infligiendo 2d6 de daño que ignora armadura.</p>"
         },
         {
             "id": "Invisibility",
-            "name": "Unsichtbarkeit",
-            "description": "<p><em>1. Grad, Illusion, Dauerhaft</em></p>\n<p>Berühre einen Verbündeten – er wird unsichtbar. Niemand kann ihn sehen, bis der Unsichtbare angreift oder du den Zauber aufhebst. Während dieser Zauber anhält, kannst du keine weiteren <em>Zauber wirken</em>.</p>"
+            "name": "Invisibilidad",
+            "description": "<p>Nivel 1 <em>Ilusión, Mantenido</em></p>\n<p>Toca a un compañero y nadie podrá verle. ¡Es invisible! El conjuro persiste hasta que el objetivo ataca o canceles el efecto. No puedes lanzar otros conjuros mientras mantengas este.</p>"
         },
         {
             "id": "Light",
-            "name": "Licht",
-            "description": "<p><em>Zaubertrick</em></p>\n<p>Durch deine Berührung strahlt ein Gegenstand in arkanem Licht. Er verursacht weder Hitze noch Geräusch und benötigt keinen Brennstoff, verhält sich aber ansonsten wie eine gewöhnliche Fackel. Du kannst die Farbe des Lichts frei wählen. Der Effekt hält an, solange du dich in der Nähe befindest.</p>"
+            "name": "Luz",
+            "description": "<p>Truco</p>\n<p>Un objeto que toques brilla con una luz arcana más o menos igual de resplandeciente que una antorcha. No produce calor ni sonido y no requiere combustible, pero por lo demás funciona como una antorcha normal. Tienes control completo sobre el color de la llama. El conjuro dura tanto tiempo como el objeto esté en tu presencia.</p>"
         },
         {
             "id": "Magic Missile",
-            "name": "Magisches Geschoss",
-            "description": "<p><em>1. Grad, Hervorrufung</em></p>\n<p>Geschosse aus reiner Magie schießen aus deinen Fingern. Füge einem Ziel 2W4 Schaden zu. [[/roll 2d4]]</p>"
+            "name": "Proyectil mágico",
+            "description": "<p>Nivel 1 <em>Evocación</em></p>\n<p>De tus dedos surgen proyectiles de pura magia. Haces 2d4 de daño a un objetivo.</p>"
         },
         {
             "id": "Mimic",
-            "name": "Mimikry",
-            "description": "<p><em>3. Grad, Dauerhaft</em></p>\n<p>Du nimmst die Form von jemandem an, den du beim Wirken dieses Zaubers berührt hast. Dein Äußeres ist absolut identisch, aber dein Verhalten kann dich verraten. Der Zauber besteht, bis du Schaden nimmst oder freiwillig zu deiner eigenen Gestalt zurückkehrst. Während der Zauber anhält, hast du keinen Zugriff auf deine Spielzüge des Magiers.</p>"
+            "name": "Mimético",
+            "description": "<p>Nivel 3 <em>Mantenido</em></p>\n<p>Asumes la forma de otra persona que estés tocando mientras lanzas este conjuro. Tus características físicas son idénticas a las suyas, pero tu comportamiento puede ser distinto. Este cambio persiste hasta que recibas daño o elijas volver a tu propia forma. No puedes usar movimientos del libreto del mago mientras mantengas este conjuro.</p>"
         },
         {
             "id": "Mirror Image",
-            "name": "Spiegelbild",
-            "description": "<p><em>3. Grad, Illusion</em></p>\n<p>Du erschaffst ein illusorisches Spiegelbild deiner selbst. Wenn du angegriffen wirst, würfle 1W6. Bei einer 4, 5 oder 6 trifft der Angriff dein Spiegelbild, zerstört es und beendet den Zauber [[/roll 1d6]]</p>"
+            "name": "Imagen especular",
+            "description": "<p>Nivel 3 <em>Ilusión</em></p>\n<p>Creas una imagen ilusoria de ti mismo. Tira 1d6 cuando eres atacado. Si sacas 4, 5 o 6, el ataque impacta en la ilusión, la imagen se disipa y el conjuro termina.</p>"
         },
         {
             "id": "Perfect Summons",
-            "name": "Vollkommene Herbeizauberung",
-            "description": "<p><em>9. Grad, Beschwörung</em></p>\n<p>Du teleportierst eine Kreatur zu dir. Nenne ihren Namen oder beschreibe kurz ihre Art. Wenn du sie beim Namen genannt hast, erscheint die Kreatur vor dir. Wenn du ihre Art beschrieben hast, erscheint eine Kreatur der beschriebenen Art.</p>"
+            "name": "Invocaciones perfectas",
+            "description": "<p>Nivel 9 <em>Invocación</em></p>\n<p>Puedes teletransportar a una criatura a tu presencia. Nombra una criatura o describe brevemente un tipo de criatura. Si nombras a una criatura, esa criatura aparecerá ante ti. Si describiste un tipo de criatura, aparecerá ante ti una criatura de ese tipo.</p>"
         },
         {
             "id": "Polymorph",
-            "name": "Verwandeln",
-            "description": "<p><em>5. Grad, Verzauberung</em></p>\n<p>Deine Berührung verändert die Gestalt einer Kreatur vollkommen. Sie bleibt in dieser Gestalt, bis du einen weiteren Zauber wirkst. Beschreibe die Form, die dein Ziel annimmt, mit allen Attributsänderungen, besonderen Anpassungen oder herausragenden Schwächen. Der SL wird dir dann mindestens eine Einschränkung aus der folgenden Liste auferlegen:</p>\n<ul>\n<li>Die neue Gestalt wird instabil und vorübergehend sein.</li>\n<li>Der Verstand der Kreatur wird ebenfalls verändert.</li>\n<li>Die neue Gestalt hat eine unbeabsichtigte Stärke oder Schwäche.</li>\n</ul>"
+            "name": "Polimorfizar",
+            "description": "<p>Nivel 5 <em>Encantamiento</em></p>\n<p>Puedes cambiar completamente de forma a una criatura que toques, permaneciendo así hasta que lances otro conjuro. Describe la nueva forma, incluyendo los cambios en características, adaptaciones importantes y debilidades principales. El DJ añadirá una o más de las siguientes opciones:</p>\n<ul>\n<li>La forma será inestable y temporal.</li>\n<li>La mente de la criatura también será alterada.</li>\n<li>La forma tiene un beneficio o debilidad inesperada.</li>\n</ul>"
         },
         {
             "id": "Prestidigitation",
-            "name": "Zaubertrick",
-            "description": "<p><em>Zaubertrick</em></p>\n<p>Du vollbringst kleinere Tricks echter Magie. Wenn du einen Gegenstand während des Zauberwirken berührst, kannst du ein paar kosmetische Änderungen daran vornehmen: ihn reinigen, beschmutzen, abkühlen, erwärmen, würzen oder seine Farbe ändern. Wenn du während des Zauberwirkens keinen Gegenstand berührst, kannst du einfache Illusionen erschaffen, die nicht größer sind als du selbst. Dabei entstehen plumpe und offensichtliche Illusionen – sie werden zwar niemand täuschen, aber können durchaus unterhaltsam sein.</p>"
+            "name": "Prestidigitación",
+            "description": "<p>Truco</p>\n<p>Puedes realizar trucos menores de magia real. Si tocas un objeto como parte del lanzamiento del conjuro puedes hacerle cambios cosméticos: limpiarlo, ensuciarlo, calentarlo, darle sabor o cambiar su color. Si lanzas este conjuro sin tocar ningún objeto puedes crear ilusiones menores de un tamaño no superior a ti. La naturaleza ilusoria de los efectos creados con prestidigitación resultan evidentes y no engañarán a nadie, pero pueden distraerles.</p>"
         },
         {
             "id": "Shadow Walk",
-            "name": "Schattenreise",
-            "description": "<p><em>7. Grad, Illusion</em></p>\n<p>Der Schatten, den du als Ziel auswählst, wird für dich und deine Verbündeten zu einem Tor. Nenne einen Ort, mit höchstens so vielen Worten, wie du Stufen hast. Durch das Portal zu schreiten, bringt dich und deine Verbündeten, die beim Zauberwirken dabei waren, an den beschriebenen Ort. Das Portal kann von jedem nur einmal durchquert werden.</p>"
+            "name": "Atajo sombrio",
+            "description": "<p>Nivel 7 <em>Ilusión</em></p>\n<p>Elige una sombra y se convertirá en un portal para ti y tus compañeros. Este portal llevará a un lugar que tendrás que describir con un número de palabras igual a tu nivel. Atravesar el portal te llevará a ti, y a los compañeros presentes cuando lanzaste el conjuro, al lugar que has descrito. El portal puede ser utilizado solo una vez por cada compañero.</p>"
         },
         {
             "id": "Shelter",
-            "name": "Unterschlupf",
-            "description": "<p><em>9. Grad, Hervorrufung, Dauerhaft</em></p>\n<p>Du erschaffst ein Gebäude aus reiner magischer Energie. Es kann so groß sein wie ein Schloss oder so klein wie eine Hütte, aber ist immer für nichtmagischem Schaden absolut undurchdringlich. Das Gebäude bleibt bestehen, bis du es verlässt oder den Zauber aufhebst.</p>"
+            "name": "Refugio",
+            "description": "<p>Nivel 9 <em>Evocación, Mantenido</em></p>\n<p>Puedes crear una estructura de poder mágico puro que puede ser tan grande como un castillo o tan pequeña como una choza, inmune a todo daño no mágico. La estructura aguanta hasta que salgas de ella o anules el conjuro.</p>"
         },
         {
             "id": "Sleep",
-            "name": "Schlaf",
-            "description": "<p><em>3. Grad, Verzauberung</em></p>\n<p>1W4 vom SL ausgewählte Gegner in deiner Sichtweite schlafen ein. Nur Wesen, die schlafen können, sind von diesem Zauber betroffen. Laute Geräusche, Schütteln oder Schmerz wecken sie wie üblich.</p>"
+            "name": "Dormir",
+            "description": "<p>Nivel 3 <em>Encantamiento</em></p>\n<p>Haces que 1d4 enemigos a los que puedas ver, elegidos por el DJ, caigan dormidos. Este conjuro solo afecta a criaturas capaces de dormir y se despertarán por cosas que les despertarían en condiciones normales: ruidos fuertes, golpes o dolor.</p>"
         },
         {
             "id": "Soul Gem",
-            "name": "Seelenfalle",
-            "description": "<p><em>9. Grad</em></p>\n<p>Du bannst die Seele einer sterbenden Kreatur in einen Edelstein. Die gefangene Kreatur ist sich der Einkerkerung bewusst. Sie kann durch Zauber, <em>Verhandeln</em> und andere Effekte beeinflusst werden. Alle Spielzüge gegen die eingekerkerte Kreatur erhalten +1. Du kannst die Seele jederzeit freilassen, aber danach kann sie nicht erneut eingefangen werden.</p>"
+            "name": "Gema de alma",
+            "description": "<p>Nivel 9</p>\n<p>Puedes atrapar el alma de una criatura moribunda en una gema. La criatura atrapada es consciente de su aprisionamiento y sigue pudiendo ser manipulada por conjuros, movimientos como Parlamentar y otros efectos. Todos los movimientos contra la criatura atrapada se realizan con +1. Puedes liberar el alma cuando quieras, pero no podrá volver a ser capturada una vez la liberes.</p>"
         },
         {
             "id": "Summon Monster",
-            "name": "Monster herbeizaubern",
-            "description": "<p><em>5. Grad, Beschwörung, Dauerhaft</em></p>\n<p>Ein Monster erscheint und hilft dir, so gut es kann. Behandle das Monster wie einen Charakter mit 1 Trefferpunkt, der nur Zugriff auf die Grundspielzüge hat. Alle seine Attribute haben einen +1 Modifikator und es nutzt deine Schadenswürfel. Außerdem darfst du 1W6 Vorteile aus der folgenden Liste wählen:</p>\n<ul>\n<li>Erhöhe einen seiner Attributsmodifikatoren auf +2.</li>\n<li>Das Band, das ihn auf dieser Ebene hält, ist stark: Für jede deiner Stufen erhält er +2 TP.</li>\n<li>Es ist nicht rücksichtslos.</li>\n<li>Es verursacht 1W8 Schaden.</li>\n<li>Es hat eine nützliche Anpassung.</li>\n</ul>\n<p>Ausgehend von den ausgewählten Vorteilen wird der SL dir mitteilen, welche Art von Monster du bekommst. Die Kreatur bleibt auf dieser Ebene, bis sie stirbt oder du sie wieder fortschickst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Invocar monstruo",
+            "description": "<p>Nivel 5 <em>Invocación, Mantenido</em></p>\n<p>Un monstruo aparece y te ayuda lo mejor que puede. Trátalo como si fuera tu personaje, pero con acceso únicamente a los movimientos básicos. El monstruo tiene un modificador de +1 en todas las características, 1 PG y utiliza tu dado de daño. El monstruo también recibe 1d6 de los siguientes rasgos:</p>\n<ul>\n<li>Tiene un modificador de +2 en vez de +1 en una característica.</li>\n<li>No es imprudente.</li>\n<li>Hace 1d8 de daño.</li>\n<li>Su vínculo con este plano es fuerte: +2 PG por cada nivel que tengas.</li>\n<li>Posee alguna adaptación útil.</li>\n</ul>\n<p>El DJ te dirá qué tipo de monstruo aparece en función de los rasgos que elijas. La criatura permanece en este plano hasta que muera o tú la disperses de nuevo a su plano de origen. Recibes un –1 a Lanzar conjuros mientras mantengas este.</p>"
         },
         {
             "id": "Telepathy",
-            "name": "Telepathie",
-            "description": "<p><em>1. Grad, Erkenntnis, Dauerhaft</em></p>\n<p>Du baust eine telepathische Verbindung mit einer Person auf, die du berührst. Dies erlaubt dir, mit dieser Person gedanklich zu kommunizieren. Du kannst nur eine telepathische Verbindung zur gleichen Zeit haben.</p>"
+            "name": "Telepatía",
+            "description": "<p>Nivel 1 <em>Adivinación, Mantenido</em></p>\n<p>Creas un vínculo telepático con una única persona a la que toques, permitiéndote conversar con ella a través del pensamiento. Solo puedes mantener un vínculo telepático al mismo tiempo.</p>"
         },
         {
             "id": "True Seeing",
-            "name": "Wahrer Blick",
-            "description": "<p><em>7. Grad, Erkenntnis, Dauerhaft</em></p>\n<p>Du siehst die Dinge, wie sie wirklich sind. Dieser Effekt bleibt bestehen, bis du lügst oder den Zauber aufhebst. Während dieser Zauber anhält, erleidest du -1 auf <em>Zauber wirken</em>.</p>"
+            "name": "Visión verdadera",
+            "description": "<p>Nivel 7 <em>Adivinación, Mantenido</em></p>\n<p>Puedes ver las cosas como realmente son. Este efecto se mantiene hasta que dices una mentira o cancelas el conjuro. Mientras este conjuro está activo tienes –1 a Lanzar conjuros.</p>"
         },
         {
             "id": "Visions Through Time",
-            "name": "Visionen aus der Zeit",
-            "description": "<p><em>3. Grad, Erkenntnis</em></p>\n<p>Wirke diesen Zauber, wenn du auf eine spiegelnde Oberfläche blickst, um in die Tiefe der Zeit einzutauchen. Der SL wird dir ein düsteres Omen offenbaren – Vorzeichen einer Katastrophe, die eintritt, wenn du nichts unternimmst. Er wird dir auch etwas Nützliches darüber verraten, wie du in den katastrophalen Lauf der Dinge eingreifen kannst. Glückliche Omen hingegen sind selten.</p>"
+            "name": "Visiones a través del tiempo",
+            "description": "<p>Nivel 3 <em>Adivinación</em></p>\n<p>Lanza este conjuro mientras contemplas una superficie reflectante para ver a través de las profundidades del tiempo. El DJ te revelará detalles de un presagio oscuro que tenga relación contigo, un acontecimiento aciago que tendrá lugar sin tu intervención, pero también te dirá algo útil sobre cómo puedes interferir en el oscuro desenlace del presagio. Son pocos los presagios que afirman que «viviréis felices y comeréis perdices». Lo siento.</p>"
         }
     ]
 }
