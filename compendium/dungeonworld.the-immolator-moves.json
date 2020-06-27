@@ -6,97 +6,97 @@
     "entries": [{
             "id": "Burning Brand",
             "name": "Hierro ardiente",
-            "description": "<p>Solange deine aktuellen TP unter deiner KO liegen oder 1 betragen, erhältst du dauerhaft +1.</p>"
+            "description": "<p>Cuando conjuras un arma de fuego puro, tira +CON.</p>\n<p>* Con 10+ elige dos de las siguientes opciones.</p>\n<p>* Con 7-9 elige solo una.</p>\n<ul>\n<li>Toque</li>\n<li>Arrojadiza, medio alcance</li>\n<li>+1 daño</li>\n<li>Elimina la etiqueta peligrosa</li>\n</ul>\n<p>Para hacer ataques con esta arma, puedes considerar que tu INT es igual a tu FUE o DES. El arma siempre empieza con las etiquetas ardiente, contacto, peligrosa y 3 usos. Cada ataque que se realiza con el arma consume un uso.</p>"
         },
         {
             "id": "Burning Bridges",
             "name": "Quemar puentes",
-            "description": "<p>Wähle einen Spielzug aus der Klassenliste des Barden, Diebes oder Kämpfers. Du darfst keinen Mehrklassen-Spielzug aus den Listen wählen.</p>"
+            "description": "<p>Cuando vayas a exhalar tu último aliento, no lo haces. En cambio, puedes eliminar uno de tus vínculos. Esto es permanente y reduce tus vínculos totales disponibles para siempre. Estás vivo y tienes 1d6 PG. Si no te quedan más vínculos, exhala tu último aliento con normalidad.</p>"
         },
         {
             "id": "Burning Ring Of Fire",
             "name": "Anillo de fuego ardiente",
-            "description": "<p>Wenn du Gewissheit erlangst, füge „Was hier ist schwach oder verwundbar?“ zur Liste der Fragen hinzu, die du stellen kannst.</p>"
+            "description": "<p>Cuando fusionas el alma de una persona voluntaria con la tuya, tira +CAR.</p>\n<p> * Con un éxito ambos quedan conectados, son capaces de sentirse el uno al otro en la distancia, así como de compartir su estado emocional.</p>\n<p>* Con 7-9, la conexión es inestable y peligrosa, cuando recibes una debilidad, el otro también la recibe (y viceversa).</p>\n<p>Con un fallo, se rechaza el vínculo y ambos eliminan cualquier vínculo que tengan entre ustedes. Puedes escribir nuevos vínculos con él al final de la sesión, como de costumbre. Esta fusión, una vez se lleva a cabo, no se puede deshacer por medios mortales.</p>"
         },
         {
             "id": "Burns Half As Long",
             "name": "Dura la mitad de tiempo",
-            "description": "<p>Du wurdest in den alten Opferbräuchen unterwiesen. Wähle etwas, das deine Götter (oder die Geister deiner Ahnen, oder dein Totem) wertschätzen – Gold, Blut, Knochen oder ähnliches. Wenn du diese Gaben gemäß deinen Riten opferst, würfle+WE.</p>\n<ul>\n<li>Bei einer 10+ wird dir der SL einen Einblick in dein aktuelles Problem gewähren oder dir eine Gefälligkeit erweisen, die dir zugute kommt.</li>\n<li>Bei 7–9 ist das Opfer nicht bedeutsam genug: Die Götter nehmen von deinem Fleisch, aber gewähren dir trotzdem eine Einsicht oder eine Gefälligkeit.</li>\n<li>Bei einer 6- bekommst du den Zorn der launischen Geister zu spüren.</li>\n</ul>"
+            "description": "<p>Recibe este movimiento cuando obtienes <em>Brilla con el doble de intensidad</em>.</p>\n<p>Cuando sacrificas una victoria a las llamas del destino, considera que cualquier tirada de 10+ es un fallo.</p>"
         },
         {
             "id": "Burns Twice As Bright",
             "name": "Brilla al doble de intensidad",
-            "description": "<p>Wann immer du einer Gefahr trotzen musst, die von der unreinen Magie von Sterblichen hervorgerufen wurde, behandle ein Ergebnis von 6- als 7–9.</p>"
+            "description": "<p>Cuando canalizas las llamas del destino, puedes considerar una tirada fallida como un 7-9 o un resultado de 7-9 como 10+. Puede ser una tirada que hayas hecho tú u otro personaje. Dile al DJ algo que has perdido: una emoción, un recuerdo o algo inherente a tu ser. No puedes volver a usar este movimiento hasta que no uses Dura la mitad de tiempo.</p>"
         },
         {
             "id": "Fanning The Flames",
             "name": "Avivar las llamas",
-            "description": "<p>Andere mögen sich mit dem Geschmack von Wein oder ein oder zwei Dienern zufriedengeben, doch du willst mehr. Wähle zwei Begierden. Wenn du deiner Begierde nachjagst, führst du deine Würfe für Spielzüge mit 1W6+1W8 statt der üblichen 2W6 aus. Wenn die Augenzahl des W6 höher als die des W8 ist, wird der SL eine zusätzliche Schwierigkeit oder Gefahr ins Spiel bringen, die aus deiner Maßlosigkeit entsteht.</p>\n<ul>\n<li>Reine Zerstörung</li>\n<li>Macht über andere</li>\n<li>Fleischliche Gelüste</li>\n<li>Eroberung</li>\n<li>Reichtum und Besitz</li>\n<li>Ruhm und Ehre</li>\n</ul>"
+            "description": "<p>Requiere Instigador</p>\n<p>Puedes aplicar los efectos de tu movimiento Instigador a un grupo de personas, una docena más o menos, a la vez.</p>"
         },
         {
             "id": "Fighting Fire with Fire",
             "name": "Fuego contra fuego",
-            "description": "<p>Wenn du Schaden nimmst, kannst du anstelle des Schadens dauerhaft -1 hinnehmen, bis du eine deiner Begierden gestillt hast. Wenn du diesen Malus bereits hast, kannst du ihn nicht noch einmal auswählen.</p>"
+            "description": "<p>Cuando recibes daño en una cantidad impar (después de aplicar la armadura), las llamas que arden dentro de ti te ayudan. Tira 1d4 y elige entre añadir a tu hierro ardiente (si está activo) tantos usos como tu resultado, guardar ese resultado para convocar más adelante tu hierro ardiente o reducir el daño esa cantidad.</p>"
         },
         {
             "id": "Firebrand",
             "name": "Instigador",
-            "description": "<p>Deine Gefolgsleute akzeptieren immer die Erfüllung einer deiner Begierden anstelle einer Bezahlung.</p>"
+            "description": "<p>Cuando introduces una nueva idea en un PNJ, tira +CAR.</p>\n<p>* Con 10+ el personaje cree que la idea es ha sido suya y la recibe con fervor.</p>\n<p>* Con 7-9 su pasión se desvanece en un día o dos.</p>\n<p>Si fallas responde de forma negativa y se pone en contra de la idea.</p>"
         },
         {
             "id": "From Hell’s Heart",
             "name": "Desde el corazón del infierno",
-            "description": "<p><i>Voraussetzung: Gier nach Zerstörung</i></p>\n<p>Wähle einen weiteren Zug aus der Klassenliste des Barden, Diebes oder Kämpfers. Du darfst keinen Mehrklassen-Spielzug aus den Listen wählen.</p>"
+            "description": "<p>Cuando convoques fuego con cualquiera de tus movimientos, puedes remplazarlo por el mismísimo fuego negro del infierno. Este fuego no desprende calor e ignora armadura, abrasando la propia alma. Las criaturas que no tienen alma no pueden recibir daño de este tipo de llama.</p>"
         },
         {
             "id": "Give Me Fuel, Give Me Fire",
             "name": "Dame fuego",
-            "description": "<p>Wenn du nach Wahl dieses Zuges Zeit damit verbringst, dich auf deine vollbrachten Heldentaten zu besinnen, schmücke dich selbst mit einem Symbol deiner Macht (ein geflochtener Zopf mit hell klingenden Glocken, rituelle Narben oder Tätowierungen usw.). Jeder intelligente Sterbliche erkennt dich an diesem Zeichen instinktiv als jemanden, den man ernstnehmen muss, und behandelt dich dementsprechend.</p>"
+            "description": "<p>Cuando miras fijamente a los ojos de alguien de forma intensa, puedes preguntarle a su jugador «¿Cuál es el combustible de las llamas de tu deseo?». Este responderá la verdad, a pesar de que el personaje no lo sepa o prefiera mantenerlo en secreto.</p>"
         },
         {
             "id": "Hand Crafted",
             "name": "Hecho a mano",
-            "description": "<p>Wenn du einer deiner Begierden bis aufs Äußerste befriedigst – indem du etwas von großer Wichtigkeit zerstörst, enormen Reichtum, Ruhm oder Macht erlangst oder Ähnliches –, darfst du diese Begierde hinter dir lassen. Streiche sie von deiner Liste und schreibe dir einen EP gut. Du kannst der Begierde weiterhin frönen, aber in dir brennt nicht mehr dasselbe Verlangen wie zuvor. Wähle stattdessen eine neue Begierde oder erfinde eine eigene.</p>"
+            "description": "<p>Puedes usar tus manos en lugar de herramientas y fuego para fabricar objetos de metal. Las armas mundanas, las armaduras y las joyas de metal se pueden construir con materias primas. También puedes deshacer estas cosas, pero hacerlo sin tiempo y sin cuidado podría requerir que Desafíes el peligro primero.</p>"
         },
         {
             "id": "Lore Of Flame",
             "name": "Saber de la llama",
-            "description": "<p>Wenn du eine Waffe führst, erhält sie die Eigenschaften wuchtig und brutal.</p>"
+            "description": "<p>Cuando miras fijamente una fuente de fuego en busca de respuestas, tira +SAB. Si tienes éxito, el DJ te dirá algo nuevo e interesante sobre la situación actual.</p><p>* Con 10+, el DJ te dará un buen detalle.</p>\n<p>* Con 7-9, el DJ te dará una impresión.</p>\n<p>Si ya sabes todo lo que hay que saber, el DJ te lo dirá.</p>"
         },
         {
             "id": "Moth To The Flame",
             "name": "Como polilla al fuego",
-            "description": "Wenn du einen Kraftakt vollführst, benenne einen der Anwesenden, den du damit beeindruckt hast, und erhalte einmalig +1, um mit dieser Person zu verhandeln.</p>"
+            "description": "<p>Cuando tientas a una mente débil con tu fuego interior, tira +SAB.</p>\n<p>* Con 10+, su voluntad se somete, te seguirá y hará lo que quieras, siempre y cuando nada lo asuste o lo sorprenda.</p>\n<p>* Con 7-9, el efecto solo es lo suficientemente fuerte como para distraerlo o confundirlo.</p>\n<p>Si fallas, se queda inquieto y molesto, ya que tu fuego habrá provocado sus deseos ocultos.</p>"
         },
         {
             "id": "Ogdru Jahad",
             "name": "Ogdru Jahad",
-            "description": "<p>Wenn du einer Gefahr trotzt, die durch Bewegung entstanden ist – beispielsweise ein Sturz von einer schmalen Brücke oder der Versuch, an einem bewaffneten Wächter vorbeizusprinten –, erhalte +1 auf deinen Wurf.</p>"
+            "description": "<p>Consigues el movimiento del Mago Ritual. El DJ siempre te dirá lo que tienes que sacrificar para conseguir el efecto que deseas.</p>"
         },
         {
             "id": "Sick Burn",
             "name": "Quemar la moral",
-            "description": "<p>Du kannst eine Beeinträchtigung markieren, um dich unmittelbar aus körperlicher oder geistiger Gefangenschaft zu befreien.</p>"
+            "description": "<p>Cuando insultas a un PNJ, tira +CAR.</p>\n<p>* Con 10+ ne las das tiempo a reaccionar, soporta tu insulto y el desprecio de todos los que te escuchan.</p>\n<p>* Con 7-9 te has pasado de la raya, se vengará de ti, algún día</p>\n<p>Si fallas, has ido demasiado lejos, el PNJ estalla aquí y ahora.</p>"
         },
         {
             "id": "The Enkindler",
             "name": "La chispa adecuada",
-            "description": "<p>Wenn du beim Hauen & Stechen eine 12+ würfelst, kannst du deinen Schaden zufügen und etwas Körperliches bei Deinem Ziel wählen – etwa eine Waffe, seine Position oder seine Gliedmaßen. Es verliert, was du auswählst.</p>"
+            "description": "<p>Cuando alientes el coraje de otros, tira +CAR</p>\n<p>* Con 10+ se quitan de la cabeza todo miedo y dudas, envalentonandose al instante.</p>\n<p>* Con 7-9 este efecto es volátil, se dan cuenta que es superficial y se acobardarán después de un momento</p>\n<p>Si fallas están acobardados o aterrados de tu presencia.</p>"
         },
         {
             "id": "This Killing Fire",
             "name": "Este fuego aniquilador",
-            "description": "<p>Wähle eine weitere Begierde.</p>"
+            "description": "<p>Añade las siguientes etiquetas a tus opciones de Hierro ardiente: <em>escabrosa, contundente, corto alcance, medio alcance, largo alcance</em>.</p>"
         },
         {
             "id": "Watch The World Burn",
             "name": "Mirar el mundo arder",
-            "description": "<p>Wenn du beim Gefahr trotzen eine 12+ würfelst, wendest du die Gefahr gegen sich selbst. Der SL beschreibt wie.</p>"
+            "description": "<p>Cuando abres un canal a los planos ardientes y convocas una tormenta de fuego, dile al DJ lo que sacrificas y tira +SAB. El cielo se abre y de él cae fuego como si fuera lluvia dentro de un área igual a un pueblo pequeño. Todas las cosas y personas que se encuentran dentro del área reciben el daño pertinente.</p>\n<p>* Con 10+ puedes extinguir la tormenta con un poco de esfuerzo.</p>\n<p>* Con 7-9, el fuego escapa a tu control, se propaga y prende allá donde lo lleva el viento y el clima.</p>\n<p>Si fallas, algo cruel, inteligente y hambriento surge de la tormenta.</p>"
         },
         {
             "id": "Zuko Style",
             "name": "Estilo Zuko",
-            "description": "<p>Du erhältst dauerhaft +1 auf deinen Letzten Atemzug. Wenn du deinen Letzten Atemzug tust, kannst du dem Tod bei einer 7–9 deinerseits ein Angebot machen. Wenn er es annimmt, bringt er dich ins Leben zurück. Wenn nicht, stirbst du.</p>"
+            "description": "<p>Cuando sometes una llama a tu voluntad, tira +SAB.</p>\n<p>Con 10+ cumple tus órdenes, adoptando la forma y el movimiento que deseas mientras tenga combustible que quemar.</p>\n<p>* Con un 7-9 el efecto es corto, dura solo un momento.</p>"
         }
     ]
 }

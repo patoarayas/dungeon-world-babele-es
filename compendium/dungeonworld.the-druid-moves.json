@@ -5,123 +5,123 @@
     },
     "entries": [{
             "id": "Balance",
-            "name": "Gleichgewicht",
-            "description": "<p><strong>Wenn du Schaden verursachst</strong>, nimm einen Punkt Gleichgewicht. <strong>Wenn du jemanden berührst und die Lebensgeister kanalisierst</strong>, kannst du Gleichgewicht verbrauchen. Für jeden verbrauchten Punkt heilst du 1W4 TP.</p>"
+            "name": "Equilibrio",
+            "description": "<p>Cuando haces daño, recibes 1 punto de equilibrio. Cuando tocas a alguien y canalizas los espíritus de la vida puedes gastar los puntos tocando el suelo. de equilibrio. Por cada punto de equilibrio que gastes curas 1d4 PG.</p>"
         },
         {
             "id": "Barkskin",
-            "name": "Rindenhaut",
-            "description": "<p>Solange deine Füße den Boden berühren, erhältst du +1 Rüstung.</p>"
+            "name": "Piel de corteza",
+            "description": "<p>Recibes +1 armadura mientras tus pies estén tocando el suelo</p>"
         },
         {
             "id": "Blood and Thunder",
-            "name": "Mit Blut und Donner",
-            "description": "<p><em>Ersetzt: Rot von Zahn und Klaue</em></p>\n<p><strong>Wenn du in einer gefährlichen Tiergestalt bist</strong>, erhöhe deinen Schaden auf 1W10. [[/roll 1d10]]</p>"
+            "name": "Sangre y trueno",
+            "description": "<p>Reemplaza a Dientes y garras rojas</p>\n<pCuando adoptes una forma animal apropiada (la de uno peligroso) aumenta tu daño a d10.></p>"
         },
         {
             "id": "Born of the Soil",
-            "name": "Aus der Erde geboren",
-            "description": "<p>Du hast deine Magie an einem Ort erlernt, dessen Geister alt und mächtig sind. Sie haben dich als einen der ihren gekennzeichnet. Wohin du auch gehst, die Geister leben in dir fort und gestatten dir, ihre Gestalt anzunehmen. Wähle dein Land aus der folgenden Liste. Du bist an dieses Land angepasst: Du kannst die Gestalt jedes dort heimischen Tieres annehmen.</p>\n<ul>\n<li>Die Großen Wälder</li>\n<li>Die Flüsternde Steppe</li>\n<li>Die Weite Wüste</li>\n<li>Die Stinkenden Sümpfe</li>\n<li>Das Flussdelta</li>\n<li>Die Tiefen der Erde</li>\n<li>Die Saphirblauen Inseln</li>\n<li>Die Offene See</li>\n<li>Die Gewaltigen Berge</li>\n<li>Der Gefrorene Norden</li>\n<li>Das Trostlose Ödland</li>\n</ul>\n<p>Wähle ein Mal (ein körperliches Anzeichen dafür, dass du aus der Erde geboren wurdest), das das Wesen deines Landes widerspiegelt. Das kann ein tierisches Merkmal wie ein Geweih oder Leopardenflecken sein, oder etwas Allgemeineres: Haare wie Laub oder Augen, die wie Kristalle funkeln. Dein Mal bleibt bestehen, gleich welche Gestalt du auch annimmst.</p>"
+            "name": "Nacido del barro",
+            "description": "<p>Has aprendido tu magia en un lugar en el que los espíritus son fuertes y te han marcado como uno de los suyos. No importa dónde vayas, ellos viven en ti y te permiten adoptar su forma. Elige una de las siguientes tierras. Estás sintonizado con ella y puedes adoptar la forma de cualquier animal que pueda vivir en ese lugar.</p>\n<ul>\n<li>Los Grandes Bosques.</li>\n<li>Las Praderas Susurrantes.</li>\n<li>El Gran Desierto.</li>\n<li>Las Ciénagas Apestosas.</li>\n<li>El Delta del Río.</li>\n<li>Las Profundidades de la Tierra.</li>\n<li>Las Islas Zafiro.</li>\n<li>El Mar Abierto.</li>\n<li>Las Montañas Encumbradas.</li>\n<li>El Norte Helado.</li>\n<li>Los Eriales Condenados.</li></ul>\n<p>Elige un distintivo, un atributo físico que te marque como nacido del barro y que refleje el espíritu de la tierra que has elegido. Puede ser un rasgo animal como cuernos, manchas de leopardo o algo más genérico, como hojas por cabello u ojos brillantes como el cristal. Ese distintivo permanevce contigo independientemente de la forma que adoptes.</p>"
         },
         {
             "id": "By Nature Sustained",
-            "name": "Von der Natur genährt",
-            "description": "<p>Du musst weder essen noch trinken. <strong>Wenn ein Spielzug sagt, dass du Rationen abstreichen sollst</strong>, ignoriere dies einfach.</p>"
+            "name": "Alimentado por la naturaleza",
+            "description": "<p>No necesitas comer o beber. Si un movimiento te dice que marques una ración, ignóralo.</p>"
         },
         {
             "id": "Chimera",
-            "name": "Chimäre",
-            "description": "<p><strong>Wenn du <em>gestaltwandelst</em></strong>, kannst du eine aus bis zu drei verschiedenen Gestalten zusammengesetzte Form annehmen (z. B. ein Bär mit Adlerflügeln und Widderkopf). Jedes Merkmal verleiht dir einen eigenen Spielzug, den du ausführen kannst. Die Chimärenform folgt ansonsten den Regeln des <em>Gestaltwandelns</em>.</p>"
+            "name": "Quimera",
+            "description": "<p>Cuando cambias de forma puedes crear un cuerpo híbrido a partir de tres formas distintas. Puedes ser un oso con alas de águila y cabeza de carnero, por ejemplo. Cada característica te proporcionará un movimiento diferente. Por lo demás, tu forma de quimera sigue las mismas reglas que la de Cambiaformas.</p>"
         },
         {
             "id": "Communion of Whispers",
-            "name": "Gemeinschaft des Flüsterns",
-            "description": "<p><strong>Wenn du Zeit an einem Ort verbringst, seine heimischen Geister kennenlernst und anrufst</strong>, würfle+WE. Dir wird eine Vision gewährt, die für dich, deine Verbündeten und die Geister um dich herum bedeutsam ist. </p>\n<p>* Bei einer 10+ ist die Vision klar, deutlich und hilfreich. </p>\n<p>* Bei einer 7–9 ist sie undeutlich und ihre Bedeutung unklar. </p>\n<p>* Bei einer 6- ist die Vision verstörend, beängstigend oder traumatisierend. Der SL wird sie beschreiben. Erhalte einmalig -1</p>."
+            "name": "Comunión de susurros",
+            "description": "<p>Cuando pasas tiempo en un lugar sintiendo a los espíritus que viven en él y apelando a ellos, tira +SAB. Se te proporcionará una visión relevante para ti, tus compañeros y los espíritus que os rodean.</p>\n<p>* Con un 10+, la visión será clara y útil para ti.</p>\n<p>* Entre 7 y 9, la visión es poco clara y su significado turbio.</p>\n<p>Si fallas, la visión es desagradable, aterradora o traumatizante; el DJ te la describirá y además recibes –1 a la siguiente tirada.</p>."
         },
         {
             "id": "Doppleganger's Dance",
-            "name": "Tanz des Doppelgängers",
-            "description": "<p>Du bist in der Lage, das <em>Wesen</em> bestimmter Personen zu <em>erforschen</em>, um ihre exakte Gestalt anzunehmen – auch die von Menschen, Elfen und anderen. Du kannst dabei auch dein Mal unterdrücken, allerdings erhältst du dann dauerhaft -1, bis du zu deiner wahren Gestalt zurückkehrst.</p>"
+            "name": "Danza del Doppelgänger",
+            "description": "<p>Puedes estudiar la esencia de individuos concretos para adoptar su forma exacta, incluyendo hombres, elfos y razas similares. Puedes eliminar tu rasgo distintivo, pero si lo haces recibes –1 hasta que vuelvas a tu forma natural.</p>"
         },
         {
             "id": "Elemental Mastery",
-            "name": "Elementarmeisterschaft",
-            "description": "<p>Wenn du die Urgeister von Feuer, Wasser, Erde oder Luft anrufst, dir zu dienen, würfle+WE. </p>\n<p>* Bei einer 10+ wähle zwei. </p>\n<p>* Bei 7–9 wähle eines. </p>\n<p>* Bei einer 6- hat dein Ersuchen katastrophale Folgen. </p>\n<ul>\n<li>Der von dir gewünschte Effekt tritt ein. </li>\n<li>Du vermeidest es, den Preis der Natur zu zahlen. </li>\n<li>Du behältst die Kontrolle.</li>\n</ul>"
+            "name": "Maestría elemental",
+            "description": "<p>Cuando apelas a los espíritus primarios del agua, la tierra, el fuego o el aire para llevar a cabo una tarea, tira +SAB.</p>\n<p>Con 10+ elige dos de las siguientes opciones.</p>\n<p>* Entre 7 y 9 elige una de las siguientes opciones.</p>\n<p>Si fallas, tiene lugar una catástrofe como resultado de tu petición.</p>\n<ul>\n<li>El efecto deseado tiene lugar.</li>\n<li>Evitas pagar el precio de la naturaleza.</li>\n<li>Tienes el control.</li>\n</ul>"
         },
         {
             "id": "Embracing No Form",
-            "name": "Jenseits der Form",
-            "description": "<p><strong>Wenn du deine Gestalt wandelst</strong>, würfle 1W4 und nimm das Ergebnis an Punkten hinzu.</p>"
+            "name": "Entregarse a la forma",
+            "description": "<p>Cuando realices el movimiento de Cambiaformas tira 1d4 y suma el resultado a los puntos recibidos.</p>"
         },
         {
             "id": "Eyes of the Tiger",
-            "name": "Die Augen des Tigers",
-            "description": "<p>Wenn du ein Tier markierst (mit Schlamm, Dreck oder Blut), kannst du unabhängig von der Entfernung zwischen euch durch seine Augen sehen, als wären es deine eigenen. Du kannst nur ein Tier gleichzeitig auf diese Weise markieren.</p>"
+            "name": "Ojos del tigre",
+            "description": "<p>Cuando marcas a un animal (con barro, polvo o sangre) puedes ver a través de sus ojos como si fueran los tuyos propios, sin importar la distancia que os separe. Solo puedes dejar tu marca sobre un animal al mismo tiempo.</p>"
         },
         {
             "id": "Formcrafter",
-            "name": "Wandelkunst",
-            "description": "<p>Wenn du deine Gestalt wandelst, wähle ein Attribut. Während du in dieser Gestalt bist, erhältst du dauerhaft +1 auf Würfe mit diesem Attribut. Der SL wird ebenfalls ein Attribut aussuchen, mit dem du dauerhaft -1 erhältst, solange du in dieser Gestalt bist.</p>"
+            "name": "Creaformas",
+            "description": "<p>Cuando cambias de forma, elige una característica: recibes +1 a todas las tiradas usando esa característica hasta que vuelvas a tu forma natural. El DJ elegirá también otra característica: recibes –1 a todas las tiradas con esa característica hasta que vuelvas a tu forma natural.</p>"
         },
         {
             "id": "Formshaper",
-            "name": "Wandelmeister",
-            "description": "<p><em>Voraussetzung: Wandelkunst</em></p>\n<p><strong>Wenn du deine Gestalt in eine Tierform wandelst</strong>, kannst du wählen, ob deine neue Form +1 Rüstung erhalten oder +1W4 Schaden verursachen soll [[/roll 1d4]]</p>"
+            "name": "Moldeaformas",
+            "description": "<p>Requiere Creaformas</p>\n<p>Puedes aumentar tu armadura en 1 punto o hacer +1d4 de daño adicional mientras estás en forma animal. Elige una de las opciones cuando cambies de forma.</p>"
         },
         {
             "id": "Hunter's Brother",
-            "name": "Brüder der Jagd",
-            "description": "<p>Wähle einen Spielzug von der Klassenliste des Waldläufers.</p>"
+            "name": "Hermano del cazador",
+            "description": "<p>Elige un movimiento de la clase del explorador.</p>"
         },
         {
             "id": "Red of Tooth and Claw",
-            "name": "Rot von Zahn und Klaue",
-            "description": "<p><strong>Wenn du in einer gefährlichen Tiergestalt bist</strong>, erhöhe deinen Schaden auf 1W8. [[/roll 1d10]]</p>"
+            "name": "Dientes y garras rojas",
+            "description": "<p>Cuando adoptes una forma animal apropiada (la de uno peligroso) aumenta tu daño a d8.</p>"
         },
         {
             "id": "Shapeshifter",
-            "name": "Gestaltwandler",
-            "description": "<p>Wenn du die Geister anrufst, um eine andere Gestalt anzunehmen, würfle+WE. </p>\n<p>* Bei einer 10+ nimm 3 Punkte. </p>\n<p>* Bei 7–9 nimm 2 Punkte. </p>\n<p>* Bei einer 6- nimm 1 Punkt – zusätzlich zu dem, was der SL sagt. </p>\n<p>Du kannst die körperliche Gestalt jeden Tieres annehmen, das in deinem Land zu Hause ist oder dessen Wesen du erforscht hast. Du und alles was du am Körper trägst verschmelzen zur Gestalt der gewählten Kreatur. Du erhältst alle Fähigkeiten und Schwächen, die deiner neuen Gestalt zu Eigen sind: Klauen, Flügel, Kiemen. Du verwendest weiterhin deine üblichen Attribute, einige Spielzüge sind aber schwerer auszulösen – eine Hauskatze wird schwerlich einen Oger bekämpfen können. </p>\n<p>Der SL wird dir außerdem einen oder mehrere neue Spielzüge deiner neuen Gestalt mitteilen. Verbrauche 1 Punkt, um einen solchen Zug durchzuführen. Sobald dir keine Punkte mehr verbleiben, nimmst du wieder deine normale Gestalt an. Du kannst jederzeit deine restlichen Punkte ausgeben um dich zurückzuverwandeln.</p>"
+            "name": "Cambiaformas",
+            "description": "<p>Cuando invocas a los espíritus para cambiar tu forma, tira +SAB.</p>\n<p>* Con un 10+, recibes 3 puntos.</p>\n<p>* Entre 7 y 9, recibes 2 puntos.</p>\n<p>Si fallas, recibes 1 punto, además de acatar lo que elija el DJ.</p>\n<p>Puedes adoptar la forma física de una criatura cuya esencia hayas estudiado o que viva en tu tierra: tus posesiones y tú os fundís para crear una copia perfecta de la forma física de esa criatura. Tienes todas las capacidades y debilidades de la nueva forma (garras, alas e incluso branquias para respirar bajo el agua). Sigues usando tus puntuaciones y modificadores de tus características, pero es posible que sea mucho más difícil desencadenar algunos movimientos (a un gato casero le va a costar trabajo combatir contra un ogro, por ejemplo). El DJ te dirá también uno o dos movimientos asociados con tu nueva forma. Gasta 1 punto para hacer ese movimiento. Cuando te quedes sin puntos vuelves a tu forma natural, pero también puedes decidir desprenderte de todos los puntos que te queden y volver a tu forma natural en cualquier momento.</p>\n<p>Los movimientos de los animales solo indican lo que el animal hace de manera natural, como «llamar a la manada», «pisotear» o «huir volando». Cuando gastas tus puntos, tus instintos naturales entran en juego y el movimiento tiene lugar. Si gastas puntos para huir volando, pues es eso: te vas y lo haces volando.</p>"
         },
         {
             "id": "Shed",
-            "name": "Mauser",
-            "description": "<p><strong>Wenn du in einer anderen Gestalt Schaden erleidest</strong>, kannst du zu deiner natürlichen Form zurückkehren um den Schaden zu vermeiden.</p>"
+            "name": "Mudar",
+            "description": "<p>Cuando recibes daño mientras estás en un cambio de forma puedes elegir volver a tu forma natural para no recibir ese daño.</p>"
         },
         {
             "id": "Spirit Tongue",
-            "name": "Geistersprache",
-            "description": "<p>Das Grunzen, Bellen, Zwitschern und Rufen der Kreaturen der Wildnis ist wie eine Sprache für dich. Du kannst jedes Tier verstehen, das in deinem Land heimisch ist oder das von einer Art ist, deren Wesen du erforscht hast.</p>"
+            "name": "Lengua de los espíritus",
+            "description": "<p>Los gruñidos, ladridos, trinos y llamadas de las criaturas salvajes son lenguajes para ti. Puedes entender a cualquier animal autóctono de tu tierra (ver el movimiento Nacido del barro) o parecido a aquellos cuya esencia hayas estudiado.</p>"
         },
         {
             "id": "Stalker's Sister",
-            "name": "Schwestern der Pirsch",
-            "description": "<p>Wähle einen Spielzug von der Klassenliste des Waldläufers.</p>"
+            "name": "Hermana del acechador",
+            "description": "<p>Elige un movimiento de la clase del explorador.</p>"
         },
         {
             "id": "Studied Essence",
-            "name": "Wesen erforschen",
-            "description": "<p><strong>Wenn du Zeit damit verbringst, dich in den Geist eines Tieres zu versetzen</strong>, füge seine Art zur Liste derer hinzu, deren Gestalt du annehmen kannst.</p>"
+            "name": "Esencia estudiada",
+            "description": "<p>Cuando pases un tiempo en contemplación de un espíritu animal puedes añadir a dicha especie a aquellas en las que puedes cambiar tu forma.</p>"
         },
         {
             "id": "The Druid Sleep",
-            "name": "Druidenschlaf",
-            "description": "<p><strong>Wenn du diesen Zug wählst</strong>, kannst du dich an ein neues Land anpassen, sobald du das nächste Mal an einem entsprechenden Ort in Sicherheit verweilst. Diese Wirkung tritt nur einmal ein und der SL wird dir mitteilen, wie lange die Anpassung mit dem neuen Land dauert und welchen Preis du dafür zahlen musst. Von nun an giltst du als aus der Erde beider Länder geboren.</p>"
+            "name": "El sueño del druida",
+            "description": "<p>Una vez que tengas este movimiento, la próxima vez que te encuentres en un entorno seguro y tengas el tiempo suficiente podrás sintonizarte con una nueva tierra. Este efecto tiene lugar una sola vez y el DJ te dirá cuánto tiempo va a llevarte y qué precio tienes que pagar. A partir de ese momento se te considerará nacido del barro en ambos territorios.</p>"
         },
         {
             "id": "Thing-talker",
-            "name": "Dingflüsterer",
-            "description": "<p>Du siehst die Geister in Sand, See und Stein. Du kannst <em>Geistersprache</em>, <em>Gestaltwandler</em> und <em>Wesen erforschen</em> nicht nur auf Tiere, sondern auch auf unbelebte, natürliche Dinge anwenden: Pflanzen und Steine sowie Kreaturen, die aus diesen gemacht sind. Gestalten eines Dingflüsterers können exakte Kopien oder bewegliche, grob humanoid geformte Wesen sein.</p>"
+            "name": "El que habla con las cosas",
+            "description": "<p>Puedes ver a los espíritus de las arenas, del agua y de la piedra. Además de a los animales, puedes aplicar los movimientos de Lengua de los espíritus, Cambiaformas y Esencia estudiada a los objetos naturales inanimados (plantas y rocas) o a criaturas hechas a partir de ellas. Las formas adoptadas pueden ser copias idénticas de los originales o tener cierta movilidad, siendo vagamente humanoides.</p>"
         },
         {
             "id": "Weather Weaver",
-            "name": "Wetterweber",
-            "description": "<p><strong>Wenn du dich bei Sonnenaufgang unter freiem Himmel befindest</strong>, wird der SL dich fragen, wie das Wetter an diesem Tag werden wird. Was auch immer du beschreibst wird eintreten.</p>"
+            "name": "Tejedor del clima",
+            "description": "<p>Cuando estás bajo el cielo abierto a la salida del sol, el DJ te preguntará qué tiempo va a hacer ese día. Dile qué tiempo quieres que haga y acabará pasando.</p>"
         },
         {
             "id": "World-talker",
-            "name": "Weltflüsterer",
-            "description": "<p><em>Voraussetzung: Dingflüsterer</em></p>\n<p>Du siehst die Muster im Gefüge der Welt. Du kannst <em>Geistersprache</em>, <em>Gestaltwandler</em> und <em>Wesen erforschen</em> auch auf die reinen Elemente anwenden – Feuer, Wasser, Erde und Luft.</p>"
+            "name": "La que habla con el mundo",
+            "description": "<p>Requiere El que habla con las cosas</p>\n<p>Puedes ver los patrones que conforman el tejido del mundo. Ahora puedes aplicar los movimientos de Lengua de los espíritus, Cambiaformas y Esencia estudiada a los elementos en estado puro: tierra, fuego, agua y aire.</p>"
         }
     ]
 }

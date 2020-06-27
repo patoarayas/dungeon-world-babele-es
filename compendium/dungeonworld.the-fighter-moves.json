@@ -5,113 +5,113 @@
     },
     "entries": [{
             "id": "Armor Mastery",
-            "name": "Rüstungsmeisterschaft",
-            "description": "<p><strong>Wenn du deine Rüstung die Wucht eines Angriffes abfangen lässt</strong>, richtet der Angriff bei dir keinen Schaden an. Allerdings reduzierst du den Wert deiner Rüstung oder deines Schildes (deine Wahl) um 1. Der Wert wird jedes Mal reduziert, wenn du diese Wahl triffst. Wenn der Rüstungswert dadurch auf 0 sinkt, ist der Gegenstand zerstört.</p>"
+            "name": "Maestría con la armadura",
+            "description": "<p>Cuando elijas que tu armadura se lleve la peor parte del daño que te corresponde, el daño se anula, pero debes reducir el valor de la armadura o escudo (a tu elección) en 1. El valor se reduce cada vez que decides hacerlo. El objeto es destruido si la reducción lo deja con armadura 0.</p>"
         },
         {
             "id": "Armored",
-            "name": "Gerüstet",
-            "description": "<p>Du ignorierst bei von dir getragenen Rüstungen die Eigenschaft schwerfällig.</p>"
+            "name": "Blindado",
+            "description": "<p>Ignoras la etiqueta incómoda de cualquier armadura que lleves.</p>"
         },
         {
             "id": "Armored Perfection",
-            "name": "Rüstungsperfektion",
-            "description": "<p><em>Ersetzt: Rüstungsmeisterschaft</em></p>\n<p><strong>Wenn du deine Rüstung die Wucht eines Angriffes abfangen lässt</strong>, richtet der Angriff bei dir keinen Schaden an und du erhältst einmalig +1 gegen den Angreifer. Allerdings reduzierst du den Wert deiner Rüstung oder deines Schildes (deine Wahl) um 1. Der Wert wird jedes Mal reduziert, wenn du diese Wahl triffst. Wenn der Rüstungswert dadurch auf 0 sinkt, ist der Gegenstand zerstört.</p>"
+            "name": "Armadura perfecta",
+            "description": "<p>Reemplaza a Maestría con la armadura</p>\n<p>Cuando elijas que tu armadura se lleve la peor parte del daño que te corresponde, el daño se cancela y recibes +1 a la siguiente tirada contra el atacante, pero debes reducir el valor de la armadura o escudo (a tu elección) en 1. El valor se reduce cada vez que decides hacerlo. El objeto es destruido si la reducción lo deja con armadura 0.</p>"
         },
         {
             "id": "Bend Bars, Lift Gates",
-            "name": "Stangen verbiegen, Gatter anheben",
-            "description": "<p><strong>Wenn du rohe Kraft benutzt, um eine Sache zu zerstören</strong>, würfle+ST. </p>\n<p>* Bei einer 10+ wähle drei. </p>\n<p>* Bei 7–9 wähle zwei.</p>\n<ul>\n<li>Es dauert nicht sehr lange.</li>\n<li>Nichts von Wert wird beschädigt.</li>\n<li>Es macht nicht übermäßig viel Lärm.</li>\n<li>Du kannst es ohne großen Aufwand wieder reparieren.</li>\n</ul>"
+            "name": "Doblar barras, alzar puertas",
+            "description": "<p>Cuando usas la fuerza bruta para destruir un obstáculo inanimado, tira +FUE.</p>\n<p>* Con un 10+, elige 3 de las siguientes opciones.</p>\n<p>* Entre 7 y 9, elige 2.</p>\n<ul>\n<li>No te lleva mucho tiempo.</li>\n<li>No hace una cantidad desorbitada de ruido.</li>\n<li>No resulta dañado nada de valor.</li>\n<li>Puedes volver a repararlo sin mucho esfuerzo.</li>\n</ul>"
         },
         {
             "id": "Blacksmith",
-            "name": "Schmied",
-            "description": "<p><strong>Wenn dir eine Schmiede zur Verfügung steht</strong>, kannst du die magischen Kräfte einer Waffe auf deine <em>Einzigartige Waffe</em> übertragen. Die andere Waffe wird dabei zerstört und deine <em>Einzigartige Waffe</em> erhält alle ihre magischen Fähigkeiten.</p>"
+            "name": "Herrero",
+            "description": "<p>Cuando tienes acceso a una forja puedes injertar los poderes mágicos de un arma en tu arma distintiva. Este proceso destruye el arma mágica. Tu arma distintiva gana los poderes mágicos del arma destruida.</p>"
         },
         {
             "id": "Bloodthirsty",
-            "name": "Blutrünstig",
-            "description": "<p><em>Ersetzt: Gnadenlos</em></p>\n<p><strong>Wenn du Schaden verursachst</strong>, verursache +1W8 Schaden [[/roll 1d8]]</p>"
+            "name": "Sediento de sangre",
+            "description": "<p>Reemplaza a Despiadado</p>\n<p>Cuando haces daño, suma +1d8.</p>"
         },
         {
             "id": "Evil Eye",
-            "name": "Böser Blick",
-            "description": "<p><em>Voraussetzung: Rotsehen</em></p>\n<p>Wenn du dich in den Kampf begibst, würfle+CH. </p>\n<p>* Bei einer 10+ nimm 2 Punkte. </p>\n<p>* Bei 7–9 nimm 1 Punkt. Gib Punkte aus, um mit einem NSC Blickkontakt aufzunehmen. Dieser wird erstarren oder zurückweichen und kann nicht handeln, bis du deinen Blick abwendest. </p>\n<p>* Bei einer 6- betrachten deine Gegner dich sofort als die größte Bedrohung.</p>"
+            "name": "Mirada amenazadora",
+            "description": "<p>Requiere Señales de peligro</p>\n<p>Cuando entras en combate, tira +CAR.</p>\n<p>* Con un 10+, recibes 2 puntos.</p>\n<p>* Entre 7 y 9, recibes 1 punto.</p>\n<p>Gasta estos puntos para establecer contacto visual con un PNJ presente, que quedará paralizado o acobardado y no podrá actuar mientras no dejes de mirarlo.</p><p>* Si fallas, tus enemigos te identifican inmediatamente como la mayor amenaza.</p>"
         },
         {
             "id": "Eye For Weaponry",
-            "name": "Ein Auge für Waffen",
-            "description": "<p><strong>Wenn du die Bewaffnung eines Gegners musterst</strong>, frage den SL, wie viel Schaden er verursacht.</p>"
+            "name": "Buen ojo para las armas",
+            "description": "<p>Cuando eches un vistazo a las armas del enemigo, puedes preguntar al DJ cuánto daño hacen.</p>"
         },
         {
             "id": "Heirloom",
-            "name": "Erbstück",
-            "description": "<p><strong>Wenn du die in deiner Einzigartigen Waffe wohnenden Geister befragst</strong>, gewähren sie dir eine Einsicht bezüglich deiner aktuellen Situation. Vielleicht stellen dir die Geister auch Gegenfragen. Würfle+CH. </p>\n<p>* Bei einer 10+ wird der SL die Einsicht detailliert erklären. </p>\n<p>* Bei 7–9 bekommst du nur einen oberflächlichen Eindruck.</p>"
+            "name": "Reliquia familiar",
+            "description": "<p>Cuando consultes a los espíritus que habitan en tu arma distintiva, te darán orientación relativa a la situación actual y, a cambio, podrán hacerte algunas preguntas. Tira +CAR.</p>\n<p>* Con un 10+, el DJ te dará muchos detalles.</p>\n<p>* Entre 7 y 9, el DJ te comunicará una sensación.</p>"
         },
         {
             "id": "Improved Weapon",
-            "name": "Verbesserte Waffe",
-            "description": "<p>Wähle eine zusätzliche Verbesserung für deine <em>Einzigartige Waffe</em>.</p>"
+            "name": "Arma mejorada",
+            "description": "<p>Elige una mejora adicional para tu arma distintiva.</p>"
         },
         {
             "id": "Interrogator",
-            "name": "Verhörspezialist",
-            "description": "<p><strong>Wenn du beim <em>Verhandeln</em> die Androhung von Gewalt als Druckmittel benutzt</strong>, darfst du +ST statt +CH würfeln.</p>"
+            "name": "Interrogador",
+            "description": "<p>Cuando parlamentes con amenazas o la violencia inminente como ventaja, puedes usar fue en lugar de CAR.</p>"
         },
         {
             "id": "Iron Hide",
-            "name": "Eisenhaut",
-            "description": "<p>Du erhältst +1 Rüstung.</p>"
+            "name": "Piel de hierro",
+            "description": "<p>Recibes +1 armadura.</p>"
         },
         {
             "id": "Merciless",
-            "name": "Gnadenlos",
-            "description": "<p><strong>Wenn du Schaden verursachst</strong>, verursache +1W4 Schaden. [[/roll 1d4]]</p>"
+            "name": "Despiadados",
+            "description": "<p>Cuando haces daño, suma +1d4.</p>"
         },
         {
             "id": "Multiclass Dabbler",
-            "name": "Tausendsassa",
-            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+            "name": "Multiclase aficionado",
+            "description": "<p>Recibes un movimiento de otra clase. Trata tu nivel como si fuera inferior en uno al actual para elegir el movimiento.</p>"
         },
         {
             "id": "Multiclass Initiate",
-            "name": "Multitalent",
-            "description": "<p>Du erhältst einen Spielzug einer anderen Klasse. Behandle deine Stufe dabei so, als sei sie um 1 niedriger.</p>"
+            "name": "Multiclase aguerrido",
+            "description": "<p>Requiere Multiclase aficionado</p><p>Recibes un movimiento de otra clase. Trata tu nivel como si fuera inferior en uno al actual para elegir el movimiento.</p>"
         },
         {
             "id": "Scent Of Blood",
-            "name": "Blut gewittert",
-            "description": "<p><strong>Wenn du einen Gegner <em>haust & stichst</em></strong>, verursacht dein nächster Angriff gegen diesen Gegner +1W4 Schaden [[/roll 1d4]]</p>"
+            "name": "Olor a sangre",
+            "description": "<p>Cuando hagas Sajar y Rajar a un enemigo con éxito, tu siguiente ataque contra el mismo objetivo hace +1d4 de daño.</p>"
         },
         {
             "id": "Seeing Red",
-            "name": "Rotsehen",
-            "description": "<p><strong>Wenn du während eines Kampfes <em>Gewissheit erlangst</em></strong>, erhältst du +1 auf deinen Wurf.</p>"
+            "name": "Señales de peligro",
+            "description": "<p>Cuando disciernes la realidad durante el combate, recibes +1.</p>"
         },
         {
             "id": "Signature Weapon",
-            "name": "Einzigartige Waffe",
-            "description": "<p>Dies ist deine Waffe. Es gibt viele wie sie, aber diese ist die Deine. Sie ist dein bester Freund. Sie ist dein Leben. Du meisterst sie, wie du auch dein Leben meistern musst. Ohne dich ist deine Waffe nutzlos. Ohne deine Waffe bist du nutzlos. Du musst deine Waffe wahrhaftig führen.</p>\n<h3>Wähle einen Grundtyp (alle haben 2 Gewicht):</h3>\n<ul>\n<li>Schwert</li>\n<li>Axt</li>\n<li>Hammer</li>\n<li>Speer</li>\n<li>Flegel</li>\n<li>Fäuste</li>\n</ul>\n<h3>Wähle die Reichweite, die am besten zu deiner Waffe passt:</h3>\n<ul>\n<li>Hand</li>\n<li>Kurz</li>\n<li>Lang</li>\n</ul>\n<h3>Wähle zwei Verbesserungen:</h3>\n<ul>\n<li>Haken und Stacheln (+1 Schaden, +1 Gewicht)</li>\n<li>Scharf (Durchdringung +2)</li>\n<li>Ausbalanciert (präzise)</li>\n<li>Gezackte Klinge (+1 Schaden)</li>\n<li>Leuchtet in Gegenwart einer Kreaturenart deiner Wahl</li>\n<li>Riesig (brutal, wuchtig)</li>\n<li>Vielseitig (wähle eine zusätzliche Reichweite)</li>\n<li>Gut gearbeitet (-1 Gewicht)</li>\n</ul>\n<h3>Wähle ihr Aussehen:</h3>\n<ul>\n<li>Altertümlich</li>\n<li>Makellos</li>\n<li>Verziert</li>\n<li>Blutverkrustet</li>\n<li>Unheimlich</li>\n</ul>"
+            "name": "Arma distintiva",
+            "description": "<p>Esta es tu arma. Hay muchas como ella, pero esta es la tuya. Tu arma es tu mejor amiga. Es tu vida. Eres tan dueño de ella como de tu vida. Sin ti, tu arma es inútil. Sin tu arma, también lo eres tú. Debes empuñarla fielmente.</p>\n<h3>Elige una descripción básica; todas tienen peso 2:</h3>\n<ul>\n<li>Espada</li>\n<li>Hacha</li>\n<li>Martillo</li>\n<li>Lanza</li>\n<li>Mayal</li>\n<li>Puños</li>\n</ul>\n<h3>Elige la distancia que mejor se ajuste a tu arma:</h3>\n<ul>\n<li>Toque</li>\n<li>Cerca</li>\n<li>Corto alcance</li>\n</ul>\n<h3>Elige dos mejoras</h3>\n<ul>\n<li>Garfios y púas. +1 daño, pero también +1 peso.</li>\n<li>Afilada. Añade penetrante 2.</li>\n<Perfectamente equilibrada. Añade precisa.</li>\n<li>Brilla en presencia de un tipo de criatura a tu elección.</li>\n<li>Filos aserrados. +1 daño.</li>\n<li>Enorme. Añade escabrosa y contundente.</li>\n<li>Versátil. Elige un alcance adicional.</li>\n<li>Bien forjada. –1 peso.</li>\n</ul>\n<h3>Elige un aspecto:</h3>\n<ul>\n<li>Antigua</li>\n<li>Inmaculada</li>\n<li>Decorada</li>\n<li>Siniestra</li>\n<li>Manchada de sangre</li>\n</ul>"
         },
         {
             "id": "Steel Hide",
-            "name": "Stahlhaut",
-            "description": "<p><em>Ersetzt: Eisenhaut</em></p>\n<p>Du erhältst +2 Rüstung.</p>"
+            "name": "Piel de acero",
+            "description": "<p>Reemplaza a Piel de hierro</p>\n<p>Recibes armadura +2.</p>"
         },
         {
             "id": "Superior Warrior",
-            "name": "Überlegener Krieger",
-            "description": "<p><strong>Wenn du beim <em>Hauen & Stechen</em> eine 12+ würfelst</strong>, verursachst du deinen Schaden, vermeidest einen Gegenangriff und beeindruckst, entsetzt oder verängstigst deinen Gegner.</p>"
+            "name": "Gerrero supremo",
+            "description": "<p>Cuando hagas Sajar y Rajar y sacas un 12+, haces daño, evitas el ataque y además impresionas, acobardas o asustas a tu enemigo.</p>"
         },
         {
             "id": "Taste Of Blood",
             "name": "Blut geleckt",
-            "description": "<p><em>Ersetzt: Blut gewittert</em></p>\n<p><strong>Wenn du einen Gegner <em>haust & stichst</em></strong>, verursacht dein nächster Angriff gegen diesen Gegner +1W8 Schaden [[/roll 1d8]]</p>"
+            "description": "<p>Reemplaza a Olor a sangre</p>\n<p>Cuando hagas Sajar y Rajar a un enemigo con éxito, tu siguiente ataque contra el mismo objetivo hace +1d8 de daño.</p>"
         },
         {
             "id": "Through Death’s Eyes",
-            "name": "Todesblick",
-            "description": "<p><strong>Wenn du dich in den Kampf begibst</strong>, würfle+WE. </p>\n<p>* Bei einer 10+ benenne jemanden, der leben wird und jemanden, der sterben wird. </p>\n<p>* Bei einer 7–9 benenne jemanden, der leben wird oder jemanden, der sterben wird. </p>\n<p>Benenne NSC, keine Spielercharaktere. Der SL wird deine Vorahnung wahrwerden lassen, solange es auch im Entferntesten möglich ist. </p>\n<p>* Bei einer 6- siehst du deinen eigenen Tod voraus und erhältst für den Rest des Kampfes dauerhaft -1.</p>"
+            "name": "A través de los Ojos de la Muerte",
+            "description": "<p>Cuando entres en combate, tira +SAB.</p>\n<p>* Con un 10+, nombra alguien que saldrá con vida y alguien que morirá.</p>\n<p>* Entre 7 y 9, nombra alguien que morirá o alguien que vivirá.</p>\n<p>Nombra PNJ, no personajes jugadores. El DJ hará que tu visión se vuelva realidad, incluso aunque sea remotamente posible.</p>\n<p>Si fallas, ves tu propia muerte y recibes –1 hasta que termine la batalla.</p>"
         }
     ]
 }
