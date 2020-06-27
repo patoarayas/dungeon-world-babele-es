@@ -5,123 +5,123 @@
     },
     "entries": [{
             "id": "Armored",
-            "name": "Gerüstet",
-            "description": "<p>Du ignorierst bei von dir getragenen Rüstungen die Eigenschaft <em>schwerfällig</em>.</p>"
+            "name": "Blindado",
+            "description": "<p>Ignoras la etiqueta de incómoda en cualquier armadura que lleves.</p>"
         },
         {
             "id": "Bloody Aegis",
-            "name": "Blutige Ägide",
-            "description": "<p><strong>Wenn du Schaden nimmst</strong>, kannst du die Zähne zusammenbeißen und den Schlag hinnehmen. Wenn du dies tust, bekommst du keinen Schaden, sondern erleidest eine Beeinträchtigung deiner Wahl. Wenn du bereits alle sechs Beeinträchtigungen hast, kannst du diesen Zug nicht auslösen.</p>"
+            "name": "Tutela divina",
+            "description": "<p>Cuando recibes daño puedes apretar los dientes y encajar el golpe. Si lo haces no sufres daño, pero sí una debilidad a tu elección. No puedes usar este movimiento si ya tienes las seis debilidades.</p>"
         },
         {
             "id": "Charge!",
-            "name": "Vorwärts!",
-            "description": "<p><strong>Wenn du einen Sturmangriff anführst</strong>, erhalten die, die dir folgen, einmalig +1.</p>"
+            "name": "¡A la carga!",
+            "description": "<p>Cuando diriges la carga en combate, aquellos a los que lideras reciben +1 a la siguiente tirada.</p>"
         },
         {
             "id": "Divine Authority",
-            "name": "Stimme der Macht",
-            "description": "<p><em>Ersetzt: Stimme der Autorität</em></p>\n<p><strong>Wenn du Gefolgsleute befehligst</strong>, erhältst du +1 auf deinen Wurf. Bei einer 12+ wächst der Gefolgsmann über sämtliche Ängste und Zweifel hinaus und führt deinen Befehl mit besonderer Effektivität oder Effizienz aus.</p>"
+            "name": "Autoridad",
+            "description": "<p>Reemplaza a Voz de la autoridad</p>\n<p>Recibes +1 al hacer el movimiento de Comandar mercenarios. Con un 12+, los mercenarios superan sus miedos y dudas y hacen lo que les ordenas con especial eficacia y eficiencia.</p>"
         },
         {
             "id": "Divine Favor",
-            "name": "Göttliche Gunst",
-            "description": "<p>Verschreibe dich einer Gottheit (benenne eine neue oder wähle eine bekannte). Du erhältst die Klerikerspielzüge <em>Zwiegespräch</em> und <em>Zauber wirken</em>. Nachdem du diesen Spielzug auswählst, wirst du beim Zaubern wie ein Kleriker der Stufe 1 behandelt. Immer wenn du eine Stufe aufsteigst, erhöhe deine effektive Klerikerstufe um 1.</p>"
+            "name": "Favor divino",
+            "description": "<p>Conságrate a una deidad (pon nombre a una nueva o elige de entre las que ya hayan sido establecidas). Obtienes los movimientos de Comunión y Lanzar conjuros del clérigo. Cuando elijas este movimiento, considérate un clé- rigo de nivel 1 para utilizar conjuros. Cada vez que ganes un nivel, aumenta tu nivel efectivo de clérigo en 1.</p>"
         },
         {
             "id": "Divine Protection",
-            "name": "Göttlicher Schutz",
-            "description": "<p><em>Ersetzt: Heiliger Schutz</em></p>\n<p><strong>Wenn du dich auf einer <em>Queste</em> befindest</strong>, erhältst du +2 Rüstung.</p>"
+            "name": "Protección divina",
+            "description": "<p>Reemplaza a Protección sagrada</p>\n<p>Recibes armadura +2 mientras estés en una Gesta.</p>"
         },
         {
             "id": "Ever Onward",
-            "name": "Immer vorwärts!",
-            "description": "<p><em>Ersetzt: Vorwärts!</em></p>\n<p><strong>Wenn du einen Sturmangriff anführst</strong>, erhalten diejenigen, die dir folgen, einmalig +1 und einmalig +2 Rüstung.</p>"
+            "name": "Siempre en la vanguardia!",
+            "description": "<p>Reemplaza a ¡A la carga!</p>\n<p>Cuando diriges la carga en combate, aquellos a los que lideras reciben +1 a la siguiente tirada y su armadura tendrá +2 en la siguiente tirada.</p>"
         },
         {
             "id": "Evidence Of Faith",
-            "name": "Glaubensbeweis",
-            "description": "<p><em>Voraussetzung: Göttliche Gunst</em></p>\n<p><strong>Wenn du das Wirken göttlicher Magie siehst</strong>, kannst du den SL fragen, welche Gottheit den Zauber mitsamt seiner Effekte gewährt hat. Wenn du auf Grundlage der Antwort handelst, erhältst du einmalig +1.</p>"
+            "name": "Prueba de fe",
+            "description": "<p>Requiere Favor divino</p>\n<p>Cuando seas testigo de algún tipo de magia divina puedes preguntar al DJ qué deidad ha concedido el conjuro y qué efectos tiene. Recibes +1 si actúas de manera acorde a la respuesta.</p>"
         },
         {
             "id": "Exterminatus",
             "name": "Exterminatus",
-            "description": "<p><strong>Wenn du laut und deutlich gelobst, einen Feind zu besiegen</strong>, verursachst du +2W4 Schaden gegen diesen Feind und -4 Schaden gegen jeden anderen. Dieser Effekt hält so lange an, bis der Gegner besiegt ist. Wenn es dir nicht gelingt, deinen Gegner zu besiegen oder du aufgibst, kannst du dein Versagen eingestehen, aber der Effekt hält an, bis du auf irgendeine Weise Abbitte geleistet hast. [[/roll 2d4]]</p>"
+            "description": "<p>Cuando haces en voz alta la promesa de derrotar a un enemigo, haces +2d4 de daño contra ese enemigo y –4 de daño contra cualquier otro.</p>\n<p>Este efecto dura hasta que derrotes al enemigo elegido. Si no consigues derrotar a tu enemigo o te rindes, puedes admitir tu fracaso, pero el efecto continuará hasta que encuentres una forma de redimirte.</p>"
         },
         {
             "id": "Holy Protection",
-            "name": "Heiliger Schutz",
-            "description": "<p><strong>Wenn du dich auf einer <em>Queste</em> befindest</strong>, erhältst du +1 Rüstung.</p>"
+            "name": "Protección sagrada",
+            "description": "<p>Recibes armadura +1 mientras estés en una Gesta.</p>"
         },
         {
             "id": "Holy Smite",
-            "name": "Heiliges Niederstrecken",
-            "description": "<p><em>Ersetzt: Niederstrecken</em></p>\n<p><strong>Während du auf einer <em>Queste</em> bist</strong>, verursachst du +1W8 Schaden. [[/roll 1d8]]</p>"
+            "name": "Aniquilación sagrada",
+            "description": "<p>Reemplaza Aniquilación</p>\n<p>Mientras estés en una Gesta haces +1d8 de daño.</p>"
         },
         {
             "id": "Hospitaller",
-            "name": "Ordensritter",
-            "description": "<p><strong>Wenn du einen Verbündeten heilst</strong>, heile +1W8 Schaden. [[/roll 1d8]]</p>"
+            "name": "Hospitalario",
+            "description": "<p>Cuando curas a un compañero, cu- ras +1d8 de daño.</p>"
         },
         {
             "id": "I Am The Law",
-            "name": "Ich bin das Gesetz",
-            "description": "<p><strong>Wenn du einem NSC aufgrund deiner gottgegebenen Autorität einen Befehl gibst</strong>, würfle+CH. </p>\n<p>* Bei einer 7+ darf der NSC eines auswählen: Tun, was du sagst. Vorsichtig zurückweichen, dann fliehen. Dich angreifen. </p>\n<p>* Bei einer 10+ bekommst du außerdem einmalig +1 gegen ihn. </p>\n<p>* Bei 6- tut er, was er will, und du erleidest einmalig -1 gegen ihn.</p>"
+            "name": "Yo soy la ley",
+            "description": "<p>Cuando le das una orden a un PNJ amparándote en tu autoridad divina, tira +CAR.</p>\n<p>* Con un 7+, el PNJ elige una:</p>\n<ul><li>Hace lo que dices.</li><li>Se aparta con cuidado y luego huye.</li><li>Te ataca.</li></ul>\n<p>Con un 10+, recibes también +1 a la siguiente tirada contra el PNJ.</p>\n<p>Si fallas, hace lo que le da la gana y recibes –1 a la siguiente tirada contra el PNJ.</p>"
         },
         {
             "id": "Impervious Defender",
-            "name": "Unerschütterlicher Verteidiger",
-            "description": "<p><em>Ersetzt: Wackerer Verteidiger</em></p>\n<p><strong>Wenn du <em>verteidigst</em></strong>, nimm immer +1 Punkte, selbst bei einer 6-. <strong>Wenn du beim <em>Verteidigen</em> eine 12 würfelst</strong>, nimm keine Punkte. Stattdessen blockierst du den dir am nächsten stehenden Angreifer so sehr, dass dir daraus ein deutlicher Vorteil entsteht. Der SL wird ihn dir beschreiben.</p>"
+            "name": "Defensor insuperable",
+            "description": "<p>Reemplaza a Defensor acérrimo</p>\n<p>Cuando hagas el movimiento de Defender recibes siempre +1 punto, incluso aunque saques un 6–. Cuando sacas 12+ en la tirada, en lugar de recibir puntos, haces que la posición de la criatura atacante más cercana te ofrezca una clara ventaja. El DJ te explicará cómo.</p>"
         },
         {
             "id": "Indomitable",
-            "name": "Unüberwindlich",
-            "description": "<p><strong>Wenn du an einer Beeinträchtigung leidest </strong>(auch durch <em>Blutige Ägide</em>), erhältst du einmalig +1 gegen ihren Verursacher.</p>"
+            "name": "Indómito",
+            "description": "<p>Cuando sufres una debilidad (aunque sea a través de Tutela divina) recibes +1 a la siguiente tirada contra aquello que la causó.</p>"
         },
         {
             "id": "Lay On Hands",
-            "name": "Handauflegen",
-            "description": "<p><strong>Wenn deine Hand die bloße Haut eines Anderen berührt und du für sein Wohlbefinden betest</strong>, würfle+CH. </p>\n<p>* Bei einer 10+ heilst du bei dieser Person 1W8 Schaden oder eine Krankheit. </p>\n<p>* Bei 7–9 heilst du die Person ebenso, aber ihr Schaden oder ihre Krankheit wird auf dich übertragen.</p>"
+            "name": "Imposición de manos",
+            "description": "<p>Cuando tocas a alguien, piel con piel, y rezas pidiendo su bienestar, tira +CAR.</p>\n<p>* Con un 10+ le curas 1d8 de daño o eliminas una enfermedad.</p>\n<p>* Entre 7 y 9 también curas, pero el daño o la enfermedad se transfieren a ti.</p>"
         },
         {
             "id": "Perfect Hospitaller",
-            "name": "Tempelritter",
-            "description": "<p><em>Ersetzt: Ordensritter</em></p>\n<p><strong>Wenn du einen Verbündeten heilst</strong>, heile +2W8 Schaden [[/roll 2d8]]</p>"
+            "name": "Hospitalario perfecto",
+            "description": "<p>Reemplaza a Hospitalario</p>\n<p>Cuando curas a un compañero, curas +2d8 de daño.</p>"
         },
         {
             "id": "Perfect Knight",
-            "name": "Vollkommener Ritter",
-            "description": "<p><strong>Wenn du dich auf eine Queste begibst</strong>, wähle drei Gaben anstatt zwei.</p>"
+            "name": "Caballero perfecto",
+            "description": "<p>Cuando estás en una Gesta recibes tres bonificadores, en vez de dos.</p>"
         },
         {
             "id": "Quest",
-            "name": "Queste",
-            "description": "<p><strong>Wenn du dich durch Gebet und rituelle Reinigung einer Aufgabe verschreibst</strong>, erkläre, was du vorhast:</p>\n<ul>\n<li>Erschlage ____________, ein großes Übel, das das Land heimsucht.</li>\n<li>Verteidige ____________ gegen die drängende Ungerechtigkeit.</li>\n<li>Entdecke die Wahrheit über ____________.</li>\n</ul>\n<p>Dann wähle bis zu zwei Gaben, die dir deine Gottheit verleiht:</p>\n<ul>\n<li>Dann wähle bis zu zwei Gaben, die dir deine Gottheit verleiht:</li>\n<li>Unverwundbarkeit gegen ____________ (z. B. Klingenwaffen, Feuer, Bezauberung, etc.)</li>\n<li>ein Zeichen göttlicher Autorität</li>\n<li>Sinne, die Lügen durchschauen.</li>\n<li>eine Stimme, die jede Sprache spricht</li>\n<li>Freiheit von Hunger, Durst, und Müdigkeit</li>\n</ul>\n<p>Der SL wird dir dann sagen, welchen Schwur oder welche Schwüre du leisten musst, um deine Gaben zu behalten:</p>\n<ul>\n<li>Ehre (verboten: feige Taktiken und Tricks)</li>\n<li>Mäßigung (verboten: Maßlosigkeit beim Essen, Trinken und in der Fleischeslust)</li>\n<li>Frömmigkeit (erfordert: strikte Einhaltung der täglichen Riten)</li>\n<li>Tapferkeit (verboten: eine böse Kreatur am Leben lassen)</li>\n<li>Wahrhaftigkeit (verboten: lügen)</li>\n<li>Gastfreundschaft (erfordert: Hilfe für jene in Not, wer auch immer sie sein mögen)</li>\n</ul>"
+            "name": "Gesta",
+            "description": "<p>Cuando te embarcas en una misión consagrándote a través de la oración y la limpieza espiritual, indica lo que pretendes hacer:</p>\n<ul>\n<li>Ajusticiar a ________, una enorme plaga para estas tierras.</li>\n<li>Defender ________ de las iniquidades que le asedian.</li>\n<li>Descubrir la verdad sobre _______.</li>\n</ul>\n<p>Luego elige dos bendiciones:</p>\n<ul>\n<li>Un inquebrantable sentido de la dirección para llegar a _________.</li>\n<li>Invulnerabilidad contra __________ (por ejemplo, armas de filo, fuego, encantamientos, etcétera).</li>\n<li>Una marca de autoridad divina.</li>\n<li>Sentidos que ven a través de las mentiras.</li>\n<li>Una voz que trasciende las lenguas.</li>\n<li>No sufrir hambre, sed ni sueño.</li>\n</ul>\n<p>El DJ te dirá qué voto o votos debes cumplir para mantener tu bendición:</p>\n<ul>\n<li>Honor (prohibición: tácticas cobardes, celadas y otros engaños).</li>\n<li>Templanza (prohibición: placeres carnales y excesos con la comida y la bebida).</li>\n<li>Piedad (requisito: cumplir los servicios sagrados diarios).</li>\n<li>Valor (prohibición: tolerar que viva una criatura malvada).</li>\n<li>Verdad (prohibición: mentir).</li>\n<li>Hospitalidad (requisito: confortar a los necesitados, sin importar quiénes sean)</li>\n</ul>"
         },
         {
             "id": "Setup Strike",
-            "name": "Zangenangriff",
-            "description": "<p><strong>Wenn du <em>haust & stichst</em></strong>, wähle einen Verbündeten. Sein nächster Angriff gegen dein Ziel verursacht +1W4 Schaden [[/roll 1d4]]</p>"
+            "name": "Ataque organizado",
+            "description": "<p>Cuando hagas el movimiento de Sajar y Rajar, elige un compañero. Su siguiente ataque contra tu objetivo hace +1d4 de daño.</p>"
         },
         {
             "id": "Smite",
-            "name": "Niederstrecken",
-            "description": "<p><strong>Während du auf einer <em>Queste</em> bist</strong>, verursachst du +1W4 Schaden [[/roll 1d4]]</p>"
+            "name": "Aniquilar",
+            "description": "<p>Mientras estes en una Gesta haces +1d4 de daño.</p>"
         },
         {
             "id": "Staunch Defender",
-            "name": "Wackerer Verteidiger",
-            "description": "<p><strong>Wenn du verteidigst</strong>, nimm immer +1 Punkte, selbst bei einer 6-.</p>"
+            "name": "Defensor acérrimo",
+            "description": "<p>Cuando hagas el movimiento de Defender recibes siempre +1 punto, incluso aunque saques un 6–.</p>"
         },
         {
             "id": "Tandem Strike",
-            "name": "Einkesseln",
-            "description": "<p><em>Ersetzt: Zangenangriff</em></p>\n<p><strong>Wenn du <em>haust & stichst</em></strong>, wähle einen Verbündeten. Sein nächster Angriff gegen dein Ziel verursacht +1W4 Schaden und er erhält einmalig +1 dagegen [[/roll 1d4]]</p>"
+            "name": "Ataque combinado",
+            "description": "<p>Reemplaza a Ataque organizado</p>\n<p>Cuando hagas el movimiento de Sajar y Rajar, elige un compañero. Su siguiente ataque contra tu objetivo hace +1d4 de daño y además recibe +1 a la siguiente tirada contra el mismo objetivo.</p>"
         },
         {
             "id": "Voice Of Authority",
-            "name": "Stimme der Autorität",
-            "description": "<p><strong>Wenn du Gefolgsleute befehligst</strong>, erhältst du +1 auf deinen Wurf.</p>"
+            "name": "Voz de la autoridad",
+            "description": "<p>Recibes +1 al hacer el movimiento de Comandar mercenarios.</p>"
         }
     ]
 }

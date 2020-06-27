@@ -5,118 +5,118 @@
   },
   "entries": [{
       "id": "Alchemist",
-      "name": "Alchemist",
-      "description": "<p><i>Ersetzt: Panscher</i></p>\n<p><strong>Immer wenn du Zeit hast, die Zutaten zu sammeln, und einen sicheren Ort zum Giftmischen hast</strong>kannst du drei Anwendungen jedes Gifts herstellen, das du schon einmal eingesetzt hast. Alternativ kannst du die Eigenschaften eines Giftes beschreiben, das du gern herstellen würdest. Der SL wird dir sagen, dass du es mit einer oder mehreren der folgenden Einschränkungen herstellen kannst: </p>\n<ul>\n<li>Es wird nur unter bestimmten Umständen funktionieren. </li>\n<li>Dir gelingt nur eine schwächere Version des Gifts. </li>\n<li>Es dauert eine Weile, bis die Wirkung eintritt. </li>\n<li>Es hat offensichtliche Nebenwirkungen.</li>\n</ul>"
+      "name": "Alquimista",
+      "description": "<p>Reemplaza a Cocinero</p>\n<p>Cada vez que tengas tiempo para reunir materiales y un lugar seguro en el que prepararlo, puedes hacer tres dosis de cualquier veneno que hayas utilizado anteriormente. También puedes describir los efectos de un veneno que deseas crear. EL DJ te dirá que puedes fabricarlo, pero con una o más de las siguientes advertencias:</p>\n<ul>\n<li>Solo funcionará bajo unas circunstancias concretas.</li>\n<li>Lo mejor que puedes conseguir es una versión más débil.</li>\n<li>Tardará un poco en hacer efecto.</li>\n<li>Tendrá efectos secundarios evidentes.</li>\n</ul>"
     },
     {
       "id": "Backstab",
-      "name": "Hinterhältiger Angriff",
-      "description": "<p><strong>Wenn du einen überraschten oder wehrlosen Gegner mit einer Nahkampfwaffe angreifst</strong>, wähle: Verursache deinen Schaden oder würfle+GE. </p>\n<p>* Bei einer 10+ wähle zwei, </p>\n<p>* bei 7–9 wähle eines:</p>\n<ul>\n<li>Er verwickelt dich nicht in den Nahkampf.</li>\n<li>Du verursachst deinen Schaden+1W6. [[/roll 1d6]]</li>\n<li>Du schaffst einen Vorteil, der von dir oder einem Verbündeten ausgenutzt werden kann, um einmalig +1 zu erhalten.</li>\n<li>Reduziere seine Rüstung um 1, bis er sie repariert</li>\n</ul>"
+      "name": "Puñalada por la espalda",
+      "description": "<p>Cuando atacas a un enemigo sorprendido o indefenso con un arma cuerpo a cuerpo puedes elegir entre hacer tu daño o tirar +DES.</p>\n<p>* Con un 10+ elige dos de las siguientes opciones.</p>\n<p>* Entre 7 y 9, elige una de las siguientes opciones.</p>\n<ul>\n<li>No te enzarzas en combate.</li>\n<li>Le haces tu daño+1d6.</li>\n<li>Creas una ventaja; +1 a la siguiente tirada para ti o un compañero que actúe contigo.</li>\n<li>Reduce su armadura en 1 hasta que la repare.</li>\n</ul>"
     },
     {
       "id": "Brewer",
-      "name": "Panscher",
-      "description": "<p><strong>Immer wenn du Zeit hast, die Zutaten zu sammeln, und einen sicheren Ort zum Giftmischen hast</strong>, kannst du drei Anwendungen jeden Gifts herstellen, dass du schon einmal eingesetzt hast.</p>"
+      "name": "Cocinero",
+      "description": "<p>Cada vez que tengas tiempo para reunir materiales y un lugar seguro en el que prepararlo, puedes hacer tres dosis de un veneno que hayas utilizado anteriormente.</p>"
     },
     {
       "id": "Cautious",
-      "name": "Vorsichtig",
-      "description": "<p><strong>Wenn du Fallenexperte einsetzt</strong>, nimm immer +1 Punkte, selbst bei einer 6-.</p>"
+      "name": "Cauto",
+      "description": "<p>Cuando usas Experto en trampas siempre consigues +1 punto, aunque saques un 6–.</p>"
     },
     {
       "id": "Cheap Shot",
-      "name": "Fieser Trick",
-      "description": "<p><strong>Wenn du eine Waffe mit der Eigenschaft <i>Hand</i> oder <i>Präzise</i> benutzt</strong>, verursacht dein Hinterhältiger Angriff +1W6 Schaden.: [[/roll 1d6 #<h3>Hinterhältiger Angriff mit Fieser Trick: Zusatzschaden</h3>]]</p>"
+      "name": "Golpe bajo",
+      "description": "<p>Cuando usas un arma con la etiqueta precisa o toque haces un daño extra de +1d6 al Apuñalar por la espalda.</p>"
     },
     {
       "id": "Connections",
-      "name": "Beziehungen",
-      "description": "<p><strong>Wenn du in der Unterwelt deiner Zunft verbreitest, dass du etwas Bestimmtes suchst oder benötigst</strong>, würfle+CH. </p>\n<p>* Bei einer 10+ hat es jemand, nur für dich. </p>\n<p>* Bei 7–9 musst du dich mit etwas nur Vergleichbaren begnügen oder die Sache hat einen Haken (deine Wahl).</p>"
+      "name": "Contactos",
+      "description": "<p>Cuando haces saber en el submundo criminal que quieres o necesitas algo, tira +CAR.</p>\n<p> * Con un 10+, alguien lo tiene y está dispuesto a ofrecértelo.</p>\n<p>* Entre 7 y 9, tienes que llegar a un acuerdo para conseguir algo similar o lo obtienes con condiciones, tú decides.</p>"
     },
     {
       "id": "Dirty Fighter",
-      "name": "Fieser Kampfstil",
-      "description": "<p><i>Ersetzt: Fieser Trick</i></p>\n<p><strong>Wenn du eine Waffe mit der Eigenschaft <i>Hand</i> oder <i>Präzise</i> benutzt</strong>, verursacht dein Hinterhältiger Angriff +1W8 Schaden und alle anderen Angriffe +1W4 Schaden.: [[/roll 1d8]] [[/roll 1d4]]</p>"
+      "name": "Juego sucio",
+      "description": "<p>Reemplaza a Golpe bajo</p>\n<p>Cuando usas un arma con la etiqueta precisa o toque haces un daño extra de +1d4, excepto con el movimiento de Apuñalar por la espalda, que hace un daño extra de +1d8.</p>"
     },
     {
       "id": "Disguise",
-      "name": "Verkleiden",
-      "description": "<p><strong>Wenn du die Zeit und das Material hast</strong>, kannst du eine Verkleidung entwerfen, die jeden glauben lässt, du seist jemand anderes von etwa gleicher Größe und Statur. Deine Handlungen mögen dich verraten, deine Erscheinung jedenfalls nicht.</p>"
+      "name": "Disfraz",
+      "description": "<p>Cuando tienes el tiempo y los materiales necesarios puedes crear un disfraz que engañaría a cualquiera, haciéndole creer que eres otra cria- tura de aproximadamente el mismo tamaño y forma. Tus acciones pueden delatarte, pero tu apariencia no.</p>"
     },
     {
       "id": "Envenom",
-      "name": "Vergiften",
-      "description": "<p>Du kannst die kompliziertesten Gifte mit einem Nadelstich verabreichen. <strong>Wenn du ein Gift auf deine Waffe aufträgst, das für dich nicht mehr <i>gefährlich</i> ist</strong>, gilt es als <i>Berührungs</i>-Gift.</p>"
+      "name": "Envenenar",
+      "description": "<p>Puedes aplicar los venenos, incluso los más complejos, con un solo pinchazo. Se considera que el veneno es de contacto, en lugar de aplicado, cuando usas un veneno que no sería peligroso al aplicarlo en tu arma.</p>"
     },
     {
       "id": "Escape Route",
-      "name": "Fluchtplan",
-      "description": "<p><strong>Wenn du in der Klemme steckst und einen Ausweg brauchst</strong>, nenne deinen Fluchtweg und würfle+GE. </p>\n<p>* Bei einer 10+ bist du weg. </p>\n<p>* Bei einer 7–9 kannst du abhauen oder bleiben, aber wenn du verschwindest, kostet es dich etwas: Lasse etwas zurück oder nimm etwas mit. Der SL wird dir sagen was.</p>"
+      "name": "Ruta de escape",
+      "description": "<p>Cuando estás metido hasta el cuello y necesitas una ruta de escape, di cuál es y tira +DES.</p>\n<p>* Con un 10+ te has ido.</p>\n<p> * Entre 7 y 9 puedes quedarte o irte, pero a costa de dejar algo atrás o llevarte algo contigo. El DJ te dirá de qué se trata.</p>"
     },
     {
       "id": "Evasion",
-      "name": "Entrinnen",
-      "description": "<p><strong>Wenn du mit einer 12+ <i>Gefahr trotzt</i></strong>, wächst du über die Gefahr hinaus. Dir gelingt nicht nur, was du vorhattest, der SL wird dir sogar ein besseres Ergebnis, besondere Gnade oder einen Moment anbieten, in dem du wirklich glänzen kannst.</p>"
+      "name": "Evasión",
+      "description": "<p>Cuando desafías el peligro y obtienes un 12+, no solo haces lo que pretendías, sino mucho más: el DJ te ofrecerá un resultado aún mejor, de auténtica belleza, un instante de gracia.</p>"
     },
     {
       "id": "Extremely Cautious",
-      "name": "Übervorsichtig",
-      "description": "<p><i>Ersetzt: Vorsichtig</i></p>\n<p><strong>Wenn du <i>Fallenexperte</i> einsetzt</strong>, nimm immer +1 Punkte, selbst bei einer 6-. Bei einer 12 nimm 3 Punkte, und wenn du das nächste Mal in die Nähe einer Falle kommst, muss dir der SL sofort erzählen, was sie tut, wie sie ausgelöst wird, wer sie wahrscheinlich gelegt hat und wie du sie zu deinem Vorteil nutzen kannst.</p>"
+      "name": "Extremadamente cauto",
+      "description": "<p>Reemplaza a Cauto</p>\n<p>Cuando usas Experto en trampas siempre consigues +1 punto, aunque saques un 6–. Con un 12+, recibes 3 puntos y la próxima vez que te acerques a una trampa el DJ te dirá inmediatamente lo que hace, cómo se activa, quién la puso y cómo puedes usarla en tu beneficio.</p>"
     },
     {
       "id": "Flexible Morals",
-      "name": "Moralisch flexibel",
-      "description": "<p><strong>Wenn jemand versucht, deine Gesinnung herauszufinden</strong>, kannst du ihm eine beliebige Gesinnung nennen.</p>"
+      "name": "Principios flexibles",
+      "description": "<p>Cuando alguien intenta detectar tu alineamiento puedes decir el que quieras.</p>"
     },
     {
       "id": "Heist",
-      "name": "Raubzug",
-      "description": "<p><strong>Wenn du dir Zeit nimmst, einen Raub zu planen</strong>, nenne deine Beute und stelle dem SL die folgenden Fragen. Wenn du auf Grundlage der Antworten handelst, erhalten du und deine Verbündeten einmalig +1. </p>\n<ul>\n<li>Wem wird auffallen, dass es fehlt? </li>\n<li>Wodurch wird es am besten geschützt? </li>\n<li>Wer wird danach suchen? </li>\n<li>Wer will es sonst noch haben?</li>\n</ul>"
+      "name": "Asalto",
+      "description": "<p>Cuando te tomas tu tiempo para planear un robo, nombra aquello que quieres robar y hazle las siguientes preguntas al DJ. Cuando actúes de acuerdo con las respuestas que te dé, tus compañeros y tú recibís +1 a la siguiente tirada.</p>\n<ul>\n<li>¿Quién se dará cuenta de que falta?</li>\n<li>¿Cuál es la defensa más poderosa?</li>\n<li>¿Quién vendrá a buscarlo?</li>\n<li>¿Quién más lo quiere?</li>\n</ul>"
     },
     {
       "id": "Poison Master",
-      "name": "Meisterhafter Giftmischer",
-      "description": "<p>Nachdem du ein Gift einmal benutzt hast, ist es für dich nicht mehr <i>gefährlich.</i></p>"
+      "name": "Maestro envenenador",
+      "description": "<p>Tras usar un veneno una vez ya no te resulta peligroso usarlo.</p>"
     },
     {
       "id": "Poisoner",
-      "name": "Giftmischer",
-      "description": "<p>Du hast den Umgang mit Giften gemeistert. Wähle ein Gift von der folgenden Liste. Die Handhabung des ausgewählten Gifts ist für dich nicht mehr <i>gefährlich</i>. Du beginnst das Spiel außerdem mit 3 Anwendungen dieses Gifts. Immer wenn du Zeit hast, die Zutaten zu sammeln, und einen sicheren Ort zum Giftmischen hast, kannst du kostenlos drei Anwendungen deines ausgewählten Gifts herstellen. Beachte, dass innerlich wirkende Gifte vorsichtig deinem Ziel eingeflößt oder in sein Essen oder Getränk gemischt werden müssen <i>(Einnahme)</i>. Kontaktgifte werden hingegen über die Haut des Opfers aufgenommen, sie können also auch auf eine Waffe aufgetragen werden <i>(Berührung)</i>.</p>\n<ul>\n<li><strong>Taggitöl</strong> <i>(Einnahme)</i>: Das Opfer fällt in einen leichten Schlaf.</li>\n<li><strong>Blutkraut</strong> <i>(Berührung)</i>: Bis das Gift geheilt wird, verursacht das Opfer -1W4 Schaden.</li>\n<li><strong>Goldwurz</strong> <i>(Einnahme)</i>: Das Opfer behandelt das nächste wahrgenommene Wesen wie einen vertrauten Freund, bis ihm das Gegenteil bewiesen wird.</li>\n<li><strong>Schlangentränen</strong> <i>(Berührung)</i>): Jeder, der dem Opfer Schaden zufügt, würfelt zweimal und nimmt das höhere Ergebnis.</li>\n</ul>"
+      "name": "Envenenador",
+      "description": "<p>Has dominado el arte de manejar y utilizar venenos. Elige un veneno de la siguiente lista, el cual ya no es peligroso para ti, y del que tienes tres dosis. Cada vez que tengas tiempo para reunir materiales y un lugar seguro en el que prepararlo puedes hacer gratuitamente tres dosis del veneno que elijas. Ten en cuenta que algunos venenos son aplicados, lo que significa que tendrás que aplicarlo sobre algo que beba o ingiera la persona que quieras envenenar. Los venenos de contacto solo necesitan tocar al objetivo, pudiendo ser usados incluso en el filo de una espada.</p>\n<ul>\n<li><strong>Aceite de Tagit</strong> (aplicado): El objetivo cae en un sueño ligero.</li>\n<li><strong>Yerbasangre</strong> (contacto): El objetivo inflige –1d4 de daño hasta que sea curado.</li>\n<li><strong>Raizdorada</strong> (aplicado): El objetivo trata a la siguiente criatura que vea como si fuera un aliado de confianza hasta que se demuestre lo contrario.</li>\n<li><strong>Lágrimas de serpiente</strong> (contacto): Cualquiera que haga daño al objetivo tira dos veces y se queda con el mejor resultado.</li>\n</ul>"
     },
     {
       "id": "Serious Underdog",
-      "name": "Gefährlicher Außenseiter",
-      "description": "<p><i>Ersetzt: Außenseiter</i></p>\n<p>Du erhältst +1 Rüstung. <strong>Wenn du in der Unterzahl bist</strong>, erhältst du stattdessen +2 Rüstung.</p>"
+      "name": "El que lleva todas las de perder",
+      "description": "<p>Reemplaza a El que lleva las de perder</p>\n<p>Recibes +1 armadura. Cuando te ves superado en número, recibes +2 armadura.</p>"
     },
     {
       "id": "Shoot First",
-      "name": "Schieße zuerst",
-      "description": "<p>Niemand kann dich überraschen. <strong>Wenn ein Gegner dir zuvorkommen würde</strong>, darfst du stattdessen zuerst handeln.</p>"
+      "name": "Diparar primero",
+      "description": "<p>Nunca te cogen por sorpresa. Cuando un enemigo pudiera anticiparse, tú actúas primero.</p>"
     },
     {
       "id": "Strong Arm, True Aim",
-      "name": "Starker Arm, sicheres Ziel",
-      "description": "<p>Du kannst jede Nahkampfwaffe werfen und mit ihr eine <i>Salve abgeben</i>. Eine geworfene Nahkampfwaffe ist fort; du kannst bei 7–9 nicht wählen, deine Munition zu reduzieren.</p>"
+      "name": "Brazo fuerte y excelente puntería",
+      "description": "<p>Puedes arrojar cualquier arma cuerpo a cuerpo usando el movimiento de Disparar. Siempre pierdes el arma arrojada y no puedes elegir reducir la munición sacando entre 7 y 9.</p>"
     },
     {
       "id": "Trap Expert",
-      "name": "Fallenexperte",
-      "description": "<p><strong>Wenn du dir einen Moment Zeit nimmst, um ein gefährliches Gebiet zu untersuchen</strong>, würfle+GE. </p>\n<p>* Bei einer 10+ nimm 3 Punkte. </p>\n<p>* Bei 7–9 nimm 1 Punkt. Gib deine Punkte aus, während du das Gebiet abschreitest, um die folgenden Fragen zu stellen:</p>\n<ul>\n<li>Ist hier eine Falle, und wenn ja, wodurch wird sie ausgelöst?</li>\n<li>Was tut sie, wenn sie ausgelöst wird?</li>\n<li>Was ist hier außerdem verborgen?</li>\n</ul>"
+      "name": "Experto en trampas",
+      "description": "<p>Cuando te paras un momento a examinar un área peligrosa, tira +DES.</p>\n<p>* Con un 10+, recibes 3 puntos.</p>\n<p>* Entre 7 y 9, recibes 1 punto.</p>\n<p>Gasta esos puntos a medida que caminas por la zona para realizar las siguientes preguntas:</p>\n<ul>\n<li>¿Hay una trampa aquí? Si es así, ¿cómo se activa?</li>\n<li>¿Qué hace la trampa cuando se activa?</li>\n<li>¿Qué más hay oculto por aquí?</li>\n</ul>"
     },
     {
       "id": "Tricks Of The Trade",
-      "name": "Handwerkszeug",
-      "description": "<p><strong>Wenn du Schlösser knackst, jemanden bestiehlst oder Fallen entschärfst</strong>, würfle+GE. </p>\n<p>* Bei einer 10+ gelingt es dir ohne Probleme. </p>\n<p>* Bei 7–9 schaffst du es, aber der SL lässt dich aus zwei dieser drei Komplikationen wählen: Verdacht, Gefahr oder Preis.</p>"
+      "name": "Trucos del oficio",
+      "description": "<p>Cuando abres cerraduras, vacías bolsillos o desarmas trampas, tira +DES.</p>\n<p>* Con un 10+, lo haces sin problema.</p>\n<p>* Entre 7 y 9 lo haces, pero el DJ te dará a elegir dos opciones entre sospecha, peligro o un coste.</p>"
     },
     {
       "id": "Underdog",
-      "name": "Außenseiter",
-      "description": "<p><strong>Wenn du in der Unterzahl bist</strong>, erhältst du +1 Rüstung.</p>"
+      "name": "El que lleva las de perder",
+      "description": "<p>Cuando te ves superado en número, recibes +1 armadura.</p>"
     },
     {
       "id": "Wealth And Taste",
-      "name": "Von feinster Lebensart",
-      "description": "<p><strong>Wenn du deinen wertvollsten Besitz offen zur Schau trägst</strong>, wähle jemanden in deiner Gegenwart. Diese Person wird alles in ihrer Macht Stehende tun, um in den Besitz dieses oder eines vergleichbaren Gegenstands zu kommen.</p>"
+      "name": "Opulencia y distinción",
+      "description": "<p>Cuando exhibes ostentosamente tu posesión más valiosa, elige a uno de los presentes. Harán todo lo que puedan para obtener ese objeto o uno como ese.</p>"
     }
   ]
 }
