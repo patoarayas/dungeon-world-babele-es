@@ -10,7 +10,7 @@ Movements and classes description are based on the Dungeon World Spanish edition
 
 Esta es la traducción al Español del sistema Dungeon World para Foundry VTT, usando el modulo Babele de Simone y basándome en el módulo de la traducción al alemán de Karsten Woschinski.
 
-El texto de los movimientos y clases esta basado en la traducción realizada por NosoloRol y que se encuentra disponible pen el material desacargable de su página.
+El texto de los movimientos y clases esta basado en la traducción realizada por NosoloRol y que se encuentra disponible en el material descargable de su página.
 
 ## Installation / Instalación
 
