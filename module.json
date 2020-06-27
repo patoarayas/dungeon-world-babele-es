@@ -1,8 +1,8 @@
 {
   "name": "dungeon-world-babele-es",
   "title": "Dungeon World Babele Spanish",
-  "description": "Template module for translations with babele (module babele is essential, both must bei installed and activated) - Traducción de Dungeon World al español",
-  "version": "0.1",
+  "description": "Traducción de Dungeon World al español mediante babele (Es necesario tener el módulo Babele instalado y activado) - Dungeon World Spanish translation using Babele (You must have Babele module installed and activated)",
+  "version": "0.2",
   "minimumCoreVersion" : "0.6.0",
   "compatibleCoreVersion":"0.6.4",
   "author": "Babele: Simone / German template: KarstenW / Spanish module: patoarayas",
