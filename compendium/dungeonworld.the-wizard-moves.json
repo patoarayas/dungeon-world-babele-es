@@ -5,7 +5,7 @@
     },
     "entries": [{
             "id": "Arcane Armor",
-            "name": "Magierrüstung",
+            "name": "Armadura arcana",
             "description": "<p>Reemplaza a Guardia arcana</p>\n<p> Mientras tengas preparado un conjuro de primer nivel o superior, recibes armadura +4.</p>"
         },
         {
@@ -120,8 +120,8 @@
         },
         {
             "id": "Spell Defense",
-            "name": "Guardia arcana",
-            "description": "<p>Mientras tengas preparado al menos un conjuro de primer nivel o superior, recibes armadura +2.</p>"
+            "name": "Defensa mágica",
+            "description": "<p>Cuando sacrificas tu magia para desviar un ataque con la energía arcana disipada, termina un conjuro que estés manteniendo y resta su nivel del daño que recibes.</p>"
         },
         {
             "id": "Spellbook",
