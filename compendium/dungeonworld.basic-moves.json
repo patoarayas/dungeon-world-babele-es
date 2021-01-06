@@ -3,7 +3,6 @@
     "mapping": {
         "description": "data.description"
     },
-
     "entries": [{
             "id": "Aid or Interfere",
             "name": "Ayudar o Interferir",
@@ -17,7 +16,7 @@
         {
             "id": "Carouse",
             "name": "Festejar",
-            "description": "<p>Cuando <strong>vuelvan triunfantes y hagan una gran fiesta,</strong>, gastan 100 monedas y tirad +1 por cada 100 monedas adicionales.</p>\n<p>* Con un 10+, elijan 3 de las siguientes opciones.</p>\n<p>* Entre 7 y 9, elijan 1 de las siguientes opciones. </p>\n<p>* Si fallas, elijan 1 de todos modos, pero la situación se les va de las manos (el DJ dirá en qué sentido).</p>\n<ul>\n<li>Entablan amistad con un PNJ útil.</li>\n<li>Escuchan rumores sobre una oportunidad.</li>\n<li>Obtienen alguna información valiosa.</li>\n<li>No se involucran en ningún asunto turbio, ni los hechizan ni engañan.</li>\n</ul>"
+            "description": "<p>Cuando <strong>vuelvan triunfantes y hagan una gran fiesta</strong>, gastan 100 monedas y tirad +1 por cada 100 monedas adicionales.</p>\n<p>* Con un 10+, elijan 3 de las siguientes opciones.</p>\n<p>* Entre 7 y 9, elijan 1 de las siguientes opciones. </p>\n<p>* Si fallas, elijan 1 de todos modos, pero la situación se les va de las manos (el DJ dirá en qué sentido).</p>\n<ul>\n<li>Entablan amistad con un PNJ útil.</li>\n<li>Escuchan rumores sobre una oportunidad.</li>\n<li>Obtienen alguna información valiosa.</li>\n<li>No se involucran en ningún asunto turbio, ni los hechizan ni engañan.</li>\n</ul>"
         },
         {
             "id": "Defend",
