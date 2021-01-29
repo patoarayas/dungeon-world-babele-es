@@ -84,8 +84,8 @@
             "description": "<p>Cuando lleves a cabo una actuación delirante (un solo de laúd perfecto o quizás un poderoso redoble de metales), elige un objetivo que pueda oírte y tira +CAR.</p>\n<p>Con un 10, el objetivo ataca a su compañero más cercano a su alcance.</p>\n<p>Entre 7 y 9 ataca a su compañero más cercano, pero también tú atraes su ira y atención.</p>"
         },
         {
-            "id": "Aullido metalero",
-            "name": "Kreischendes Metall",
+            "id": "Metal Hurlant",
+            "name": "Aullido metalero",
             "description": "<p>Cuando grites a pleno pulmón o toques una nota desgarradora, elige un objetivo y tira +CON</p>\n<p>Con un 10+, el objetivo recibe 1d10 de daño y queda ensordecido durante unos minutos.</p>\n<p>Entre 7 y 9 haces el mismo daño, pero sin control: el DJ elegirá un objetivo adicional en las inmediaciones.</p>"
         },
         {
