@@ -5,7 +5,7 @@
   "version": "0.3",
   "minimumCoreVersion" : "0.6.0",
   "compatibleCoreVersion":"0.7.9",
-  "author": "Babele: Simone / German template: KarstenW / Spanish module: patoarayas",
+  "author": "patoarayas",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
