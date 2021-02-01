@@ -1,0 +1,227 @@
+{
+	"label": "Equipamiento (Mágico)",
+	"mapping": {
+        "description": "data.description",
+        "tags": "data.tags",
+        "tagsString": "data.tagsString"
+    },
+	"entries": [
+		{
+			"id": "Argo-Thaan, Holy Avenger",
+			"name": "Argo-Thaan, Sagrada Vengadora",
+			"description":"Hay muchas espadas en este mundo, pero solo hay una Argo-Thaan. Su hoja es de oro, plata y luz, y es venerada como una reliquia sagrada por todas las órdenes y religiones que creen en el Bien. Su contacto es una bendición para muchos y su mera visión hace derramar lágrimas de gozo. En las manos de un paladín sus golpes son poderosos y certeros. Incrementa su dado de daño a d12 y da acceso a todos los movimientos de paladín. Además, Argo-Thaan puede herir a cualquier criatura del Mal, independientemente de las defensas que tenga. Ninguna criatura malvada puede tocarla sin sufrir agonía. En las manos de cualquiera que no sea un paladín es una espada común, solo que más pesada e incómoda que la mayoría, por lo que recibe la etiqueta de incómoda. Si bien no es inteligente, Argo-Thaan siempre es atraída, como si de un imán se tratase, por las causas del Bien.",
+			"tags":"[{\"value\":\"Cerca\"}]",
+			"tagsStrings" : "Cerca"
+		},
+		{
+			"id": "Arrows of Acheron",
+			"name": "Flechas de Aquerón",
+			"description":"Fabricadas en la oscuridad por un flechero ciego, estas flechas pueden encontrar a su objetivo incluso en la más profunda oscuridad. Un arquero puede dispararlas a ciegas, en total oscuridad o con sus ojos cubiertos por un grueso paño, y aun así estar seguro de que el disparo será certero. Pero si en algún momento la luz del sol toca las flechas, se desharán como si estuvieran hechas de polvo y sombras.",
+			"tags":"[{\"value\":\"Munición 1\"}]",
+			"tagsStrings":"Munición 1"
+		},
+		{
+			"id": "Axe of the Conqueror-King",
+			"name": "Hacha del Rey Conquistador",
+			"description":"Fabricada de acero resplandeciente, brilla con una luz dorada, imbuida con los poderes míticos de la autoridad. Cuando portas el hacha te conviertes en un faro de inspiración para aquellos bajo tus órdenes. Cualquier mercenario contratado recibe Lealtad +1, sin importar lo bueno que sea tu liderazgo.",
+			"tags":"[{\"value\":\"Cerca\"}]",
+			"tagsStrings":"Cerca"
+		},
+		{
+			"id": "Bag of Holding",
+			"name": "Saco contenedor",
+			"description":"Un saco contenedor es más grande por dentro que por fuera, pudiendo contener una cantidad ilimitada de objetos sin que aumente su peso. Cuando intentas sacar un objeto del saco contenedor, tira+sab. * Con un 10 o más, lo consigues. * Entre 7 y 9, elige una de las siguientes opciones: • Encuentras el objeto que buscas, pero te lleva un rato. • Consigues un objeto similar (a elección del DJ), pero solo tardas unos instantes. • Un saco contenedor siempre pesa 0, no importa cuántos objetos contenga."
+		},
+		{
+			"id": "Barb of the Black Gate",
+			"name": "Púa de la Puerta Negra",
+			"description":"Un clavo o escarpia retorcida y siempre fría que, según cuentan, fue arrancada de las Puertas de la Muerte. Cuando se clava en un cuerpo sin vida, desaparece y dicho cadáver no puede volver a ser alzado; la llama de la vida (natural o no) no podrá volver a ser encendida en dicho cuerpo por una magia menor que la de la propia Muerte."
+		},
+		{
+			"id": "Captain Bligh’s Cornucopia",
+			"name": "Cornucopia del capitán Bligh",
+			"description":"Un cuerno naval de latón, rizado y decorado, grabado con los símbolos de los dioses de la abundancia. Cuando se le hace sonar, además de su sonido, derrama comida. Suficiente para que coma todo aquel capaz de escucharlo."
+		},
+		{
+			"id": "Cloak of Silent Stars",
+			"name": "Capa de las Estrellas Silentes",
+			"description":"Una capa de rico terciopelo negro por fuera e interior decorado con brillantes puntos de luz. Esta capa moldea el destino, el tiempo y la realidad a su alrededor para proteger al portador, quien puede Desafiar el peligro con la característica que quiera. Para ello, el portador invoca la magia de la capa y su jugador describe de qué forma ayuda la capa a «romper las reglas». Puede desviar una bola de fuego con car convenciéndola de que merece vivir o evitar caer aplicando la poderosa lógica de su int para demostrar que las caídas no duelen. La capa lo hace posible. Puede usarse una sola vez con cada característica antes de que su magia desaparezca."
+		},
+		{
+			"id": "Coin of Remembering",
+			"name": "Moneda del recuerdo",
+			"description":"Lo que parece a primera vista una sencilla moneda de cobre es en realidad una moneda encantada. Su portador puede canjearla en cualquier momento para recordar un hecho que ha sido olvidado y después la moneda desaparece. No tiene que ser necesariamente algo que el propio portador haya olvidado, pero no puede ser «conocido» por él. La interpretación de esta condición se deja en manos de los dioses. Si la moneda no tiene éxito, creará una imagen mental de alguien o algo que recuerda aquello que se busca."
+		},
+		{
+			"id": "Common Scroll",
+			"name": "Pergamino común",
+			"description":"Un pergamino común contiene un conjuro inscrito en él. Para poder usarlo, debe tratarse de un conjuro que pueda lanzar el portador o alguien de su misma clase. Cuando lanzas el conjuro de un pergamino, surte efecto, así de simple."
+		},
+		{
+			"id": "Devilsbane Oil",
+			"name": "Aceite de maldemonio",
+			"description": "Un aceite sagrado, creado en pequeñas cantidades por una secta secreta de monjes de las montañas cuya orden protegió a la humanidad de los poderes de los Fosos Demoníacos en épocas remotas. Solo quedan unos cuantos frascos. Cuando se aplica sobre un arma y esta se emplea para golpear a un habitante de un Plano Exterior, el aceite deshace la magia que ata a la criatura. En algunos casos, la criatura volverá a su hogar. En otros, sencillamente deshará la magia que la controla. El aceite permanece en el arma durante unas cuantas horas antes de secarse y desvanecerse. Si se aplica en los bordes de una puerta o se dibuja un círculo con él, el aceite repelerá a las criaturas cuyo hogar se encuentre en los Planos Exteriores y no podrán pasar. El aceite dura un día completo antes de absorberse o evaporarse por completo.",
+			"tags" : "[{\"value\":\"Aplicado\"}]",
+			"tagsStrings": "Aplicado"
+		},
+		{
+			"id": "Earworm Wax",
+			"name": "Cera de gusano de oido",
+			"description":"Una vela amarillenta. Parece no consumirse nunca y la luz que arroja es débil y extraña. Su cera siempre está fría. Vierte la cera en el interior del oído de alguien para obtener 3 puntos, que podrás gastar para hacerle preguntas. Se verá obligado a contarte toda la verdad, quiera o no. ¿Las consecuencias de todo ello? Eso depende de ti."
+		},
+		{
+			"id": "Farsight Stone",
+			"name": "Piedra Vistalejana",
+			"description":"Las nubes se arremolinan en el interior de este orbe y aquellos en su presencia, a veces, oyen extraños susurros. En épocas pasadas era parte de una red de piedras similares que se utilizaban para comunicarse y vigilar a través de grandes distancias. Cuando contemplas el interior de la piedra, nombra una localización y tira+sab. *Con un 10 o más, tienes una visión clara de la localización y puedes mantenerla durante tanto tiempo como puedas concentrarte en el orbe. * Entre 7 y 9, tienes la visión, pero llamas la atención de algo o alguien (un ángel, un demonio o el poseedor de otra Piedra Vistalejana) que usará la piedra para vigilarte a ti también."
+		},
+		{
+			"id": "Flask of Breath",
+			"name": "Frasco de aliento",
+			"description":"Un objeto sencillo pero útil si necesitas una bocanada de aire fresco. El frasco parece vacío, pero no puede llenarse de nada; cualquier cosa que intentes meter sencillamente se derramará. Esto se debe a que el frasco está siempre lleno de aire. Si se pone bajo el agua, burbujeará eternamente. Si se lleva a la boca, es posible respirar con normalidad. El humo tampoco será un problema con él, por poner otro ejemplo. Estoy seguro de que le encontraréis todo tipo de aplicaciones inusuales."
+		},
+		{
+			"id": "Folly Held Aloft, The Wax Wings, A Huge Mistake",
+			"name": "Alas de cera, el disparate en las alturas, un enorme error",
+			"description" : "¿Quién no ha querido alguna vez surcar el cielo azul? Estas alas mágicas fueron creadas en un intento por conceder ese deseo a las criaturas terrestres. Conocidas por muchos nombres y creadas por otros tantos magos, normalmente toman la forma de las alas de cualesquiera que sean los pájaros locales más apreciados. Se sostienen mediante un arnés o, en los casos más terribles, mediante cirugía. Cuando te lanzas al aire con estas alas mágicas, tira +DES. * Con un 10 o más, tu vuelo es controlado y puedes permanecer en vuelo durante tanto tiempo como quieras. * Entre 7 y 9, consigues volar, pero el vuelo es corto o errático e impredecible, tú eliges. * Con un 6 o menos, consigues volar, pero la parte de bajar y todo lo que suceda entre medias queda a discreción del DJ."
+		},
+		{
+			"id": "Immovable Rod",
+			"name": "Barra inamovible",
+			"description":"Una graciosa barra de metal con un botón. Pulsa el botón y la barra quedará fija. Se queda congelada en el sitio, ya sea en mitad del aire, de pie o en horizontal. No puede moverse. Tira o empuja tan fuerte como quieras, que la barra seguirá fija. Puede que sea posible destruirla, o puede que no. Pulsa de nuevo el botón y quedará libre. Llévala contigo, puede que resulte útil tener a mano un objeto tan obstinado."
+		},
+		{
+			"id": "Infinite Book",
+			"name": "Libro infínito",
+			"description":"Este libro contiene un número infinito de páginas en un espacio finito. Al no haber límite de páginas, todo lo que una vez fue, es, o será, estará contenido en alguna de ellas. Por suerte el índice es genial. Cuando Exhibas conocimientos consultando el libro recibes una opción adicional: * Con un 12 o más, el DJ te dará la solución al problema o situación en que estés."
+		},
+		{
+			"id": "Inspectacles",
+			"name": "Gafoscopios",
+			"description":"Unos cristales toscamente tallados sobre una montura de madera. Aunque están abollados y a duras penas se mantienen, de alguna manera permiten al portador ver mucho más de lo que sus simples ojos podrían. Cuando disciernas la realidad llevando puestas estas magníficas lentes podrás saltarte un poco las reglas. Con una tirada de 10 o más haz las tres preguntas que quieras, que además no tienen por qué estar en la lista que te da el movimiento. El DJ te dirá lo que quieras saber, siempre que el sentido de la vista sea el que te permita obtener las respuestas."
+		},
+		{
+			"id": "Lamented Memento",
+			"name": "Recuerdo llorado",
+			"description":"Bajo la forma de un único rizo de pelo cobrizo con una cinta negra e inmune a los estragos del tiempo, el Recuerdo Llorado posee un tortuoso encantamiento. En él están los recuerdos y emociones de una chica que se enfrentó tantas veces a la Muerte en las Puertas Negras que al final se enamoró de ella y dejó este mundo para seguirla. Su recuerdo protege al portador de este rizo, que si se encuentra ante las Puertas, puede intercambiar el Recuerdo para obtener un resultado automático de 10 o más en el movimiento de Último aliento."
+		},
+		{
+			"id": "Lodestone Shield",
+			"name": "Escudo imán",
+			"description":"¿Qué estúpido mequetrefe creó algo así? ¡Los escudos deberían repeler el metal, no atraerlo! Blasonado con un león rampante, el Escudo de Veta tiene el poder de atraer hacia sí las hojas y flechas. Cuando te defiendes contra enemigos que usan armas de metal, puedes gastar un punto por objetivo para desarmarlos. Además, algunas veces encontrarás un puñado de monedas pegado a él.",
+			"tags":"[{\"value\":\"+1 Armadura\"}]",
+			"tagsStrings":"+1 Armadura"
+		},
+		{
+			"id": "Map of the Last Patrol",
+			"name": "Mapa de la Última Patrulla",
+			"description":"Una antigua orden de valientes exploradores patrulló el mundo en cierta ocasión, protegiendo aldeas y avisando a reyes y reinas de los peligros que los rodeaban. Hace mucho que desaparecieron, pero su legado permanece. El mapa mostrará la localización de aquellas personas que lo hayan marcado con su sangre, siempre que estas permanezcan dentro de los límites del mapa."
+		},
+		{
+			"id": "Ned’s Head",
+			"name": "La cabeza de Ned",
+			"description":"Una vieja calavera muy desgastada a la que le falta la mandíbula. La calavera recuerda la estupidez de su anterior propietario, un hombre con más honor que cerebro. Una vez cada noche, el propietario de la calavera puede preguntar «¿Quién busca mi desgracia?» y la calavera, con voz triste y solitaria, le proporcionará un nombre. Si el propietario de la calavera llega a morir, esta desaparece subrepticiamente. Nadie sabe dónde volverá a aparecer."
+		},
+		{
+			"id": "Nightsider’s Key",
+			"name": "Llave de la noche",
+			"description":"Esta llave te abre cualquier puerta siempre y cuando no sea la de un lugar que te pertenece. Mientras no hagas nada que pudiera alertar a otros de tu presencia (no ser oído, visto ni percibido) y no te lleves de vuelta contigo nada más que tus recuerdos, la magia de la llave evitará que tu intrusión sea detectada. Es como si nunca hubieras estado allí."
+		},
+		{
+			"id": "Sacred Herbs",
+			"name": "Hierbas sagradas",
+			"description":"Las hierbas sagradas, recogidas y preparadas por una orden desaparecida de monjes magos, pueden encontrarse en manojos de dos o tres usos. Si se mantienen secas, duran eternamente. Cuando se fuman en una pipa o se consumen en un incensario inhalando su denso humo azul, estas hierbas te proporcionan visiones de lugares lejanos y tiempos pretéritos. Si centras tu atención en una persona, lugar o cosa concreta, las hierbas responderán: tira +SAB. * Con un 10 o más, la visión es clara y útil, aportando información correcta. * Entre 7 y 9, la visión trata sobre lo que buscas, pero no es clara, está plagada de metáforas o es difícil de entender en algún sentido. *Si fallas, el DJ te preguntará «¿Qué es lo que más temes?». Debes responder sinceramente, por supuesto."
+		},
+		{
+			"id": "Tears of Annalise",
+			"name": "Lagrimas de Annalise",
+			"description":"Las Lágrimas de Annalise son unas piedras preciosas rojas y enturbiadas del tamaño de una uña que siempre se encuentran por parejas. Cuando son tragadas por dos personas distintas, ambas quedan vinculadas. Si una siente una emoción intensa (tristeza, pérdida, miedo o deseo), la otra también lo sentirá. El efecto dura hasta que una de las personas derrame la sangre de la otra."
+		},
+		{
+			"id": "Teleportation Room",
+			"name": "Habitación de teletransportación",
+			"description":"Jaime Nuevededos, genial y excéntrico mago, creó este dispositivo mágico del tamaño de una habitación. Una cámara de piedra grabada con runas e inscripciones que brillan con una ligera luz azul. Cuando entras y nombras en vozaltaunalocalización,tira +INT. *Conun10omás,llegasexactamentea dondequerías. * Entre 7 y 9, el DJ elige una localización segura en las inmediaciones del lugar donde querías ir. * Si fallas, acabas en algún otro lugar. ¿Estará cerca? De lo que no hay duda es que no será seguro. A aquellos que retuercen el espacio y el tiempo con este tipo de aparatos les pasan cosas raras.",
+			"tags":"[{\"value\":\"Lento\"}]",
+			"tagsStrings":"Lento"
+		},
+		{
+			"id": "The Burning Wheel",
+			"name": "La Rueda Ardiente",
+			"description":"Una antigua rueda de madera, similar a la de una carreta, rematada con acero. A primera vista no parece especial en absoluto, parece bastante común y varios de sus radios están rotos, pero su verdadera naturaleza se revela bajo la mirada de ojos expertos o mágicos: la Rueda Ardiente es un regalo del Dios del Fuego y arde con su mismísima autoridad. Cuando sostienes la Rueda Ardiente y pronuncias el nombre de un dios, tira+con. * Con un 7 o más, el dios que nombres te escucha, concediéndote una audiencia. Sin embargo, una audiencia con un dios no es algo gratuito: * Con un 10 o más, elige una de tus características y redúcela hasta que tenga el siguiente modificador más bajo (por ejemplo, un 14 es un +1, así que se reduciría hasta 12, que es un +0); * Entre 7 y 9, el DJ elige qué característica se reduce. Una vez se usa la Rueda Ardiente, esta prende y se consume con una luz brillante. No proporciona protección contra dichas llamas ni proporciona modificadores para nadar con ella."
+		},
+		{
+			"id": "The Carcosan Spire",
+			"name": "La aguja de Carcosa",
+			"description" : "Nadie sabe de dónde procede esta lanza de coral blanco retorcido. Aquellos que la enarbolan durante demasiado tiempo ven sus mentes colmadas de extraños sueños y empiezan a escuchar los pensamientos de los Otros. Nadie es inmune. Empleada contra un objetivo «natural» (hombres, goblins, osos lechuza y similares), la Aguja funciona como una simple lanza mortal. Su verdadero propósito es dañar a aquellas criaturas cuyas extrañas naturalezas las protegen contra las armas mortales. Usada con este propósito, la Aguja puede herir a enemigos que serían invulnerables de cualquier otra manera. El portador reconocerá a estos enemigos a simple vista, pues la Aguja reconoce a los de su clase",
+			"tags" :"[{\"value\":\"Corto alcance\"},{\"value\":\"Arrojadiza\"}]",
+			"tagsStrings" : "Corto alcance, Arrojadiza"
+		},
+		{
+			"id": "The Echo",
+			"name": "El Eco",
+			"description":"Una botella aparentemente vacía. Una vez destapada, los susurros de otro plano resuenan por un instante y luego se acallan. En el silencio, el portador es informado de la llegada de un gran peligro y de cómo detenerlo. En cualquier momento posterior a usar el Eco, puedes ignorar los resultados de una única tirada de dado, tuya o de otro jugador, para tirar de nuevo. Una vez abierto, el Eco es liberado y desaparece para siempre."
+		},
+		{
+			"id": "The Epoch Lens",
+			"name": "Lente de las Eras",
+			"description":"Un archimago, demasiado viejo y débil para abandonar su torre, fabricó este intrincado y frágil dispositivo de oro y cristal para explorar las historias y reliquias que tanto amaba. Contemplar un objeto a través de la lente revela visiones sobre quién lo fabricó y de dónde vino."
+		},
+		{
+			"id": "The Fiasco Codex",
+			"name": "El Códice Fiasco",
+			"description":"Un grueso tomo del que cuentan que fue escrito por algún príncipe de los demonios, con un oscuro sentido de humor, usando la sangre de los locos y los ladrones. Este libro narra cuentos e historias de aquellos cuya ambición fue mayor que su razón. Leer este tomo te enseña el valor de la lucidez, pero te deja un sentimiento de pesadumbre. Cuando leas el Códice Fiasco, tira +SAB. * Con un 10 o más, haz dos preguntas de la siguiente lista. * Entre 7 y 9, haz una. • ¿Cuál es mi mejor oportunidad en este momento? • ¿A quién puedo traicionar para sacar ventaja? • ¿Quién es un aliado en quien no debería confiar? El Códice proporciona las respuestas solo una vez a cada lector y precisa entre 2 y 3 horas de lectura."
+		},
+		{
+			"id": "The Ku’meh Maneuver",
+			"name": "La maniobra Ku'meh",
+			"description":"Un gran tomo encuadernado en cuero desgastado por las manos de cientos de grandes generales. Este libro es legado de un guerrero a otro, de padre a hijo, dentro de las castas guerreras que han dividido el pasado de Dungeon World. Cuandoalguienloleeporprimeravez,tira+intalterminarlo. *Conun10 omás,recibe3puntos. *Entre7y9,recibe1punto.Puedesgastarunpunto para aconsejar a un compañero sobre alguna cuestión en la que la estrategia o la táctica sea relevante. Este consejo te permite, en cualquier momento e independientemente de la distancia, tirar para ayudar a otros en una tirada. Si fallas, el DJ recibe un punto que puede gastar para aplicar un –2 a cualquier tirada del pobre infeliz que escuche tus"
+		},
+		{
+			"id": "The Sartar Duck",
+			"name": "El pato Sartar",
+			"description":"Un extraño pato de madera tallado a mano. ¿Quién haría algo tan raro? Mientras lo lleves, verás que eres un narrador excepcionalmente dotado; no importa de qué lengua se trate, podrás hacer que tu historia llegue claramente a cualquier audiencia. Entenderán el significado, aunque no las palabras."
+		},
+		{
+			"id": "The Sterling Hand",
+			"name": "La mano de Ley",
+			"description":"Creada por herreros enanos, esta mano de metal bruñida como un espejo tiene runas de poder y rejuvenecimiento profundamente grabadas. Diseñada para remplazar miembros heridos o mutilados en los accidentes de las minas, la Mano de Ley, con fuerza y robustez, se adhiere a la herida, ya sea vieja o reciente. Puede ser utilizada como arma (medio alcance) y está fabricada en plata lo bastante pura como para herir a aquellas criaturas vulnerables a dicho metal.",
+			"tags":"[{\"value\":\"Medio alcance\"}]",
+			"tagsStrings":"Medio alcance"
+		},
+		{
+			"id": "Timunn’s Armor",
+			"name": "Armadura de Timunn",
+			"description":"Un discreto traje de protección; cada persona lo percibe de manera diferente y se adapta para imitar la vestimenta apropiada. El portador siempre parece estar a la altura del estilo de aquel que le contempla.",
+			"tags":"[{\"value\":\"Armadura 1\"}]",
+			"tagsStrings": "Armadura 1"
+		},
+		{
+			"id": "Titus’ Truthful Tallow",
+			"name": "Grasa de la verdad de Titus",
+			"description":"Una cera de sebo teñida de color marfil y cobre con una mecha central de plata. Cuando se enciende, nadie bajo su luz es capaz de pronunciar una mentira. Cuando se le hace una pregunta directa a alguien se puede permanecer en silencio o disimular como si no se hubiera escuchado la pregunta, pero si se responde, solo se puede decir la verdad."
+		},
+		{
+			"id": "Tricksy Rope",
+			"name": "Cuerda jugetona",
+			"description":"Una cuerda que escucha. También hace trucos, como los que podría hacer una serpiente inteligente y obediente. Dile «enróllate», o «aflójate», o «ven, cuerda», y lo hará."
+		},
+		{
+			"id": "Vellius’s Gauntlets",
+			"name": "Guanteletes de Vellius",
+			"description":"Llamados así por Vellius el Torpe, Vellius el Manosflojas, Vellius el Zopenco. Estos guantes de simple tela evitan que dejes caer cualquier objeto que no quieras dejar caer. Nunca podrán desarmarte ni te podrás caerte de una cuerda o escalera, por ejemplo. Este objeto puede volverse un problema si tienes algo que tira de tus piernas mientras intentas agarrarte a algo sólido."
+		},
+		{
+			"id": "Violation Glaive",
+			"name": "Guja violadora",
+			"description":"Una hoja legendaria de la que se cuenta que fue traída desde un sombrío futuro distante, la guja de violación fue forjada con un extraño hierro verde. La hoja golpea la mente y el cuerpo de aquellos a los que hiere. Cuando realizas el movimiento de Saja-Raja y sacas un 10 o más, recibes una opción adicional: puedes hacer tu daño normal y después permites que tu enemigo haga un contraataque para después infundirle una emoción a tu elección (quizás miedo, veneración o confianza).",
+			"tags":"[{\"value\":\"Corto alcance\"}]",
+			"tagsStrings":"Corto alcance"
+		},
+		{
+			"id": "Vorpal Sword",
+			"name": "Espada Vorpal",
+			"description":"La más cortante de todas. Afilada como ninguna, esta aparentemente sencilla espada puede separarlo todo, ya sea un miembro del cuerpo o una persona de su vida. Cuando haces daño con la espada vorpal, tu enemigo debe elegir algo (un objeto, una ventaja, un miembro) y lo perderá para siempre.",
+			"tags":"[{\"value\":\"Cerca\"},{\"value\":\"Penetrante 3\"}]",
+			"tagsStrings":"Cerca, Penetrante 3"
+		}
+	]
+}
