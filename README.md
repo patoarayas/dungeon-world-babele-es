@@ -42,3 +42,11 @@ Aprieta "Install" y espera a que esta se complete.
 Please any suggestion or feedback is greatly appreciated. Also feel free to fork and use this module as you see fit. Contact me on discord at patoarayas#8224
 
 Cualquier sugerencia o comentario es bienvenido. También puedes hacer fork de este módulo para ampliarlo o modificarlo según tus necesidades. También para contribuir de vuelta :). Cualquier cosa me puedes contactar mediante discord (Usuario: patoarayas#8224)
+
+## Thanks / Agradecimientos
+
+Thanks to JuanV from the Foundry's Spanish Discord for getting the permission from the editor and to Hirunatan for find and fix various typos.
+
+Agradecimientos a JuanV del Discord de Foundry en Español por conseguir la autorización de la editora y a Hirunatan por encontrar y corregir varios errores de ortografía.
+
+
