@@ -1,0 +1,249 @@
+{
+	"label": "Monstruos - 08 Poderes Planares",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Angel",
+			"name": "Ángel",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Alas"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Y estaba escrito que los cielos se abrieron para Avra&rsquo;hal y que de las nubes emergi&oacute; un &aacute;ngel para hablar con ella, y lo hizo con la hermosa forma de su hija primog&eacute;nita, de piel de &eacute;bano y ojos dorados, y Avra&rsquo;hal llor&oacute; al ver al &aacute;ngel. &ldquo;No tengas miedo&rdquo;, le orden&oacute;. &ldquo;Ve a las aldeas que te he mostrado en tus sue&ntilde;os y ense&ntilde;a en ellas la palabra que he escrito en tu alma&rdquo;. Avra&rsquo;hal llor&oacute; y llor&oacute; y estuvo de acuerdo en hacerlo, tom&oacute; su espada y su libro y fue a las aldeas, con una gran sed de sangre en sus labios, pues la palabra que el &aacute;ngel hab&iacute;a escrito en el alma de Avra&rsquo;hal era &ldquo;Mata&rdquo;.</p>\n</blockquote>\n<p>Instinto: Hacer part&iacute;cipe de la voluntad divina.</p>\n<ul>\n<li>Proporcionar visiones y profec&iacute;as.</li>\n<li>Incitar a actuar a los mortales.</li>\n<li>Se&ntilde;alar el pecado y la injusticia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"terrorífico\"},{\"value\":\"divino\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, contundente, solitario, terrorífico, divino, inteligente, organizado"
+		},
+		{
+			"id": "Corrupter",
+			"name": "Corruptor",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Por supuesto que s&iacute;, buen se&ntilde;or, deb&eacute;is saber por qu&eacute; estoy aqu&iacute;, saber qui&eacute;n soy. Pronunciasteis las palabras. Derramasteis la sangre y seguisteis las instrucciones casi al pie de la letra. Vuestra pronunciaci&oacute;n fue un poco extra&ntilde;a, pero eso es de esperar. He venido para daros lo que siempre hab&eacute;is deseado, amigo m&iacute;o. &iquest;Amor, gloria, dinero? Cosas insignificantes cuando puedes explorar las c&aacute;maras acorazadas del infierno. No os asust&eacute;is, sab&iacute;ais de qu&eacute; iba todo esto. Y solo ten&eacute;is una cosa que nosotros podamos querer. Prometed entreg&aacute;rnosla y rendiremos el mundo a vuestros pies. Confiad en m&iacute;.</p>\n</blockquote>\n<p>Instinto: Negociar.</p>\n<ul>\n<li>Ofrecer un trato con horribles consecuencias.</li>\n<li>Explorar las c&aacute;maras acorazadas del infierno para encontrar algo con lo que regatear.</li>\n<li>Hacer una demostraci&oacute;n de poder.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"taimado\"},{\"value\":\"planar\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, solitario, taimado, planar, acaparador"
+		},
+		{
+			"id": "Word Demon",
+			"name": "Demonio de la Palabra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La magia mortal son solo palabras. Los conjuros son oraciones, plegarias, runas pronunciadas o canciones. Letras, palabras, frases compuestas en una lengua que el propio mundo pueda entender. Por medio de las palabras podemos hacer que nuestros compa&ntilde;eros lloren o se alegren, podemos pintar cuadros y susurrar deseos a los dioses. Por tanto, no es de extra&ntilde;ar que tal poder tenga un prop&oacute;sito. Que cada palabra que proferimos, si se repite y se le otorga significado o emoci&oacute;n, pueda hacer saltar la chispa de una invocaci&oacute;n no intencionada. Los demonios de la palabra son invocados por accidente, aparecen al azar y suelen tener cortas vidas, ya que surgen para asistir a una palabra concreta. Caprichosos, impredecibles y peligrosos, s&iacute;, pero puede que tambi&eacute;n &uacute;tiles, dependiendo de qu&eacute; palabra se trate.</p>\n<p>Instinto: Hacer perdurar su palabra.</p>\n<ul>\n<li>Lanzar un conjuro relacionado con su palabra.</li>\n<li>Hacer que su palabra abunde.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"solitario\"},{\"value\":\"planar\"},{\"value\":\"mágico\"}]",
+			"tagsString": "solitario, planar, mágico"
+		},
+		{
+			"id": "Imp",
+			"name": "Diablillo",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Estos diminutos demonios suelen actuar como primer contacto para brujos ne&oacute;fitos. Se les puede encontrar infestando las c&aacute;balas arcanas, bebiendo pociones cuando nadie mira y persiguiendo a mascotas y sirvientes con sus diminutos tridentes. Son una caricatura de la estirpe demon&iacute;aca, pero por suerte estas criaturas no son demasiado dif&iacute;ciles de atar o expulsar.</p>\n<p>Instinto: Atormentar.</p>\n<ul>\n<li>Enviar informaci&oacute;n al infierno.</li>\n<li>Hacer travesuras.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"horda\"},{\"value\":\"planar\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, medio alcance, largo alcance, horda, planar, inteligente, organizado"
+		},
+		{
+			"id": "Chain Devil",
+			"name": "Diablo Encadenado",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Crees que la expresi&oacute;n &laquo;mandarte al infierno&raquo; no significa nada? Desafortunadamente, en el caso del diablo encadenado es literal. Aunque su apariencia es diferente para cada v&iacute;ctima, esta criatura solo tiene un prop&oacute;sito: envolver a su v&iacute;ctima para arrastrarla hasta un lugar de tortura. A veces se aparece como una masa humanoide de hierro oxidado con ganchos y cadenas de eslabones desparejados. Otras veces parece una mara&ntilde;a de cuerda, un alga marina o unas s&aacute;banas revueltas y ensangrentadas que se agitan. El resultado es siempre el mismo.</p>\n<p>Instinto: Capturar.</p>\n<ul>\n<li>Tomar un prisionero.</li>\n<li>Volver al lugar de donde vino.</li>\n<li>Torturar con regocijo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"planar\"}]",
+			"tagsString": "cerca, corto alcance, solitario, planar"
+		},
+		{
+			"id": "Barbed Devil",
+			"name": "Diablo Punzante",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 3"
+				},
+				"specialQualities": {
+					"value": "Púas"
+				}
+			},
+			"details": {
+				"biography": "<p>Hay miles de clases de demonios, puede que m&aacute;s. Algunos son comunes y otros &uacute;nicos. Cada vez que el Inquisidor descubre una nueva lo anota en el Codex del Torturador y ese conocimiento se comparte con todas las abad&iacute;as con la esperanza de que esas atrocidades no vuelvan a encontrar una forma de entrar en el mundo. El diablo punzante, o hamatula, es conocido por nuestros hermanos y hermanas de la Inquisici&oacute;n desde hace largo tiempo. Se manifiesta solo en un lugar de gran violencia o cuando es llamado por un invocador descarriado. Cubierto de afiladas espinas, este demonio se deleita con el derramamiento de sangre, preferentemente empalando con sus cuernos a sus v&iacute;ctimas, poco a poco o de golpe, y dej&aacute;ndolas morir as&iacute;. Cruel, pero no particularmente efectivo m&aacute;s all&aacute; de la masacre. Prioridad inquisitorial baja.</p>\n<p>Instinto: Desgarrar la carne y derramar la sangre.</p>\n<ul>\n<li>Empalar a alguien.</li>\n<li>Matar indiscriminadamente.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"escabroso\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"planar\"},{\"value\":\"terrorífico\"}]",
+			"tagsString": "cerca, corto alcance, escabroso, solitario, grande, planar, terrorífico"
+		},
+		{
+			"id": "Djinn",
+			"name": "Djinn",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Hecho en llamas"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Deja de frotar esa l&aacute;mpara, idiota. No me importa lo que hayas le&iacute;do, eso no te proporcionar&aacute; deseos. Te he tra&iacute;do aqu&iacute; para ense&ntilde;arte algo real, algo verdadero. &iquest;Ves este mural? Muestra una antigua ciudad, la ciudad que existi&oacute; antes. La llamaban Majilis y fue construida en bronce por esp&iacute;ritus. Ten&iacute;an sirvientes g&oacute;lems y amantes humanos y, por aquellos d&iacute;as, se cuenta que pod&iacute;as cambiar un a&ntilde;o de tu vida por un favor. Esta noche no hemos venido aqu&iacute; a reunir tesoros sino a aprender, idiota. Los djinn siguen frecuentando estos lugares y debes entender su historia si quieres saber c&oacute;mo comportarte. Son poderosos, orgullosos y retorcidos, has de conocerlos si quieres tener una oportunidad de sobrevivir a su invocaci&oacute;n. Ahora trae la l&aacute;mpara hasta aqu&iacute;, vamos a encenderla. Est&aacute; oscureciendo y estas ruinas son peligrosas de noche.</p>\n</blockquote>\n<p>Instinto: Arder eternamente.</p>\n<ul>\n<li>Otorgar poder a cambio de un precio.</li>\n<li>Invocar a las fuerzas de la Ciudad de Bronce.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"grande\"},{\"value\":\"mágico\"}]",
+			"tagsString": "cerca, corto alcance, grupo, grande, mágico"
+		},
+		{
+			"id": "Concept Elemental",
+			"name": "Elemental",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma ideal"
+				}
+			},
+			"details": {
+				"biography": "<p>Los planos no son tan literales como nuestro mundo. Existen lugares, cubiertos de caos elemental, hechos de materias m&aacute;s extra&ntilde;as que el aire y el agua. All&iacute; los r&iacute;os de tiempo azotan orillas hechas de miedo cristalizado. Oscuras tormentas de pesadillas enturbian y agitan cielos brillantes de risas. A veces, los esp&iacute;ritus de estos lugares pueden ser seducidos para entrar en nuestro mundo, aunque son infinitamente m&aacute;s impredecibles y extra&ntilde;os que el simple agua o fuego. Tambi&eacute;n es f&aacute;cil equivocarse e intentar invocar un elemental de riqueza para acabar atrayendo a uno de asesinato.</p>\n<p>Instinto: Perfeccionar su concepto de ser.</p>\n<ul>\n<li>Mostrar su ser en su forma m&aacute;s pura.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"solitario\"},{\"value\":\"taimado\"},{\"value\":\"planar\"},{\"value\":\"amorfo\"}]",
+			"tagsString": "solitario, taimado, planar, amorfo"
+		},
+		{
+			"id": "Inevitable",
+			"name": "Inevitable",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Hecho de orden"
+				}
+			},
+			"details": {
+				"biography": "<p>Todo se acaba. La realidad sangra ante las cuchilladas de la entrop&iacute;a. El Inevitable se encuentra en los propios l&iacute;mites del tiempo. Enorme, poderoso y aparentemente creado con el material de las mismas estrellas. El Inevitable interviene solo all&iacute; donde la magia o el desastre ha deshilachado el tejido del destino. El Inevitable aparece para devolver todo a su cauce cuando los arrogantes y poderosos destilan la sustancia del sino para debilitar las leyes de la realidad. Firme, aparentemente inmune al da&ntilde;o mundano y completamente enigm&aacute;tico, se dice de &eacute;l que es todo lo que quedar&aacute; cuando el tiempo haya acabado.</p>\n<p>Instinto: Preservar el orden.</p>\n<ul>\n<li>Disipar un conjuro o un efecto.</li>\n<li>Hacer cumplir una ley natural o humana.</li>\n<li>Ofrecer un atisbo del destino.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"grande\"},{\"value\":\"mágico\"},{\"value\":\"cauto\"},{\"value\":\"amorfo\"},{\"value\":\"planar\"}]",
+			"tagsString": "cerca, corto alcance, grupo, grande, mágico, cauto, amorfo, planar"
+		},
+		{
+			"id": "Larvae",
+			"name": "Larva",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Aquellos que han tenido visiones de los Planos Inferiores y han sobrevivido manteniendo intacta la cordura hablan de aglomeraciones de estas desdichadas que se retuercen. Larvas con caras de hombres y mujeres que gritan pidiendo ser salvadas sobre un nido de llamas. A veces pueden ser atra&iacute;das hasta nuestro mundo y emergen a trav&eacute;s de un desgarro en los planos, retorci&eacute;ndose atormentadas. Una vez aqu&iacute;, extienden la miseria y la enfermedad durante su ef&iacute;mera existencia antes de quedar reducidas a un amasijo de carne sanguinolenta. Son todo un incentivo para hacer buenas obras en vida, despu&eacute;s de todo.</p>\n<p>Instinto: Sufrir.</p>\n<ul>\n<li>Llenarles de desesperaci&oacute;n.</li>\n<li>Pedir clemencia.</li>\n<li>Atraer la atenci&oacute;n del mal.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"taimado\"},{\"value\":\"planar\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, horda, taimado, planar, inteligente"
+		},
+		{
+			"id": "Nightmare",
+			"name": "Pesadilla",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Sombra y llama"
+				}
+			},
+			"details": {
+				"biography": "<p>El reba&ntilde;o surgi&oacute; de un pacto en los d&iacute;as en que los pueblos a&uacute;n habitaban en las Estepas Malditas. Eran Se&ntilde;ores de los Caballos que viajaban por aquellas tierras. Se dice que nac&iacute;an sobre las monturas. Uno de ellos, en un intento de dominar a sus compa&ntilde;eros, hizo un oscuro pacto con cierto poder ca&iacute;do y entreg&oacute; a cambio sus mejores caballos. Tuvo cierto poder, claro est&aacute;, pero &iquest;de qu&eacute; sirve una dinast&iacute;a de mil a&ntilde;os cuando la vida es tan corta? Ahora los demonios del abismo cabalgan sobre los mejores caballos recubiertos de brillante aceite y crines de fuego infernal. Estas monturas son la caballer&iacute;a del infierno.</p>\n<p>Instinto: Galopar desenfrenado.</p>\n<ul>\n<li>Envolver a su jinete en fuego infernal.</li>\n<li>Hacerlos retroceder.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"grande\"},{\"value\":\"mágico\"},{\"value\":\"terrorífico\"},{\"value\":\"planar\"}]",
+			"tagsString": "cerca, corto alcance, horda, grande, mágico, terrorífico, planar"
+		},
+		{
+			"id": "Quasit",
+			"name": "Quásit",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma adaptable"
+				}
+			},
+			"details": {
+				"biography": "<p>Un diablillo con ambiciones. Un qu&aacute;sit es una especie de soldado de infanter&iacute;a del reino demon&iacute;aco. Un plebeyo que se alza sobre sus iguales armado con dientes y garras, o alas, o cualquier otra cosa que tenga algo de filo. Vinculados normalmente a los brujos para acarrear pesadas cargas, construir puentes o proteger sus torres retorcidas, un qu&aacute;sit puede tomar muchas formas, ninguna de ellas agradable.</p>\n<p>Instinto: Servir.</p>\n<ul>\n<li>Atacar con desenfreno.</li>\n<li>Infligir dolor.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"planar\"}]",
+			"tagsString": "cerca, horda, planar"
+		},
+		{
+			"id": "Hell Hound",
+			"name": "Sabueso Infernal",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Ocultarse en la sombra"
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Acaso cuando el deudor rompe un trato deja de tener que pagar? &iquest;No env&iacute;a entonces el acreedor a alguien para que cobre lo que se debe? Lo mismo ocurre con los Poderes del Inframundo. Solo quieren lo que les pertenece. Una manada aullante de sombras, llamas y huesos aserrados guiados por un cuerno de caza. No se detienen, no pueden ser enga&ntilde;ados.</p>\n<p>Instinto: Perseguir.</p>\n<ul>\n<li>Perseguir a pesar de los obst&aacute;culos.</li>\n<li>Escupir fuego.</li>\n<li>Invocar a las fuerzas del infierno contra su objetivo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"},{\"value\":\"planar\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, grupo, planar, organizado"
+		},
+		{
+			"id": "The Tarrasque",
+			"name": "Tarasca",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Inmune"
+				}
+			},
+			"details": {
+				"biography": "<p>La Tarasca. Una fuerza de la naturaleza legendaria e imparable, devoradora de ciudades, barcos, jinetes y caballos. Una criatura desaparecida durante una &eacute;poca, de la que se cuentan todo tipo de historias, muchas de las cuales contienen algo de verdad; no puede ser matada, ninguna hoja puede atravesar su p&eacute;trea coraza y ning&uacute;n conjuro atravesar sus defensas. Pero cuentan las historias que la voluntad de un alma pura puede hacerla dormir, aunque no est&aacute; claro qu&eacute; significa eso ni, por todos los dioses, d&oacute;nde se puede encontrar. Roguemos no tener que averiguarlo nunca. Duerme. En alg&uacute;n lugar en los l&iacute;mites planares, duerme. Por ahora.</p>\n<p>Instinto: Consumir.</p>\n<ul>\n<li>Tragarse una persona, grupo o lugar.</li>\n<li>Liberar de su es&oacute;fago restos de un lugar devorado hace tiempo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"solitario\"},{\"value\":\"enorme\"},{\"value\":\"planar\"}]",
+			"tagsString": "solitario, enorme, planar"
+		}
+	]
+}
