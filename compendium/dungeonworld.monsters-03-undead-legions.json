@@ -1,0 +1,317 @@
+{
+	"label": "Monstruos - 03 Legiones No Muertos",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Abomination",
+			"name": "Abominación",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Muchos miembros, cabezas y demás"
+				}
+			},
+			"details": {
+				"biography": "<p>La mayor parte de estas masas tambaleantes de magia oscura est&aacute;n formadas por distintos cad&aacute;veres cosidos entre s&iacute;. La mayor&iacute;a de muertos vivientes son creados para ser controlados, sirviendo a un prop&oacute;sito como construir una torre o actuar como guardianes. La abominaci&oacute;n no. La &uacute;ltima parte del ritual utilizado para dotar de movilidad a sus extremidades infernales invoca un odio tan intenso que la abominaci&oacute;n solo sabe hacer una cosa: destrozar y desgarrar la vida, lo &uacute;nico que no puede tener. Muchos aprendices de las negras artes aprenden con su &uacute;ltimo aliento lo m&aacute;s importante sobre estos mastodontes: una abominaci&oacute;n no tiene amo.</p>\n<p>Instinto: Acabar con la vida.</p>\n<ul>\n<li>Despedazar carne.</li>\n<li>Expulsar v&iacute;sceras putrefactas.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"constructo\"},{\"value\":\"terrorífico\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande, constructo, terrorífico"
+		},
+		{
+			"id": "Banshee",
+			"name": "Banshee",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Insustancial"
+				}
+			},
+			"details": {
+				"biography": "<p>Te puedes considerar afortunado durante el resto de tus pac&iacute;ficos y silenciosos d&iacute;as si solo sales sordo, pero vivo, de un encuentro con uno de estos esp&iacute;ritus vengativos. A veces se les confunde a primera vista con un fantasma o un esp&iacute;ritu errante, pero el banshee despliega un ataque s&oacute;nico mucho m&aacute;s mort&iacute;fero cuando se enfurece. Y se enfada con facilidad. V&iacute;ctima de una traici&oacute;n (con frecuencia por parte de un ser querido), un banshee da a conocer su desagrado con un rugido o grito que puede pudrir la carne y destrozar los sentidos. Dicen que otorga recompensas si puedes ayudarle a obtener su buscada venganza. Otra cuesti&oacute;n es que te interese o no el afecto de un esp&iacute;ritu despechado.</p>\n<p>Instinto: Vengarse.</p>\n<ul>\n<li>Apagar todo sonido con su incesante grito.</li>\n<li>Desatar un ruido infernal.</li>\n<li>Desaparecer en la niebla.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"solitario\"},{\"value\":\"mágico\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "medio alcance, solitario, mágico, inteligente"
+		},
+		{
+			"id": "Devourer",
+			"name": "Devorador",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La mayor&iacute;a de las personas saben que los no muertos se alimentan de carne. La calidez, la sangre y el tejido vivo les permiten continuar su imp&iacute;a existencia. Esto es cierto para la mayor&iacute;a de muertos sin mente, animados por magia negra, pero no para el devorador. Cuando una persona particularmente malvada muere de una forma espantosa (con frecuencia un manipulador, un sacerdote ap&oacute;stata o algo similar), los poderes oscuros de Dungeon World pueden traerle de vuelta de entre los muertos. Sin embargo, el devorador no se alimenta de la carne de hombres o elfos. El devorador come almas. Mata con un placer que solo pueden sentir las criaturas sintientes y, en el instante en el que la v&iacute;ctima expira, extrae su aliento como si quisiera ahogarlo consumiendo su alma. &iquest;Qu&eacute; significa que tu alma sea devorada por esta criatura? Nadie se atreve a preguntar por miedo a descubrir la respuesta.</p>\n<p>Instinto: Deleitarse con las almas.</p>\n<ul>\n<li>Devorar o atrapar el alma de un moribundo.</li>\n<li>Negociar a cambio de devolver el alma.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"inteligente\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande, inteligente, acaparador"
+		},
+		{
+			"id": "Dragonbone",
+			"name": "Dragón de Hueso",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 3"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Los hechiceros m&iacute;sticos se preguntan si se trata realmente de una criatura muerta viviente o de un g&oacute;lem construido con un material particularmente extra&ntilde;o y blasfemo. Los huesos, tendones y escamas de un drag&oacute;n muerto dan forma a este sombr&iacute;o aut&oacute;mata. Alados pero incapaces de volar, con forma de drag&oacute;n pero sin el poderoso fuego de tan noble criatura. El drag&oacute;n de hueso sirve a su amo con perversa devoci&oacute;n y con frecuencia se le ordena asaltar fuertes y torres de nigromantes rivales. Hace falta ser una criatura de considerable maldad para pervertir de esta manera los restos de un drag&oacute;n.</p>\n<p>Instinto: Servir.</p>\n<ul>\n<li>Atacar incansablemente.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"escabroso\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"}]",
+			"tagsString": "corto alcance, escabroso, solitario, enorme"
+		},
+		{
+			"id": "Draugr",
+			"name": "Draugr",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Toque helado"
+				}
+			},
+			"details": {
+				"biography": "<p>En las estancias de madera de la Marca del Norte, los hombres y mujeres cuentan historias sobre un lugar al que van los hombres nobles tras su muerte, una sala en la cima de la monta&ntilde;a celestial a la que van a parar aquellos que han sido valientes. Es un lugar importante, el lugar al que uno aspira a ir tras morir. &iquest;Y qu&eacute; hay de los indignos? &iquest;Aquellos que, pese a ser guerreros, pierden la vida envenenados o en un acto de cobard&iacute;a? Bueno, estas salas doradas no est&aacute;n hechas para todos. Algunos vuelven helados, pervertidos, fortalecidos por la rabia envidiosa y libran su eterna batalla no contra los gigantes y trolls, sino contra las ciudades de los hombres que conocieron en vida.</p>\n<p>Instinto: Arrebatar a los vivos.</p>\n<ul>\n<li>Congelar la carne.</li>\n<li>Pedir ayuda a los muertos indignos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, horda, organizado"
+		},
+		{
+			"id": "Spectre",
+			"name": "Espectro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Insustancial"
+				}
+			},
+			"details": {
+				"biography": "<p>A veces la propia Muerte es incapaz de separar a algunas personas de los lugares que amaban en vida. Un sacerdote cuya devoci&oacute;n a un templo era mayor que hacia su dios; un oficial contable de un gremio que no puede soportar alejarse de su caja de caudales; un borracho y su taberna favorita. Todos ellos son excelentes candidatos para convertirse en espectros. Act&uacute;an con la misma ansia con la que lo hacen otros muertos, pero celosamente. Celos de que alguien m&aacute;s pueda amar su hogar tanto como lo hac&iacute;an ellos, y los expulse. Tales lugares les pertenecen y estos esp&iacute;ritus invisibles matar&aacute;n antes de permitir que nadie les conceda el descanso eterno.</p>\n<p>Instinto: Apartar a los vivos de un lugar.</p>\n<ul>\n<li>Conseguir que su lugar encantado se vuelva contra una criatura.</li>\n<li>Hacer que el entorno cobre vida.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, solitario, acaparador"
+		},
+		{
+			"id": "Skeleton",
+			"name": "Esqueleto",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Huesos, huesos, secos huesos.</p>\n<p>Instinto: Aparentar que est&aacute;n vivos.</p>\n<ul>\n<li>Actuar como lo hac&iacute;a en vida.</li>\n<li>Apagar el calor de la vida.</li>\n<li>Reconstruirse con huesos diversos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"}]",
+			"tagsString": "cerca, horda"
+		},
+		{
+			"id": "Ghost",
+			"name": "Fantasma",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Insustancial"
+				}
+			},
+			"details": {
+				"biography": "<p>Todas las culturas cuentan la misma historia. Vives, amas y odias, ganas y pierdes, mueres de una manera que no es de tu agrado y helo ah&iacute;: te conviertes en un ser fantasmal lleno de desilusi&oacute;n. Algunas personas, valientes y amables, asumen la carga de buscar a los muertos y ayudarles a alcanzar su merecido descanso. La mayor&iacute;a de las veces las encontrar&aacute;s ahogando en alcohol los terrores que han presenciado o balbuciendo para s&iacute; en manicomios. La Muerte cobra su precio a los vivos, sin importar c&oacute;mo des con ella.</p>\n<p>Instinto: Encantar.</p>\n<ul>\n<li>Revelar la terror&iacute;fica naturaleza de la muerte.</li>\n<li>Encantar un lugar importante.</li>\n<li>Ofrecer informaci&oacute;n del otro lado a cambio de un precio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"taimado\"},{\"value\":\"terrorífico\"}]",
+			"tagsString": "cerca, corto alcance, solitario, taimado, terrorífico"
+		},
+		{
+			"id": "Ghoul",
+			"name": "Gul",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Hambre. Hambre, hambre, hambre. Hambre desesperada atrapada en un est&oacute;mago completamente vac&iacute;o. Garras afiladas para desgarrar la carne y dientes para masticar huesos succionando la tierna m&eacute;dula de su interior. Regurgitan odio, gritan consumidos por la envidia y se abalanzan sobre sus retorcidas piernas, asustando a la carne viva, haci&eacute;ndola m&aacute;s apetecible con el aroma del miedo. Devorar. Campesinos, caballeros, magos, sabios, pr&iacute;ncipes o sacerdotes, todos son deliciosa carne.</p>\n<p>Instinto: Comer.</p>\n<ul>\n<li>Roer una parte del cuerpo.</li>\n<li>Obtener los recuerdos de su comida.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"escabroso\"},{\"value\":\"grupo\"}]",
+			"tagsString": "cerca, escabroso, grupo"
+		},
+		{
+			"id": "Lich",
+			"name": "Liche",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Al final te entregan un pergamino y un medall&oacute;n enjoyado para conmemorar tus logros. Por aquel entonces me llamaban Gran Maestro Abjurador. Un viejo. D&eacute;bil, marchito y demasiado senil para ellos, para esos imb&eacute;ciles envidiosos, meros aprendices que se llamaban a s&iacute; mismos El Nuevo Consejo. Me pone enfermo. O lo har&iacute;a, si a&uacute;n pudiera. Me dijeron que era un honor y que ser&iacute;a recordado por siempre. Fue como escuchar mi propio paneg&iacute;rico. En cierta forma era apropiado, &iquest;no crees? Necesit&eacute; otros diez a&ntilde;os para aprender los rituales y cuatro m&aacute;s para reunir los materiales. Tienes ante ti los frutos de mi trabajo. Perduro. Vivo. Ver&eacute; la muerte de esta era y el alba de la siguiente. Me duele tener que hacer esto, pero ver&aacute;s, no puedo permitir que pongas en peligro mi investigaci&oacute;n. Cuando te encuentres con la Muerte, sal&uacute;dala de mi parte, &iquest;vale?.</p>\n</blockquote>\n<p>Instinto: Ser un muerto viviente</p>\n<ul>\n<li>Lanzar un conjuro perfeccionado de muerte y destrucci&oacute;n.</li>\n<li>Poner en marcha un gran plan o ritual.</li>\n<li>Revelar un preparativo o plan ya completado.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"solitario\"},{\"value\":\"mágico\"},{\"value\":\"inteligente\"},{\"value\":\"acaparador\"},{\"value\":\"constructo\"}]",
+			"tagsString": "medio alcance, largo alcance, solitario, mágico, inteligente, acaparador, constructo"
+		},
+		{
+			"id": "Wight-wolf",
+			"name": "Lobo Espectral",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Forma de sombra"
+				}
+			},
+			"details": {
+				"biography": "<p>Al igual que la noctala, el lobo espectral es una criatura que no se engendra en nuestro mundo. Estos esp&iacute;ritus atraviesan de alguna manera los sellos de las Puertas Negras de la Muerte, toman la forma de enormes sabuesos o lobos sombr&iacute;os y cazan a los vivos por deporte. Viajan en manadas, guiados por un poderoso macho alfa, pero muestran una inteligencia que los animales a los que imitan no poseen. Sus salvajes cacer&iacute;as atraen la atenci&oacute;n de muertos vivientes inteligentes, liches, vampiros y similares, que en ocasiones hacen pactos con el l&iacute;der de la manada para trabajar juntos en pos de un oscuro prop&oacute;sito. Presta atenci&oacute;n al aullido de los sabuesos de la Muerte y reza por no ser la presa que han olido.</p>\n<p>Instinto: Cazar.</p>\n<ul>\n<li>Rodear a la presa.</li>\n<li>Llamar a la manada.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, horda, organizado, inteligente"
+		},
+		{
+			"id": "Mohrg",
+			"name": "Mohrg",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Ning&uacute;n asesinato queda impune. No del todo. Puedes evitar la ley, puedes escapar de tu propia conciencia y acabar muriendo gordo y feliz en tu propia mansi&oacute;n. Pero cuando los mismos dioses se percatan de tus fechor&iacute;as, tu suerte se acaba y nace un mohrg. El mohrg es un esqueleto con la carne, el pelo y la piel en estado de putrefacci&oacute;n. Todo podrido salvo sus retorcidas tripas, que a&uacute;n cuelgan de sus barrigas, preservadas m&aacute;gicamente, y a veces envueltas como un nudo corredizo en torno a sus cuellos. Para ser exactos no se puede decir que piensen, pero sufren. Matan y desatan el caos sin descanso para sus almas. Ese es el castigo, tanto para ellos como para la humanidad, por atreverse a matarse los unos a los otros. Los dioses son justos y severos.</p>\n<p>Instinto: Desatar el caos.</p>\n<ul>\n<li>Rabia.</li>\n<li>Aumentar su colecci&oacute;n de tripas.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"}]",
+			"tagsString": "cerca, grupo"
+		},
+		{
+			"id": "Mummy",
+			"name": "Momia",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Hay culturas que reverencian a los muertos. No los sepultan en la fr&iacute;a tierra y lloran su muerte. Estas gentes pasan semanas preparando el sagrado cad&aacute;ver para su descanso eterno. Se construyen templos, pir&aacute;mides y grandes c&aacute;maras de piedra que son pobladas con esclavos, mascotas y oro. Mejor vivir rodeado de lujo m&aacute;s all&aacute; de las Puertas Negras, &iquest;verdad? No te dejes tentar por esas c&aacute;maras. &iexcl;Conozco esa mirada codiciosa! Haz caso a mi consejo o arri&eacute;sgate a sufrir un terrible destino, pues los muertos colmados de honores no quieren que se les moleste. Robarles solo despertar&aacute; su ira. &iexcl;No digas que no te lo advert&iacute;!</p>\n<p>Instinto: Disfrutar el descanso eterno.</p>\n<ul>\n<li>Maldecir.</li>\n<li>Envolverlos.</li>\n<li>Alzarse de nuevo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"divino\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, solitario, divino, acaparador"
+		},
+		{
+			"id": "Nightwing",
+			"name": "Noctala",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>Los estudiosos de las artes nigrom&aacute;nticas te dir&aacute;n que el t&iacute;tulo de &laquo;muerto viviente&raquo; no solo se aplica a aquellos que han vivido y han muerto para luego volver en un estado de vida parcial, sino que es la forma de denominar a criaturas cuya energ&iacute;a proviene de m&aacute;s all&aacute; de las Puertas Negras de la Muerte. Aquella que los hombres llaman noctala es una de ellas. Extrae su poder de la oscura luz de los dominios de la Muerte y asume la forma de criaturas enormes, sombr&iacute;as y aladas (algunas semejantes a murci&eacute;lagos, otras a buitres, otras parecidas a cosas antiguas y curtidas). Las noctalas viajan en bandadas predatorias, cayendo en picado tras el toque de queda para desgarrar la carne del ganado, caballos y campesinos desafortunados. Busca sus ojos rojos en el cielo nocturno. Escucha su estridente llamada. Y reza a tus dioses para encontrar alg&uacute;n lugar en el que esconderte hasta que se marchen.</p>\n<p>Instinto: Cazar.</p>\n<ul>\n<li>Atacar desde el cielo nocturno.</li>\n<li>Huir volando con la presa.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"sigiloso\"}]",
+			"tagsString": "cerca, horda, sigiloso"
+		},
+		{
+			"id": "Sigben",
+			"name": "Sigben",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Engendro de un vampiro"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>&iexcl;Sabueso de Aswang y cola flageladora! Estas feas criaturas, enviadas por vampiros sobre sus dos patas retorcidas, tienen cabeza de rata (o quiz&aacute; de cocodrilo), cuerpo peludo y dientes afilados. Poseen alas atrofiadas que no pueden usar y largas colas rematadas con puntas venenosas. Son est&uacute;pidas, vengativas y traviesas, y provocan todo tipo de caos cuando se las deja salir de los extra&ntilde;os frascos de barro en los que nacen. Solo un vampiro amar&iacute;a a una criatura tan espantosa.</p>\n</blockquote>\n<p>Instinto: Molestar</p>\n<ul>\n<li>Envenenarlos.</li>\n<li>Cumplir las &oacute;rdenes de un vampiro.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, horda, grande, constructo"
+		},
+		{
+			"id": "Shadow",
+			"name": "Sombra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma de sombra"
+				}
+			},
+			"details": {
+				"biography": "<p>Apelamos a los elementos. Al fuego, siempre ardiente. Al agua, dadora de vida. Rogamos a la tierra, superficie estable. Gritamos al viento, siempre cambiante. Reconocemos y damos las gracias a estos elementos, pero no les llamamos. El elemental al que apelamos esta noche tiene otro nombre. Invocamos al elemento de la Noche. Te llamamos Sombra. Para nuestros adentros te llamamos mensajero de la muerte y asesino oscuro. Acepta nuestro sacrificio y cumple nuestras &oacute;rdenes hasta que llegue la ma&ntilde;ana.</p>\n<p>Instinto: Oscurecer.</p>\n<ul>\n<li>Apagar la luz.</li>\n<li>Engendrar otra sombra de los muertos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"grande\"},{\"value\":\"mágico\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, horda, grande, mágico, constructo"
+		},
+		{
+			"id": "Vampire",
+			"name": "Vampiro",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Cambiar de forma, Mente antigua"
+				}
+			},
+			"details": {
+				"biography": "<p>Les tememos porque nos atraen. Se nos parecen mucho, o m&aacute;s bien se parecen a lo que anhelamos ser: bellos, apasionados y poderosos. Ellos se sienten atra&iacute;dos por lo que no pueden ser: c&aacute;lidos, amables y vivos. Lo &uacute;nico a lo que pueden aspirar estas almas atormentadas es a transmitir su maldici&oacute;n. Cada vez que se alimentan se arriesgan a contagiar su tortura a otro, y en cada uno de ellos habita la semilla de su creador. Vampiros que engendran vampiros. Sufrimiento que engendra sufrimiento. No caigas en su seducci&oacute;n o puede que recibas un regalo: una corona de sombras y las cadenas del dolor eterno e inmortal.</p>\n<p>Instinto: Manipular.</p>\n<ul>\n<li>Seducir a alguien.</li>\n<li>Alimentarse con su sangre.</li>\n<li>Retirarse para hacer un nuevo plan.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"contundente\"},{\"value\":\"grupo\"},{\"value\":\"sigiloso\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, contundente, grupo, sigiloso, organizado, inteligente"
+		},
+		{
+			"id": "Zombie",
+			"name": "Zombi",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Cuando no queda sitio en el Infierno&hellip;</p>\n<p>Instinto: Cereeeebrooooos.</p>\n<ul>\n<li>Atacar en enorme n&uacute;mero.</li>\n<li>Arrinconarlos.</li>\n<li>Aumentar fuerzas con los ca&iacute;dos, engendrando m&aacute;s zombis.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"}]",
+			"tagsString": "cerca, horda"
+		}
+	]
+}

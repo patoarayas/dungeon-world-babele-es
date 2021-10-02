@@ -1,0 +1,334 @@
+{
+	"label": "Monstruos - 05 Hordas Voraces",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Formian Taskmaster",
+			"name": "Formicida Capataz",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Mente colmena, Insectoide"
+				}
+			},
+			"details": {
+				"biography": "<p>Hacen falta dos manos para gobernar un imperio: una que sostenga el cetro y otra que haga sonar el l&aacute;tigo. Esta gente-hormiga son el l&aacute;tigo. Por suerte para ellas, tienen dos manos de sobra, lo que da para mucho restallar. Supervisan los enormes enjambres de obreras encargadas de construir las grandes cavernas y zigurats que salpican los emplazamientos en los que viven las form&iacute;cidas. Hay una de estas bestias por cada cien obreras normales, son hasta medio metro m&aacute;s altas que sus d&eacute;biles y casi descerebradas cong&eacute;neres y poseen un ingenio m&aacute;s agudo y cruel. Si no interfieren con sus proyectos, suelen ignorar a las razas m&aacute;s blandas (que es como nos llaman), pero si te interpones en el camino de La Gran Obra, puedes estar seguro de que recibir&aacute;s toda su atenci&oacute;n.</p>\n<p>Instinto: Dar &oacute;rdenes.</p>\n<ul>\n<li>Liderar a las obreras en batalla.</li>\n<li>Poner en movimiento a muchas.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, corto alcance, grupo, organizado, inteligente"
+		},
+		{
+			"id": "Formian Centurion",
+			"name": "Formicida Centurión",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Mente colmena, Insectoide, Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>Ya sea como legionaria, miembro del ej&eacute;rcito form&iacute;cida o guardia pretoriana de la reina, cada colmena posee un gran n&uacute;mero de las m&aacute;s peligrosas insectoides. De caparaz&oacute;n m&aacute;s oscuro, con frecuencia cubierto de surcos y marcas ceremoniales que las diferencian de la casta obrera, las form&iacute;cidas centuriones son merecidamente la fuerza de combate. Nacen, crecen y viven para el &uacute;nico prop&oacute;sito de matar a los enemigos de la colmena, luchando con una sola mente y cien espadas. Hasta el momento, los poderes de la Ley han cre&iacute;do conveniente que estas criaturas no hagan la guerra contra los humanos, pero en ocasiones se las ha visto en escaramuzas, cayendo sobre ciudades lim&iacute;trofes ayudadas por sus alas o descendiendo desde dunas de arena para limpiar una mina reci&eacute;n excavada. El suyo es un derramamiento de sangre ordenado y sin m&aacute;s pasi&oacute;n que el cumplimiento de su objetivo.</p>\n<p>Instinto: Luchar como se les ordene.</p>\n<ul>\n<li>Avanzar como una sola.</li>\n<li>Llamar refuerzos.</li>\n<li>Dar la vida por la colmena.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, horda, inteligente, organizado"
+		},
+		{
+			"id": "Formian Drone",
+			"name": "Formicida Obrera",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Mente colmena, Insectoide"
+				}
+			},
+			"details": {
+				"biography": "<p>Dicen, y con raz&oacute;n, que estas criaturas, como ocurre con todos los insectos, pertenecen a los poderes de la Ley. Son la encarnaci&oacute;n del orden, una sociedad perfectamente estratificada en la que cada larva o adulto sabe cu&aacute;l es su lugar en la gran colmena. Las form&iacute;cidas son un extra&ntilde;o cruce de humano y hormigas (y he o&iacute;do que existen algunas tribus aladas que parecen avispas en el Desierto Oriental y otras con grandes dientes aserrados como las mantis en los bosques occidentales). Altas, de caparaz&oacute;n duro y mente a&uacute;n m&aacute;s dura, estas form&iacute;cidas en concreto son la casta inferior. Trabajan en las colinas y colmenas con una decidida alegr&iacute;a que solo puede sentir una mente as&iacute; de extra&ntilde;a.</p>\n<p>Instinto: Seguir &oacute;rdenes.</p>\n<ul>\n<li>Dar la alarma.</li>\n<li>Generar provecho para la colmena.</li>\n<li>Asimilar.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"organizado\"},{\"value\":\"cauto\"}]",
+			"tagsString": "cerca, horda, organizado, cauto"
+		},
+		{
+			"id": "Formian Queen",
+			"name": "Formicida Reina",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Mente colmena, Insectoide"
+				}
+			},
+			"details": {
+				"biography": "<p>Sin importar el tama&ntilde;o de la colmena, en su coraz&oacute;n siempre habita una reina. Enorme como un gigante, aguarda protegida por su guardia, por cada obrera y capataz a su servicio, y con un &uacute;nico y singular prop&oacute;sito: hacer crecer a su prole y su colmena. Poner huevos. Criar. No comprendemos las mentes de estas criaturas, pero es sabido que de alguna manera pueden comunicarse con sus hijas a trav&eacute;s de grandes distancias, empezando a educarlas sin mediar palabra en las sendas de la tierra y la piedra cuando a&uacute;n son p&aacute;lidas larvas que se retuercen. Matar a una significa provocar el caos en la colmena, pues sin su reina se volver&aacute;n las unas contra las otras en una ira ciega.</p>\n<p>Instinto: Procrear form&iacute;cidas.</p>\n<ul>\n<li>Llamar a todas las form&iacute;cidas de su prole.</li>\n<li>Liberar a una mutaci&oacute;n larval a medio formar.</li>\n<li>Organizar y dar &oacute;rdenes.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "corto alcance, contundente, solitario, enorme, organizado, inteligente, acaparador"
+		},
+		{
+			"id": "Gnoll Alpha",
+			"name": "Gnoll Alfa",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Olor"
+				}
+			},
+			"details": {
+				"biography": "<p>Cada manada tiene su macho alfa. Quiz&aacute; el m&aacute;s grande, puede que baste con eso. Pero en ocasiones, para estos l&aacute;nguidos y sucios chuchos, no es una cuesti&oacute;n de tama&ntilde;o o afilados dientes, sino de crueldad. Es estar dispuesto a matar y devorar a tus hermanos mientras el resto de la manada observa. Estar dispuesto a profanar la manada de tal forma que agachen la cabeza. Si son capaces de ser tan horribles con sus iguales, imagina lo que pueden pensar de nosotros. Es duro ser considerado un filete en un mundo de carn&iacute;voros.</p>\n<p>Instinto: Gobernar la manada.</p>\n<ul>\n<li>Exigir obediencia.</li>\n<li>Enviar de caza a la manada.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, solitario, inteligente, organizado"
+		},
+		{
+			"id": "Gnoll Emissary",
+			"name": "Gnoll Emisario",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Olor"
+				}
+			},
+			"details": {
+				"biography": "<p>&iexcl;Oh, un emisario! Qu&eacute; bien. Supongo que no sab&iacute;as que los gnolls ten&iacute;an embajadores, &iquest;verdad? Pues s&iacute;, hasta estas hienas sarnosas tienen que hacer las cosas bien de vez en cuando. No, no. No es por nosotros. Ni tampoco por los enanos. No, el emisario es el &uacute;nico entre sus compa&ntilde;eros de manada que despacha directamente a su grasiento amo demonio. &iquest;Aterrador? Vaya que s&iacute;. Cada sabueso tiene un amo que sostiene su cadena. Este gnoll escucha la voz del amo. Escucha y obedece.</p>\n<p>Instinto: Compartir la sabidur&iacute;a divina.</p>\n<ul>\n<li>Transmitir la influencia demon&iacute;aca.</li>\n<li>Enfervorecer a la manada.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"divino\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, solitario, divino, inteligente, organizado"
+		},
+		{
+			"id": "Gnoll Tracker",
+			"name": "Gnoll Rastreador",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Rastrear por el olor"
+				}
+			},
+			"details": {
+				"biography": "<p>Una vez huelen tu sangre no hay escapatoria. No a menos que intervengan los dioses o, al menos, los guardabosques del duque. Es peligroso explorar por tu cuenta las zonas de matorrales des&eacute;rticos. Si caes y te rompes una pierna o comes del cactus equivocado, tendr&aacute;s suerte si mueres antes de que los gnolls te encuentren. Prefieren a sus presas vivas, los gritos de los moribundos y el crujir de sus huesos hacen m&aacute;s suculenta su comida. Enfermizo, &iquest;verdad? Te cazan de manera lenta, pero constante, hasta que mueres. Si oyes sus risas en el viento del desierto, mejor que reces para que la Muerte llegue a ti antes que ellos.</p>\n<p>Instinto: Cazar a los d&eacute;biles.</p>\n<ul>\n<li>Seguir a la presa como un perro.</li>\n<li>Atacar en un momento de debilidad.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"grupo\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "medio alcance, largo alcance, grupo, organizado, inteligente"
+		},
+		{
+			"id": "Orc Breaker",
+			"name": "Orco Aplastador",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Escuche la historia de sir Regnus antes de adentrarte en las tierras de la</p>\n<p>horda, bravo se&ntilde;or. Regnus era como usted, se&ntilde;or: un palad&iacute;n de la Orden,</p>\n<p>enfundado en su brillante armadura de placas y portando un escudo alto</p>\n<p>como un hombre. Y orgulloso estaba de &eacute;l. Se llamaba a s&iacute; mismo Escudoespejo.</p>\n<p>Cuenta la historia que estaba decidido a rescatar a alg&uacute;n sacerdote perdido, raptado de su abad&iacute;a en la frontera. Regnus tropez&oacute; con algunos orcos en sus viajes, una docena m&aacute;s o menos, y pens&oacute; que no ser&iacute;an rivales. La batalla dio comienzo y todo fue bien hasta que apareci&oacute; en la refriega un orco con un martillo mayor que el que cualquiera podr&iacute;a sostener. Dicen que era m&aacute;s parecido a un ogro o un troll, y aplast&oacute; a sir Regnus y a su escudo con un solo golpe. No se trataba de un orco normal. Era un aplastador. No hay armadura de placas en la que puedan enfundarse, as&iacute; que puede que sea la envidia lo que impulsa a estas fornidas criaturas a aplastarlo todo. Una t&aacute;ctica efectiva, sin embargo.</p>\n</blockquote>\n<p>Instinto: Aplastar.</p>\n<ul>\n<li>Destruir armaduras o protecciones.</li>\n<li>Hacer caer a los poderosos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"}]",
+			"tagsString": "cerca, corto alcance, contundente"
+		},
+		{
+			"id": "Orc Berserker",
+			"name": "Orco Berserker",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Mutaciones"
+				}
+			},
+			"details": {
+				"biography": "<p>Algunos guerreros, manchados por el imp&iacute;o ritual de la Unci&oacute;n con la Sangre de la Noche, destacan entre la horda formando una especie de perversa orden de caballer&iacute;a. Venden su cordura a cambio de tal honor, adentr&aacute;ndose en una espiral de locura. Esto hace de los berserkers los m&aacute;s grandes de su tribu, aunque el caos se acaba abriendo paso a medida que pasa el tiempo. Los pocos berserkers que viven m&aacute;s de unos cuantos a&ntilde;os se vuelven horrendos y deformes, les crecen cuernos o brazos adicionales con los que sujetan cuchillos de carnicero, su arma preferida en combate.</p>\n<p>Instinto: Enfurecerse.</p>\n<ul>\n<li>Entrar en frenes&iacute;.</li>\n<li>Desencadenar el caos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"divino\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande, divino, inteligente, organizado"
+		},
+		{
+			"id": "Orc Shadowhunter",
+			"name": "Orco, Cazador de Sombras",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Capa de sombras"
+				}
+			},
+			"details": {
+				"biography": "<p>No todos los ataques de los orcos son antorchas, gritos y esclavitud. El veneno y el asesinato en la oscuridad son considerados actos sagrados entre aquellos que siguen a El de la Vista Desgarrada. Son los Cazadores de Sombras. Orcos amparados por la magia de la noche que se infiltran en los campamentos, templos y ciudades acabando con las vidas de sus habitantes. No dejes que te distraigan los aullidos de los berserkers y olvides el cuchillo a tu espalda.</p>\n<p>Instinto: Asesinar en la oscuridad.</p>\n<ul>\n<li>Envenenarlos.</li>\n<li>Fundirse con las sombras.</li>\n<li>Ocultarlos en las sombras.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"sigiloso\"},{\"value\":\"mágico\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, corto alcance, solitario, sigiloso, mágico, inteligente"
+		},
+		{
+			"id": "Orc Shaman",
+			"name": "Orco, Chamán",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Poder elemental"
+				}
+			},
+			"details": {
+				"biography": "<p>La de los orcos es una raza tan vieja como la que m&aacute;s. Lanzan huesos sobre el polvo e invocaban a los dioses de los &aacute;rboles y las piedras como hac&iacute;an los elfos en sus primeras ciudades. Han librado guerras, conquistado reinos y ca&iacute;do en la corrupci&oacute;n durante tantas eras como tardaron los hombres en salir de sus cuevas o los enanos en ver la luz del sol. Es apropiado por tanto decir que mantienen las viejas tradiciones. Invocan los poderes del mundo para ponerlos a su servicio, para luchar y proteger a los suyos, como han hecho desde las primeras noches.</p>\n<p>Instinto: Fortalecer la raza orca.</p>\n<ul>\n<li>Proporcionar la protecci&oacute;n de la tierra.</li>\n<li>Proporcionar el poder del fuego.</li>\n<li>Proporcionar la rapidez del agua.</li>\n<li>Proporcionar la claridad del aire.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, medio alcance, largo alcance, solitario, inteligente, organizado"
+		},
+		{
+			"id": "Orc Slaver",
+			"name": "Orco, Esclavista",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Velas rojas navegan los mares del sur. Velas rojas sobre barcos de hueso, madera vieja e hierro. La flota de guerra de la horda. Estos orcos se han hecho a la mar para acosar ciudades isle&ntilde;as robando a los pescadores y a los suyos. Se cuenta que la costumbre se est&aacute; extendiendo hacia el norte y que los orcos aprenden el valor del oficio. Se acercan a la pirater&iacute;a como si de su labor sagrada se tratase, especialmente si pueden poner las manos encima a alg&uacute;n elfo. Es dif&iacute;cil pensar en un destino m&aacute;s sombr&iacute;o que pasar tu vida en una galera orca con la espalda doblada por sus l&aacute;tigos.</p>\n<p>Instinto: Arrebatar.</p>\n<ul>\n<li>Hacer prisioneros.</li>\n<li>Retener a alguien con una red.</li>\n<li>Drogarlos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"sigiloso\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, horda, sigiloso, inteligente, organizado"
+		},
+		{
+			"id": "Orc Bloodwarrior",
+			"name": "Orco, Guerrero de Sangre",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La horda orca es un grupo de tribus salvajes y sedientas de sangre. Hay mitos e historias que cuentan los or&iacute;genes de su rabia, una maldici&oacute;n demon&iacute;aca, una tierra natal destruida, conjuros &eacute;lficos que salieron mal. Pero la verdad se perdi&oacute; en el tiempo. Cada orco capaz, sea macho o hembra, peque&ntilde;o o viejo, jura lealtad a su jefe de guerra y su tribu para esgrimir la hoja aserrada de los guerreros de sangre. Entrenan para luchar y matar, los orcos nacen para ello.</p>\n<p>Instinto: Luchar.</p>\n<ul>\n<li>Luchar sin descanso.</li>\n<li>Deleitarse con la destrucci&oacute;n.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"escabroso\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, escabroso, horda, inteligente, organizado"
+		},
+		{
+			"id": "Orc Warchief",
+			"name": "Orco, Jefe de Guerra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Bendiciones de Un-ojo, Bendiciones de chamán, Protección divina contra el daño mortal"
+				}
+			},
+			"details": {
+				"biography": "<p>Est&aacute;n los jefes, y est&aacute;n los l&iacute;deres de las tribus de los orcos. Hay algunos que se alzan para tomar el poder y despu&eacute;s caer bajo las maquinaciones de sus enemigos. Pero solo hay un jefe de guerra. Un orco de entre toda la horda que destaca sobre el resto, portando las bendiciones de los Un-ojo y los chamanes. Solo uno recibe las bendiciones de la Noche y la Espada de las Eras, cargando sobre sus hombros el resentimiento hacia las razas civilizadas. Hay que respetar, temer y obedecer por encima de todo al jefe de guerra. Gloria al jefe de guerra.</p>\n<p>Instinto: Liderar.</p>\n<ul>\n<li>Empezar una guerra.</li>\n<li>Mostrar su poder.</li>\n<li>Enfurecer a las tribus.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, solitario, inteligente, organizado"
+		},
+		{
+			"id": "Orc One-Eye",
+			"name": "Orco, Un-Ojo",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Un ojo"
+				}
+			},
+			"details": {
+				"biography": "<p>En el nombre de El de la Vista Desgarrada y por el Primer Sacrificio de Carne Elfa, invocamos a los Antiguos Poderes. Por el Segundo Sacrificio, exijo lo que me pertenece, la magia oscura de la Noche. &iexcl;A Su imagen, yo camino por el sendero de Gor-sha-thak, la Horca de Hierro! &iexcl;A las runas apelo! &iexcl;Al cielo nublado! &iexcl;Ll&eacute;vate este &oacute;rgano mortal, consume la carne de nuestro enemigo y dame lo que me pertenece!</p>\n<p>Instinto: Odiar.</p>\n<ul>\n<li>Desgarrar la carne con magia divina.</li>\n<li>Sacar un ojo.</li>\n<li>Hacer un sacrificio e incrementar su poder.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"grupo\"},{\"value\":\"divino\"},{\"value\":\"mágico\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, medio alcance, largo alcance, grupo, divino, mágico, inteligente, organizado"
+		},
+		{
+			"id": "Triton Spy",
+			"name": "Tritón Espía",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Acuático"
+				}
+			},
+			"details": {
+				"biography": "<p>Hace alg&uacute;n tiempo, en una aldea pesquera, atraparon uno en una red. Mitad hombre, mitad criatura marina, hablaba en lengua com&uacute;n con palabras entrecortadas, aprendidas mientras espiaba, antes de asfixiarse. Dijo a los pescadores que se acercaba la marea, el insoslayable auge de un dios submarino; que el imperio trit&oacute;n se alzar&iacute;a y engullir&iacute;a la tierra bajo el oc&eacute;ano. La historia se extendi&oacute; y ahora, cuando los pescadores surcan el mar picado, contemplan con preocupaci&oacute;n, temiendo que las historias del trit&oacute;n moribundo fueran ciertas, que haya poderes en las profundidades del mar que observan y aguardan su momento. Temen que la marea est&eacute; a punto de subir.</p>\n<p>Instinto: Espiar al mundo de la superficie.</p>\n<ul>\n<li>Revelar sus secretos.</li>\n<li>Atacar a los d&eacute;biles.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"medio alcance\"},{\"value\":\"solitario\"},{\"value\":\"sigiloso\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, medio alcance, solitario, sigiloso, inteligente, organizado"
+		},
+		{
+			"id": "Triton Tidecaller",
+			"name": "Tritón Invocador de Mareas",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Acuático, Mutaciones"
+				}
+			},
+			"details": {
+				"biography": "<p>Mitad sacerdotes, mitad marginados, los invocadores de mareas hablan con la voz de las profundidades. Se les reconoce por mutaciones como una piel transparente o hileras de dientes como los de un tibur&oacute;n. Ojos o puntas de los dedos brillantes, antenas luminosas del reino subacu&aacute;tico. Hablan una extra&ntilde;a lengua con la que pueden llamar y dar &oacute;rdenes a las criaturas marinas. Cabalgan sobre hipocampos salvajes y lanzan extra&ntilde;os conjuros que pudren la madera de las cubiertas de los barcos o cubren su casco de suficientes percebes como para hundirlos. Los invocadores de mareas son los que llegan a las ciudades de los tritones anunciando que la profec&iacute;a est&aacute; a punto de cumplirse. El mundo de los hombres se ahogar&aacute; bajo helada salmuera. Los invocadores de mareas hablan y los se&ntilde;ores comienzan a escucharlos.</p>\n<p>Instinto: Provocar la Inundaci&oacute;n.</p>\n<ul>\n<li>Lanzar un conjuro de agua y destrucci&oacute;n.</li>\n<li>Comandar a las bestias del mar.</li>\n<li>Revelar anuncios divinos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"grupo\"},{\"value\":\"divino\"},{\"value\":\"mágico\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "medio alcance, largo alcance, grupo, divino, mágico, inteligente"
+		},
+		{
+			"id": "Triton Sub-Mariner",
+			"name": "Tritón Miliciano",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Acuático"
+				}
+			},
+			"details": {
+				"biography": "<p>Los tritones no son una raza b&eacute;lica por naturaleza. Reh&uacute;yen el combate, salvo contra los ataques de los sajuagu&iacute;n, limit&aacute;ndose a defenderse a s&iacute; mismos antes de retirarse a las profundidades, donde sus enemigos no pueden perseguirlos. Esta tendencia est&aacute; empezando a cambiar. A medida que los invocadores de mareas lanzan sus proclamas enalteciendo a su pueblo, algunos tritones, de ambos sexos, est&aacute;n levant&aacute;ndose en armas. A estos generales se les conoce como milicianos, y fabrican sus armaduras con conchas y cristal endurecido. Nadan en formaci&oacute;n, portando picas y arpones, atacando a las tripulaciones de los barcos que se alejan demasiado del puerto. Estate atento por si ves sus estandartes de algas en el horizonte y la llamada a la batalla de una caracola; si puedes, mant&eacute;n tus barcos cerca de la orilla.</p>\n<p>Instinto: Hacer la guerra.</p>\n<ul>\n<li>Liderar a los tritones hacia la batalla.</li>\n<li>Arrastrarlos bajo las olas.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"grupo\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, medio alcance, largo alcance, grupo, organizado, inteligente"
+		},
+		{
+			"id": "Triton Noble",
+			"name": "Tritón Noble",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Acuático"
+				}
+			},
+			"details": {
+				"biography": "<p>Dicen que las casas gobernantes de los tritones fueron elegidas en el amanecer de los tiempos. Un dios largo tiempo olvidado les otorg&oacute; el se&ntilde;or&iacute;o sobre todas las razas del mar. Estas dinast&iacute;as siguen existiendo a d&iacute;a de hoy, traspasando el liderazgo de padre a hija y de madre a hijo a lo largo de las eras. Cada trit&oacute;n puede gobernar su ciudad en la manera que estime conveniente. Algunos lo hacen solos o con sus esposas, otros con un consejo de hermanos y hermanas. En &eacute;pocas pasadas, fueron conocidos por su astucia, y las dinast&iacute;as de buen talante fueron respetadas por encima de todo. La profec&iacute;a de los invocadores de mareas est&aacute; haciendo cambiar la situaci&oacute;n: se espera que los nobles sean fuertes, no sabios. Los nobles han empezado a responder y algunos temen que la sangre antigua cambie para siempre. Puede que sea demasiado tarde para dar marcha atr&aacute;s. El tiempo y las mareas no esperan a nadie.</p>\n<p>Instinto: Liderar.</p>\n<ul>\n<li>Incitar a los tritones a la guerra.</li>\n<li>Llamar refuerzos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"grupo\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, medio alcance, largo alcance, grupo, organizado, inteligente"
+		}
+	]
+}

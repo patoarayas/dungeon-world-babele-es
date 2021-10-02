@@ -1,0 +1,266 @@
+{
+	"label": "Monstruos - 06 Experimentos Perversos",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Ethereal Filcher",
+			"name": "Birlador Etéreo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Excavar"
+				}
+			},
+			"details": {
+				"biography": "<p>Las cosas se pierden. Un calcet&iacute;n, una cuchara de plata o los huesos de tu madre muerta. Le echamos la culpa a la criada, a la mala suerte o puede que a un momento de descuido, y seguimos con nuestras vidas. Nunca llegamos a conocer la verdadera causa de esos problemas: la delgada criatura con manos humanas y ojos azules como el Plano Et&eacute;reo del que proviene. Nunca vemos el nido que hace con telara&ntilde;as de plata astral y objetos robados dispuestos desordenadamente. Nunca le vemos reunir su colecci&oacute;n de huesos de dedos de mediano, que les roba mientras duermen. Tenemos suerte, en cierta forma.</p>\n<p>Instinto: Robar.</p>\n<ul>\n<li>Llevarse algo importante a su guarida planar.</li>\n<li>Retirarse al Plano Et&eacute;reo.</li>\n<li>Usar un objeto de su guarida.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"taimado\"},{\"value\":\"planar\"}]",
+			"tagsString": "cerca, corto alcance, solitario, taimado, planar"
+		},
+		{
+			"id": "Derro",
+			"name": "Derro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Telepatía"
+				}
+			},
+			"details": {
+				"biography": "<p>Es normal pensar que todos los monstruos m&aacute;gicos malignos creados en el mundo los crean los magos, hechiceros y similares; que las academias y torres de Dungeon World son el &uacute;tero de cada oscuro experimento. Pero hay errores que tienen lugar en el interior de la tierra. Los derros son los errores de un alquimista enano olvidado hace mucho. Pero los derros no olvidan. Retorcidos y llenos de odio, los derros pueden distinguirse por sus cabezas hinchadas debido al crecimiento de su masa cerebral. No hablan salvo mediante el pensamiento y traman en el silencio de la oscuridad para culminar la m&aacute;s dulce venganza, la de la criatura creada contra su creador.</p>\n<p>Instinto: Sustituir a los enanos.</p>\n<ul>\n<li>Llenar la mente de pensamientos ajenos.</li>\n<li>Tomar el control de la mente de una bestia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"taimado\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, horda, taimado, inteligente, organizado"
+		},
+		{
+			"id": "Digester",
+			"name": "Digestor",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Secreción ácida"
+				}
+			},
+			"details": {
+				"biography": "<p>Vale, la experimentaci&oacute;n m&aacute;gica es una ciencia complicada. Por cada bello pegaso hay una criatura a medio terminar que no sali&oacute; tan bien. Lo entendemos. Ese goblin elefante que parec&iacute;a una idea tan buena o el drag&oacute;n gelatinoso son solo algunos ejemplos. No te juzgamos por ello. Tenemos una soluci&oacute;n para eso. Lo llamamos el digestor. S&iacute;, es lo que parece. Tiene un aspecto raro, lo s&eacute;, y el olor tampoco es lo mejor, pero esta cosa come magia como Svenloff el Fornido bebe licor. La pr&oacute;xima vez que ocurra uno de esos desafortunados accidentes, d&iacute;selo al digestor y se acabar&aacute;n tus problemas. Pero mantenlo vigilado. El pasado fin de semana esa cosa se comi&oacute; mi bast&oacute;n.</p>\n<p>Instinto: Digerir.</p>\n<ul>\n<li>Consumir algo.</li>\n<li>Obtener sustento.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande, constructo"
+		},
+		{
+			"id": "Ettin",
+			"name": "Ettin",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Dos cabezas"
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Qu&eacute; es mejor que un gigante de las colinas est&uacute;pido y enfadado? Uno con dos cabezas. Una gran idea. Diez puntos.</p>\n<p>Instinto: Aplastar.</p>\n<ul>\n<li>Atacar a dos enemigos al mismo tiempo.</li>\n<li>Defender a su creador.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande, constructo"
+		},
+		{
+			"id": "Flesh Golem",
+			"name": "Golem de Carne",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Cuerpo compuesto por partes de otros cuerpos"
+				}
+			},
+			"details": {
+				"biography": "<p>Trozos y partes robadas durante la noche. Cementerios despojados sigilosamente para que una noche puedas conseguir un brazo, una pierna u otra cabeza (la &uacute;ltima se desmoron&oacute; en poco tiempo). Hasta el m&aacute;s humilde de los encantadores puede apa&ntilde;&aacute;rselas con lo que encuentra y, con un poco de creatividad, bueno&hellip; no solo en la academia pueden crear vida, &iquest;verdad? Ya ver&aacute;n.</p>\n<p>Instinto: Vivir.</p>\n<ul>\n<li>Cumplir &oacute;rdenes.</li>\n<li>Arrancarse una parte del cuerpo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"contundente\"},{\"value\":\"horda\"}]",
+			"tagsString": "cerca, contundente, horda"
+		},
+		{
+			"id": "Iron Golem",
+			"name": "Golem de Hierro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Metal"
+				}
+			},
+			"details": {
+				"biography": "<p>Lo m&aacute;s b&aacute;sico del arte del encantamiento, conocido por todos los creadores de golems y mecanotaumaturgos de los reinos. Si bien no es del todo apropiado llamarlo &laquo;de hierro&raquo;, ya que en realidad estos guardianes pueden estar fabricados con cualquier metal: acero, cobre o, en unos cuantos casos, incluso oro. La fabricaci&oacute;n de un buen g&oacute;lem es una actividad que tiene tanto de arte como de ciencia, siendo en los Reinos un oficio tan respetable como la construcci&oacute;n de un buen puente o de un castillo en las monta&ntilde;as. Perro guardi&aacute;n incansable y leal defensor, el g&oacute;lem de hierro vive para servir y se atiene a sus &oacute;rdenes eternamente. Cualquier encantador que merezca la pena puede fabricar uno, siempre que pueda costearse los materiales. Si no&hellip;</p>\n<p>Instinto: Servir.</p>\n<ul>\n<li>Seguir &oacute;rdenes implacablemente.</li>\n<li>Utilizar una herramienta integrada o adaptaci&oacute;n especial.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"grupo\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, contundente, grupo, grande, constructo"
+		},
+		{
+			"id": "Girallon",
+			"name": "Guiralón",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Muchos brazos"
+				}
+			},
+			"details": {
+				"biography": "<p>Los tambores de la selva lo llaman. El trozo de carne sobre la piedra de sacrificios sirve para atraer al gran simio. Lo llaman Guiral&oacute;n, un nombre en la ya olvidada lengua de los reyes que criaron a la bestia. Dicen que es m&aacute;s alto que un edificio, cubierto de un pelaje color marfil con colmillos largos como cimitarras. &iquest;Cuatro brazos? &iquest;Seis? Es dif&iacute;cil corroborar los rumores. Cada a&ntilde;o sucede lo mismo: alg&uacute;n explorador visita las aldeas de la jungla en busca del simio y regresa, pero nunca con su trofeo, ni siendo la misma persona. Y los tambores siguen sonando.</p>\n<p>Instinto: Gobernar.</p>\n<ul>\n<li>Responder a la llamada del sacrificio.</li>\n<li>Echarlos de la jungla.</li>\n<li>Lanzar a alguien.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"}]",
+			"tagsString": "corto alcance, contundente, solitario, enorme"
+		},
+		{
+			"id": "Kraken",
+			"name": "Kraken",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Acuático"
+				}
+			},
+			"details": {
+				"biography": "<p><blockquote>&iquest;Un cefalo-qu&eacute;? No, chico. No es &lsquo;un kraken&rsquo;, es &lsquo;el kraken&rsquo;. No s&eacute; qu&eacute; tonter&iacute;as te han ense&ntilde;ado en esa escuela de la que dices que vienes, pero aqu&iacute; sabemos que hay que respetar al Hambriento. Efectivamente, as&iacute; es como lo llamamos, el Hambriento de las Profundidades, para ser m&aacute;s exacto. No es un dios, pero tambi&eacute;n tenemos de esos. &iexcl;Es un calamar! Un poderoso calamar con tent&aacute;culos m&aacute;s gruesos que un tonel y ojos del tama&ntilde;o de la luna llena. Pero el Hambriento tambi&eacute;n es listo. Sabe cu&aacute;ndo atacar: cuando todos est&aacute;n demasiado borrachos, cansados o sedientos, solo entonces. No, jam&aacute;s lo he visto. &iquest;No ves que estoy vivo?</blockquote>.</p>\n<p>Instinto: Gobernar el oc&eacute;ano.</p>\n<ul>\n<li>Arrastrar a una persona o barco a su tumba acu&aacute;tica.</li>\n<li>Envolverlos con tent&aacute;culos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"}]",
+			"tagsString": "corto alcance, contundente, solitario, enorme"
+		},
+		{
+			"id": "Manticore",
+			"name": "Mantícora",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>Si la quimera es el primer paso en el sendero oscuro, la mant&iacute;cora es la puerta que no puede cerrarse una vez abierta. Un le&oacute;n, un escorpi&oacute;n, las alas de un drag&oacute;n. Cosas dif&iacute;ciles, pero no imposibles de obtener; animales, al fin y al cabo. El &uacute;ltimo componente, la odiosa y sibilante cabeza de la bestia, es lo que la hace tan cruel. Joven o viejo, hombre o mujer, no importa mientras sea humano, vivo y coleando, unido a la criatura mediante retorcidos conjuros. Pierden toda noci&oacute;n de qui&eacute;nes eran, y puede que eso sea una bendici&oacute;n, pues es una bestia nacida del sufrimiento humano. No es de extra&ntilde;ar que todas est&eacute;n ansiosas por matar.</p>\n<p>Instinto: Matar.</p>\n<ul>\n<li>Envenenarlos.</li>\n<li>Destrozar algo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"escabroso\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, escabroso, solitario, grande, constructo"
+		},
+		{
+			"id": "Rust Monster",
+			"name": "Monstruo Corrosivo",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Toque corrosivo"
+				}
+			},
+			"details": {
+				"biography": "<p>Una criatura muy peculiar. Parecida a un grillo rojizo. O tiene patas largas como un grillo. Creo que tambi&eacute;n son ciegos, notan el aire a su alrededor con esos tent&aacute;culos que son como los de una polilla. Y as&iacute; se alimentan. Rebuscan en los montones de metal en busca de los mejores bocados. Eso es lo que comen, sin importar de qu&eacute; tipo sea. Convierten el metal en polvo oxidado solo con tocarlo. Lo m&aacute;gico aguanta algo m&aacute;s, pero si se deja a su alcance, el desenlace es inevitable. Solo los dioses saben de d&oacute;nde han salido, pero son una maldici&oacute;n si valoras tus pertenencias.</p>\n<p>Instinto: Oxidar.</p>\n<ul>\n<li>Convertir el metal en óxido.</li>\n<li>Ganar fuerza consumiendo metal.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, grupo, constructo"
+		},
+		{
+			"id": "Owlbear",
+			"name": "Oso Lechuza",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Cuerpo de oso. Alas de b&uacute;ho. Pico, garras y una excelente visi&oacute;n nocturna. Es imposible no quererlo.</p>\n<p>Instinto: Cazar.</p>\n<ul>\n<li>Atacar desde la oscuridad.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"contructo\"}]",
+			"tagsString": "cerca, solitario, contructo"
+		},
+		{
+			"id": "Pegasus",
+			"name": "Pegaso",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>No creas que todas las criaturas que no nacen de manera natural son abominaciones. No creas ni por un segundo que todas son tent&aacute;culos, gritos, sangre y todo eso. Mira por ejemplo a este noble animal. Adorable, &iquest;verdad? Un bello caballo blanco con las alas de un cisne. No parece que sea capaz de volar, pero puede. A su modo, los elfos hacen milagros. En realidad los cr&iacute;an, esa es la pureza de la magia &eacute;lfica. Los incuban en huevos de cristal y est&aacute;n unidos de por vida a sus jinetes. Recuerda bien mis palabras: a&uacute;n queda belleza en el mundo.</p>\n<p>Instinto: Llevar en sus lomos.</p>\n<ul>\n<li>Llevar volando a un jinete.</li>\n<li>Dar ventaja a tu jinete.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, grupo, constructo"
+		},
+		{
+			"id": "Chimera",
+			"name": "Quimera",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La quimera es una criatura perfeccionada, bien conocida y catalogada. Desde los c&oacute;dices del Gremio de Magos hasta las famosas p&aacute;ginas del Compendio de Criaturas de Cullaina, no hay confusi&oacute;n posible sobre lo que es una quimera. Dos partes de le&oacute;n, una parte de serpiente, cabeza de cabra y toda la sanguinaria magia que puedas reunir. El ritual concreto puede variar, al igual que algunos detalles (algunos hechiceros creativos cambian el aliento de fuego por &aacute;cido, por ejemplo). Es utilizada como guardiana, asesina o sencillamente un instrumento para desencadenar el caos, poco importa. La quimera es el peor tipo de abominaci&oacute;n, una afrenta intencionada a la vida natural.</p>\n<p>Instinto: Seguir &oacute;rdenes.</p>\n<ul>\n<li>Vomitar llamas.</li>\n<li>Arrollar.</li>\n<li>Envenenar.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "corto alcance, solitario, grande, constructo"
+		},
+		{
+			"id": "Bulette",
+			"name": "Terrarón",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 3"
+				},
+				"specialQualities": {
+					"value": "Dos cabezas"
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Qu&eacute; es mejor que un gigante de las colinas est&uacute;pido y enfadado? Uno con dos cabezas. Una gran idea. Diez puntos.</p>\n<p>Instinto: Aplastar.</p>\n<ul>\n<li>Atacar a dos enemigos al mismo tiempo.</li>\n<li>Defender a su creador.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, contundente, solitario, enorme, constructo"
+		},
+		{
+			"id": "Xorn",
+			"name": "Xorn",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Excavar"
+				}
+			},
+			"details": {
+				"biography": "<p>Un elemental creado por los enanos que devora basura. Tiene la forma de un cubo de basura con varios brazos de radio para alimentarse con sus enormes fauces de la piedra y la roca sobrante. Comen piedra y excretan luz y calor. Perfectos para usarlos en una mina o cantera. Pero cuando alguno se pierde en las alcantarillas de una ciudad o en los cimientos de un castillo, tienes un buen problema entre manos. Comer&aacute;n y comer&aacute;n hasta que no quede nada y el lugar se hunda, y entonces se ir&aacute;n a otro sitio. Preg&uacute;ntale a Burrion, hijo de Fjornnvald, exiliado de su clan. Apuesto a que puede contarte alguna historia sobre un xorn.</p>\n<p>Instinto: Comer.</p>\n<ul>\n<li>Consumir piedra.</li>\n<li>Liberar un estallido de luz y calor.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solidario\"},{\"value\":\"grande\"},{\"value\":\"constructo\"}]",
+			"tagsString": "cerca, corto alcance, solidario, grande, constructo"
+		}
+	]
+}

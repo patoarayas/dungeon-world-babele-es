@@ -1,0 +1,232 @@
+{
+	"label": "Monstruos - 07 Profundidades Insondables",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Aboleth",
+			"name": "Abolez",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Telepatía"
+				}
+			},
+			"details": {
+				"biography": "<p>Bajo la superficie del mundo, en aquellos lugares del mar a los que no llega la luz del sol, viven los abolez. Peces del tama&ntilde;o de ballenas, con sus extra&ntilde;os ped&uacute;nculos gelatinosos que utilizan para tantear las oscuras orillas. Les sirven sus v&iacute;ctimas, ciegos albinos de cualquier raza lo bastante desafortunados para toparse con ellos, drenados de toda vida por el poder de la extra&ntilde;a mente del abolez. Traman los unos contra los otros en las profundidades, creando cultos sospechosos y excavando hacia arriba, hasta que alg&uacute;n d&iacute;a irrumpan en la superficie. Por ahora duermen y sue&ntilde;an, y gu&iacute;an a sus p&aacute;lidos esbirros para que cumplan con sus &oacute;rdenes.</p>\n<p>Instinto: Ordenar.</p>\n<ul>\n<li>Invadir una mente.</li>\n<li>Volver contra ellos a sus esbirros.</li>\n<li>Poner en marcha un plan.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"enorme\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "corto alcance, grupo, enorme, inteligente"
+		},
+		{
+			"id": "Gray Render",
+			"name": "Desgarrador Gris",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 3"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>El desgarrador es una fuerza de destrucci&oacute;n absoluta por s&iacute; solo. Grande y correoso, con unas fauces de dientes irrompibles y unas zarpas a juego, el desgarrador parece no disfrutar nada m&aacute;s que destrozando cosas, no importa que sea piedra, carne o acero. Sin embargo, el desgarrador gris rara vez se encuentra en solitario. Suelen vincularse a otras criaturas. Ya sea al nacer o cuando se hace adulto, un desgarrador gris seguir&aacute; a su amo donde quiera que vaya, tray&eacute;ndole ofrendas de carne y protegi&eacute;ndole mientras duerme. Encontrar a un desgarrador sin v&iacute;nculo es toda una suerte, si vives para venderlo.</p>\n<p>Instinto: Servir.</p>\n<ul>\n<li>Hacer pedazos algo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande"
+		},
+		{
+			"id": "Dragon",
+			"name": "Dragón",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 4"
+				},
+				"specialQualities": {
+					"value": "Sangre elemental, Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>Son los mayores y m&aacute;s terribles de los monstruos que pueden encontrarse en este mundo.</p>\n<p>Instinto: Gobernar.</p>\n<ul>\n<li>Someter los elementos a su voluntad.</li>\n<li>Exigir un tributo.</li>\n<li>Actuar con desd&eacute;n.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"escabroso\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"},{\"value\":\"terrorífico\"},{\"value\":\"cauto\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "corto alcance, escabroso, solitario, enorme, terrorífico, cauto, acaparador"
+		},
+		{
+			"id": "Apocalypse Dragon",
+			"name": "Dragón del Apocalipsis",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 4"
+				},
+				"specialQualities": {
+					"value": "Piel metálica de dos centímetros y medio de grosor, Conocimiento sobrenatural, Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>Todo acabar&aacute; con el mundo en llamas. Los &aacute;rboles, la tierra y el mismo aire. Caer&aacute; sobre las llanuras y monta&ntilde;as, no desde m&aacute;s all&aacute; de este mundo, sino venido de su interior. Nacido del &uacute;tero de la propia tierra llegar&aacute; el Drag&oacute;n que Terminar&aacute; con el Mundo. A su paso todo se convertir&aacute; en bilis y cenizas. Dungeon World ser&aacute; un mundo moribundo, carente de vida, a la deriva por el espacio entre los planos. Dicen que adorar al Drag&oacute;n del Apocalipsis es una invitaci&oacute;n a la locura. Dicen que amarlo es conocer el olvido. Su despertar est&aacute; pr&oacute;ximo.</p>\n<p>Instinto: Terminar con el mundo.</p>\n<ul>\n<li>Poner en marcha un desastre.</li>\n<li>Aliento elemental.</li>\n<li>Actuar con perfecta previsi&oacute;n.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"escabroso\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"},{\"value\":\"mágico\"},{\"value\":\"divino\"}]",
+			"tagsString": "corto alcance, contundente, escabroso, solitario, enorme, mágico, divino"
+		},
+		{
+			"id": "Deep Elf Assassin",
+			"name": "Elfo Oscuro, Asesino",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>No fue algo tan sencillo como una guerra por una cuesti&oacute;n de religi&oacute;n o territorio. No fue la desavenencia de las reinas lo que provoc&oacute; la gran ruptura de los elfos. El mundo empeque&ntilde;eci&oacute; a causa de las razas menores. La gloria que todos los elfos hab&iacute;an creado se agrietaba como el cristal. Entonces, algunos eligieron separarse del mundo y, descompuestos por el llanto, dieron la espalda a hombres y enanos. Pero hubo otros que fueron vencidos por algo nuevo. Un sentimiento que ning&uacute;n elfo hab&iacute;a sentido antes. Rencor. El odio llen&oacute; los corazones de estos elfos, los corrompi&oacute; y se volvieron contra sus primos m&aacute;s d&eacute;biles. A&uacute;n sobreviven algunos de aquel gran &eacute;xodo hacia las profundidades. Algunos se esconden entre nosotros con sus afiliadas hojas impregnadas de veneno de ara&ntilde;a, infligiendo el m&aacute;s raro de los castigos: la venganza &eacute;lfica.</p>\n<p>Instinto: Odiar a las razas de la superficie.</p>\n<ul>\n<li>Envenenarlos.</li>\n<li>Lanzar un conjuro de magia antigua.</li>\n<li>Llamar a los refuerzos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, grupo, inteligente, organizado"
+		},
+		{
+			"id": "Deep Elf Swordmaster",
+			"name": "Elfo Oscuro, Maestro de la Espada",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Hace eras que los elfos de las profundidades perdieron la gentil y dulce paz de sus luminosos primos, pero la gracia no les abandon&oacute;. Se mueven con una velocidad y belleza que har&iacute;a llorar a cualquier guerrero. Siguieron practicando en la oscuridad. La maldad ha te&ntilde;ido su manera de luchar con la espada, manifestando una patente crueldad. Los l&aacute;tigos y hojas aserradas han remplazado a las brillantes lanzas con banderolas con que combaten los elfos de la superficie. Los maestros de la espada de los clanes elfos de las profundidades no solo intentan matar, sino castigar a sus enemigos con cada tajo de sus espadas, usando la crueldad y el dolor como moneda de cambio.</p>\n<p>Instinto: Castigar a los infieles.</p>\n<ul>\n<li>Infligir dolor sin medida.</li>\n<li>Usar la oscuridad en su beneficio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, grupo, inteligente, organizado"
+		},
+		{
+			"id": "Deep Elf Priest",
+			"name": "Elfo Oscuro, Sacerdote",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Conexión divina"
+				}
+			},
+			"details": {
+				"biography": "<p>Los esp&iacute;ritus de los &aacute;rboles y la doncella del sol quedan lejos, muy lejos del hogar en las profundidades en las que habitan estos elfos oscuros, donde se encontraron a los nuevos dioses que esperaban que sus hijos vinieran a casa. Los dioses de las ara&ntilde;as, los bosques f&uacute;ngicos y otras cosas susurran en las cavernas olvidadas. Los elfos oscuros entraron en sinton&iacute;a con el nuevo mundo a su alrededor, escucharon decididos a los nuevos dioses y encontraron una nueva fuente de poder. El odio llam&oacute; al odio, tejiendo nuevas y oscuras alianzas. Incluso entre sus maliciosas filas, la piedad encontr&oacute; una forma de manifestarse.</p>\n<p>Instinto: Instar a la venganza divina.</p>\n<ul>\n<li>Tejer conjuros de odio y maldad.</li>\n<li>Motivar a los elfos de las profundidades.</li>\n<li>Transmitir el conocimiento divino.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"divino\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, solitario, divino, inteligente, organizado"
+		},
+		{
+			"id": "Chaos Spawn",
+			"name": "Engendro del Caos",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma caótica"
+				}
+			},
+			"details": {
+				"biography": "<p>Expulsado de la ciudad, un sectario es acogido en pueblos y aldeas. Cuando le descubren all&iacute;, huye a las colinas y deja muestras de su devoci&oacute;n en las paredes de una cueva. De nuevo es encontrado y lo persiguen con cuchillos y antorchas hacia las profundidades, arrastr&aacute;ndose m&aacute;s y m&aacute;s hacia adentro hasta que, en lo m&aacute;s profundo, se desorienta. Primero olvida su nombre. Luego olvida su forma, pero sus dioses del caos, los m&aacute;s amados, le bendicen con una nueva.</p>\n<p>Instinto: Debilitar el orden establecido.</p>\n<ul>\n<li>Reescribir la realidad.</li>\n<li>Desatar el caos contenido.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"amorfo\"}]",
+			"tagsString": "cerca, corto alcance, solitario, amorfo"
+		},
+		{
+			"id": "Chuul",
+			"name": "Khuul",
+			"attributes": {
+				"damage": {
+					"piercing": "penentrante 3"
+				},
+				"specialQualities": {
+					"value": "Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>Tu peor pesadilla de marisco hecha realidad. Una feroz mezcla de hombre y cangrejo de r&iacute;o, maldecido con una inteligencia primaria y bendecido con un par de pinzas afiladas como cuchillas. En las apestosas lagunas de aguas estancadas de las cavernas habitan cosas extra&ntilde;as, y el khuul es una de ellas. Si ves a uno, lo mejor es sacar una maza pesada para abrir su caparaz&oacute;n y un poco de mantequilla. Mmmmm.</p>\n<p>Instinto: Cortar.</p>\n<ul>\n<li>Partir algo en dos con sus poderosas pinzas.</li>\n<li>Retirarse al agua.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"escabroso\"},{\"value\":\"grupo\"},{\"value\":\"grande\"},{\"value\":\"cauto\"}]",
+			"tagsString": "cerca, corto alcance, escabroso, grupo, grande, cauto"
+		},
+		{
+			"id": "Magmin",
+			"name": "Magmino",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Sangre fogosa"
+				}
+			},
+			"details": {
+				"biography": "<p>Industriosos y del tama&ntilde;o de un enano, los magminos son uno de los habitantes de Dungeon World que moran a mayor profundidad. Se les puede encontrar en sus ciudades de lat&oacute;n y obsidiana construidas cerca del n&uacute;cleo fundido del planeta. All&iacute; los magminos viven una vida dedicada a la artesan&iacute;a, en especial aquella que tiene que ver con el fuego y la creaci&oacute;n de objetos m&aacute;gicos relacionados con &eacute;l. Gru&ntilde;ones y hura&ntilde;os, no suelen dignarse a hablar con aquellos que se presentan a sus puertas, ni siquiera con aquellos que han encontrado una manera de sobrevivir al calor infernal. Y aun as&iacute;, poco respetan m&aacute;s que los objetos cuidadosamente elaborados; si un magmino le ense&ntilde;a a alguien el oficio de la forja significa que aprender&aacute; algunos secretos desconocidos por los herreros de la superficie. Como tantas otras cosas, visitar a un magmino es una apuesta que puede salir bien o mal.</p>\n<p>Instinto: Fabricar.</p>\n<ul>\n<li>Ofrecer un trato o intercambio.</li>\n<li>Atacar con fuego o magia.</li>\n<li>Proporcionar el objeto adecuado, a cambio de un precio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, corto alcance, horda, inteligente, organizado, acaparador"
+		},
+		{
+			"id": "Minotaur",
+			"name": "Minotauro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Sentido de la dirección infalibre"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Cabeza de hombre y cuerpo de toro. No, espera, es al rev&eacute;s. La cabeza es de toro y el cuerpo de un hombre. &iquest;Tienen pezu&ntilde;as? &iquest;Verdad? Recuerdo que el viejo rey dijo algo sobre un laberinto. &iexcl;Maldici&oacute;n! Sabes que no se me da bien pensar bajo tanta presi&oacute;n. &iquest;C&oacute;mo era? &iexcl;Oh, dioses! Creo que se acerca&hellip;.</p>\n</blockquote>\n<p>Instinto: Retener.</p>\n<ul>\n<li>Confundirlos.</li>\n<li>Hacer que se pierdan.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande"
+		},
+		{
+			"id": "Naga",
+			"name": "Naga",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Ambiciosa y territorial por encima de todo, rara vez se encuentra a una naga desprovista de una nutrida y maliciosa secta de seguidores. Las ver&aacute;s en muchos pueblos de monta&ntilde;a: la marca de una serpiente garabateada en una taberna; una iglesia local quemada hasta los cimientos; gente que se pierde en las minas; hombres y mujeres llevando la marca de la serpiente. En el centro de todo hay una naga, una antigua raza ahora sumida en la oscuridad, con su enroscado cuerpo serpentino rematado por la cabeza de un hombre. Existen variantes de estas criaturas dependiendo de su estirpe y prop&oacute;sito original, pero todas son expertas manipuladoras y potencias m&aacute;gicas a tener en cuenta.</p>\n<p>Instinto: Liderar.</p>\n<ul>\n<li>Enviar a la muerte a un seguidor.</li>\n<li>Utilizar magia antigua.</li>\n<li>Ofrecer un negocio o trato.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"},{\"value\":\"acaparador\"},{\"value\":\"mágico\"}]",
+			"tagsString": "cerca, corto alcance, solitario, inteligente, organizado, acaparador, mágico"
+		},
+		{
+			"id": "Salamander",
+			"name": "Salamandra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Excavar"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>La excavaci&oacute;n sac&oacute; a la luz lo que los informes describen como un portal de basalto. Piedra negra grabada con runas fundidas. Cuando lo desenterraron, los magos declararon que estaba inactivo, pero pruebas posteriores demostraron que era una afirmaci&oacute;n incorrecta. Desapareci&oacute; todo el grupo de trabajo. Cuando llegamos, el portal brillaba d&eacute;bilmente. Su luz llenaba toda la caverna. Desde la entrada pudimos ver la zona llena de aquellas criaturas, eran como figuras humanas con pieles rojas y naranjas, altas como un ogro pero con una cola de serpiente donde deber&iacute;an estar sus piernas. Estaban vestidas, algunas con armaduras de cristal negro. Hablaban entre s&iacute; empleando una lengua que sonaba como el aceite derramado sobre el fuego. Dije que nos fu&eacute;ramos, pero el sargento no quiso escucharme. Ya hab&eacute;is le&iacute;do lo que sucedi&oacute; a continuaci&oacute;n, se&ntilde;or. S&eacute; que soy el &uacute;nico que regres&oacute;, pero os digo la verdad. Ahora el portal est&aacute; abierto. &iexcl;Esto no es m&aacute;s que el principio!</p>\n</blockquote>\n<p>Instinto: Consumir en llamas.</p>\n<ul>\n<li>Invocar fuego elemental.</li>\n<li>Hacer desaparecer los enga&ntilde;os.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"medio alcance\"},{\"value\":\"horda\"},{\"value\":\"grande\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"},{\"value\":\"planar\"}]",
+			"tagsString": "cerca, corto alcance, medio alcance, horda, grande, inteligente, organizado, planar"
+		}
+	]
+}
