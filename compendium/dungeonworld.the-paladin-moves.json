@@ -101,7 +101,7 @@
         {
             "id": "Setup Strike",
             "name": "Ataque organizado",
-            "description": "<p>Cuando hagas el movimiento de Sajar y Rajar, elige un compañero. Su siguiente ataque contra tu objetivo hace +1d4 de daño.</p>"
+            "description": "<p>Cuando hagas el movimiento de Saja-Raja, elige un compañero. Su siguiente ataque contra tu objetivo hace +1d4 de daño.</p>"
         },
         {
             "id": "Smite",
@@ -116,7 +116,7 @@
         {
             "id": "Tandem Strike",
             "name": "Ataque combinado",
-            "description": "<p>Reemplaza a Ataque organizado</p>\n<p>Cuando hagas el movimiento de Sajar y Rajar, elige un compañero. Su siguiente ataque contra tu objetivo hace +1d4 de daño y además recibe +1 a la siguiente tirada contra el mismo objetivo.</p>"
+            "description": "<p>Reemplaza a Ataque organizado</p>\n<p>Cuando hagas el movimiento de Saja-Raja, elige un compañero. Su siguiente ataque contra tu objetivo hace +1d4 de daño y además recibe +1 a la siguiente tirada contra el mismo objetivo.</p>"
         },
         {
             "id": "Voice Of Authority",

@@ -51,12 +51,12 @@
         {
             "id": "Duelist’s Block",
             "name": "Parada de duelista",
-            "description": "<p>Remplaza a Defensa de duelista</p>\n<p>Cuando realices el movimiento de Sajar y Rajar recibes +2 armadura en la siguiente tirada</p>"
+            "description": "<p>Remplaza a Defensa de duelista</p>\n<p>Cuando realices el movimiento de Saja-Raja recibes +2 armadura en la siguiente tirada</p>"
         },
         {
             "id": "Duelist’s Parry",
             "name": "Defensa de duelista",
-            "description": "<p>Cuando realices el movimiento de Sajar y Rajar recibes +1 armadura en la siguiente tirada.</p>"
+            "description": "<p>Cuando realices el movimiento de Saja-Raja recibes +1 armadura en la siguiente tirada.</p>"
         },
         {
             "id": "Eldritch Chord",
