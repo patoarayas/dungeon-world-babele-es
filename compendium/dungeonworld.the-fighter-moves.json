@@ -81,7 +81,7 @@
         {
             "id": "Scent Of Blood",
             "name": "Olor a sangre",
-            "description": "<p>Cuando hagas Sajar y Rajar a un enemigo con éxito, tu siguiente ataque contra el mismo objetivo hace +1d4 de daño.</p>"
+            "description": "<p>Cuando hagas Saja-Raja a un enemigo con éxito, tu siguiente ataque contra el mismo objetivo hace +1d4 de daño.</p>"
         },
         {
             "id": "Seeing Red",
@@ -101,12 +101,12 @@
         {
             "id": "Superior Warrior",
             "name": "Gerrero supremo",
-            "description": "<p>Cuando hagas Sajar y Rajar y sacas un 12+, haces daño, evitas el ataque y además impresionas, acobardas o asustas a tu enemigo.</p>"
+            "description": "<p>Cuando hagas Saja-Raja y sacas un 12+, haces daño, evitas el ataque y además impresionas, acobardas o asustas a tu enemigo.</p>"
         },
         {
             "id": "Taste Of Blood",
             "name": "Blut geleckt",
-            "description": "<p>Reemplaza a Olor a sangre</p>\n<p>Cuando hagas Sajar y Rajar a un enemigo con éxito, tu siguiente ataque contra el mismo objetivo hace +1d8 de daño.</p>"
+            "description": "<p>Reemplaza a Olor a sangre</p>\n<p>Cuando hagas Saja-Raja a un enemigo con éxito, tu siguiente ataque contra el mismo objetivo hace +1d8 de daño.</p>"
         },
         {
             "id": "Through Death’s Eyes",
