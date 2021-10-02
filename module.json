@@ -19,6 +19,6 @@
 
 
   "url": "https://github.com/patoarayas/dungeon-world-babele-es",
-  "manifest": "https://raw.githubusercontent.com/patoarayas/dungeon-world-babele-es/master/module.json",
-  "download": "https://github.com/patoarayas/dungeon-world-babele-es/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/patoarayas/dungeon-world-babele-es/gm-screen/module.json",
+  "download": "https://github.com/patoarayas/dungeon-world-babele-es/archive/gm-screen.zip"
 }
