@@ -48,7 +48,7 @@ Cualquier sugerencia o comentario es bienvenido. También puedes hacer fork de e
 Thanks to:
 - JuanV from the Foundry's Spanish Discord for getting the permission from the editor.
 - Hirunatan for find and fix various typos.
-- MickyPardo for translating the monster compendia and the gm screen.
+- MickyPardo for translating the monster compendia and the GM screen.
 
 
 Agradecimientos a:
