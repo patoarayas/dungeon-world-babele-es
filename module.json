@@ -2,9 +2,9 @@
   "name": "dungeon-world-babele-es",
   "title": "Dungeon World Babele Spanish",
   "description": "Traducción de Dungeon World al español mediante babele (Es necesario tener el módulo Babele instalado y activado) - Dungeon World Spanish translation using Babele (You must have Babele module installed and activated)",
-  "version": "0.3",
+  "version": "0.4",
   "minimumCoreVersion" : "0.6.0",
-  "compatibleCoreVersion":"0.7.9",
+  "compatibleCoreVersion":"0.8.9",
   "author": "patoarayas",
   "esmodules": ["babele-register.js"],
   "scripts": [],
@@ -19,6 +19,6 @@
 
 
   "url": "https://github.com/patoarayas/dungeon-world-babele-es",
-  "manifest": "https://raw.githubusercontent.com/patoarayas/dungeon-world-babele-es/monster-compendium/module.json",
-  "download": "https://github.com/patoarayas/dungeon-world-babele-es/archive/monster-compendium.zip"
+  "manifest": "https://raw.githubusercontent.com/patoarayas/dungeon-world-babele-es/master/module.json",
+  "download": "https://github.com/patoarayas/dungeon-world-babele-es/archive/master.zip"
 }
