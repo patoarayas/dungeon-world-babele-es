@@ -1,0 +1,351 @@
+{
+	"label": "Monstruos - 02 Habitantes del Pantano",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Fire Eels",
+			"name": "Anguila de Fuego",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Aceite inflamable, Acuático"
+				}
+			},
+			"details": {
+				"biography": "<p>Estas extra&ntilde;as criaturas no son mayores ni m&aacute;s listas que sus iguales mundanos. Poseen la misma naturaleza violenta. Tienen una ventaja respecto a sus parientes: una secreci&oacute;n oleosa que rezuma de su piel y las hace dif&iacute;ciles de atrapar. Y adem&aacute;s de eso, con un giro de su cuerpo pueden prender fuego a ese l&iacute;quido, dejando charcos de aceite ardiendo sobre la superficie del agua para asar a presas y predadores por igual. He o&iacute;do que esas cosas pringosas sirven como ingrediente para el equipo resistente al fuego, pero tienes que atrapar una primero.</p>\n<p>Instinto: Prender.</p>\n<ul>\n<li>Prender fuego a alguien o algo (tambi&eacute;n bajo el agua).</li>\n<li>Consumir a una presa mientras arde.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"horda\"},{\"value\":\"diminuto\"},{\"value\":\"toque\"}]",
+			"tagsString": "horda, diminuto, toque"
+		},
+		{
+			"id": "Bakunawa",
+			"name": "Bakunawa",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>La hermana del drag&oacute;n tortuga es una poderosa reina serpiente. Diez metros de escamas y m&uacute;sculo que, seg&uacute;n se dice, se despiertan hambrientos cuando el sol se oculta. Le atrae la luz brillante en la oscuridad y, como cualquier serpiente, la bakunawa es escurridiza. Primero intentar&aacute; enga&ntilde;ar y despistar, atacando de manera violenta solo cuando no haya otra opci&oacute;n. Pero cuando lo hace, sus fauces son lo bastante fuertes como para romper el casco de un bote y atravesar una o dos armaduras de placas. Entr&eacute;gale tus tesoros a la avariciosa serpiente y puede que te deje en paz.</p>\n<p>Instinto: Devorar.</p>\n<ul>\n<li>Atraer a su presa con mentiras e ilusiones.</li>\n<li>Arremeter contra una fuente de luz.</li>\n<li>Devorar.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"inteligente\"},{\"value\":\"escabroso\"},{\"value\":\"contundente\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande, inteligente, escabroso, contundente"
+		},
+		{
+			"id": "Basilisk",
+			"name": "Basilisco",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Pocos han visto un basilisco y han podido contarlo. &iquest;Lo pillas? &iquest;Ver un basilisco? Veo que no os gustan los chistes de basiliscos. Perd&oacute;n, s&eacute; que est&aacute;n buscando algo &uacute;til, mis se&ntilde;ores. Cosas serias, entiendo. Aun sin su habilidad para convertir tu carne en piedra con su mirada, el basilisco es una criatura peligrosa. Se parece un poco a una rana, con ojos bulbosos y seis patas dise&ntilde;adas para saltar. Tambi&eacute;n se parece un poco a un caim&aacute;n, con unas mand&iacute;bulas poderosas y dientes de sierra. Cubierto de escamas p&eacute;treas y muy duro de matar. Mejor evitarlo si es posible.</p>\n</blockquote>\n<p>Instinto: Hacer una colecci&oacute;n de estatuas nueva.</p>\n<ul>\n<li>Convertir la carne en piedra con la mirada.</li>\n<li>Retirarse a un laberinto de piedra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, solitario, acaparador"
+		},
+		{
+			"id": "Crocodilian",
+			"name": "Cocodrilo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Anfibio, Camuflaje"
+				}
+			},
+			"details": {
+				"biography": "<p>Un cocodrilo muy, muy grande. En serio. Muy grande.</p>\n<p>Instinto: Comer.</p>\n<ul>\n<li>Atacar a una v&iacute;ctima desprevenida.</li>\n<li>Escaparse por el agua.</li>\n<li>Agarrar algo con fuerza entre sus fauces.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, grupo, grande"
+		},
+		{
+			"id": "Coutal",
+			"name": "Couatl",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Alas, Halo"
+				}
+			},
+			"details": {
+				"biography": "<p>Los dioses nos dieron al couatl como desaf&iacute;o directo a la degradaci&oacute;n y suciedad del mundo. Como si dijeran, &laquo;hay belleza, incluso en este sombr&iacute;o lugar&raquo;. Una serpiente que vuela con alas enjoyadas, estas criaturas brillan con una tenue luz, como el sol atravesando un cristal tintado. Brillante, sabia y tranquila, un couatl suele saber muchas cosas y ver muchas m&aacute;s; puede que seas capaz de llegar a un acuerdo para que te proporcione alguna informaci&oacute;n a cambio de algo. Buscan limpiar, purgar y convertir este oscuro mundo en un lugar mejor. L&aacute;stima que haya tan pocos. Los dioses son crueles.</p>\n<p>Instinto: Limpiar.</p>\n<ul>\n<li>Juzgar a una persona o lugar.</li>\n<li>Invocar fuerzas divinas para limpiar.</li>\n<li>Ofrecer informaci&oacute;n a cambio de un servicio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"taimado\"}]",
+			"tagsString": "cerca, solitario, inteligente, taimado"
+		},
+		{
+			"id": "Dragon Whelp",
+			"name": "Cría de Dragón",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Alas, Sangre elemental"
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Qu&eacute;? &iquest;Cre&iacute;as que ten&iacute;an un kil&oacute;metro y medio de largo? &iquest;Cre&iacute;as que no los hab&iacute;a de tallas m&aacute;s peque&ntilde;as? Claro, puede que no sean m&aacute;s grandes que un perro ni m&aacute;s listas que un simio, pero una cr&iacute;a de drag&oacute;n puede eructar una infernal bola de fuego que funda tu armadura y hacerte caer, gritando, sobre el barro. Sus escamas son tambi&eacute;n m&aacute;s blandas que las de sus parientes m&aacute;s grandes, pero siguen pudiendo desviar una flecha o un tajo mal apuntado. El poder no siempre es sin&oacute;nimo de tama&ntilde;o.</p>\n<p>Instinto: Aumentar su poder.</p>\n<ul>\n<li>Crear una guarida desde donde desplegar su poder.</li>\n<li>Apelar a los lazos familiares.</li>\n<li>Exigir juramentos de servidumbre.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"medio alcance\"},{\"value\":\"solitario\"},{\"value\":\"pequeño\"},{\"value\":\"inteligente\"},{\"value\":\"cautto\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, medio alcance, solitario, pequeño, inteligente, cauto, acaparador"
+		},
+		{
+			"id": "Doppelgänger",
+			"name": "Doppelgänger",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Cambio de forma"
+				}
+			},
+			"details": {
+				"biography": "<p>Su forma natural, si llegas a verla, es espantosa. Es como una criatura que hubiera dejado de desarrollarse antes de decidir si era elfo, humano o enano. Puede que as&iacute; sea como es un doppelg&auml;nger: algo deforme, sin una forma propia. Puede que todos ellos busquen un lugar en el que encajen. Si sales a recorrer mundo, cuando vuelvas aseg&uacute;rate de que tus amigos son quienes crees que son. Tu amigo podr&iacute;a estar muerto en el fondo de alg&uacute;n pozo y en su lugar podr&iacute;a haber un doppelg&auml;nger. Pero dependiendo del tipo de amigos que tengas, podr&iacute;a ser un cambio para mejor.</p>\n<p>Instinto: Infiltrarse.</p>\n<ul>\n<li>Asumir la forma de una persona cuya carne haya probado.</li>\n<li>Usar la identidad de otro para sacar ventaja.</li>\n<li>Destrozar la reputaci&oacute;n de alguien.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"taimado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, solitario, taimado, inteligente"
+		},
+		{
+			"id": "Dragon Turtle",
+			"name": "Dragón Tortuga",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Caparazón, Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>Bakunawa tiene un hermano. Mientras que la primera es de ira r&aacute;pida y ans&iacute;a el oro, el drag&oacute;n tortuga es lento y robusto. Ella es un cuchillo, &eacute;l un escudo. Una enorme tortuga que aguarda en el fango y el lodo mientras pasan a&ntilde;os en los que el cieno, y a veces matorrales e incluso &aacute;rboles, se acumulan sobre su espalda. En alguna ocasi&oacute;n un clan entero de goblins despistados construir&aacute; sus caba&ntilde;as y cocinar&aacute; sus magras comidas sobre el caparaz&oacute;n del drag&oacute;n tortuga. Sus fauces pueden ser lentas como un glaciar, pero pueden destrozar los muros de un castillo. Cuidado donde pisas.</p>\n<p>Instinto: Resistirse al cambio.</p>\n<ul>\n<li>Proseguir su camino implacablemente.</li>\n<li>Usar su peso en su propio beneficio.</li>\n<li>Destruir estructuras y edificios.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"},{\"value\":\"cauto\"}]",
+			"tagsString": "corto alcance, solitario, enorme, cauto"
+		},
+		{
+			"id": "Ekek",
+			"name": "Ekek",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Brazos alados"
+				}
+			},
+			"details": {
+				"biography": "<p>Gente p&aacute;jaro fea y arrugada. Puede que una vez, en un pasado lejano, fueran una raza de hombres angelicales de los cielos, pero ahora devoran con sus afilados dientes las ratas que pueden pescar en la neblina con los espolones de sus pies. Entienden la lengua de los hombres y los enanos, pero hablan con poco m&aacute;s que balbuceos, imitando las palabras que escuchan con una risa burlona. Resulta escalofriante ver una bestia tan parecida a un hombre y un p&aacute;jaro pero que no sea exactamente ninguna de las dos.</p>\n<p>Instinto: Patear.</p>\n<ul>\n<li>Atacar desde el aire.</li>\n<li>Ejecutar las &oacute;rdenes de una criatura m&aacute;s poderosa.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"}]",
+			"tagsString": "cerca, horda"
+		},
+		{
+			"id": "Will-o-wisp",
+			"name": "Fuego Fatuo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Cuerpo de luz"
+				}
+			},
+			"details": {
+				"biography": "<p>Mira, viajero perdido en el pantano, un farol flotando en la oscuridad. Hay esperanza en esa resplandeciente luz. Llamas su atenci&oacute;n, pero no hay respuesta. Empieza a desvanecerse a medida que la persigues chapoteando entre el fango, cansando por la persecuci&oacute;n, esperando ser guiado hasta un lugar seguro. Una historia muy triste que siempre acaba mal. Estas criaturas son un misterio. Algunos dicen que son fantasmas, otros que son faros de luz fe&eacute;rica. Nadie lo sabe. No obstante, son crueles. Todos est&aacute;n de acuerdo en eso.</p>\n<p>Instinto: Desorientar.</p>\n<ul>\n<li>Llevar a alguien por el camino equivocado.</li>\n<li>Trazar un camino hasta el peor lugar posible.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"solitario\"},{\"value\":\"diminuto\"},{\"value\":\"mágico\"}]",
+			"tagsString": "medio alcance, solitario, diminuto, mágico"
+		},
+		{
+			"id": "Hydra",
+			"name": "Hidra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Muchas cabezas, Solo muere si se le impacta en el corazón."
+				}
+			},
+			"details": {
+				"biography": "<p>Parecida a un drag&oacute;n, aunque no tiene alas. M&uacute;ltiples cabezas (nueve de nacimiento) emergen de un tronco musculoso, serpenteando en al aire siguiendo sinuosos patrones. Una hidra es algo temible, el terror escamoso de la ci&eacute;naga. Las m&aacute;s viejas poseen m&aacute;s cabezas, ya que cada intento de matarlas las hace m&aacute;s fuertes. Corta una cabeza y en su lugar crecer&aacute;n dos m&aacute;s. Solo un golpe fuerte y directo al coraz&oacute;n puede terminar con su vida. Solamente eso.</p>\n<p>Instinto: Crecer.</p>\n<ul>\n<li>Atacar a m&uacute;ltiples enemigos al mismo tiempo.</li>\n<li>Regenerar una parte del cuerpo (especialmente una cabeza).</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande"
+		},
+		{
+			"id": "Lizardman",
+			"name": "Hombre Lagarto",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>Un hechicero viajero me dijo una vez que los hombres lagarto son anteriores a nosotros. Que antes que elfos, enanos y hombres construyeran sus primeras viviendas de adobe, una raza de orgullosos reyes lagarto horad&oacute; la tierra. Viv&iacute;an en palacios de cristal y adoraban a sus propios dioses escamosos. Puede que sea verdad o puede que no, pero ahora viven en lugares que los hombres olvidaron o abandonaron, fabricando herramientas a partir del cristal de los volcanes y emprendi&eacute;ndola con las creaciones del mundo civilizado. Puede que solo quieran recuperar lo que perdieron.</p>\n<p>Instinto: Destruir la civilizaci&oacute;n.</p>\n<ul>\n<li>Emboscar a los desprevenidos.</li>\n<li>Emprender un ataque anfibio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"sigiloso\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, grupo, sigiloso, inteligente, organizado"
+		},
+		{
+			"id": "Frogman",
+			"name": "Hombre Rana",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>Croac, croac, croac. Peque&ntilde;os duendecillos verrugosos. Estas criaturas son la broma pesada de alg&uacute;n mago o diosecillo. Caminan erguidos como hombres, se visten con ropas que encuentran y tienen una corte en sus aldeas. Hablan una versi&oacute;n estrepitosa y simplificada de la lengua humana y est&aacute;n permanentemente en lucha contra sus vecinos. Son codiciosos y est&uacute;pidos, pero lo bastante listos para saber cu&aacute;ndo tienen que defenderse. Algunos dicen tambi&eacute;n que sus sacerdotes son bastante buenos curando. O puede que en realidad sean simplemente muy duros de matar.</p>\n<p>Instinto: Estar en guerra.</p>\n<ul>\n<li>Emprender un ataque anfibio.</li>\n<li>Curarse a una velocidad prodigiosa.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"pequeño\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, horda, pequeño, inteligente"
+		},
+		{
+			"id": "Kobold",
+			"name": "Kobold",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Conexión con un dragón"
+				}
+			},
+			"details": {
+				"biography": "<p>Algunos acostumbran a agrupar a estos hombres medio drag&oacute;n y medio rata con los orcos, osgos u hobgoblins. Sin embargo, son m&aacute;s listos y astutos que todos ellos. Los kobolds son esclavos obligados de los dragones, de los que anta&ntilde;o fueron archiveros y hechiceros a su servicio. Sus clanes, con nombres como Escamacero y Alablanca, se crean en torno a un drag&oacute;n y viven para servirle cumpliendo sus &oacute;rdenes. Ver a un kobold significa que hay otros m&aacute;s cerca. Y si hay m&aacute;s, entonces el drag&oacute;n no debe andar muy lejos.</p>\n<p>Instinto: Servir a los dragones.</p>\n<ul>\n<li>Poner una trampa.</li>\n<li>Llamar a un drag&oacute;n o sus aliados draconianos.</li>\n<li>Retirarse y reagruparse.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"pequeño\"},{\"value\":\"sigiloso\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, horda, pequeño, sigiloso, inteligente, organizado"
+		},
+		{
+			"id": "Medusa",
+			"name": "Medusa",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Mirada que convierte en piedra"
+				}
+			},
+			"details": {
+				"biography": "<p>Las medusas son hijas de una madre con serpientes por cabellos que las dio a luz en tiempos antiguos para que su nombre perviviera a lo largo de las eras. Habitan en lugares cercanos a la civilizaci&oacute;n, atrayendo a la gente a sus cuevas con promesas de belleza y riqueza sin parang&oacute;n. Versada en el arte, la medusa guarda extra&ntilde;as colecciones formadas por sus v&iacute;ctimas, petrificadas por siempre en un &eacute;xtasis de terror. Satisface su vanidad el saber que ella es lo &uacute;ltimo que ven antes de morir. Arrogantes, orgullosas y vengativas, buscan a su modo lo que tantos otros: compa&ntilde;&iacute;a para siempre.</p>\n<p>Instinto: Coleccionar.</p>\n<ul>\n<li>Convertir un miembro del cuerpo en piedra con una mirada.</li>\n<li>Atraer la mirada de alguien.</li>\n<li>Mostrar una terrible belleza oculta.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"taimado\"},{\"value\":\"inteligente\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, solitario, taimado, inteligente, acaparador"
+		},
+		{
+			"id": "Black Pudding",
+			"name": "Pudin Negro",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Amorfo"
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;C&oacute;mo puedes matar a un mont&oacute;n de pringue? &iquest;A un gran y fl&aacute;cido mont&oacute;n de pringue que resulta que quiere disolver tu armadura y sorberte? Es una buena pregunta que no tiene respuesta. Cu&eacute;ntanoslo cuando lo averig&uuml;es.</p>\n<p>Instinto: Disolver.</p>\n<ul>\n<li>Comerse el metal, la carne o la madera.</li>\n<li>Rezumar en alg&uacute;n lugar comprometido: comida, armadura, est&oacute;mago.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"amorfo\"}]",
+			"tagsString": "cerca, solitario, amorfo"
+		},
+		{
+			"id": "Swamp Shambler",
+			"name": "Reptador del Pantano",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma de pantano"
+				}
+			},
+			"details": {
+				"biography": "<p>A algunos elementales se los invoca en c&iacute;rculos sagrados pintados con tiza; a la mayor&iacute;a, de hecho. Es algo m&aacute;s o menos cient&iacute;fico. Sin embargo, otros no son tan disciplinados y no caen en las meticulosamente controladas pautas del fuego, el aire, el agua y la tierra. Algunos son la confluencia natural de las enredaderas, el lodo y los hongos. No piensan de la misma manera que lo har&iacute;a un hombre. No pueden ser comprendidos como lo har&iacute;a un elfo. Sencillamente, son como son. Esp&iacute;ritus del pantano. Reptando por el barro.</p>\n<p>Instinto: Conservar y crear pantanos.</p>\n<ul>\n<li>Pedir ayuda al mismo pantano.</li>\n<li>Fundirse con el pantano.</li>\n<li>Reestructurar su cuerpo en una nueva forma.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"mágico\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande, mágico"
+		},
+		{
+			"id": "Sahuagin",
+			"name": "Sajuagin",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": "Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>La viva imagen de un hombre mezclada con el hambre y los interminables dientes de un tibur&oacute;n. Voraces y llenas de odio, estas criaturas no se detienen hasta devorar todo lo vivo. No se puede razonar con ellas, controlarlas ni saciarlas. Son la personificaci&oacute;n del hambre y el ansia de sangre, salidas de las profundidades del oc&eacute;ano para asolar ciudades costeras y engullir aldeas isle&ntilde;as.</p>\n<p>Instinto: Derramar sangre.</p>\n<ul>\n<li>Morder una extremidad.</li>\n<li>Arrojar una lanza envenenada.</li>\n<li>Enloquecer ante la visi&oacute;n de la sangre.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"contundente\"},{\"value\":\"escabroso\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, contundente, escabroso, horda, inteligente"
+		},
+		{
+			"id": "Sauropod",
+			"name": "Sauropodo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Cuerpo cubierto de armadura"
+				}
+			},
+			"details": {
+				"biography": "<p>Son grandes y pesadas bestias que viven en lugares largo tiempo olvidados por las razas inteligentes del mundo. Amables si no se les molesta, pero poderosos si se provoca su ira. Arrollan a las criaturas m&aacute;s peque&ntilde;as con el mismo cuidado que nosotros ponemos para aplastar una hormiga con el pie. Si ves uno, ap&aacute;rtate y cont&eacute;mplalo con admiraci&oacute;n, pero no despiertes a la bestia.</p>\n<p>Instinto: Perdurar.</p>\n<ul>\n<li>Estampida.</li>\n<li>Derribar algo.</li>\n<li>Lanzar un rugido ensordecedor.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"enorme\"},{\"value\":\"cauto\"}]",
+			"tagsString": "corto alcance, grupo, enorme, cauto"
+		},
+		{
+			"id": "Troll",
+			"name": "Troll",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Regeneración"
+				}
+			},
+			"details": {
+				"biography": "<p>Alto, muy alto. Entre dos y tres metros cuando son j&oacute;venes o est&aacute;n d&eacute;biles. Cubiertos de una piel verrugosa y dura. Dientes grandes, con hirsuto pelo como el musgo del pantano y largas u&ntilde;as sucias. Algunos son verdes, otros grises y otros negros. Son territoriales, odi&aacute;ndose los unos a los otros y, c&oacute;mo no, tambi&eacute;n a nosotros. Son casi imposibles de matar a menos que tengas fuego o &aacute;cido de sobra. C&oacute;rtales un miembro y ver&aacute;s; en unos cuantos d&iacute;as habr&aacute; dos trolls donde antes hab&iacute;a uno. Un problema muy grave, como podr&aacute;s imaginar.</p>\n<p>Instinto: Destrozar.</p>\n<ul>\n<li>Eliminar los efectos de un ataque (a menos que estos provengan de una debilidad como el fuego o el &aacute;cido, t&uacute; decides).</li>\n<li>Lanzar algo o a alguien.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande"
+		}
+	]
+}

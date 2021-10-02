@@ -1,0 +1,335 @@
+{
+	"label": "Monstruos - 01 Moradores Cavernas",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Cloaker",
+			"name": "Ahogador",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Flexible"
+				}
+			},
+			"details": {
+				"biography": "<p>Algunas de estas criaturas descienden de la familia de un cruel mago que les oblig&oacute; a vivir sus vidas bajo tierra. Cuentan que sus experimentos le llevaron a temer la luz del sol y que pasaron las eras mientras se iba acercando a la no vida, arrastrando a los suyos con &eacute;l. Estas cosas parecen hombres en cierto sentido. Tienen cabeza, cuatro extremidades y dem&aacute;s. Solo que su piel es h&uacute;meda y correosa, y sus brazos son largos acabados en dedos &aacute;vidos. Como cabr&iacute;a esperar, odian toda forma de vida que arrastre el hedor del sol. Es dif&iacute;cil sacudirse esa envidia inculcada durante largos a&ntilde;os.</p>\n<p>Instinto: Negar la luz.</p>\n<ul>\n<li>Sujetar a alguien, enrosc&aacute;ndose para dejarle sin aliento.</li>\n<li>Arrojar a una criatura apresada.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"sigiloso\"},{\"value\":\"pequeño\"}]",
+			"tagsString": "cerca, corto alcance, solitario, sigiloso, pequeño"
+		},
+		{
+			"id": "Ankheg",
+			"name": "Ankheg",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Cavar"
+				}
+			},
+			"details": {
+				"biography": "<p>Un caparaz&oacute;n como una armadura de placas y unas poderosas mand&iacute;bulas son un problema. Un est&oacute;mago lleno de &aacute;cido capaz de hacer un agujero en un muro de piedra es algo a&uacute;n peor. Ya ser&iacute;a suficientemente malo que tuvieran el tama&ntilde;o de un insecto, pero estas cosas tienen el descaro de ser tan grandes como un caballo. &iexcl;Es antinatural! &iquest;Te parece bien que tiendan a ser sedentarias? Es f&aacute;cil decirlo. T&uacute; no tienes un ankheg viviendo bajo tus campos de ma&iacute;z.</p>\n<p>Instinto: Debilitar</p>\n<ul>\n<li>Socavar el suelo.</li>\n<li>Emerger del suelo.</li>\n<li>Disparar &aacute;cido consumiendo el metal y la carne.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, grupo, grande"
+		},
+		{
+			"id": "Spiderlord",
+			"name": "Araña Reina",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Excavar"
+				}
+			},
+			"details": {
+				"biography": "<p>Hasta las ara&ntilde;as tienen dioses a los que susurran sus oraciones desde sus redes.</p>\n<p>Instinto: Tejer redes (literal y metaf&oacute;ricamente).</p>\n<ul>\n<li>Enredar en telara&ntilde;a.</li>\n<li>Poner en marcha un plan.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"taimado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande, taimado, inteligente"
+		},
+		{
+			"id": "Maggot-Squid",
+			"name": "Calamar-Gusano",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Anfibio, Tentáculos paralizantes."
+				}
+			},
+			"details": {
+				"biography": "<p>Los dioses que crearon a estas criaturas gastaron una broma pesada a las gentes de los pueblos civilizados. El calamar-gusano tiene su cara cubierta de horribles tent&aacute;culos que se agitan y que, si te tocan, hacen que sientas como si te hubiera alcanzado un rayo. Te paraliza y te mastica lentamente mientras t&uacute; no puedes hacer nada por evitarlo. Mejor no llegar a eso.</p>\n<p>Instinto: Comer.</p>\n<ul>\n<li>Paralizar al contacto.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"pequeño\"}]",
+			"tagsString": "cerca, horda, pequeño"
+		},
+		{
+			"id": "Gelatinous Cube",
+			"name": "Cubo Gelatinoso",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Transparente"
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Cu&aacute;ntos aventureros dijeron por &uacute;ltima vez &laquo;&iexcl;Qu&eacute; raro! Este t&uacute;nel est&aacute; m&aacute;s limpio que el resto&raquo;? Demasiados, y todo por culpa de la amenaza transparente. Un gran masa informe &aacute;cida que se expande hasta llenar una peque&ntilde;a habitaci&oacute;n o corredor y luego se desliza lentamente por &eacute;l engullendo todo a su paso. No puede tragarse la piedra o el metal y a veces los retiene flotando en su cuerpo gelatinoso. &iexcl;Puag!</p>\n<p>Instinto: Limpiar.</p>\n<ul>\n<li>Ocupar el espacio aparentemente vac&iacute;o.</li>\n<li>Disolver.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"toque\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"sigiloso\"},{\"value\":\"amorfo\"}]",
+			"tagsString": "toque, solitario, grande, sigiloso, amorfo"
+		},
+		{
+			"id": "Earth Elemental",
+			"name": "Elemental de Tierra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Hecho de piedra"
+				}
+			},
+			"details": {
+				"biography": "<p>Nuestro cham&aacute;n dice que todas las cosas del mundo tienen un esp&iacute;ritu. Piedras, &aacute;rboles, r&iacute;os. Ahora que he visto la tierra agitarse bajo mis pies y unos pu&ntilde;os de piedra golpear a mis amigos hasta dejarlos medio muertos, me gustar&iacute;a creer a aquel viejo loco. El que vi era enorme, &iexcl;grande como una casa! Pareci&oacute; emerger furioso de la nada en un desprendimiento de rocas, con una voz que parec&iacute;a una avalancha. Ahora, en justicia, presento mis respetos.</p>\n<p>Instinto: Demostrar la fuerza de la tierra.</p>\n<ul>\n<li>Convertir el suelo en un arma.</li>\n<li>Fundirse con la piedra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"}]",
+			"tagsString": "corto alcance, contundente, solitario, enorme"
+		},
+		{
+			"id": "Dwarven Warrior",
+			"name": "Enano, Guerrero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Durante eras, los hombres creyeron que todos los enanos eran varones y que todos eran as&iacute;: guerreros estoicos y orgullosos pertrechados con hachas y armaduras de placas. Enanos rechonchos y barbudos deseosos de luchar que los empujaban ferozmente una y otra vez de vuelta a la superficie, fuera de sus t&uacute;neles. Eso solo demuestra lo poco que saben los hombres de las razas antiguas. Esta gente son solo la vanguardia y cumplen con su deber valerosamente para proteger las riquezas del reino enano. Si te ganas su confianza tendr&aacute;s un aliado de por vida. Si provocas su ira, puede que no tengas mucho tiempo para arrepentirte.</p>\n<p>Instinto: Defender.</p>\n<ul>\n<li>Hacerlos retroceder.</li>\n<li>Llamar refuerzos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, horda, organizado"
+		},
+		{
+			"id": "Fire Beetle",
+			"name": "Escarabajo de Fuego",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Lleno de llamas"
+				}
+			},
+			"details": {
+				"biography": "<p>&iexcl;Scarabaeus pyractomena! Qu&eacute; criatura tan deliciosa. Mira c&oacute;mo brilla su caparaz&oacute;n a la luz de nuestras antorchas. No te acerques tanto. Como puedes ver, son temperamentales. El fuego en sus entra&ntilde;as no solo es metaf&oacute;rico. Mira lo que pasa cuando le provoco. &iexcl;Aj&aacute;! &iexcl;Escupe fuego! No lo esperabas, &iquest;verdad? Por s&iacute; sola, si una de estas criaturas se acerca por detr&aacute;s, puede ser una incre&iacute;ble molestia para una granja o una aldea. Pero, &iquest;una nube de ellas? Hay un buen motivo para llamarlo conflagraci&oacute;n de escarabajos de fuego.</p>\n<p>Instinto: Prender llamas.</p>\n<ul>\n<li>Debilitar el suelo.</li>\n<li>Emerger de la tierra.</li>\n<li>Rociar llamas.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"horda\"},{\"value\":\"pequeño\"}]",
+			"tagsString": "medio alcance, horda, pequeño"
+		},
+		{
+			"id": "Goblin",
+			"name": "Goblin",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Nadie parece saber de dónde salieron estas cosas. Los elfos dice que fue culpa de los enanos, que los sacaron de un lugar oculto bajo la tierra. Los enanos dicen que son los hijos malos de los elfos, secuestrados al nacer y criados en la oscuridad. La verdad sobre este asunto es que los goblins han estado aquí y seguirán estando cuando todas las razas civilizadas hayan caído y desaparecido. Los goblins nunca mueren. Hay demasiados.</p>\n<p>Instinto: Multiplicarse.</p>\n<ul>\n<li>¡Cargad!</li>\n<li>Llamar a más goblins.</li>\n<li>Retirarse y volver con (muchos) más.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"pequeño\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, horda, pequeño, inteligente, organizado"
+		},
+		{
+			"id": "Goblin Orkaster",
+			"name": "Goblin Konjurador",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>&iexcl;Oh, dioses! &iquest;Qui&eacute;n les ha ense&ntilde;ado magia?</p>\n<p>Instinto: Extraer un poder superior a su tama&ntilde;o.</p>\n<ul>\n<li>Liberar un conjuro mal asimilado.</li>\n<li>Derramar caos m&aacute;gico.</li>\n<li>Usar a otros goblins como escudo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"solitario\"},{\"value\":\"pequeño\"},{\"value\":\"mágico\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "medio alcance, largo alcance, solitario, pequeño, mágico, inteligente, organizado"
+		},
+		{
+			"id": "Goliath",
+			"name": "Goliat",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Viven bajo la tierra porque ya no encajan en ning&uacute;n lugar. Obligados por los hombres y sus h&eacute;roes, una raza inmortal de poderosos titanes huy&oacute; de las llanuras y monta&ntilde;as en eras pret&eacute;ritas. Se vieron obligados a pasar sus d&iacute;as sumidos en la oscuridad, el odio y la ira al calor de los pozos de lava. Se cuenta que un terremoto es un beb&eacute; goliat naciendo. Alg&uacute;n d&iacute;a volver&aacute;n a reclamar lo que les pertenece.</p>\n<p>Instinto: Alzarse de nuevo.</p>\n<ul>\n<li>Hacer temblar la tierra.</li>\n<li>Retirarse para volver con m&aacute;s fuerza.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"grupo\"},{\"value\":\"enorme\"},{\"value\":\"organizado\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "corto alcance, contundente, grupo, enorme, organizado, inteligente"
+		},
+		{
+			"id": "Purple Worm",
+			"name": "Gusano Púrpura",
+			"attributes": {
+				"damage": {
+					"value": "d10+5",
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Excavar"
+				}
+			},
+			"details": {
+				"biography": "<p>&iexcl;I&auml;! &iexcl;I&auml;! &iexcl;El gusano p&uacute;rpura! Benditas sean tus sagradas babas. Caminamos, indignos, por sus miles de enormes t&uacute;neles. No somos m&aacute;s que sombras bajo su gloria viol&aacute;cea y fagocitadora. Meros ac&oacute;litos que, alg&uacute;n d&iacute;a, esperan volver al abrazo de sus fauces dentadas circulares. &iexcl;Que nos consuma! &iexcl;Que consuma nuestros hogares y aldeas para que podamos ser arrebatados de este mundo! &iexcl;I&auml;! &iexcl;I&auml;! &iexcl;Gusano p&uacute;rpura!</p>\n<p>Instinto: Consumir.</p>\n<ul>\n<li>Trag&aacute;rselo todo.</li>\n<li>Hacer t&uacute;neles a trav&eacute;s de la tierra y la piedra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"enorme\"}]",
+			"tagsString": "corto alcance, contundente, solitario, enorme"
+		},
+		{
+			"id": "Gargoyle",
+			"name": "Gárgola",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Alas"
+				}
+			},
+			"details": {
+				"biography": "<p>En realidad es algo muy triste. Guardianes creados por magos del pasado sin castillos que guardar. La misi&oacute;n sagrada de sus ancestros, transmitida en su sangre, les impulsa a buscar un lugar (principalmente ruinas, pero a veces puede ser una cueva en una colina o un barranco en una monta&ntilde;a) y protegerlo como si su amo a&uacute;n viviera all&iacute;. Son muy buenas localizando cosas valiosas enterradas en la tierra. Encuentra uno de esos reptiles alados y habr&aacute; un tesoro cerca. Pero ten cuidado, son dif&iacute;ciles de ver y tienden a moverse en manadas.</p>\n<p>Instinto: Proteger.</p>\n<ul>\n<li>Atacar aprovechando el elemento sorpresa.</li>\n<li>Alzar el vuelo.</li>\n<li>Fundirse con la mamposter&iacute;a.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"sigiloso\"},{\"value\":\"acaparador\"}]",
+			"tagsString": "cerca, horda, sigiloso, acaparador"
+		},
+		{
+			"id": "Cloaker",
+			"name": "Manto",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armadura"
+				},
+				"specialQualities": {
+					"value": "Parecer un manto"
+				}
+			},
+			"details": {
+				"biography": "<p>No te pongas ese manto, Gareth. No lo hagas. No sabes de d&oacute;nde ha salido. No es buena idea, avisado est&aacute;s. &iquest;Ves? &iexcl;Se ha movido! &iexcl;No estoy loco, Gareth, se ha movido! &iexcl;No lo hagas! &iexcl;No! &iexcl;GARETH!</p>\n<p>Instinto: Envolver.</p>\n<ul>\n<li>Envolver a los desprevenidos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"sigiloso\"}]",
+			"tagsString": "cerca, solitario, sigiloso"
+		},
+		{
+			"id": "Roper",
+			"name": "Morfolito",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Carne como piedra"
+				}
+			},
+			"details": {
+				"biography": "<p>Un capricho de la evoluci&oacute;n ha dado lugar al depredador m&aacute;s inteligente del subsuelo. Disfrazado como una formaci&oacute;n rocosa (normalmente una estalactita o estalagmita), el morfolito aguarda a que su presa se acerque. Cuando lo hace, ya se trate de una rata, un goblin o un aventurero temerario, una delgada masa de tent&aacute;culos emerge de la piel del morfolito. En un abrir y cerrar de ojos, un centenar de lazos arrastran a la aturdida presa hasta la boca del morfolito. Es sorprendentemente efectivo para ser una cosa que parece una piedra.</p>\n<p>Instinto: Emboscar.</p>\n<ul>\n<li>Atrapar a los desprevenidos.</li>\n<li>Desarmar a un enemigo.</li>\n<li>Masticar a alguien.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"solitario\"},{\"value\":\"grande\"},{\"value\":\"sigiloso\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, corto alcance, solitario, grande, sigiloso, inteligente"
+		},
+		{
+			"id": "Rot Grub",
+			"name": "Oruga Pudridora",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Excarvar carne"
+				}
+			},
+			"details": {
+				"biography": "<p>Esas cosas viven en tu piel, en tus &oacute;rganos o en tus globos oculares. Crecen ah&iacute; y luego, en un espect&aacute;culo sangriento y horrible, excavan en busca de una salida.</p>\n<p>Instinto: Infectar.</p>\n<ul>\n<li>Excavar bajo la piel.</li>\n<li>Poner huevos.</li>\n<li>Emerger de una criatura infectada.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"toque\"},{\"value\":\"horda\"},{\"value\":\"diminuto\"}]",
+			"tagsString": "toque, horda, diminuto"
+		},
+		{
+			"id": "Otyugh",
+			"name": "Otyugh",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Fiebre infecta"
+				}
+			},
+			"details": {
+				"biography": "<p>La llamada de apareamiento del otyugh es un horripilante grito atronador que suena como un cruce entre un elefante moribundo y un buitre ansioso. El otyugh pasa gran parte de su tiempo sumergido parcialmente en aguas infectas y prefiere comer basura antes que cualquier otra comida. Como resultado, a veces se vuelven grandes y fuertes comiendo v&iacute;sceras de orcos, goblins y otras criaturas infrahumanas de las cavernas. Ac&eacute;rcate demasiado y te ver&aacute;s arrastrado por uno de sus tent&aacute;culos con p&uacute;as hacia unas fauces pastosas con dientes como cuchillas. Si escapas con vida, mejor que visites a un m&eacute;dico o no tendr&aacute;s mucho tiempo para festejar tu victoria.</p>\n<p>Instinto: Ensuciar.</p>\n<ul>\n<li>Infectar a alguien con su fiebre infecta.</li>\n<li>Arrojar algo o a alguien.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"contundente\"},{\"value\":\"solitario\"},{\"value\":\"grande\"}]",
+			"tagsString": "cerca, corto alcance, contundente, solitario, grande"
+		},
+		{
+			"id": "Cave Rat",
+			"name": "Rata de las Cavernas",
+			"attributes": {
+				"damage": {
+					"piercing": "penetrante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Qui&eacute;n no ha visto una rata? Es igual, pero repugnante, m&aacute;s grande y sin miedo de ti. Quiz&aacute;s esta sea una prima de aquella que atrapaste o de la que mataste con un cuchillo en aquella sucia taberna de Darrow. Puede que est&eacute; aqu&iacute; para roer su venganza.</p>\n<p>Instinto: Devorar.</p>\n<ul>\n<li>Plagar.</li>\n<li>Hacer jirones algo (o a alguien).</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"escabroso\"},{\"value\":\"horda\"},{\"value\":\"pequeño\"}]",
+			"tagsString": "cerca, escabroso, horda, pequeño"
+		},
+		{
+			"id": "Troglodyte",
+			"name": "Troglodita",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Olvidados hace mucho, nuestros &uacute;ltimos ancestros habitan en cuevas en las zonas m&aacute;s salvajes del mundo. Apartados de nuestras ciudades y aldeas, de nuestras espadas de hierro y nuestro fuego, estos hombres-simio comen carne cruda con sus dedos de u&ntilde;as afiladas y sus dientes aserrados. Atacan las aldeas de las fronteras armados con porras y sobrepasando en n&uacute;mero a sus habitantes para robar ganado, herramientas o tomar prisioneros a los que arrastrar al interior de las colinas. Conocidos por su hedor y agresividad, son una antigua y moribunda raza que pronto olvidaremos que existi&oacute;.</p>\n<p>Instinto: Ensa&ntilde;arse con la civilizaci&oacute;n.</p>\n<ul>\n<li>Asaltar y retirarse.</li>\n<li>Utilizar las armas y la magia obtenida.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"grupo\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, grupo, organizado"
+		}
+	]
+}

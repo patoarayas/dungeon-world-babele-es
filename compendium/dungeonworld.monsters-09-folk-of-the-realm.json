@@ -1,0 +1,317 @@
+{
+	"label": "Monstruos - 09 Gentes del Reino",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Acolyte",
+			"name": "Acólito",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>No todos pueden ser el Sumo Sacerdote, dijeron. No todos pueden portar el Chapitel Blanco, dijeron. Limpia el suelo, me dijeron. Al Todopoderoso Ct&oacute;nico no le agrada un suelo tan sucio, &iquest;verdad? Dijeron que habr&iacute;a iluminaci&oacute;n y magia. &iexcl;Bah! Solo tengo las rodillas magulladas y las manos arrugadas. Ojal&aacute; fuera un cl&eacute;rigo.</p>\n</blockquote>\n<p>Instinto: Servir obedientemente.</p>\n<ul>\n<li>Seguir el dogma.</li>\n<li>Ofrecer recompensas eternas a cambio de empresas mortales.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Adventurer",
+			"name": "Aventurero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Entusiasmo inagotable"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Son la chusma del mundo. Un hatajo de hombres y mujeres embutidos en armaduras que se pasean por la ciudad, exhibiendo lo que a todas luces es magia y poder mundano m&aacute;s que suficiente para acabar con ella. Llevan sacos y sacos de bot&iacute;n, goteante a&uacute;n de la sangre del pobre bastardo al que hayan tenido que matar para conseguirlo. En mi opini&oacute;n, son un desastre econ&oacute;mico en ciernes. Ponen bocabajo todo el sistema. Vagabundos, peligrosos, impredecibles y asesinos. &iexcl;Oh, espera! &iquest;T&uacute; eres un aventurero? Lo retiro todo.</p>\n</blockquote>\n<p>Instinto: Ir de aventuras o morir en el intento.</p>\n<ul>\n<li>Intentar una misi&oacute;n in&uacute;til.</li>\n<li>Actuar de manera impulsiva.</li>\n<li>Compartir historias sobre sus haza&ntilde;as.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "cerca, horda, inteligente"
+		},
+		{
+			"id": "Bandit",
+			"name": "Bandido",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La desesperaci&oacute;n es el lema de los bandidos. Cuando llegan los malos tiempos, &iquest;qu&eacute; otra cosa puedes hacer salvo apa&ntilde;arte un arma y unirte a un grupo de hombres y mujeres despreciables? Robar en carreteras, caza furtiva, timos, estafas y los asesinatos m&aacute;s repugnantes, pero todos tenemos que comer, as&iacute; que &iquest;c&oacute;mo culparlos? Ahora bien, es verdad que hay maldad en algunos de sus corazones, &iquest;qui&eacute;n dice que la desesperaci&oacute;n no es una excusa para saciar sus m&aacute;s bajos instintos? Sea como sea, es esto o morir de hambre.</p>\n<p>Instinto: Robar.</p>\n<ul>\n<li>Robar algo.</li>\n<li>Exigir un pago.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, horda, inteligente, organizado"
+		},
+		{
+			"id": "Fool",
+			"name": "Bufón",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Solo hay una persona en la corte del Rey a la que se le permita decir la verdad. La m&aacute;s dura y sincera verdad sobre cualquier asunto. El buf&oacute;n se expresa con cascabeles, cabriolas y la cara pintada, &iquest;pero qui&eacute;n m&aacute;s puede cantarle las cuarenta al Rey? Dicen que puedes fiarte de un buf&oacute;n, especialmente cuando te ha hecho enrojecer de ira y est&aacute;s a punto de ahogarlo en un pozo negro.</p>\n<p>Instinto: Burlarse.</p>\n<ul>\n<li>Hacer visible la injusticia.</li>\n<li>Gastar una broma.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Knight",
+			"name": "Caballero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Qu&eacute; joven no se aferra a la barandilla durante la imponente justa, cegado por el sol que se refleja en su brillante armadura, deseando ser &eacute;l quien estuviera engalanado con el acero, cabalgando para complacer al Rey y la Reina? &iquest;Qu&eacute; joven campesino, sin nada que comer salvo una hogaza de pan y una triste sopa, no lo dar&iacute;a todo por llevar la lanza y el estandarte? Un caballero es muchas cosas: un guerrero sagrado, una espada juramentada, incluso, a veces, tambi&eacute;n un villano, pero un caballero no puede evitar ser un s&iacute;mbolo para todo aquel que lo contempla. Un caballero significa ser algo importante.</p>\n<p>Instinto: Vivir seg&uacute;n un c&oacute;digo.</p>\n<ul>\n<li>Tomar una postura moral.</li>\n<li>Liderar a los soldados hacia la batalla.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"},{\"value\":\"cauto\"}]",
+			"tagsString": "cerca, solitario, inteligente, organizado, cauto"
+		},
+		{
+			"id": "Peasant",
+			"name": "Campesino",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Cubiertos de mantillo, oprimidos por ser el &uacute;ltimo eslab&oacute;n de la cadena; todo se sostiene gracias al sudor de la frente de aquellos que cultivan nuestra comida en sus granjas. A algunos campesinos les va mejor que a otros, pero ninguno ver&aacute; nunca una moneda de oro. Sue&ntilde;an por las noches con que, alg&uacute;n d&iacute;a, de alguna manera, luchar&aacute;n contra un drag&oacute;n y salvar&aacute;n a la princesa. No hagas como si no hubieras sido uno de ellos antes de que perdieras el poco sentido com&uacute;n que ten&iacute;as, aventurero.</p>\n<p>Instinto: Apa&ntilde;&aacute;rselas.</p>\n<ul>\n<li>Pedir ayuda.</li>\n<li>Ofrecer gratitud y una sencilla recompensa.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Hunter",
+			"name": "Cazador",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Los bosques no son solo el hogar de bestias con cuernos y escamas. Ah&iacute; tambi&eacute;n viven hombres y mujeres, aquellos que huelen la sangre en el viento y acechan en los valles vestidos con las pieles de sus presas. Ya sea con su leal arco comprado en uno de sus escasos viajes a la ciudad o con un cuchillo de hueso y tendones, estas gentes tienen m&aacute;s en com&uacute;n con las criaturas a las que rastrean y cazan que con su propia especie. Solemnes, sombr&iacute;os y tranquilos, encuentran cierta paz en la naturaleza.</p>\n<p>Instinto: Sobrevivir.</p>\n<ul>\n<li>Traer noticias de las tierras salvajes.</li>\n<li>Matar a una bestia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"medio alcance\"},{\"value\":\"largo alcance\"},{\"value\":\"grupo\"},{\"value\":\"inteligente\"}]",
+			"tagsString": "medio alcance, largo alcance, grupo, inteligente"
+		},
+		{
+			"id": "Guardsman",
+			"name": "Centinela",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Noble protector o un simple pat&aacute;n borracho, a veces no es posible diferenciarlos. Poca cosa en comparaci&oacute;n con el noble caballero, pero la del orgulloso guardia de la ciudad sigue siendo una antigua profesi&oacute;n. Estos miembros de las fuerzas del orden suelen vestir los colores de su se&ntilde;or (cuando puedes distinguirlos bajo el barro) y, dependiendo de la riqueza del mismo, puede que incluso dispongan de un arma decente y algo de armadura. Esos son los afortunados. En cualquier caso, alguien tiene que estar ah&iacute; para echar un ojo a las puertas cuando los Jinetes Negros son avistados en el bosque. Demasiados les debemos la vida a estos hombres. Recuerda eso la pr&oacute;xima vez que uno de ellos, en estado de embriaguez, insulte a tu madre, &iquest;vale?</p>\n<p>Instinto: Hacer lo que se le mande.</p>\n<ul>\n<li>Defender la ley.</li>\n<li>Obtener beneficio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"grupo\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, grupo, inteligente, organizado"
+		},
+		{
+			"id": "Spy",
+			"name": "Espía",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Amados por los reyes, aunque no conf&iacute;en realmente en ellos. Misteriosos, reservados y seductores, si le preguntaras a un plebeyo te dir&iacute;a que la vida de los esp&iacute;as est&aacute; llena de romance e intriga. Son el cuchillo en la oscuridad y un buen par de ojos atentos. Un esp&iacute;a puede ser tu mejor amigo, tu amante o ese anciano que ves en el mercado cada d&iacute;a. Nunca se sabe. Demonios, quiz&aacute;s t&uacute; mismo seas uno. Dicen que hay conjuros que pueden manipular las mentes de las personas sin que ellas se den cuenta. &iquest;C&oacute;mo podr&iacute;a confiar en ti?</p>\n<p>Instinto: Infiltrarse.</p>\n<ul>\n<li>Informar de la verdad.</li>\n<li>Jugar a dos bandas.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Tinkerer",
+			"name": "Hojalatero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Cuentan que si ves un hojalatero en la carretera y no le ofreces un trago o algo de comida, te maldecir&aacute; con mala suerte. Estas extra&ntilde;as personas viajan a veces por los caminos entre las ciudades, con sus carretas llenas de cacharros, sus mulas preferidas, un perro con malas pulgas y, siempre, con una historia que contar. A veces llevan tambi&eacute;n el correo si tienes suerte y vives en alg&uacute;n lugar al que no llegue el Servicio Postal de la Reina. Si eres amable, puede que te vendan una rosa que nunca se marchita o un reloj que hace el mismo ruido que la risa de un hada. O puede que sencillamente sean unos viajantes antisociales. Nunca se sabe, &iquest;verdad?</p>\n<p>Instinto: Crear.</p>\n<ul>\n<li>Ofrecer una rareza a cambio de un precio.</li>\n<li>Contar cuentos de grandes peligros y recompensas de tierras muy lejanas.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Halfling Thief",
+			"name": "Ladrón Mediano",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Ser&iacute;a una tonter&iacute;a sacar conclusiones sobre este pueblo solo porque sean buenos en tal o cual cosa. Ahora bien, si tiene patas de pato, pico de pato y plumas de pato&hellip; Puede que el t&iacute;pico mediano regordete, tierno y dulce, con dos dedos de frente como para quedarse en su casa construida en colinas cubiertas de hierba, no sea del mismo tipo que el que te encuentras en los barrios bajos y tabernas de las ciudades de los hombres. Incluso puede que est&eacute; a punto de cortar tu bolsa por llamarle &laquo;mediano&raquo;. No todos se toman a bien ese nombre. O a lo mejor est&aacute; jugando, fingiendo ser un ni&ntilde;o que pide limosna y tus arrogantes ojos no pueden ver la diferencia hasta que es demasiado tarde. Poco importa, la verdad. Se habr&aacute; marchado con tu dinero antes de que te des cuenta de que te lo merec&iacute;as.</p>\n<p>Instinto: Vivir una vida de lujo con lo robado.</p>\n<ul>\n<li>Robar.</li>\n<li>Aparentar ser un amigo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"pequeño\"},{\"value\":\"inteligente\"},{\"value\":\"sigiloso\"},{\"value\":\"taimado\"}]",
+			"tagsString": "cerca, solitario, pequeño, inteligente, sigiloso, taimado"
+		},
+		{
+			"id": "Hedge Wizard",
+			"name": "Mago Eremita",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>No todos aquellos que enarbolan poderes arcanos son magos aventureros. Ni tampoco nigromantes en mausoleos o hechiceros de una antigua estirpe. Algunos son solo viejos hombres y mujeres lo bastante listos como para haber aprendido uno o dos trucos. Puede que ese conocimiento les haya costado quedarse un poco idos, pero si tienes que romper una maldici&oacute;n o demostrar a alguien tu amor, puede que un mago eremita te sea de ayuda&hellip; si puedes encontrar su deteriorada caba&ntilde;a en mitad del pantano y pagar el precio que te pida.</p>\n<p>Instinto: Aprender.</p>\n<ul>\n<li>Lanzar el conjuro que casi es el correcto (por un precio).</li>\n<li>Hacer tratos m&aacute;s all&aacute; de su comprensi&oacute;n.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"mágico\"}]",
+			"tagsString": "mágico"
+		},
+		{
+			"id": "Merchant",
+			"name": "Mercader",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Picas de tres metros. Consigue aqu&iacute; tus picas de tres metros. Antorchas, luminosas y calientes. Tambi&eacute;n tenemos mulas, tozudas pero impecablemente criadas. Necesitas un saco de lino, &iquest;verdad? &iexcl;Por aqu&iacute;! &iexcl;Venga a por sus picas de tres metros!.</p>\n</blockquote><p>Instinto: Obtener beneficios.</p>\n<ul>\n<li>Proponer hacer negocios juntos.</li>\n<li>Ofrecer un &laquo;trato&raquo;.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Noble",
+			"name": "Noble",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>&iquest;Acaso los dioses les pusieron donde est&aacute;n? &iquest;Es por eso que pueden transmitir su poder y riqueza por derecho de nacimiento? Puede que se trate de un truco o de un encantamiento en la sangre. El labriego hinca su rodilla, ara&ntilde;a la tierra y trabaja duro, mientras el noble lleva sus refinadas ropas que le corresponden por derecho y, seg&uacute;n dicen, todos tenemos que llevar nuestra carga sobre los hombros. Parece que algunos de nosotros cargamos piedras y otros su peso en oro. La vida es dura.</p>\n<p>Instinto: Gobernar.</p>\n<ul>\n<li>Dar una orden.</li>\n<li>Ofrecer una recompensa.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		},
+		{
+			"id": "Rebel",
+			"name": "Rebelde",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>En los campos les habr&iacute;an llamado bandidos, los habr&iacute;an desterrado o ejecutado. Pero la ciudad est&aacute; llena de lugares para esconderse, s&oacute;tanos h&uacute;medos en los que leer cuidadosamente mapas y urdir planes contra el sistema corrupto. Al igual que las ratas, roen el orden establecido, ya sea para crear uno nuevo o para erosionarlo. La l&iacute;nea que separa el caos del cambio es muy delgada, y algunos rebeldes caminan sobre ella mientras otros quieren ver c&oacute;mo todo arde. Un disfraz, un cuchillo en la oscuridad o una antorcha lanzada en el momento oportuno son las herramientas del rebelde. La marca de fuego de la anarqu&iacute;a es un miedo com&uacute;n a todos los nobles de Dungeon World. Estos hombres y mujeres son la raz&oacute;n.</p>\n<p>Instinto: Derribar el orden establecido.</p>\n<ul>\n<li>Morir por una causa.</li>\n<li>Inspirar a otros.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, horda, inteligente, organizado"
+		},
+		{
+			"id": "Bandit King",
+			"name": "Rey de los Bandidos",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Mejor reinar en el infierno que servir en el cielo.</p>\n<p>Instinto: Liderar.</p>\n<ul>\n<li>Exigir algo.</li>\n<li>Extorsionar.</li>\n<li>Derrocar al poder.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"solitario\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, solitario, inteligente, organizado"
+		},
+		{
+			"id": "Soldier",
+			"name": "Soldado",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Un plebeyo con un brazo fuerte tiene a veces que elegir entre esto o ser un bandido. Es vestir los colores, la inc&oacute;moda armadura y marchar hacia lo desconocido junto a un millar de hombres y mujeres asustados, forzados a librar las batallas de su tiempo. En vez de esto podr&iacute;an estar escondidos en los bosques, aliment&aacute;ndose de estofado de alce y evitando a los guardias del rey, mejor que arriesgar la vida al servicio de una causa, de jug&aacute;rsela valientemente con sus compa&ntilde;eros y esperar volver de una sola pieza. Adem&aacute;s, los nobles necesitan hombres y mujeres fuertes. &iquest;C&oacute;mo es eso que dicen? Un pu&ntilde;ado de soldados vence a cualquier argumento.</p>\n<p>Instinto: Luchar.</p>\n<ul>\n<li>Marchar hacia la batalla.</li>\n<li>Luchar como un solo hombre.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"cerca\"},{\"value\":\"corto alcance\"},{\"value\":\"horda\"},{\"value\":\"inteligente\"},{\"value\":\"organizado\"}]",
+			"tagsString": "cerca, corto alcance, horda, inteligente, organizado"
+		},
+		{
+			"id": "High Priest",
+			"name": "Sumo Sacerdote",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Respetados por todos, los sumos sacerdotes y abadesas de Dungeon World son tratados con cierta veneraci&oacute;n. Ya sea pagando tributo a Ur-thuu-hak, el Dios de las Espadas, o susurrando oraciones quedas a Namiah, la amada hija de la paz, han aprendido un par de cosas que t&uacute; nunca sabr&aacute;s. Los dioses les hablan tan claro como una verdulera te hablar&iacute;a en el mercado. Es por eso, por ser portadores de secretos y conocedores de todo, por lo que les rehuimos cuando pasan con sus resplandecientes t&uacute;nicas.</p>\n<p>Instinto: Liderar.</p>\n<ul>\n<li>Establecer una ley divina.</li>\n<li>Revelar secretos divinos.</li>\n<li>Llevar a t&eacute;rmino proyectos divinos.</li>\n</ul>"
+			},
+			"tags": "",
+			"tagsString": ""
+		}
+	]
+}

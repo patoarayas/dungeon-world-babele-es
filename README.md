@@ -45,8 +45,17 @@ Cualquier sugerencia o comentario es bienvenido. También puedes hacer fork de e
 
 ## Thanks / Agradecimientos
 
-Thanks to JuanV from the Foundry's Spanish Discord for getting the permission from the editor and to Hirunatan for find and fix various typos.
+Thanks to:
+- JuanV from the Foundry's Spanish Discord for getting the permission from the editor.
+- Hirunatan for find and fix various typos.
+- MickyPardo for translating the monster compendia.
 
-Agradecimientos a JuanV del Discord de Foundry en Español por conseguir la autorización de la editora y a Hirunatan por encontrar y corregir varios errores de ortografía.
+
+Agradecimientos a:
+- JuanV del Discord de Foundry en Español por conseguir la autorización de la editorial.
+- Hirunatan por encontrar y corregir varios errores de ortografía.
+- MickyPardo por traducir los compendios de monstruos.
+
+
 
 
