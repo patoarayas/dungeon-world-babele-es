@@ -46,7 +46,7 @@
 			"name": "Digestor",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Secreción ácida"
@@ -148,7 +148,7 @@
 			"name": "Mantícora",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Alas"
@@ -165,7 +165,7 @@
 			"name": "Monstruo Corrosivo",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Toque corrosivo"
@@ -233,7 +233,7 @@
 			"name": "Terrarón",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 3"
+					"piercing": "3 piercing"
 				},
 				"specialQualities": {
 					"value": "Dos cabezas"

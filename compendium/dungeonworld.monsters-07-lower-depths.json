@@ -29,7 +29,7 @@
 			"name": "Desgarrador Gris",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 3"
+					"piercing": "3 piercing"
 				},
 				"specialQualities": {
 					"value": ""
@@ -46,7 +46,7 @@
 			"name": "Dragón",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 4"
+					"piercing": "4 piercing"
 				},
 				"specialQualities": {
 					"value": "Sangre elemental, Alas"
@@ -63,7 +63,7 @@
 			"name": "Dragón del Apocalipsis",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 4"
+					"piercing": "4 piercing"
 				},
 				"specialQualities": {
 					"value": "Piel metálica de dos centímetros y medio de grosor, Conocimiento sobrenatural, Alas"
@@ -80,7 +80,7 @@
 			"name": "Elfo Oscuro, Asesino",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": ""
@@ -97,7 +97,7 @@
 			"name": "Elfo Oscuro, Maestro de la Espada",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": ""

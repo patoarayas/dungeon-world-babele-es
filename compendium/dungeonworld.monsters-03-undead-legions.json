@@ -63,7 +63,7 @@
 			"name": "Dragón de Hueso",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 3"
+					"piercing": "3 piercing"
 				},
 				"specialQualities": {
 					"value": ""
@@ -148,7 +148,7 @@
 			"name": "Gul",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": ""
@@ -165,7 +165,7 @@
 			"name": "Liche",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": ""
@@ -182,7 +182,7 @@
 			"name": "Lobo Espectral",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Forma de sombra"
@@ -284,7 +284,7 @@
 			"name": "Vampiro",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Cambiar de forma, Mente antigua"

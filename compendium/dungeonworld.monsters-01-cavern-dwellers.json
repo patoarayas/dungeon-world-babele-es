@@ -8,7 +8,7 @@
 	},
 	"entries": [
 		{
-			"id": "Cloaker",
+			"id": "Choker",
 			"name": "Ahogador",
 			"attributes": {
 				"damage": {
@@ -80,7 +80,7 @@
 			"name": "Cubo Gelatinoso",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Transparente"
@@ -131,7 +131,7 @@
 			"name": "Escarabajo de Fuego",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Lleno de llamas"
@@ -165,7 +165,7 @@
 			"name": "Goblin Konjurador",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": ""
@@ -234,7 +234,7 @@
 			"name": "Manto",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Parecer un manto"
@@ -302,7 +302,7 @@
 			"name": "Rata de las Cavernas",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": ""

@@ -12,7 +12,7 @@
 			"name": "Anguila de Fuego",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Aceite inflamable, Acuático"
@@ -29,7 +29,7 @@
 			"name": "Bakunawa",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Anfibio"
@@ -80,7 +80,7 @@
 			"name": "Couatl",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Alas, Halo"
@@ -267,7 +267,7 @@
 			"name": "Pudin Negro",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Amorfo"
@@ -301,7 +301,7 @@
 			"name": "Sajuagin",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Anfibio"

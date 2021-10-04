@@ -80,7 +80,7 @@
 			"name": "Gnoll Alfa",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Olor"
@@ -131,7 +131,7 @@
 			"name": "Orco Aplastador",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": ""
@@ -165,7 +165,7 @@
 			"name": "Orco, Cazador de Sombras",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": "Capa de sombras"
@@ -182,7 +182,7 @@
 			"name": "Orco, Chamán",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Poder elemental"
@@ -216,7 +216,7 @@
 			"name": "Orco, Guerrero de Sangre",
 			"attributes": {
 				"damage": {
-					"piercing": "penetrante 1"
+					"piercing": "1 piercing"
 				},
 				"specialQualities": {
 					"value": ""
@@ -250,7 +250,7 @@
 			"name": "Orco, Un-Ojo",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Un ojo"
@@ -284,7 +284,7 @@
 			"name": "Tritón Invocador de Mareas",
 			"attributes": {
 				"damage": {
-					"piercing": "ignora armadura"
+					"piercing": "ignores armor"
 				},
 				"specialQualities": {
 					"value": "Acuático, Mutaciones"
