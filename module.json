@@ -4,7 +4,7 @@
   "description": "Traducción de Dungeon World al español mediante babele (Es necesario tener el módulo Babele instalado y activado) - Dungeon World Spanish translation using Babele (You must have Babele module installed and activated)",
   "version": "0.6",
   "minimumCoreVersion" : "0.6.0",
-  "compatibleCoreVersion":"0.9.0",
+  "compatibleCoreVersion":"9.269",
   "author": "patoarayas",
   "esmodules": ["babele-register.js"],
   "scripts": [],
