@@ -1,7 +1,7 @@
 {
     "label": "Movimientos del bárbaro",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "A Good Day To Die",

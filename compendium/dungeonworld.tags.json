@@ -1,7 +1,7 @@
 {
     "label": "Etiquetas",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "+1 armor",

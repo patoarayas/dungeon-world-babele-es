@@ -1,7 +1,7 @@
 {
     "label": "Conjuros de Mago",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": " Unseen Servant",

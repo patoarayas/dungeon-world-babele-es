@@ -1,7 +1,7 @@
 {
     "label": "Conjuros de Clérigo",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "Animate Dead",

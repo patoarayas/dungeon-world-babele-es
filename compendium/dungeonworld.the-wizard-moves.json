@@ -1,7 +1,7 @@
 {
     "label": "Movimientos del mago",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "Arcane Armor",

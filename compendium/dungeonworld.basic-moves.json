@@ -1,7 +1,7 @@
 {
     "label": "Movimientos",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "Aid or Interfere",

@@ -1,7 +1,7 @@
 {
     "label": "Movimientos del explorador",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "A Safe Place",

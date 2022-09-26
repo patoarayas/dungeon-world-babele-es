@@ -1,7 +1,7 @@
 {
     "label": "Movimientos del paladín",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "Armored",

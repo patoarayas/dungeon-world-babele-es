@@ -1,7 +1,7 @@
 {
     "label": "Movimientos del clérigo",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "Anointed",

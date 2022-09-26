@@ -1,7 +1,7 @@
 {
     "label": "Movimientos del bardo",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": [{
             "id": "A Little Help From My Friends",
