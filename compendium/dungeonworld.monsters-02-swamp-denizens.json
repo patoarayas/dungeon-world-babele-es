@@ -1,10 +1,10 @@
 {
 	"label": "Monstruos - 02 Habitantes del Pantano",
 	"mapping": {
-		"attributes": "data.attributes",
-		"details": "data.details",
-		"tags": "data.tags",
-		"tagsString": "data.tagsString"
+		"attributes": "system.attributes",
+		"details": "system.details",
+		"tags": "system.tags",
+		"tagsString": "system.tagsString"
 	},
 	"entries": [
 		{
